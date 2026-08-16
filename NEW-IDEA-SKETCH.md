@@ -55,7 +55,11 @@
 - **Current kid slang** so it's relatable — but worried it'll date quickly
 - **Bullying + social media** in the story, showing positive ways to handle it while growing through puberty *(already exists: The Shade Screen / Uplift Project in Mia's book, the BUFU mystery + Chloe in the series!)*
 - **Unique backgrounds** — not all girls come from perfect homes; they're learning as they grow
-- **CROWN Club = how they meet & learn** — stands for **"Creating Real Ones with Nurture"** *(note: files also contain C.R.O.W.N. = Confidence. Respect. Ownership. Worth. Nourishment. — both are hers, need to pick canonical or use acronym + tagline)*
+- **CROWN Club = how they meet & learn**
+  - ✅ RESOLVED: **"Creating Real Ones with Nurture"** = the book/series mission (the tagline, already in the Book 1 blueprint as Solani's line)
+  - ✅ RESOLVED: **CROWN the acronym = the club's 10-month curriculum** — Confidence, Respect, Ownership, Worth, Nourishment
+  - ✅ RESOLVED: **5 values × 2 cycles = 10 books** — Cycle 1 (B1–5) = learn, Cycle 2 (B6–10) = stronger. Blueprint already marks B6–9 "(Revisited)"!
+  - 📄 Full map: `CROWN-CYCLE-ARCHITECTURE.md`
 - **The 6 girls pair up by talent:** Nia & Solani = music · (Sanaa & Imani) = art/activism concepts · (Jaylani & Toni) = socials/channel
 
 ## 📥 NEW FILES FOUND THIS SESSION (from GitHub)
