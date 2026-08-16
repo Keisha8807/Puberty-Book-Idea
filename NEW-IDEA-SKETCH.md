@@ -72,6 +72,9 @@
 - Etsy listing research, personality test + careers guide
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **THE READER HANDSHAKE** — the talent-show baton pass got a fourth-wall upgrade: Mia (who talks directly to the reader all book) tells Solani "tell THEM how it all started" — "Tell who?" — "Them." The reader is literally handed from little sister to big sister and becomes a character in the series too. Scripted: `READER-HANDSHAKE-BEAT.md`
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **Mia gets 2 SEASONS:** S1 = 11 Canva chapters (basics) · S2 = Body Hair, Schoolwork, Bra, Crushes, Social Media, Stress + talent-show finale that hands the baton to the series
 - ✅ **Music bridge:** Laughter Currency teased in-story (Solani's secret song), Headlines teased at S2 finale, both RELEASED only with the series — Mia's books tease, the series releases. Optional: tiny Mia jingle. See `MUSIC-BRIDGE-STRATEGY.md`
 - ✅ **Agent orchestration:** handoff IS available now — n8n Agent-to-Agent (since ~Mar 2026). Manus = wrong tool for the department vision (good for research missions). Plan: "Book Factory" primer assembly pipeline + live dry run with me as orchestrator. See `AGENT-ORCHESTRATION-SYSTEM.md`

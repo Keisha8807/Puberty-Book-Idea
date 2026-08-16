@@ -108,7 +108,7 @@ Your 74-page Canva draft already uses a **hand-drawn friendly style** (the origi
 4. 💘 "Crush Confidential" — crushes & feelings (planned)
 5. 📱 "Selfies, Snaps & Shade" — social media (planned)
 6. 🧘🏾♀️ Stress & the Zen Zone (planned)
-7. SEASON FINALE: the school talent show — Mia in the crowd, watching Solani & the CROWN girls perform "Headlines" → **baton passes to the series** (this is the series prologue from Mia's angle!)
+7. SEASON FINALE: the school talent show — Mia in the crowd, watching Solani & the CROWN girls perform "Headlines" → **THE READER HANDSHAKE:** Mia turns to the reader, yells "Solani! Tell them how it all started!" — "Tell who?" — "Them." The baton passes to the series with the reader handed over like family (full beat: `READER-HANDSHAKE-BEAT.md`)
 
 **The music bridge** (full plan in `MUSIC-BRIDGE-STRATEGY.md`): Laughter Currency teased in-story as "Solani's secret song," Headlines teased at the S2 finale, both only RELEASED with the series. Mia's books tease, the series releases — no wrong associations.
 

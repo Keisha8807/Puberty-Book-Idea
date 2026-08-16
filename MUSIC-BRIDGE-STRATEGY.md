@@ -22,8 +22,10 @@ ACT 1 — Laughter Currency (TEASED, never released)
 ACT 2 — Headlines (TEASED, never released)
    Mia Season 2 FINALE: the school talent show. Mia sits in the crowd,
    watching Solani and her friends on stage. The catchy part of "Headlines"
-   plays for a few lines — then the book ENDS.
-   → "let me tell you how this all started..." → the baton passes to the SERIES.
+   plays for a few lines. Then Mia turns to the READER and does THE HANDSHAKE:
+   "Solani! Tell them how it all started!" / "Tell who?" / "Them."
+   → the baton passes to the SERIES, with the reader handed over like family.
+   Full scripted beat: `READER-HANDSHAKE-BEAT.md`
 
 ACT 3 — Headlines (FULL RELEASE)
    Series Book 10, the finale. The same talent-show scene returns — but now
