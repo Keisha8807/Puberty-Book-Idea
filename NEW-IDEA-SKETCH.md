@@ -72,6 +72,11 @@
 - Etsy listing research, personality test + careers guide
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **Primer framing: OPTION D** — story + woven "Fact Check" callouts + "Mema Hazel Explains" spread per chapter; quizzes/activities → separate Glow Workbook
+- ✅ **The primer is ALSO an animation series** — vibe anchors: The Proud Family, Georgia Nicolson voice, Turning Red, Inside Out; design language = every chapter is an episode (cold opens, fourth-wall breaks, margin doodles, stingers). See `MIA-PRIMER-TOC-AND-VIBE.md`
+- ✅ **Chapter map:** Canva draft has 11 chapters; Oct 2024 plan had 14. 4 gaps: Bra, Crushes, Social Media, Stress
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ Companion structure: **2 part-companions + 1 primer companion** (not per-book)
 - ✅ **GOING ALL-IN FOR SCHOOLS** — schools are a first-class pillar (classroom sets, teacher lens packs, CROWN Club in-a-box, contest, music events, Buy One Glow One via Sunray Rising). Full plan: `SCHOOL-SUCCESS-SYSTEM.md`
 - ✅ Pilot strategy: TOAST Albany → district → TPT + grants
