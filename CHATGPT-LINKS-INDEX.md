@@ -124,5 +124,7 @@
 - **`6a810c6c` Create Story: Child's Age** — Noah's customizable book (skin tones, hair textures, accessories)
 - **`6a810fa1` + `6a810fcd` + `6a811017`** — 1st-grade book pointers, art styles, critiques
 
-### ⏳ 3 links failed to load (server errors — will retry)
-`6a810628-fb1c` (500), `6a8110d6` (502), `6a8111a2` (500)
+### ✅ Final 3 recovered on retry
+- **`6a810628` Blog Team GPTs Selection** — the GPT handoff chain for BGGH blogs (Bree → Auntie Wordsmith → Niece Narrativa → Mica the Faith Liaison); "How to Start Puberty Talks Without Shame: A Guide for Black Moms" outline
+- **`6a8110d6` Brand New Chat (Feb 2025)** — ANOTHER early cast: Lucy, Zara, Mia, Tasha, Ellie with symbols (compass, book, paintbrush...) + **"The Growth Games"** series finale concept
+- **`6a8111a2` Captivating Introduction for Puberty** — the hook-question intro revision + **glossary work for Chapter 1** of Mia's book
