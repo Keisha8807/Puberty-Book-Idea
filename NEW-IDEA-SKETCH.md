@@ -72,6 +72,11 @@
 - Etsy listing research, personality test + careers guide
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ Companion structure: **2 part-companions + 1 primer companion** (not per-book)
+- ✅ **GOING ALL-IN FOR SCHOOLS** — schools are a first-class pillar (classroom sets, teacher lens packs, CROWN Club in-a-box, contest, music events, Buy One Glow One via Sunray Rising). Full plan: `SCHOOL-SUCCESS-SYSTEM.md`
+- ✅ Pilot strategy: TOAST Albany → district → TPT + grants
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 
 - **Structure:** Primer first → Series in 2 parts: Part 1 = Books 1–5 (Cycle 1: learn), Part 2 = Books 6–10 (Cycle 2: stronger)
 - **Three audiences:** the girl (main books, story-first) · girl + mom/caregiver (companion guides, syllabus-following but warm, for homeschool/kitchen table) · school (teacher syllabus pack)

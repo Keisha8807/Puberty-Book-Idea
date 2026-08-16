@@ -78,5 +78,5 @@ My vote: **C.** The lens cards do the school granularity; the companions stay wa
 
 ---
 
-### ❓ One decision for you:
-Companion granularity — **per book, per part, or hybrid (C)?** Everything else above is already consistent with what you've built.
+### ✅ RESOLVED (Aug 16):
+**2 Parts + 1 Primer, per-part companions, ALL-IN for schools.** The school lane is a first-class pillar — see `SCHOOL-SUCCESS-SYSTEM.md` for the full tiered offering, pilot plan, and build list.
