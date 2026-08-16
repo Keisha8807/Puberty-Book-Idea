@@ -72,6 +72,11 @@
 - Etsy listing research, personality test + careers guide
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **Mia gets 2 SEASONS:** S1 = 11 Canva chapters (basics) · S2 = Body Hair, Schoolwork, Bra, Crushes, Social Media, Stress + talent-show finale that hands the baton to the series
+- ✅ **Music bridge:** Laughter Currency teased in-story (Solani's secret song), Headlines teased at S2 finale, both RELEASED only with the series — Mia's books tease, the series releases. Optional: tiny Mia jingle. See `MUSIC-BRIDGE-STRATEGY.md`
+- ✅ **Agent orchestration:** handoff IS available now — n8n Agent-to-Agent (since ~Mar 2026). Manus = wrong tool for the department vision (good for research missions). Plan: "Book Factory" primer assembly pipeline + live dry run with me as orchestrator. See `AGENT-ORCHESTRATION-SYSTEM.md`
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **Primer framing: OPTION D** — story + woven "Fact Check" callouts + "Mema Hazel Explains" spread per chapter; quizzes/activities → separate Glow Workbook
 - ✅ **The primer is ALSO an animation series** — vibe anchors: The Proud Family, Georgia Nicolson voice, Turning Red, Inside Out; design language = every chapter is an episode (cold opens, fourth-wall breaks, margin doodles, stingers). See `MIA-PRIMER-TOC-AND-VIBE.md`
 - ✅ **Chapter map:** Canva draft has 11 chapters; Oct 2024 plan had 14. 4 gaps: Bra, Crushes, Social Media, Stress

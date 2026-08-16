@@ -98,6 +98,18 @@ Your 74-page Canva draft already uses a **hand-drawn friendly style** (the origi
 
 ---
 
-### ❓ Two decisions for you:
-1. **Chapter count:** 11-chapter Season 1 (+ tease Season 2) — or restore the full 14?
-2. **Vibe anchors:** which comps feel most like YOUR show? (Proud Family + Turning Red + Georgia? Moon Girl energy? Mix and match — name three.)
+### ✅ DECISION LOCKED (Aug 16): MIA GETS 2 SEASONS!
+
+**Season 1 = the 11 chapters already in the Canva draft** (basics: body, emotions, hygiene, friendships, period).
+**Season 2 = the heavier topics as Mia gets closer to middle school:**
+1. Dealing with Body Hair & Self-Esteem (drafted ×2 — ready!)
+2. How Puberty Affects Schoolwork & Attitude (drafted — ready!)
+3. 🩱 "Bra-vo!" — the Bra Chapter (planned, never drafted)
+4. 💘 "Crush Confidential" — crushes & feelings (planned)
+5. 📱 "Selfies, Snaps & Shade" — social media (planned)
+6. 🧘🏾♀️ Stress & the Zen Zone (planned)
+7. SEASON FINALE: the school talent show — Mia in the crowd, watching Solani & the CROWN girls perform "Headlines" → **baton passes to the series** (this is the series prologue from Mia's angle!)
+
+**The music bridge** (full plan in `MUSIC-BRIDGE-STRATEGY.md`): Laughter Currency teased in-story as "Solani's secret song," Headlines teased at the S2 finale, both only RELEASED with the series. Mia's books tease, the series releases — no wrong associations.
+
+**Remaining vibe decision:** which comps feel most like YOUR show — Proud Family + Turning Red + Georgia? Moon Girl energy? Name three.
