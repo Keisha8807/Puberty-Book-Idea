@@ -72,6 +72,13 @@
 - Etsy listing research, personality test + careers guide
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **MIA 2.0 MAKEOVER STARTED** — the old manuscript is the foundation, NOT the final: Mia redefined as **Solani's little sister** (merged Washington family), narrator of the 2-season primer. Full spec: `MIA-2.0-MAKEOVER-BIBLE.md`
+- ✅ **The Myth Machine** — the stiffest part of the old book (fact sections) becomes the funniest: Mia/Jada/Emma generate hilariously wrong theories, Mema/Solani bust them. Education = punchline delivery system
+- ✅ **Family merge proposed:** Maritza (mom) + Marcus (dad) + Seraphina (15) + Solani (12) + Mia (10) + Lily (8) + Max (5) + Mema Hazel + Tío Mo, one house in Albany. Mia's middle name = Luz (light) to match Solani Maris (sun) ☀️✨
+- ✅ **Sample scene written** (`DRAFT-v2-Chapter1-ColdOpen.md`) — Operation Sisterwatch cold open with fourth wall, text thread, and Mema busting Myth #1
+- ✅ **New character art generated (2026 quality!)** — `characters/art-v2/`: character sheet (4 expressions) + Sisterwatch vlog scene
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **THE READER HANDSHAKE** — the talent-show baton pass got a fourth-wall upgrade: Mia (who talks directly to the reader all book) tells Solani "tell THEM how it all started" — "Tell who?" — "Them." The reader is literally handed from little sister to big sister and becomes a character in the series too. Scripted: `READER-HANDSHAKE-BEAT.md`
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
