@@ -71,6 +71,14 @@
 - Q3 2026 Legal Finalization Plan (KDP-ready files, July–Oct 2026)
 - Etsy listing research, personality test + careers guide
 
+## ✅ NEW RESOLUTIONS (Aug 16)
+
+- **Structure:** Primer first → Series in 2 parts: Part 1 = Books 1–5 (Cycle 1: learn), Part 2 = Books 6–10 (Cycle 2: stronger)
+- **Three audiences:** the girl (main books, story-first) · girl + mom/caregiver (companion guides, syllabus-following but warm, for homeschool/kitchen table) · school (teacher syllabus pack)
+- **Keep syllabi OUT of the main books** — they live in the companion + teacher pack
+- **Cross-curricular by design:** 7 subject syllabi already exist from the Secret Sisters era (Health/Science/Social Studies/Arts/Media/Counseling/PE) = the lens system where multiple teachers see one theme through different subjects
+- 📄 Full map: `PRODUCT-ARCHITECTURE.md`
+
 ## ❓ OPEN QUESTIONS (answer when ready)
 
 1. Sisters, cousins, or same-world? (the primer idea leans sisters)
