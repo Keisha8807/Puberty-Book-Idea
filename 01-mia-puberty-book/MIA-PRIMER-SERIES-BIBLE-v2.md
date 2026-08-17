@@ -41,7 +41,7 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 ## 5. SERIES SYNOPSIS (both seasons)
 
 **SEASON 1 — "Operation Sisterwatch"** *(the basics, Sept–Jan)*
-Mia's seventh-grade sister Solani has become a mystery: she needs SPACE like an astronaut, hides snacks, wears headphones 24/7, and growls at dinner. Convinced she's witnessing either aliens or a very slow glow-up takeover, Mia launches Operation Sisterwatch with best friends Jada and Emma. Each episode, the girls cook up a hilariously wrong theory about what's happening to bodies, feelings, friendships, hygiene, and periods — and each time, Mema Hazel (or Mom, or Tío Mo, or Solani herself) busts it with warmth, a joke, and the actual facts. By the season finale, Mia cracks the case wide open: puberty isn't a takeover. It's a renovation. And it's coming down the hall toward her — but she's got her crew, her family, and her evidence board. She's ready. Almost.
+Mia's seventh-grade sister Solani has become a mystery: she needs SPACE like an astronaut, hides snacks, wears headphones 24/7, and growls at dinner. Convinced she's witnessing either aliens or a very slow glow-up takeover, Mia launches Operation Sisterwatch with best friends Jada and Emma. Each episode, the girls cook up a hilariously wrong theory about what's happening to bodies, feelings, friendships, hygiene, and periods — and each time, Mema Hazel (or Mom, or Uncle Mo, or Solani herself) busts it with warmth, a joke, and the actual facts. By the season finale, Mia cracks the case wide open: puberty isn't a takeover. It's a renovation. And it's coming down the hall toward her — but she's got her crew, her family, and her evidence board. She's ready. Almost.
 
 **SEASON 2 — "The Butterfly Files"** *(the deeper stuff, Feb–June)*
 Mia's own changes begin — body hair, bra shopping, crushes, the chaos of social media (including a mysterious anonymous page called **The Shade Screen** that targets her school). Meanwhile the mystery at home deepens: Solani's "study group" meetings, strangers with clipboards and unicorn backpacks, and whispers about a "crown." Mia investigates the biggest case yet: what IS her sister becoming? The season ends at the **school talent show** — Solani and her friends on stage, the first chords of an unreleased song... and Mia turns to the reader. *"That part? That's not my story to tell. She will."* The reader is handed from little sister to big sister. Roll Book 1.
@@ -74,14 +74,14 @@ Mia's own changes begin — body hair, bra shopping, crushes, the chaos of socia
 | Ep | Title (working) | Mia's case | Myth Machine busts | Mema/Adult delivers |
 |---|---|---|---|---|
 | 1 | **The Mystery Next Door** | Operation Sisterwatch begins — why is Solani WEIRD? | "Puberty is aliens / a disease / optional" | Mema: it's a renovation, not a takeover |
-| 2 | **Body Under Construction** | Chest hurts when she runs! Evidence: gym class | "You grow evenly / it happens overnight" | Tío Mo + Mom: bodies on their own schedule |
+| 2 | **Body Under Construction** | Chest hurts when she runs! Evidence: gym class | "You grow evenly / it happens overnight" | Uncle Mo + Mom: bodies on their own schedule |
 | 3 | **The Feelings Forecast** | Solani cried at a juice commercial | "Mood swings = broken" | Mema: emotions are weather, not glitches |
-| 4 | **Mirror, Mirror** | Who is that in the mirror? (body image) | "Pretty looks one way" | Maritza + Mema: the mirror lies, the village doesn't |
+| 4 | **Mirror, Mirror** | Who is that in the mirror? (body image) | "Pretty looks one way" | Brenda + Mema: the mirror lies, the village doesn't |
 | 5 | **Operation Personal Space** | Solani says "I need SPACE" (boundaries) | "Boundaries are rude / they end friendships" | Ms. Vitality + Solani: space is respect |
 | 6 | **The Deodorant Debacle** | Hygiene mission — the smell investigation | "Armpit perfume for fancy people" | Mema: soap is the star, deodorant's the understudy |
 | 7 | **Friendship Fluctuations** | Jada & Emma are fighting?! | "Friends never change / never fight" | Mema + Mom: friendships shift like weather |
-| 8 | **The Crimson Mystery** | Mia finds Something. RED. Case file: PERIOD | "It's a wound / you're dying / you can't swim" | Maritza: the red badge of not-dying; plus the kit |
-| 9 | **Operation Period Power** | Building the Ultimate Emergency Kit | "You can't do anything on your period" | Tío Mo + Mom: period ≠ pause |
+| 8 | **The Crimson Mystery** | Mia finds Something. RED. Case file: PERIOD | "It's a wound / you're dying / you can't swim" | Brenda: the red badge of not-dying; plus the kit |
+| 9 | **Operation Period Power** | Building the Ultimate Emergency Kit | "You can't do anything on your period" | Uncle Mo + Mom: period ≠ pause |
 | 10 | **Pimple Patrol** | A zit on the vlog?! Full squad response | "Dirt causes acne / pop everything" | Mema + Dr. Smiles: skin science + kindness |
 | 11 | **The Case Is Cracking** (S1 finale) | Mia connects the clues — and Solani leaves her a note | "Now I know everything" | Everyone: more is coming, and you're ready |
 
@@ -90,10 +90,10 @@ Mia's own changes begin — body hair, bra shopping, crushes, the chaos of socia
 | Ep | Title (working) | Mia's case | Myth Machine busts | Adult delivers |
 |---|---|---|---|---|
 | 12 | **Hair Today, Gone Tomorrow** | Body hair appears on... EVERYONE? | "Shaving = mandatory / hair = gross" | Mema + Mom: your body, your choice, your pace |
-| 13 | **The Bra-vo! Mission** | Mia's first bra quest — 12 hooks?! | "Bras fix everything / one size fits all" | Maritza + Seraphina (in a rare nice moment) |
+| 13 | **The Bra-vo! Mission** | Mia's first bra quest — 12 hooks?! | "Bras fix everything / one size fits all" | Brenda + Seraphina (in a rare nice moment) |
 | 14 | **Crush Confidential** | Jada has a crush and it's CONTAGIOUS | "A crush = you're in LOVE forever" | Mema + Mom: feelings are practice, not contracts |
 | 15 | **Selfies, Snaps & Shade** | The Shade Screen appears — who's posting?! | "The internet is real life / anonymous = invisible" | Ms. Vitality + Mom: digital citizenship + the Uplift Project |
-| 16 | **The Stress Vortex** | Everything at once: tests, growing, FEELINGS | "Stress = weakness / worry alone" | Tío Mo: the Zen Zone + pencil-charm wisdom |
+| 16 | **The Stress Vortex** | Everything at once: tests, growing, FEELINGS | "Stress = weakness / worry alone" | Uncle Mo: the Zen Zone + pencil-charm wisdom |
 | 17 | **The Door at the Bodega** | Solani's club: the back room is OFF LIMITS | "A 'crown' is actual royal headgear" | Mema: some doors open when you're ready |
 | 18 | **The Talent Show** (S2 FINALE) | Mia in the crowd; Solani on stage; the song begins... | — | **THE READER HANDSHAKE** → to the series |
 

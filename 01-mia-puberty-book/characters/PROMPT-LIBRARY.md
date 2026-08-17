@@ -36,7 +36,7 @@
 ### 👨🏾 MARCUS (Dad — Black American, creative, the camera guy)
 > Character portrait of "Marcus," a cool creative Black American dad in his early 40s. Deep brown skin, short neat locs, clean-shaven face, square black glasses, warm grin. Outfit: paint-flecked denim jacket over a graphic tee, dark jeans, fresh sneakers, a camera hanging from a strap around his neck. Pose: [SWAP] filming the chaos with the camera half-raised, laughing, proud-dad energy. Background: sunny living room with kids' art on the walls. [STYLE BLOCK]
 
-### 🧔🏾 TÍO MO (Uncle — Maritza's brother, the bodega)
+### 🧔🏾 UNCLE MO (Brenda's brother, the bodega)
 > Character portrait of "Uncle Mo," a warm African American Black man in his late 30s. Neat short beard, kind smile, gentle eyes. Outfit: button-up shirt with rolled sleeves under a bodega apron. Pose: [SWAP] leaning on the corner-store counter offering a honey bun on a small plate, like it's the answer to everything. Background: his corner store — shelves of goods, warm light. [STYLE BLOCK]
 
 ### 👩🏾🦱 SERAPHINA (15, the dramatic oldest)

@@ -18,7 +18,7 @@
 
 ### 🦋 SOLANI MARIS WASHINGTON — *the subject*
 - **12 (13 in Sept) · 7th grade · Roast Queen of LPMS**
-- **Signature look:** two braided puffs with butterfly clips, cropped hoodie over tank, baggy patchwork jeans, mismatched socks, dusty Converse, the pencil-charm necklace from Tío Mo
+- **Signature look:** two braided puffs with butterfly clips, cropped hoodie over tank, baggy patchwork jeans, mismatched socks, dusty Converse, the pencil-charm necklace from Uncle Mo
 - **Personality:** loud, funny, magnetic — hiding the quiet poem-writing part of herself
 - **Voice:** quippy, rhythmic, "pause-then-punch" delivery
 - **Catchphrase:** *"I only roast the people I like."*
