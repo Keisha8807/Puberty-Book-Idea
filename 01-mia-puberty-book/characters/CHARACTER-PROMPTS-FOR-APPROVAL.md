@@ -1,0 +1,129 @@
+# ✍🏾 CHARACTER PROMPTS — FOR APPROVAL (before any new images)
+
+> **The workflow:** ① you approve these written prompts → ② we generate ONE "hero portrait" per character → ③ the approved hero becomes a full **reference sheet** (turnaround, expression row, outfit/hairstyle palette, character-lock block) → ④ every future image uses that sheet's locked language.
+> **This doc = prompts ONLY.** No new images until you say go.
+
+---
+
+## STEP 0 — PICK YOUR STYLE BLOCK (one, for everything)
+
+**Style A — Modern 3D (what the current art uses):**
+> Modern 3D animation style, Pixar-quality, expressive and warm. High detail, vibrant, 8k quality.
+
+**Style B — Cinematic 2D with 3D depth:**
+> Cinematic 2D animation with 3D depth, emotional and expressive character design, warm vibrant palette (golden browns, lavender, hot pink), soft painterly textures, clean bold outlines, high-quality rendering.
+
+**🎯 Decision needed:** A or B? (Recommendation: A for now — 21 images already exist in this style; switching means regenerating the set. B can be the "show pitch" style later.)
+
+---
+
+## STEP 1 — THE CHARACTER LOCK RULE
+
+Each character gets a **Lock Block** — the paragraph that never changes. Poses, expressions, backgrounds, and outfits-of-the-day can change. The Lock Block cannot. If a generated face drifts, paste the Lock Block alone and regenerate.
+
+---
+
+## THE WASHINGTON FAMILY (all five kids = Afro-Dominican + Black American)
+
+### 👧🏾 MIA LUZ (10, our narrator) — [LOCK BLOCK]
+> "Mia," a 10-year-old **Afro-Dominican and Black American** girl, spunky little-sister protagonist. Warm brown skin with golden undertones, big expressive amber-brown eyes, natural dark curly hair in two space buns with sparkly star-shaped clips, proud gap-toothed grin, light freckles across her nose. Signature outfit: hot pink denim overalls with hand-sewn patches, sunny yellow t-shirt, one blue one pink hand-painted sneaker.
+> **Hero prompt:** Full-body portrait, standing confidently with one hand on her hip, leaning toward the viewer like she's about to tell you a secret, one finger raised. Background: soft lavender. [STYLE BLOCK]
+
+### 🦋 SOLANI MARIS (12, 7th grade) — [LOCK BLOCK]
+> "Solani," a 12-year-old **Afro-Dominican and Black American** girl, the witty big sister. Warm golden-brown skin with red undertones, proud gap-toothed grin with dimples, expressive eyebrows, dark brown hair in two high braided puffs with colorful butterfly clips. Signature outfit: cropped lavender hoodie over a tank top, baggy patchwork jeans, mismatched rainbow socks, dusty sneakers, small silver pencil-charm necklace.
+> **Hero prompt:** Full-body portrait, arms crossed, smirking at the camera like she just delivered the perfect roast, one eyebrow raised. Background: bodega storefront with striped awning, golden afternoon light. [STYLE BLOCK]
+
+### 👩🏾🦱 SERAPHINA (15, the dramatic oldest) — [LOCK BLOCK]
+> "Seraphina," a glamorous dramatic 15-year-old **Afro-Dominican and Black American** girl, the oldest sister. Deep warm brown skin, sharp winged eyeliner, long braids with gold cuffs, expressive eyes that are always rolling (affectionately). Signature outfit: stylish crop top and high-waist jeans, layered gold necklaces, chunky platform sneakers.
+> **Hero prompt:** Full-body portrait, mid-eye-roll with an affectionate smirk, phone in one hand, other hand on her hip like she's enduring her family's nonsense. Background: her bedroom — vanity mirror with lights, fairy lights. [STYLE BLOCK]
+
+### 🧸 LILY (8, the gremlin) — [LOCK BLOCK]
+> "Lily," a mischievous 8-year-old **Afro-Dominican and Black American** girl, the youngest sister. Warm brown skin, huge mischievous dark eyes, dark curly hair in two mismatched bows, one sock pulled up and one down. Signature outfit: striped tee, overall shorts, pockets visibly stuffed with "borrowed" items.
+> **Hero prompt:** Full-body portrait, grinning like she knows exactly where your stuff is and will never tell, holding something small behind her back. Background: hallway with a cracked-open bedroom door. [STYLE BLOCK]
+
+### 👶🏾 MAX (5, the subscriber) — [LOCK BLOCK]
+> "Max," an adorable 5-year-old **Afro-Dominican and Black American** boy, the baby of the family. Warm brown skin, chubby cheeks, huge happy dark eyes, short dark curly hair, superhero cape over his regular clothes, one sock missing.
+> **Hero prompt:** Full-body portrait, holding a toy phone up like he's filming, mid-shout of pure joy, free hand raised. Background: living room with toys everywhere. [STYLE BLOCK]
+
+### 👵🏾 MEMA HAZEL (grandma) — [LOCK BLOCK]
+> "Mema Hazel," a joyful Black grandmother in her 70s. Colorful patterned headscarf, oversized bright-frame cat-eye glasses pushed up on top of her head, chunky beaded necklaces, warm deep brown skin, laugh lines that have seen everything. Signature outfit: flowing floral house dress.
+> **Hero prompt:** Full-body portrait, mid-laugh, caught in a playful dance pose, one hand raised snapping to a show tune, a potted plant tucked under her other arm. Background: cozy sunlit kitchen. [STYLE BLOCK]
+
+### 👩🏽 MARITZA (mom — Afro-Dominican) — [LOCK BLOCK]
+> "Maritza," a warm Afro-Dominican mom in her late 30s. Long wavy dark hair, colorful scarf tied at her neck, kind laughing eyes, gold hoop earrings, warm brown skin. Signature outfit: flowy blouse, apron with a bit of flour on it.
+> **Hero prompt:** Full-body portrait, laughing with a wooden spoon in one hand, like she's calling the whole family to eat. Background: warm kitchen. [STYLE BLOCK]
+
+### 👨🏾 MARCUS (dad — Black American) — [LOCK BLOCK]
+> "Marcus," a cool creative Black American dad in his early 40s. Deep brown skin, short neat locs, clean-shaven face, square black glasses, warm proud grin. Signature outfit: paint-flecked denim jacket over a graphic tee, dark jeans, fresh sneakers, camera on a strap around his neck.
+> **Hero prompt:** Full-body portrait, filming the family chaos with the camera half-raised, laughing, proud-dad energy. Background: sunny living room with kids' colorful art on the walls. [STYLE BLOCK]
+
+### 🧔🏾 TÍO MO (uncle — Maritza's brother) — [LOCK BLOCK]
+> "Tío Mo," a warm Afro-Dominican man in his late 30s. Neat short beard, kind smile, gentle eyes, warm brown skin. Signature outfit: button-up shirt with rolled sleeves under a bodega apron.
+> **Hero prompt:** Full-body portrait, leaning on the bodega counter offering a golden pastelito on a small plate, like it's the answer to everything. Background: La Bodega de Luz — shelves of colorful goods, warm glowing light. [STYLE BLOCK]
+
+---
+
+## THE MYTH MACHINE (Mia's crew)
+
+### 🎭 JADA (10) — [LOCK BLOCK]
+> "Jada," a confident dramatic 10-year-old Black girl, Mia's best friend. Deep brown skin, braided hair with colorful beads, huge gold statement hoop earrings, a grin that starts arguments and wins them. Signature outfit: color-block crop jacket (orange and pink), graphic tee, ripped jeans, chunky sneakers.
+> **Hero prompt:** Full-body portrait, mid-announcement, one hand on her hip, the other raised with a peace sign. Background: bold magenta-purple gradient with sparkle accents. [STYLE BLOCK]
+
+### 🎨 EMMA (10) — [LOCK BLOCK]
+> "Emma," a thoughtful gentle 10-year-old Black girl artist, Mia's best friend. Medium brown skin, round glasses, natural hair in two fluffy afro puffs, gentle smile. Signature outfit: oversized sage-green knit cardigan over a striped shirt, jeans, paint-splattered canvas sneakers, pencil behind her ear.
+> **Hero prompt:** Full-body portrait, hugging an open sketchbook to her chest, looking at the viewer over her glasses, paint smudges on her fingers. Background: soft pastel yellow-green with doodled stars and swirls. [STYLE BLOCK]
+
+---
+
+## THE 5TH-GRADE RIVALS
+
+### 👑 KAYLA (10) — [LOCK BLOCK]
+> "Kayla," a polished confident 10-year-old Black girl, the queen-bee rival. Flawless glossy braided hair with gold beads, perfect posture, poised smile with a competitive edge. Signature outfit: chic soft-pink blazer-and-skirt set, gold accessories, shiny ballet flats, color-coded planner always in hand.
+> **Hero prompt:** Full-body portrait, chin slightly raised, planner hugged to her chest, looking like she's already won. Background: elegant light pink gradient with a subtle golden crown motif. [STYLE BLOCK]
+
+### 🌸 SOPHIE (10) — [LOCK BLOCK]
+> "Sophie," a soft-spoken 10-year-old Black girl, the conflicted sidekick. Deep brown skin, round wire-rimmed glasses, natural hair in two low buns, nervous half-smile. Signature outfit: modest lavender cardigan over a collared shirt, plaid skirt, tights, Mary Jane shoes, doodle-stuffed sketchbook always in hand.
+> **Hero prompt:** Full-body portrait, standing slightly behind an invisible person as if waiting for instructions, peeking up at the viewer, one hand half-raised like she wants to say something. Background: soft periwinkle blue with faint pencil-doodle clouds. [STYLE BLOCK]
+
+---
+
+## THE VILLAGE OF ADULTS (5th grade)
+
+### 🏃🏾♀️ MS. VITALITY (health teacher) — [LOCK BLOCK]
+> "Ms. Vitality," an energetic joyful Black woman health teacher in her 30s. Warm brown skin, natural hair in a high puff with a bright headband, huge encouraging smile. Signature outfit: sunny yellow athletic zip-up jacket, teal leggings, bright sneakers, whistle around her neck, "HEALTH IS WEALTH" mug.
+> **Hero prompt:** Full-body portrait, mid-cheer, one fist raised in the air like a coach starting warm-ups. Background: bright classroom with anatomy posters and fruit decals. [STYLE BLOCK]
+
+### 🩹 NURSE NIGHTINGALE (nurse) — [LOCK BLOCK]
+> "Nurse Nightingale," a warm quirky Black woman school nurse in her 40s. Deep brown skin, natural hair under a colorful patterned headwrap, warm knowing eyes. Signature outfit: bright turquoise scrubs with colorful bandage patterns, stethoscope with a small plush charm, fanny pack full of band-aids.
+> **Hero prompt:** Full-body portrait, holding up a single colorful band-aid like a prize, head tilted warmly. Background: cheerful nurse's office with a cot and a potted plant. [STYLE BLOCK]
+
+### 😄 DR. SMILES (pediatrician) — [LOCK BLOCK]
+> "Dr. Smiles," a playful warm Black man pediatrician in his 40s. Medium brown skin, neat short beard, kind crinkly eyes, big genuine grin. Signature outfit: white doctor's coat over a colorful patterned button-up, stethoscope, lanyard with cheerful pins.
+> **Hero prompt:** Full-body portrait, holding a tongue depressor like a magic wand, other hand doing a silly peace sign, leaning toward the viewer. Background: bright pediatric exam room with a jar of stickers. [STYLE BLOCK]
+
+### 🔺 MS. PYTHAGORAS (math) — [LOCK BLOCK]
+> "Ms. Pythagoras," a quirky fun Black woman math teacher in her 30s. Warm brown skin, geometric-frame glasses, natural hair in a stylish bun with two pencils through it, excited nerdy smile. Signature outfit: blazer embroidered with tiny math symbols, "MATH = MAGIC" tee, triangle-shaped earrings, colorful sneakers.
+> **Hero prompt:** Full-body portrait, holding up a small chalkboard with a cheerful equation, eyebrows raised, free hand gesturing like she just proved something amazing. Background: chalkboard covered in colorful equations and doodles. [STYLE BLOCK]
+
+### 🏀 MS. ARMSTRONG (gym) — [LOCK BLOCK]
+> "Ms. Armstrong," a tough-but-kind Black woman gym teacher in her 30s. Deep brown skin, athletic build, natural hair in a high ponytail with a sporty headband, no-nonsense grin with a soft twinkle. Signature outfit: navy track jacket with white stripes, matching track pants, whistle, clean white sneakers.
+> **Hero prompt:** Full-body portrait, clipboard in one hand, dodgeball tucked under the other arm, standing strong like she believes every kid in that gym can do great things. Background: school gymnasium with basketball hoops. [STYLE BLOCK]
+
+### ☀️ MS. HARMONY (counselor) — [LOCK BLOCK]
+> "Ms. Harmony," a wise serene Black woman school counselor in her 40s. Rich brown skin, natural locs with small gold cuffs, gentle smiling eyes behind soft rounded glasses. Signature outfit: flowing mustard-yellow cardigan over a cream blouse, long pendant necklace with a small sun charm, comfortable loafers.
+> **Hero prompt:** Full-body portrait, seated on the edge of a cozy chair, leaning forward like she's really listening, potted plant in one hand, calm welcome gesture with the other. Background: soothing counselor's office with a small fountain and affirmation posters. [STYLE BLOCK]
+
+---
+
+## ✅ YOUR APPROVAL CHECKLIST
+
+1. **Style block:** A (modern 3D) or B (2D with depth)?
+2. **Kids' heritage:** the five Washington kids are now Afro-Dominican + Black American — read each kid's Lock Block and confirm (or tell me exactly what to adjust — hair texture, skin tone words, etc.)
+3. **Scope question:** does "all kids Afro-Dominican" include the crew (Jada, Emma) and rivals (Kayla, Sophie), or just the Washington children? (Currently: crew/rivals are described as Black American — your call.)
+4. **Any outfit/hairstyle changes** while we're at it — this is the moment to change Mia's clips, Solani's hoodie color, anything.
+
+## ⏭️ AFTER YOU APPROVE
+1. **Hero character first** — my vote: **MIA** (she's the narrator, the face of everything)
+2. Generate her hero portrait → your thumbs up
+3. Build her **full reference sheet**: front/¾/side/back turnaround, expression row (the 11 from your 2024 sheet!), outfit + hairstyle palette swatches, and the finalized character-lock block
+4. Then repeat for each character until the whole cast is locked

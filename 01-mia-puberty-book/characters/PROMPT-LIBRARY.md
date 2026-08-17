@@ -1,5 +1,7 @@
 # 🎨 PROMPT LIBRARY — Every Character in Mia's World
 
+> ⚠️ **SUPERSEDED for new work:** the approval-stage prompts (with Lock Blocks + Afro-Dominican kids) live in `CHARACTER-PROMPTS-FOR-APPROVAL.md`. This library stays for reference until the new sheets are locked.
+
 > Copy-paste ready. To keep characters consistent across images: **never change the Description Block or Style Block** — only swap the pose, expression, or background.
 > Two style options included — test both, then lock one for everything.
 
