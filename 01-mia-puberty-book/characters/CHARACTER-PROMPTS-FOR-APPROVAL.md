@@ -26,11 +26,11 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 ## THE WASHINGTON FAMILY — an African American Black family in Albany, NY
 
 ### 👧🏾 MIA LUZ (10, our narrator) — [LOCK BLOCK]
-> "Mia," a 10-year-old **African American Black** girl, spunky little-sister protagonist. Warm brown skin with golden undertones, big expressive amber-brown eyes, natural dark curly hair in two space buns with sparkly star-shaped clips, proud gap-toothed grin, light freckles across her nose. Signature outfit: hot pink denim overalls with hand-sewn patches, sunny yellow t-shirt, one blue one pink hand-painted sneaker.
+> "Mia," a 10-year-old **African American Black** girl, spunky little-sister protagonist. Warm brown skin with golden undertones, big expressive amber-brown eyes, natural dark hair in two braided puffs with colorful beads at the ends, sparkly star-shaped clips pinned at the front of each puff, proud gap-toothed grin, light freckles across her nose. Signature outfit: hot pink denim overalls with hand-sewn patches, sunny yellow t-shirt, one blue one pink hand-painted sneaker.
 > **Hero prompt:** Full-body portrait, standing confidently with one hand on her hip, leaning toward the viewer like she's about to tell you a secret, one finger raised. Background: soft lavender. [STYLE BLOCK]
 
 ### 🦋 SOLANI MARIS (12, 7th grade) — [LOCK BLOCK]
-> "Solani," a 12-year-old **African American Black** girl, the witty big sister. Warm golden-brown skin with red undertones, proud gap-toothed grin with dimples, expressive eyebrows, dark brown hair in two high braided puffs with colorful butterfly clips. Signature outfit: cropped lavender hoodie over a tank top, baggy patchwork jeans, mismatched rainbow socks, dusty sneakers, small silver pencil-charm necklace.
+> "Solani," a 12-year-old **African American Black** girl, the witty big sister. **Must read clearly as a young middle schooler (12), not older or younger** — rounder youthful face with soft full cheeks, bright wide-set expressive dark eyes, warm golden-brown skin with red undertones, proud gap-toothed grin with deep dimples, expressive eyebrows, dark brown hair in two high braided puffs with colorful butterfly clips. Signature outfit: cropped lavender hoodie over a tank top, baggy patchwork jeans, mismatched rainbow socks, dusty sneakers, small silver pencil-charm necklace.
 > **Hero prompt:** Full-body portrait, arms crossed, smirking at the camera like she just delivered the perfect roast, one eyebrow raised. Background: bodega storefront with striped awning, golden afternoon light. [STYLE BLOCK]
 
 ### 👩🏾🦱 SERAPHINA (15, the dramatic oldest) — [LOCK BLOCK]
@@ -50,7 +50,7 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 > **Hero prompt:** Full-body portrait, mid-laugh, caught in a playful dance pose, one hand raised snapping to a show tune, a potted plant tucked under her other arm. Background: cozy sunlit kitchen. [STYLE BLOCK]
 
 ### 👩🏽 BRENDA (mom) — [LOCK BLOCK]
-> "Brenda," a warm African American Black mom in her late 30s. Long wavy dark hair, colorful scarf tied at her neck, kind laughing eyes, gold hoop earrings, warm brown skin. Signature outfit: flowy blouse, apron with a bit of flour on it.
+> "Brenda," a stylish warm African American Black mom in her late 30s (**must read youthful — late 30s, not older**). Soft waves of dark hair, colorful silk scarf tied at her neck, kind laughing eyes, gold hoop earrings, warm brown skin. Signature outfit: well-fitted dark jeans, pretty flowy blouse in warm terracotta, simple stylish flats — chic casual mom.
 > **Hero prompt:** Full-body portrait, laughing with a wooden spoon in one hand, like she's calling the whole family to eat. Background: warm kitchen. [STYLE BLOCK]
 
 ### 👨🏾 MARCUS (dad — Black American) — [LOCK BLOCK]
