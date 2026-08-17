@@ -72,6 +72,11 @@
 - Etsy listing research, personality test + careers guide
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **CROWN CLUB ORIGIN = SOLANI'S STORY** (Series Book 1 A-plot, spoiler-protected). Mia never explains it — she shows it from the OUTSIDE as mystery cameos (clipboard girl, unicorn backpack girl, the bodega back room off-limits, "crown" whispers). The club origin is the REWARD for graduating the primer. See `CROWN-CLUB-ORIGIN-LANE.md`
+- ✅ **PARALLEL TIMELINE DISCOVERY:** Mia (10, 5th grade) and Solani (12, 6th grade) live THE SAME SCHOOL YEAR. Primer and series run side by side, converging at the June talent show (seen from the crowd in Mia's book, from the stage in B10). The handshake's true meaning: "I can't open this door — she can."
+- ⏳ Canon flag for B10: is the club still secret at the talent show, already public, or does the show = their public debut?
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **MIA 2.0 MAKEOVER STARTED** — the old manuscript is the foundation, NOT the final: Mia redefined as **Solani's little sister** (merged Washington family), narrator of the 2-season primer. Full spec: `MIA-2.0-MAKEOVER-BIBLE.md`
 - ✅ **The Myth Machine** — the stiffest part of the old book (fact sections) becomes the funniest: Mia/Jada/Emma generate hilariously wrong theories, Mema/Solani bust them. Education = punchline delivery system
 - ✅ **Family merge proposed:** Maritza (mom) + Marcus (dad) + Seraphina (15) + Solani (12) + Mia (10) + Lily (8) + Max (5) + Mema Hazel + Tío Mo, one house in Albany. Mia's middle name = Luz (light) to match Solani Maris (sun) ☀️✨
