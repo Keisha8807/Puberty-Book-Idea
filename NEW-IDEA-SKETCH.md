@@ -72,6 +72,10 @@
 - Etsy listing research, personality test + careers guide
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **MASTER UNIVERSE BIBLE WRITTEN** — `SUNRAY-UNIVERSE-SERIES-BIBLE.md`: the capstone doc with all 9 parts (one-page pitch, shared world, franchise mechanics, Show A/B specs, music, art direction, production system, 1–3min clip strategy, expansion map) — built from the structure of real cartoon pitch bibles on Archive.org (Adventure Time, Gravity Falls, Avatar, Moon Girl)
+- ✅ **Clip strategy locked:** 6 short clips (60s–3min) made from assets she already owns — the Handshake = franchise teaser, Laughter Currency fold-out read-aloud, Meet the CROWN Girls, etc.
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **FRESH FOUNDATION WRITTEN** — `MIA-PRIMER-SERIES-BIBLE-v2.md`: logline, premise, concept, world, two-season synopsis, plot spine, episode format, full 18-episode outline (S1=11 basics, S2=7 incl. Bra/Crush/Social/Stress + talent-show finale). 2024 content all repurposed, nothing lost.
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
