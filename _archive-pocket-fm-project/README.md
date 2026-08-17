@@ -10,6 +10,6 @@
 
 ## Current focus (as of 2026-08-15)
 1. **Mia's Puberty Book** ("From Girl to Teen" / Mia's Puberty Adventure) — single book
-2. **The 10-Book Series** (Glow-Up Girls / Secret Sisters Society / Sunray Story Universe)
+2. **The 10-Book CROWN Club Series** (formerly 'Glow-Up Girls' / Secret Sisters Society / Sunray Story Universe)
 
 Fun fact: the name "Seraphina" shows up in BOTH projects (Mia's dramatic older sister AND the Pocket FM stepsister) — don't let that confuse you again 😄

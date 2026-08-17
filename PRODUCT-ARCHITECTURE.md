@@ -9,15 +9,15 @@
 | # | Product | Reader | Grade | Status |
 |---|---|---|---|---|
 | 1 | **MIA'S PRIMER** (illustrated) | The girl (solo) + caregiver reads with her | 5th grade | ✍🏾 15 ch. drafted + 🎨 74-page Canva draft + 7-page factual worksheet |
-| 2 | **THE SERIES — PART 1** (Books 1–5) | The girl | 6th grade | Blueprints final/enriched; prose not started |
-| 3 | **THE SERIES — PART 2** (Books 6–10) | The girl | 6th grade | Blueprints final/enriched; prose not started |
-| 4 | **COMPANION GUIDES** (syllabus-aligned) | Mom/caregiver + daughter, homeschool | 5th–6th | Outlined per chapter (Mia) + companion-book concept exists |
-| 5 | **TEACHER SYLLABUS PACK** (cross-curricular lens cards) | Schools — multiple teachers | 6th grade | 7 subject syllabi already drafted (see below) |
+| 2 | **THE SERIES — PART 1** (Books 1–5) | The girl | 7th grade | Blueprints final/enriched; prose not started |
+| 3 | **THE SERIES — PART 2** (Books 6–10) | The girl | 7th grade | Blueprints final/enriched; prose not started |
+| 4 | **COMPANION GUIDES** (syllabus-aligned) | Mom/caregiver + daughter, homeschool | 5th–7th | Outlined per chapter (Mia) + companion-book concept exists |
+| 5 | **TEACHER SYLLABUS PACK** (cross-curricular lens cards) | Schools — multiple teachers | 7th grade | 7 subject syllabi already drafted (see below) |
 
 ## THE STRUCTURE — primer → two parts
 
 ```
-5TH GRADE                   6TH GRADE — ONE SCHOOL YEAR
+5TH GRADE                   7TH GRADE — ONE SCHOOL YEAR
 ─────────                   ─────────────────────────────────────────────
 MIA'S PRIMER        ──►     PART 1: CYCLE 1 (LEARN)   PART 2: CYCLE 2 (STRONGER)
 "Mia's scared,              B1 Ownership              B6 Worth (Revisited)
@@ -31,7 +31,7 @@ Solani teaches"             B2 Confidence             B7 Ownership (Revisited)
 - **Part 1 ends** on *The Cycle Within* (B5) — they've learned all five values
 - **Part 2 starts** with *Silent Strength* (B6) — the same values return as harder battles
 - **Part 2 ends** at the talent show = the "Headlines" payoff = the butterfly 🦋
-- The **primer** is the on-ramp: 5th grader meets Mia → graduates to the CROWN Club year
+- The **primer** is the on-ramp: 5th grader meets Mia → graduates to the CROWN Club's 7th-grade year (readers read one year up — the middle-grade sweet spot)
 
 ## THE THREE-AUDIENCE RULE (keeps everything clean)
 

@@ -14,7 +14,7 @@
             ↓ "switched allll the characters"
 2025        RECASTS (Lucy/Zara/Mia/Tasha/Ellie → Bloom Squad → Kaliyah era)
             ↓
-2025+       GLOW-UP GIRLS / CROWN™ CLUB (Solani & crew, Albany) + MUSIC UNIVERSE
+2025+       CROWN CLUB SERIES (Solani & crew, Albany; formerly 'Glow-Up Girls') + MUSIC UNIVERSE
             ↓
 2026        Products: CROWN Club IRL, Sanctuary Suite™, songs, contest, launch plans
 ```
@@ -48,7 +48,7 @@
 | **Rivals** | Kayla & Sophie (same as Mia's book — carried over) |
 | **Setting** | Oak Haven / Oakhaven Middle School |
 | **Extras** | 7 teacher syllabi (Ms. Lauren Hayes health + 6 more), each girl had her own "life before the group" concept, flowers-as-symbols series finale |
-| **Status** | 🗄️ **Superseded** — the cast became Glow-Up Girls. BUT its curriculum structure (14 topics, syllabi, companion-book concept) is still gold and reusable |
+| **Status** | 🗄️ **Superseded** — the cast became the CROWN Club six (formerly 'Glow-Up Girls'). BUT its curriculum structure (14 topics, syllabi, companion-book concept) is still gold and reusable |
 
 ### 🧪 Story 3: THE RECASTS (three mini-eras)
 
@@ -60,12 +60,12 @@
 
 *These aren't lost stories — they're evolution. Toni and Nia survived into the final cast!*
 
-### ✨ Story 4: GLOW-UP GIRLS / CROWN™ CLUB — the flagship series
+### ✨ Story 4: THE CROWN CLUB SERIES (formerly 'Glow-Up Girls' — name retired) — the flagship series
 
 | | |
 |---|---|
 | **What it is** | 10-book middle-grade series, Sept–June school year, each book = a puberty theme + one girl's deep arc |
-| **Target** | **6th grade** (girls are 11–12), middle school |
+| **Target** | **7th grade** (girls are 12–13), middle school |
 | **The Six** | **Solani Washington** (Lyricist · mood swings/PMS · humor as armor) · **Chioma "Nia" Diallo** (Composer · disability · rituals/hygiene) · **Jaylani Banks** (Producer · early development · hidden grief) · **Toni Love Holloway** (Host · late bloomer · grief) · **Imani Rivera** (Journalist · period poverty/pink tax) · **Sanaa Truitt** (Art Director · anxiety · body-as-mystery) |
 | **Antagonist** | Chloe Simmons (Solani's rival) |
 | **Setting** | Albany, NY — LPMS, Tía's bodega "La Bodega de Luz", Washington Park, Empire State Plaza |
@@ -93,7 +93,7 @@ Noah's New School Quest (customizable 1st-grade books) · Black Girl Glow Hub (b
 
 | Dimension | 👧🏾 MIA'S BOOK | ✨ GLOW-UP GIRLS |
 |---|---|---|
-| **Grade lane** | 5th grade (10–11) | 6th grade (11–12) |
+| **Grade lane** | 5th grade (10–11) | 7th grade (12–13) |
 | **Format** | 1 book + companion workbook | 10-book series + EP + content |
 | **POV** | One voice: Mia, 1st person | Six voices, rotating + group books |
 | **Heroine count** | 1 + besties + big family | 6 heroines, each deep-dived |

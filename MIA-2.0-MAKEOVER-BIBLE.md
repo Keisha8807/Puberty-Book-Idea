@@ -12,7 +12,7 @@
 | Dad: Marcus | 👨🏾 **Marcus Washington** — the cool creative dad (kept!) |
 | Grandma: Mema Hazel | 👵🏾 **Mema Hazel** — Marcus's mom, Betty White energy, song-and-dance routines, talks to her plants (kept!) |
 | Older sister: Seraphina | 👩🏾🦱 **Seraphina, 15** — the dramatic OLDEST sister, high school, thinks she's a grown woman |
-| — | 🦋 **SOLANI, 12** — the middle sister. 6th grade. Roast Queen. Going through IT. Mia's subject of investigation |
+| — | 🦋 **SOLANI, 12 (turns 13 in Sept)** — the middle sister. 7th grade. Roast Queen. Going through IT. Mia's subject of investigation |
 | — | 🎀 **MIA, 10** — our narrator, 5th grade |
 | Younger sister: Lily | 🧸 **Lily, 8** — mischievous, steals Mia's stuff, idolizes Solani |
 | Little brother: Max | 👶🏾 **Max, 5** — adorable chaos, Mia's #1 vlog subscriber |

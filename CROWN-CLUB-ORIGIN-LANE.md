@@ -8,7 +8,7 @@
 ## 1. WHY MIA CAN'T TELL IT (it's not a gap — it's spoiler protection)
 
 The club's origin **IS the A-plot of Series Book 1** ("Crowns in the Making"):
-- Six strangers bond in the awkward 6th-grade health class
+- Six strangers bond in the awkward 7th-grade health class
 - They apply for official club status → **the principal rejects them** (weirdly firmly — the BUFU Club mystery: a past girls' club was mysteriously shut down)
 - They form it in secret anyway
 - Solani proposes the name C.R.O.W.N. + her tagline "Creating Real Ones with Nurture"
@@ -16,7 +16,7 @@ The club's origin **IS the A-plot of Series Book 1** ("Crowns in the Making"):
 If Mia explained any of that in the primer, she'd:
 1. **Spoil the series' central mystery** (why did the school shut down a girls' club?)
 2. **Steal Solani's crowning moment** (naming the club is HER beat)
-3. **Break the age gate** — a 5th-grade book narrating 6th-grade events destroys the graduation arc
+3. **Break the age gate** — a 5th-grade book narrating 7th-grade events destroys the graduation arc
 
 **So Mia never explains the club. She shows it from the outside. Mysterious. Tantalizing. Unopened.**
 
@@ -26,8 +26,8 @@ If Mia explained any of that in the primer, she'd:
 
 Check the canon math:
 - Mia: 10 years old, 5th grade
-- Solani: 12 years old, 6th grade
-- **They're two grades apart — which means Mia's 5th-grade year and Solani's 6th-grade year are THE SAME SCHOOL YEAR.**
+- Solani: 12 years old (turns 13 in Sept), 7th grade
+- **They're two grades apart — which means Mia's 5th-grade year and Solani's 7th-grade year are THE SAME SCHOOL YEAR.**
 
 The primer and the series don't run one-after-another. **They run side by side:**
 
@@ -37,7 +37,7 @@ MIA'S WORLD (5th grade):                THE READER'S VIEW
   Season 1: Operation Sisterwatch          [the primer]
   Season 2: the talent show → handshake  ──┐ hands the reader over
                                            ▼
-SOLANI'S WORLD (6th grade):              THE READER'S NEW VIEW
+SOLANI'S WORLD (7th grade):              THE READER'S NEW VIEW
   Books 1–10: the CROWN Club forms         [the series]
   Book 10: the talent show — same night!
 ```
@@ -66,9 +66,9 @@ Mia doesn't explain the club. She *notices* it, wrong, and it's hilarious:
 | Age | Book | Club status |
 |---|---|---|
 | 5th grade | Mia's primer | 🚪 The club is a mysterious door (outside) |
-| 6th grade | The series | 👑 The door opens — the reader becomes an insider |
+| 7th grade | The series | 👑 The door opens — the reader becomes an insider |
 
-**The club's origin story is the REWARD for graduating the primer.** A 5th grader closes Mia's book dying to know what's behind the door; a year later they open Book 1 and get the full initiation. That's the business funnel (primer → series) disguised as story structure — no marketing can beat it.
+**The club's origin story is the REWARD for graduating the primer.** A 5th grader closes Mia's book dying to know what's behind the door; next year, as a 6th grader, she opens Book 1 and reads one year up into Solani's 7th-grade world — the middle-grade sweet spot. That's the business funnel (primer → series) disguised as story structure — no marketing can beat it.
 
 And this is why the **Reader Handshake** works so hard: Mia literally says *"that part's not my story to tell."* The handoff isn't just sister-to-sister — it's *"I can't open this door for you. She can."*
 

@@ -21,7 +21,7 @@
 > "they go from hiding to a high confidence level by the series end" — that's the series spine.
 
 - **Need:** the lyrics to Headlines (to hunt in Suno/ChatGPT/Canva or draft fresh)
-- **Placement question:** should Headlines cap the 6th-grade year, or live in a 7th/8th-grade continuation?
+- **✅ RESOLVED:** Headlines caps the **7th-grade year** (June talent show). 8th grade = optional "CROWN Club Year 2" sequel later.
 
 ## 👧🏾 MIA'S BOOK — REFRAMED AS THE PRIMER
 
@@ -30,12 +30,12 @@
 - The **educational component stays** — learning still happens, just through the little-sister lens
 - This leans hard toward the **sisters option** (Mia is Solani's younger sister)
 
-## 🏫 TIMELINE (unresolved)
+## 🏫 TIMELINE (resolved)
 
 - Mia = 5th grade (her current draft)
-- Solani = 6th grade in the current series blueprint (Sept–June, 10 books)
-- You're wondering: should the series span **7th and 8th grade too**? Is 6th alone "good enough"?
-- "caterpillar to butterfly" across 3 years vs. one school year
+- Solani = **7th grade** (locked) — the series is her 7th-grade year, Sept–June, 10 books
+- ✅ **RESOLVED:** 7th grade is the series year; 8th grade = optional Year 2 sequel
+- caterpillar→butterfly happens across the one 7th-grade school year (Headlines at the June talent show)
 
 ## 🗣️ HOW THE READER TAKES IN THE INFO (3 ideas — they can STACK)
 
@@ -72,6 +72,10 @@
 - Etsy listing research, personality test + careers guide
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **SOLANI IS A 7TH GRADER** (locked) — Mia 5th / Solani 7th = 2 grades apart = SAME school year (parallel timeline intact). Readers finish the primer in 5th, then read one year up as 6th graders — the middle-grade sweet spot. The six girls' bibles need a +1 age sweep (12–13) when touched.
+- ✅ **"GLOW-UP GIRLS" NAME RETIRED** — trademark conflict discovered; the series is now **the CROWN Club series** everywhere. Season 2 renamed "The Butterfly Files" (fits caterpillar→butterfly, zero risk). Verify CROWN Club etc. in the Q3 legal pass. All docs swept.
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **MASTER UNIVERSE BIBLE WRITTEN** — `SUNRAY-UNIVERSE-SERIES-BIBLE.md`: the capstone doc with all 9 parts (one-page pitch, shared world, franchise mechanics, Show A/B specs, music, art direction, production system, 1–3min clip strategy, expansion map) — built from the structure of real cartoon pitch bibles on Archive.org (Adventure Time, Gravity Falls, Avatar, Moon Girl)
 - ✅ **Clip strategy locked:** 6 short clips (60s–3min) made from assets she already owns — the Handshake = franchise teaser, Laughter Currency fold-out read-aloud, Meet the CROWN Girls, etc.
 
@@ -80,7 +84,7 @@
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **CROWN CLUB ORIGIN = SOLANI'S STORY** (Series Book 1 A-plot, spoiler-protected). Mia never explains it — she shows it from the OUTSIDE as mystery cameos (clipboard girl, unicorn backpack girl, the bodega back room off-limits, "crown" whispers). The club origin is the REWARD for graduating the primer. See `CROWN-CLUB-ORIGIN-LANE.md`
-- ✅ **PARALLEL TIMELINE DISCOVERY:** Mia (10, 5th grade) and Solani (12, 6th grade) live THE SAME SCHOOL YEAR. Primer and series run side by side, converging at the June talent show (seen from the crowd in Mia's book, from the stage in B10). The handshake's true meaning: "I can't open this door — she can."
+- ✅ **PARALLEL TIMELINE DISCOVERY:** Mia (10, 5th grade) and Solani (12, 7th grade) live THE SAME SCHOOL YEAR. Primer and series run side by side, converging at the June talent show (seen from the crowd in Mia's book, from the stage in B10). The handshake's true meaning: "I can't open this door — she can."
 - ⏳ Canon flag for B10: is the club still secret at the talent show, already public, or does the show = their public debut?
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
@@ -119,7 +123,7 @@
 ## ❓ OPEN QUESTIONS (answer when ready)
 
 1. Sisters, cousins, or same-world? (the primer idea leans sisters)
-2. Series = 6th grade only, or 6th→8th?
+2. ✅ Series = 7th grade (locked). 8th = optional CROWN Club Year 2.
 3. If 6th only: Headlines = the June talent show finale of Book 10?
 4. Who narrates the talent-show prologue — Mia or a series character?
 5. Graphic novel first, or illustrated chapter books first (you're 74 pages into the latter already!)?

@@ -1,6 +1,8 @@
 # 💡 BRAIN DUMP — New Idea & Rediscovered Fragments
 
 > Living log. Every time you remember something, it goes here — nothing gets lost.
+>
+> **Aug 16, 2026:** Solani locked as a 7th grader; the name "Glow-Up Girls" is retired (trademark conflict) — the series is now the CROWN Club series.
 > Last updated: 2026-08-15 (late night) — from your end-of-day memory dump.
 
 ---
@@ -11,8 +13,8 @@ Two possible ways to structure the debut, now that you're circling back:
 
 | Option | Setup |
 |---|---|
-| **A. Mia joins the family** | Keep Mia & her crew. Mia becomes **Solani's younger sister**. Mia's book introduces the series for **5th grade**, then the Glow-Up Girls series carries **middle school**. One shared universe, two age lanes. |
-| **B. Solani debuts first** | Solani (Glow-Up Girls cast) debuts for **5th grade**, and the series is the middle-school lane. Mia either retires or waits. |
+| **A. Mia joins the family** | Keep Mia & her crew. Mia becomes **Solani's younger sister**. Mia's book introduces the series for **5th grade**, then the CROWN Club series (formerly Glow-Up Girls) carries **middle school**. One shared universe, two age lanes. |
+| **B. Solani debuts first** | Solani (CROWN Club cast) debuts for **5th grade**, and the series is the middle-school lane. Mia either retires or waits. |
 
 **Your words:** *"idk - if i want to keep mia and her crew and make her solani younger sister for introducing the series or if solani should debut first for the 5th grade and the series for middle school"*
 

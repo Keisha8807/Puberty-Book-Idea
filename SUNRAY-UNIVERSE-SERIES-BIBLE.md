@@ -8,7 +8,7 @@
 
 # PART 0 — THE ONE-PAGE PITCH (read this first)
 
-> **What is this?** A two-show middle-grade universe about growing up: **MIA'S PUBERTY PRIMER** (5th grade) hands readers to **THE CROWN CLUB SERIES** (6th grade). Both shows are animated on paper — fourth-wall narrators, myth-busting comedy, one Afro-Dominican + Black American family in Albany, NY, and a real soundtrack.
+> **What is this?** A two-show middle-grade universe about growing up: **MIA'S PUBERTY PRIMER** (5th grade) hands readers to **THE CROWN CLUB SERIES** (7th grade). Both shows are animated on paper — fourth-wall narrators, myth-busting comedy, one Afro-Dominican + Black American family in Albany, NY, and a real soundtrack.
 >
 > **The engine:** girls investigate growing up like detectives, invent hilariously wrong theories (the **Myth Machine**), get lovingly busted by their village (Mema Hazel, Tío Mo, Mom), and learn the real facts through the laughing.
 >
@@ -19,6 +19,12 @@
 > **Audience:** Girls 9–12 · their grown-ups · schools. Three lanes, one universe.
 
 ---
+
+## ⚖️ NAMING & TRADEMARK (locked)
+
+- Forward-facing series name: **the CROWN Club series**. The former working name **"Glow-Up Girls" is RETIRED** (trademark conflict discovered Aug 2026) — do not use it in any new material.
+- Canonical names: Sunray Story Universe™ · Sunray Story Press™ · Mia's Puberty Primer · Creating Real Ones with Nurture · CROWN Club · The Myth Machine · Mema Hazel Explains · Laughter Currency · Headlines · La Bodega de Luz.
+- **Legal pass (your Q3 2026 plan):** verify CROWN Club, CROWN + Ten to Me™, and every product name before public use. Historical files in this repo may still contain the old name — treat them as archive only.
 
 # PART 1 — THE SHARED WORLD (canon, locked)
 
@@ -32,7 +38,7 @@
 | **Marcus** (dad) | — | — | Cool creative dad. Makes everything a game. |
 | **Tío Mo** (uncle) | — | — | Maritza's brother. Gives the pencil-charm necklace. Wisdom at the kitchen table. |
 | **Seraphina** | 15 | HS | The dramatic oldest. Rare moments of actual usefulness. |
-| **SOLANI Maris** | 12 | 6th | ☀️ Middle sister. Roast Queen. Butterfly clips. Hero of the SERIES. Hiding behind humor (Laughter Currency). |
+| **SOLANI Maris** | 12 (turns 13 in Sept) | 7th | ☀️ Middle sister. Roast Queen. Butterfly clips. Hero of the SERIES. Hiding behind humor (Laughter Currency). |
 | **MIA Luz** | 10 | 5th | ✨ Our first narrator. Star clips. Operation Sisterwatch. Hero of the PRIMER. |
 | **Lily** | 8 | 3rd | Mischief. Steals Mia's stuff. Idolizes Solani. |
 | **Max** | 5 | K | Adorable chaos. Mia's #1 vlog subscriber. |
@@ -41,9 +47,9 @@
 
 **Mia's world (5th grade):** Jada (drama queen) & Emma (artist) = the Myth Machine. Rivals: Kayla & Sophie. Ms. Vitality (health teacher). The Shade Screen (anonymous gossip page) → The Uplift Project (their kindness counter).
 
-**Solani's world (6th grade, LPMS):** The CROWN Club six. Rival: Chloe Simmons. The principal (anti-club). The BUFU mystery. Tía's bodega back room.
+**Solani's world (7th grade, LPMS):** The CROWN Club six. Rival: Chloe Simmons. The principal (anti-club). The BUFU mystery. Tía's bodega back room.
 
-**THE TIMELINE (the franchise's masterstroke):** Mia's 5th-grade year and Solani's 6th-grade year are **THE SAME SCHOOL YEAR.** The two shows run parallel and converge at the June talent show — the primer ends in the crowd, the series ends on stage.
+**THE TIMELINE (the franchise's masterstroke):** Mia's 5th-grade year and Solani's 7th-grade year are **THE SAME SCHOOL YEAR.** The two shows run parallel and converge at the June talent show — the primer ends in the crowd, the series ends on stage.
 
 ---
 
@@ -53,7 +59,7 @@
 2. **THE MUSIC BRIDGE** — Mia's books TEASE the songs (Solani's secret song through the door; Headlines' first chords at the handshake); the SERIES releases them. No wrong associations. (Full plan: `MUSIC-BRIDGE-STRATEGY.md`)
 3. **THE CLUB ORIGIN LANE** — the CROWN Club's origin is Solani's A-plot (Series Book 1), spoiler-protected. Mia only glimpses it from outside (the bodega door, the clipboard girl, the unicorn backpack). The club is the REWARD for graduating the primer. (Full plan: `CROWN-CLUB-ORIGIN-LANE.md`)
 4. **THE CROWN CYCLES** — 5 values × 2 cycles = 10 books. Cycle 1 = learn, Cycle 2 = stronger. The book is *Creating Real Ones with Nurture*; the club curriculum IS CROWN. (Full plan: `CROWN-CYCLE-ARCHITECTURE.md`)
-5. **TWO LANES, ONE BRAND** — Mia = elementary lane (story-first, family + friends teach). Solani = middle-school lane (club + school + deeper themes). Nothing overlaps; everything rhymes.
+5. **TWO LANES, ONE BRAND** — Mia = elementary lane, 5th grade (story-first, family + friends teach). Solani = middle-school lane, 7th grade (club + school + deeper themes). Nothing overlaps; everything rhymes.
 
 ---
 
@@ -70,7 +76,9 @@
 
 # PART 4 — SHOW B: THE CROWN CLUB SERIES (the flagship)
 
-**Logline:** Six very different 6th-grade girls — strangers bonded by the world's most awkward health class — form a secret club called CROWN when the school refuses to let them, and spend one school year learning the five values that turn girls into queens: Confidence, Respect, Ownership, Worth, Nourishment.
+> **Grade sweep pending in the source bibles:** the Pixar character docs say 6th grade / ages 11–12 — update to 7th grade / ages 12–13 the next time those files are touched. The 7th-grade health class replaces the "6th-grade health class" in the original blueprints.
+
+**Logline:** Six very different 7th-grade girls — strangers bonded by the world's most awkward health class — form a secret club called CROWN when the school refuses to let them, and spend one school year learning the five values that turn girls into queens: Confidence, Respect, Ownership, Worth, Nourishment.
 
 **The Six (talent pairs):**
 | Girl | Talent lane | Deep truth | Puberty theme |

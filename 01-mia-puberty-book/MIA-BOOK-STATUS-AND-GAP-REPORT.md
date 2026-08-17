@@ -98,16 +98,16 @@ You have ~5 chapter schemes. The standalone `(Chap N)` prefixes show old→new r
 
 ---
 
-## 6. The two-lane strategy (how this fits Glow-Up Girls)
+## 6. The two-lane strategy (how this fits the CROWN Club series)
 
-| | **Mia's book** | **Glow-Up Girls series** |
+| | **Mia's book** | **CROWN Club series** (formerly Glow-Up Girls) |
 |---|---|---|
 | Grade | ~5th grade (elementary) | Middle school |
 | Format | Single book + companion workbook | 10-book series (Book 1: "Crowns in the Making" — Periods, Pads & Power Moves) |
 | Heroine | Mia + Mema Hazel, Jada & Emma | 6 CROWN™ Club girls (Solani, Imani, Chioma, Jaylani, Sanaa, Toni Love) |
 | Education style | Character-led facts, quizzes, workbook | 14 themed adventures, school syllabus alignment (Ms. Hayes) |
 
-They don't compete — Mia is the gentle on-ramp, Glow-Up Girls is the deeper middle-school world.
+They don't compete — Mia is the gentle on-ramp, The CROWN Club series is the deeper middle-school world (7th grade).
 
 ---
 

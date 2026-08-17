@@ -18,7 +18,7 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 - **Format:** an animated series on paper — two "seasons" (Season 1 = 11 episodes, Season 2 = 7 episodes + finale)
 - **The narrator talks to the reader.** Always. The reader is Mia's new partner.
 - **The engine:** Mia investigates, invents the **Myth Machine**, gets hilariously busted, and the reader learns by watching her get it right
-- **The heart:** the Washington sisters — Mia (10, 5th grade) watching Solani (12, 6th grade) grow up two steps ahead of her
+- **The heart:** the Washington sisters — Mia (10, 5th grade) watching Solani (12, 7th grade) grow up two steps ahead of her
 - **The education (Format D):** story with woven **Fact Check** cutaway cards + a **"Mema Hazel Explains"** spread per episode; quizzes/activities live in the separate *Glow Workbook*
 - **The bridge:** Solani's secret song (Laughter Currency) teased in-story; the club stays a mystery behind a door; the June talent show hands the reader from Mia to Solani
 - **The promise:** this is NOT a stiff textbook book. This is the show.
@@ -31,7 +31,7 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 - **Mema Hazel** (grandma) — Betty White energy, show tunes, cat-eye glasses on her head, talks to her plants. The trusted adult.
 - **Tío Mo** (uncle) — Maritza's brother, the pencil-charm necklace giver, wisdom at the kitchen table
 - **Seraphina (15)** — the dramatic oldest sister
-- **SOLANI "Maris" (12)** — the middle sister, 6th grade, Roast Queen, butterfly clips, going through IT. Mia's subject of investigation.
+- **SOLANI "Maris" (12, turns 13 in Sept)** — the middle sister, 7th grade, Roast Queen, butterfly clips, going through IT. Mia's subject of investigation.
 - **MIA "Luz" (10)** — our narrator, 5th grade, star clips, Operation Sisterwatch
 - **Lily (8)** — mischievous little sister
 - **Max (5)** — adorable chaos, Mia's #1 vlog subscriber
@@ -41,9 +41,9 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 ## 5. SERIES SYNOPSIS (both seasons)
 
 **SEASON 1 — "Operation Sisterwatch"** *(the basics, Sept–Jan)*
-Mia's sixth-grade sister Solani has become a mystery: she needs SPACE like an astronaut, hides snacks, wears headphones 24/7, and growls at dinner. Convinced she's witnessing either aliens or a very slow glow-up takeover, Mia launches Operation Sisterwatch with best friends Jada and Emma. Each episode, the girls cook up a hilariously wrong theory about what's happening to bodies, feelings, friendships, hygiene, and periods — and each time, Mema Hazel (or Mom, or Tío Mo, or Solani herself) busts it with warmth, a joke, and the actual facts. By the season finale, Mia cracks the case wide open: puberty isn't a takeover. It's a renovation. And it's coming down the hall toward her — but she's got her crew, her family, and her evidence board. She's ready. Almost.
+Mia's seventh-grade sister Solani has become a mystery: she needs SPACE like an astronaut, hides snacks, wears headphones 24/7, and growls at dinner. Convinced she's witnessing either aliens or a very slow glow-up takeover, Mia launches Operation Sisterwatch with best friends Jada and Emma. Each episode, the girls cook up a hilariously wrong theory about what's happening to bodies, feelings, friendships, hygiene, and periods — and each time, Mema Hazel (or Mom, or Tío Mo, or Solani herself) busts it with warmth, a joke, and the actual facts. By the season finale, Mia cracks the case wide open: puberty isn't a takeover. It's a renovation. And it's coming down the hall toward her — but she's got her crew, her family, and her evidence board. She's ready. Almost.
 
-**SEASON 2 — "The Glow-Up Files"** *(the deeper stuff, Feb–June)*
+**SEASON 2 — "The Butterfly Files"** *(the deeper stuff, Feb–June)*
 Mia's own changes begin — body hair, bra shopping, crushes, the chaos of social media (including a mysterious anonymous page called **The Shade Screen** that targets her school). Meanwhile the mystery at home deepens: Solani's "study group" meetings, strangers with clipboards and unicorn backpacks, and whispers about a "crown." Mia investigates the biggest case yet: what IS her sister becoming? The season ends at the **school talent show** — Solani and her friends on stage, the first chords of an unreleased song... and Mia turns to the reader. *"That part? That's not my story to tell. She will."* The reader is handed from little sister to big sister. Roll Book 1.
 
 ## 6. THE PLOT SPINE
@@ -51,7 +51,7 @@ Mia's own changes begin — body hair, bra shopping, crushes, the chaos of socia
 | | Season 1 | Season 2 |
 |---|---|---|
 | **Mia's question** | What's happening to Solani?! | What's happening to ME?! |
-| **The case** | Operation Sisterwatch | The Glow-Up Files |
+| **The case** | Operation Sisterwatch | The Butterfly Files |
 | **The fear** | The unknown | The known-but-scary |
 | **The lessons** | The basics tour | The advanced courses |
 | **The mystery seed** | The secret song (through the door) | The club (behind the door) |

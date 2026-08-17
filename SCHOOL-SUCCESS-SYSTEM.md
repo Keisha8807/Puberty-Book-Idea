@@ -16,7 +16,7 @@
 ## THE OFFERING (what "all in" means, tier by tier)
 
 ### Tier 1 — THE BOOKS (entry)
-- **Primer** (5th grade) + **Part 1** & **Part 2** (6th grade) sold as classroom sets
+- **Primer** (5th grade) + **Part 1** & **Part 2** (7th grade) sold as classroom sets
 - Part bundles = schools buy 5 books at once, not 10 decisions
 - Every book: story-first, zero "textbook energy" — the hook that wins principals AND kids
 
@@ -78,7 +78,7 @@ Your Book 1 prologue idea (girls performing **Headlines** at the school talent s
 ---
 
 ### 🗣️ Next moves (pick one)
-1. **School one-pager** — I draft the pitch sheet you can hand a principal (pilot framing: TOAST, 6th grade, primer + Part 1)
+1. **School one-pager** — I draft the pitch sheet you can hand a principal (pilot framing: TOAST elementary (K-5) = primer pilot · district middle schools = 7th-grade series + CROWN Clubs)
 2. **Teacher lens card template** — the one-page-per-lens format, tested on Book 1's theme ("Periods, Pads & Power Moves" through all 7 lenses)
 3. **CROWN Club charter** — assemble the in-a-box starter from CROWN + Ten to Me™
 4. Keep talking — more ideas? 😄

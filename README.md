@@ -10,7 +10,7 @@
 
 **Phase 2 — The 10-book series (Secret Sisters Society era).** The single book grew into a series. Mia's world expanded (Mia Harper, Ivy Basu, Jada Baptiste, Emma Solano, Kayla & Sophie, Ms. Lauren Hayes, the town of Oak Haven) with 14 themed adventures planned across the school year, a syllabus framework, and drafts like "Puberty Book 3" and the performance scenarios.
 
-**Phase 3 — Glow-Up Girls (all-new cast).** *Allll* the characters got switched 😄 — now the six girls of the **CROWN™ Club**: Solani Washington, Imani Rivera, Chioma Nia Diallo, Jaylani Banks, Sanaa Truitt, and Toni/Tony Love Holloway (antagonist: Chloe Simmons), set in Albany. Published under **Sunray Story Press**. 10-book blueprint ("Crowns in the Making" is Book 1), Pixar-style character docs, series bible, merch, launch plans (2027 target).
+**Phase 3 — The CROWN Club series (all-new cast; formerly 'Glow-Up Girls' — name retired due to trademark).** *Allll* the characters got switched 😄 — now the six girls of the **CROWN™ Club**: Solani Washington, Imani Rivera, Chioma Nia Diallo, Jaylani Banks, Sanaa Truitt, and Toni/Tony Love Holloway (antagonist: Chloe Simmons), set in Albany. Published under **Sunray Story Press**. 10-book blueprint ("Crowns in the Making" is Book 1), Pixar-style character docs, series bible, merch, launch plans (2027 target).
 
 **Phase 4 — CROWN Club framework.** The in-story club became a real-world SEL product concept: CROWN + Ten to Me™, the Sanctuary Suite™ product line, faith-adjacent content (Crowned & Confident), and study sheets.
 
@@ -24,7 +24,7 @@
 |---|---|
 | `01-mia-puberty-book/` | The original single book: 15+ chapter drafts, full manuscript copies (From Girl to Teen, Complete Girls Guide), outlines, Mia character cast, quizzes, competitor research |
 | `02-ten-book-series-secret-sisters/` | The Mia-era 10-book series: Secret Sisters Society bible, secret clover society, thematic adventures (14 topics), syllabi, scenario drafts |
-| `03-glow-up-girls-series/` | The current series with the all-new cast: 10-book blueprint, character docs, series bible, structure spreadsheets, Sunray Story Press studio ops |
+| `03-crown-club-series/` | The current series with the all-new cast: 10-book blueprint, character docs, series bible, structure spreadsheets, Sunray Story Press studio ops |
 | `04-crown-club/` | CROWN™ Club framework & products: CROWN + Ten to Me™, study sheet, Crowned & Confident song, Glow Queen video script |
 | `05-bggh-marketing/` | Black Girl Glow Hub business: lead magnets, 30-day plan, content trackers, YouTube/Twitter, platform strategy |
 | `06-craft-library/` | Writing craft books (Save the Cat, Pixar Storytelling, Character Arcs, Hero's Journey...) + the 40-Chapter Plot Module |
@@ -58,6 +58,6 @@
 
 ## Suggested next steps
 
-1. Skim `01` and `02` to decide: revive the Mia book, or commit fully to the Glow-Up Girls series?
+1. Skim `01` and `02` to decide: revive the Mia book, or commit fully to the CROWN Club series?
 2. Pick ONE manuscript and finish it — the craft library and blueprints are ready to support you.
-3. Ask me for a "series bible vs. blueprint" comparison so you can see exactly where the Glow-Up Girls story stands.
+3. Ask me for a "series bible vs. blueprint" comparison so you can see exactly where the CROWN Club series story stands.

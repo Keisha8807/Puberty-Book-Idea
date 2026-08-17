@@ -1,5 +1,7 @@
 # 🔗 ChatGPT Conversation Index — Puberty Book Project
 
+> ⚠️ **Naming note:** names below reflect what was used at the time of each conversation. The series is now **the CROWN Club series** — the former name "Glow-Up Girls" is retired (trademark conflict, Aug 2026). This index is an archive.
+
 > Auto-built Aug 16, 2026 from `Chat GPT links for puberty books.txt` (84 links).
 > ✅ = indexed (title + first message read) | ⏳ = pending | ⭐ = HIGH VALUE (worth full extraction)
 
@@ -24,7 +26,7 @@
 | 33 | `6a80f3e3` | Copyrighting AI Music | (empty/short) |
 | 34 | ⭐ `6a80f842` | CROWN Club contest plan | **CROWN Club Creative Contest System** — scholarship contest where kids enter via character "lanes" (Solani & Nia = music via Sociamonials, Jaylani & Toni = video, Imani & Sanaa = art/activism), vote on your 10-12 song versions, winners get $100 scholarships, remix EP idea |
 
-## 📚 The 10-Book Series (Glow-Up Girls / CROWN Club era)
+## 📚 The 10-Book Series (CROWN Club era — formerly "Glow-Up Girls")
 
 | # | Link | Title | What's inside |
 |---|---|---|---|
@@ -33,7 +35,7 @@
 | 37 | ⭐ `6a80f495` | Character arc development | **Toni Love Holloway FULL character bible** — late bloomer, grief, Glitter Bomb, McDonald's stage |
 | 38 | ⭐ `6a80f4c2` | Character analysis summary | **Sanaa Truitt FULL character bible** — anxiety, hoodie armor, @QueenOfQuietStorms |
 | 39 | ⭐ `6a80f4db` | Character analysis feedback | **Solani Washington FULL character bible** — Roast Queen, butterfly clips, Tío Mo, "Washingtons Don't Cry" |
-| 40 | ⭐ `6a80f956` | Book series overview | **Glow-Up Girls pitch package** — synopsis/concept/premise with the EARLY cast: Kaliyah, Malia, Laila, Toni, Nia, Zaria (pre-Solani names!) |
+| 40 | ⭐ `6a80f956` | Book series overview | **CROWN Club (formerly Glow-Up Girls) pitch package** — synopsis/concept/premise with the EARLY cast: Kaliyah, Malia, Laila, Toni, Nia, Zaria (pre-Solani names!) |
 | 41 | ⭐ `6a80f9df` | Good Character Arc Tips | **THE ORIGIN STORY** — why you wrote this: your daughter got her first period, told her sister but wouldn't talk to you; you offered to buy a book; no good books for Black girls → you wrote your own. 1 book → 14 → 10 → 6 girls. Also the hard-background question (addiction, DV, etc.) |
 | 42 | `6a80f96c` | Vonnegut Story Shapes Poetry | Vonnegut story shapes applied to the series + poems |
 
@@ -79,7 +81,7 @@
 
 1. **Why you wrote it** (link 41): daughter's first period → no books for Black girls → 1 book became 14 → 10 → 6 girls.
 2. **Mia era** (Dec 2024–Feb 2025): 15-chapter fun-titles book, Secret Sisters Society, Kayla/Sophie rivals, Oak Haven, teacher syllabi (Ms. Hayes etc.).
-3. **Glow-Up Girls era** (Aug 2025+): early cast Kaliyah/Malia/Laila/Toni/Nia/Zaria → renamed to Solani, Jaylani, Imani, Sanaa, Chioma "Nia", Toni Love. CROWN™ Club. Albany. LPMS.
+3. **CROWN Club era — formerly "Glow-Up Girls"** (Aug 2025+): early cast Kaliyah/Malia/Laila/Toni/Nia/Zaria → renamed to Solani, Jaylani, Imani, Sanaa, Chioma "Nia", Toni Love. CROWN™ Club. Albany. LPMS.
 4. **The music engine** (Sep 2025): Pixar + Pattison + n8n + Gemini → Solani's poems → "Laughter Currency" (Suno, 10-12 versions) → full music video script → CROWN Club contest plan.
 5. **Launch plan**: 10 songs / 10 months → Books 1-2 Oct 2026.
 
