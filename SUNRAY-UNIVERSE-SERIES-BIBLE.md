@@ -10,7 +10,7 @@
 
 > **What is this?** A two-show middle-grade universe about growing up: **MIA'S PUBERTY PRIMER** (5th grade) hands readers to **THE CROWN CLUB SERIES** (7th grade). Both shows are animated on paper — fourth-wall narrators, myth-busting comedy, one African American Black family in Albany, NY, and a real soundtrack.
 >
-> **The engine:** girls investigate growing up like detectives, invent hilariously wrong theories (the **Myth Machine**), get lovingly busted by their village (Mema Hazel, Tío Mo, Mom), and learn the real facts through the laughing.
+> **The engine:** girls investigate growing up like detectives, invent hilariously wrong theories (the **Myth Machine**), get lovingly busted by their village (Mema Hazel, Uncle Mo, Mom), and learn the real facts through the laughing.
 >
 > **The mission:** *Creating Real Ones with Nurture.* Confidence · Respect · Ownership · Worth · Nourishment.
 >

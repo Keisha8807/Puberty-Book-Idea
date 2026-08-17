@@ -77,7 +77,7 @@
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **NAMES LOCKED:** Brenda · Uncle Mo · Solani Maya · Mia Zora · bodega kept ("La Bodega de Luz" stays on the sign). **Schools are fictional:** Helderberg Elementary (Mia) → Lincoln Park Middle School (Solani); real school names never appear in the books.
-- ✅ **DIRECTION RESTORED:** the whole Washington family is **African American Black** — this series is FOR Black girls, first and unapologetically (the origin story: a book her daughter could finally see herself in). Readers of all backgrounds are welcome — but the mirrors are for Black girls. All docs swept; open naming items (Maritza vs Brenda, Tío Mo vs Uncle Mo, La Bodega de Luz, middle names) listed in the approval doc.
+- ✅ **DIRECTION RESTORED:** the whole Washington family is **African American Black** — this series is FOR Black girls, first and unapologetically (the origin story: a book her daughter could finally see herself in). Readers of all backgrounds are welcome — but the mirrors are for Black girls. All docs swept. Naming items since RESOLVED: Brenda, Uncle Mo, Solani Maya, Mia Zora, bodega kept.
 - ✅ **Solani's heritage note for later:** when the CROWN Club series gets revisited, Solani's old "Afro-Dominican + Black American" canon line must be reverted to match (flag already parked with the series).
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
