@@ -72,6 +72,9 @@
 - Etsy listing research, personality test + careers guide
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **FRESH FOUNDATION WRITTEN** — `MIA-PRIMER-SERIES-BIBLE-v2.md`: logline, premise, concept, world, two-season synopsis, plot spine, episode format, full 18-episode outline (S1=11 basics, S2=7 incl. Bra/Crush/Social/Stress + talent-show finale). 2024 content all repurposed, nothing lost.
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **CROWN CLUB ORIGIN = SOLANI'S STORY** (Series Book 1 A-plot, spoiler-protected). Mia never explains it — she shows it from the OUTSIDE as mystery cameos (clipboard girl, unicorn backpack girl, the bodega back room off-limits, "crown" whispers). The club origin is the REWARD for graduating the primer. See `CROWN-CLUB-ORIGIN-LANE.md`
 - ✅ **PARALLEL TIMELINE DISCOVERY:** Mia (10, 5th grade) and Solani (12, 6th grade) live THE SAME SCHOOL YEAR. Primer and series run side by side, converging at the June talent show (seen from the crowd in Mia's book, from the stage in B10). The handshake's true meaning: "I can't open this door — she can."
 - ⏳ Canon flag for B10: is the club still secret at the talent show, already public, or does the show = their public debut?
