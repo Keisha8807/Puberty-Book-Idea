@@ -26,7 +26,7 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 ## 4. THE WORLD (locked canon)
 
 **The Washington Family** — one house in Albany, NY:
-- **Maritza** (mom) — Afro-Dominican, warm, nags in Spanish
+- **Maritza** (mom) — African American, warm, the Period Whisperer (name in question: Maritza or Brenda)
 - **Marcus** (dad) — cool, creative, makes everything a game
 - **Mema Hazel** (grandma) — Betty White energy, show tunes, cat-eye glasses on her head, talks to her plants. The trusted adult.
 - **Tío Mo** (uncle) — Maritza's brother, the pencil-charm necklace giver, wisdom at the kitchen table

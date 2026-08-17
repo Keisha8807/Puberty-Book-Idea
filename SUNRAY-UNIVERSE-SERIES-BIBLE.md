@@ -8,7 +8,7 @@
 
 # PART 0 — THE ONE-PAGE PITCH (read this first)
 
-> **What is this?** A two-show middle-grade universe about growing up: **MIA'S PUBERTY PRIMER** (5th grade) hands readers to **THE CROWN CLUB SERIES** (7th grade). Both shows are animated on paper — fourth-wall narrators, myth-busting comedy, one Afro-Dominican + Black American family in Albany, NY, and a real soundtrack.
+> **What is this?** A two-show middle-grade universe about growing up: **MIA'S PUBERTY PRIMER** (5th grade) hands readers to **THE CROWN CLUB SERIES** (7th grade). Both shows are animated on paper — fourth-wall narrators, myth-busting comedy, one African American Black family in Albany, NY, and a real soundtrack.
 >
 > **The engine:** girls investigate growing up like detectives, invent hilariously wrong theories (the **Myth Machine**), get lovingly busted by their village (Mema Hazel, Tío Mo, Mom), and learn the real facts through the laughing.
 >
@@ -34,7 +34,7 @@
 | Character | Age | Grade | Role in the universe |
 |---|---|---|---|
 | **Mema Hazel** (grandma) | — | — | The matriarch + trusted adult. Show tunes, cat-eye glasses on her head, talks to plants. The Wisest Bust-er of Myths. |
-| **Maritza** (mom) | — | — | Afro-Dominican, warm, nags in Spanish. The Period Whisperer. |
+| **Maritza** (mom) | — | — | African American, warm. The Period Whisperer. (name in question: Maritza or Brenda) |
 | **Marcus** (dad) | — | — | Cool creative dad. Makes everything a game. |
 | **Tío Mo** (uncle) | — | — | Maritza's brother. Gives the pencil-charm necklace. Wisdom at the kitchen table. |
 | **Seraphina** | 15 | HS | The dramatic oldest. Rare moments of actual usefulness. |

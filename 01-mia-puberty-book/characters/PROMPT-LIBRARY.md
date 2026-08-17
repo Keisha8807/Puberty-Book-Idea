@@ -1,6 +1,6 @@
 # 🎨 PROMPT LIBRARY — Every Character in Mia's World
 
-> ⚠️ **SUPERSEDED for new work:** the approval-stage prompts (with Lock Blocks + Afro-Dominican kids) live in `CHARACTER-PROMPTS-FOR-APPROVAL.md`. This library stays for reference until the new sheets are locked.
+> ⚠️ **SUPERSEDED for new work:** the approval-stage prompts (Lock Blocks + African American Black family) live in `CHARACTER-PROMPTS-FOR-APPROVAL.md`. This library stays for reference until the new sheets are locked.
 
 > Copy-paste ready. To keep characters consistent across images: **never change the Description Block or Style Block** — only swap the pose, expression, or background.
 > Two style options included — test both, then lock one for everything.
@@ -25,19 +25,19 @@
 > Character portrait of "Mia," a 10-year-old Black American girl, spunky little-sister protagonist of a middle-grade animated book series. Warm brown skin, big expressive amber-brown eyes, natural black curly hair in two space buns with sparkly star-shaped clips, proud gap-toothed grin, light freckles across her nose. Outfit: hot pink denim overalls covered with hand-sewn colorful patches, sunny yellow t-shirt, one sneaker painted blue and one pink with marker doodles. Pose: [SWAP] leaning toward the viewer like she's about to tell you a secret, one finger raised. Background: soft lavender. [STYLE BLOCK]
 
 ### 🦋 SOLANI
-> Character portrait of "Solani," a 12-year-old Afro-Dominican and Black American girl, the witty big sister in a middle-grade animated book series. Warm golden-brown skin with red undertones, proud gap-toothed grin with dimples, expressive eyebrows, dark brown hair in two braided puffs decorated with colorful butterfly clips. Outfit: cropped lavender hoodie over a tank top, baggy patchwork jeans, mismatched rainbow socks, dusty sneakers, small silver pencil-charm necklace. Pose: [SWAP] arms crossed, smirking like she just delivered the perfect roast, one eyebrow raised. Background: warm bodega storefront with a striped awning, golden afternoon light. [STYLE BLOCK]
+> Character portrait of "Solani," a 12-year-old African American Black girl, the witty big sister in a middle-grade animated book series. Warm golden-brown skin with red undertones, proud gap-toothed grin with dimples, expressive eyebrows, dark brown hair in two braided puffs decorated with colorful butterfly clips. Outfit: cropped lavender hoodie over a tank top, baggy patchwork jeans, mismatched rainbow socks, dusty sneakers, small silver pencil-charm necklace. Pose: [SWAP] arms crossed, smirking like she just delivered the perfect roast, one eyebrow raised. Background: warm bodega storefront with a striped awning, golden afternoon light. [STYLE BLOCK]
 
 ### 👵🏾 MEMA HAZEL
 > Character portrait of "Mema Hazel," a joyful Black grandmother in her 70s. Colorful patterned headscarf, oversized bright-frame cat-eye glasses pushed up on top of her head, chunky beaded necklaces, flowing floral house dress. Pose: [SWAP] mid-laugh, caught in a playful dance pose, one hand raised snapping to a show tune, a potted plant tucked under her other arm. Background: cozy sunlit kitchen. [STYLE BLOCK]
 
 ### 👩🏽 MARITZA (Mom)
-> Character portrait of "Maritza," a warm Afro-Dominican mom in her late 30s. Long wavy dark hair, colorful scarf tied at her neck, kind laughing eyes, gold hoop earrings. Outfit: flowy blouse, apron with a bit of flour on it. Pose: [SWAP] laughing with a wooden spoon in one hand, like she just told a joke and is calling the family to eat. Background: warm kitchen. [STYLE BLOCK]
+> Character portrait of "Maritza," a warm African American Black mom in her late 30s. Long wavy dark hair, colorful scarf tied at her neck, kind laughing eyes, gold hoop earrings. Outfit: flowy blouse, apron with a bit of flour on it. Pose: [SWAP] laughing with a wooden spoon in one hand, like she just told a joke and is calling the family to eat. Background: warm kitchen. [STYLE BLOCK]
 
 ### 👨🏾 MARCUS (Dad — Black American, creative, the camera guy)
 > Character portrait of "Marcus," a cool creative Black American dad in his early 40s. Deep brown skin, short neat locs, clean-shaven face, square black glasses, warm grin. Outfit: paint-flecked denim jacket over a graphic tee, dark jeans, fresh sneakers, a camera hanging from a strap around his neck. Pose: [SWAP] filming the chaos with the camera half-raised, laughing, proud-dad energy. Background: sunny living room with kids' art on the walls. [STYLE BLOCK]
 
 ### 🧔🏾 TÍO MO (Uncle — Maritza's brother, the bodega)
-> Character portrait of "Tío Mo," a warm Afro-Dominican man in his late 30s. Neat short beard, kind smile, gentle eyes. Outfit: button-up shirt with rolled sleeves under a bodega apron. Pose: [SWAP] leaning on the bodega counter offering a pastelito on a small plate, like it's the answer to everything. Background: La Bodega de Luz — shelves of goods, warm light. [STYLE BLOCK]
+> Character portrait of "Tío Mo," a warm African American Black man in his late 30s. Neat short beard, kind smile, gentle eyes. Outfit: button-up shirt with rolled sleeves under a bodega apron. Pose: [SWAP] leaning on the corner-store counter offering a honey bun on a small plate, like it's the answer to everything. Background: his corner store — shelves of goods, warm light. [STYLE BLOCK]
 
 ### 👩🏾🦱 SERAPHINA (15, the dramatic oldest)
 > Character portrait of "Seraphina," a glamorous dramatic 15-year-old, the oldest sister. Deep brown skin, sharp winged eyeliner, long braids with gold cuffs, flawless. Outfit: stylish crop top and high-waist jeans, layered gold necklaces, chunky platform sneakers. Pose: [SWAP] mid-eye-roll with an affectionate smirk, phone in hand, like she's enduring her family's nonsense. Background: her bedroom — vanity mirror, fairy lights. [STYLE BLOCK]
@@ -67,7 +67,7 @@
 
 ## 👨👩👧👦 THE FAMILY GROUP SHOT
 
-> Group portrait of the Washington family in their cozy kitchen. Modern 3D animation style, Pixar-quality. Center: Mia (space buns, star clips, hot pink overalls) grinning at the viewer; beside her Solani (butterfly clips, cropped lavender hoodie) with a playful smirk; Seraphina (glamorous, winged eyeliner) rolling her eyes affectionately; Lily (mismatched bows) making a mischievous face; Max (superhero cape) hugging Mia's leg; mom Maritza (colorful scarf) laughing with a wooden spoon; dad Marcus (paint-flecked jacket, camera around his neck) filming the chaos; uncle Tío Mo (neat beard, bodega apron) offering pastelitos; grandmother Mema Hazel (headscarf, cat-eye glasses) dancing with a potted plant. Everyone mid-moment, laughing. Warm yellows, hanging pans, table of food. High detail, vibrant, 8k quality.
+> Group portrait of the Washington family in their cozy kitchen. Modern 3D animation style, Pixar-quality. Center: Mia (space buns, star clips, hot pink overalls) grinning at the viewer; beside her Solani (butterfly clips, cropped lavender hoodie) with a playful smirk; Seraphina (glamorous, winged eyeliner) rolling her eyes affectionately; Lily (mismatched bows) making a mischievous face; Max (superhero cape) hugging Mia's leg; mom Maritza (colorful scarf) laughing with a wooden spoon; dad Marcus (paint-flecked jacket, camera around his neck) filming the chaos; uncle Mo (neat beard, corner-store apron) offering treats; grandmother Mema Hazel (headscarf, cat-eye glasses) dancing with a potted plant. Everyone mid-moment, laughing. Warm yellows, hanging pans, table of food. High detail, vibrant, 8k quality.
 
 ---
 

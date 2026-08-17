@@ -23,43 +23,43 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 
 ---
 
-## THE WASHINGTON FAMILY (all five kids = Afro-Dominican + Black American)
+## THE WASHINGTON FAMILY — an African American Black family in Albany, NY
 
 ### 👧🏾 MIA LUZ (10, our narrator) — [LOCK BLOCK]
-> "Mia," a 10-year-old **Afro-Dominican and Black American** girl, spunky little-sister protagonist. Warm brown skin with golden undertones, big expressive amber-brown eyes, natural dark curly hair in two space buns with sparkly star-shaped clips, proud gap-toothed grin, light freckles across her nose. Signature outfit: hot pink denim overalls with hand-sewn patches, sunny yellow t-shirt, one blue one pink hand-painted sneaker.
+> "Mia," a 10-year-old **African American Black** girl, spunky little-sister protagonist. Warm brown skin with golden undertones, big expressive amber-brown eyes, natural dark curly hair in two space buns with sparkly star-shaped clips, proud gap-toothed grin, light freckles across her nose. Signature outfit: hot pink denim overalls with hand-sewn patches, sunny yellow t-shirt, one blue one pink hand-painted sneaker.
 > **Hero prompt:** Full-body portrait, standing confidently with one hand on her hip, leaning toward the viewer like she's about to tell you a secret, one finger raised. Background: soft lavender. [STYLE BLOCK]
 
 ### 🦋 SOLANI MARIS (12, 7th grade) — [LOCK BLOCK]
-> "Solani," a 12-year-old **Afro-Dominican and Black American** girl, the witty big sister. Warm golden-brown skin with red undertones, proud gap-toothed grin with dimples, expressive eyebrows, dark brown hair in two high braided puffs with colorful butterfly clips. Signature outfit: cropped lavender hoodie over a tank top, baggy patchwork jeans, mismatched rainbow socks, dusty sneakers, small silver pencil-charm necklace.
+> "Solani," a 12-year-old **African American Black** girl, the witty big sister. Warm golden-brown skin with red undertones, proud gap-toothed grin with dimples, expressive eyebrows, dark brown hair in two high braided puffs with colorful butterfly clips. Signature outfit: cropped lavender hoodie over a tank top, baggy patchwork jeans, mismatched rainbow socks, dusty sneakers, small silver pencil-charm necklace.
 > **Hero prompt:** Full-body portrait, arms crossed, smirking at the camera like she just delivered the perfect roast, one eyebrow raised. Background: bodega storefront with striped awning, golden afternoon light. [STYLE BLOCK]
 
 ### 👩🏾🦱 SERAPHINA (15, the dramatic oldest) — [LOCK BLOCK]
-> "Seraphina," a glamorous dramatic 15-year-old **Afro-Dominican and Black American** girl, the oldest sister. Deep warm brown skin, sharp winged eyeliner, long braids with gold cuffs, expressive eyes that are always rolling (affectionately). Signature outfit: stylish crop top and high-waist jeans, layered gold necklaces, chunky platform sneakers.
+> "Seraphina," a glamorous dramatic 15-year-old **African American Black** girl, the oldest sister. Deep warm brown skin, sharp winged eyeliner, long braids with gold cuffs, expressive eyes that are always rolling (affectionately). Signature outfit: stylish crop top and high-waist jeans, layered gold necklaces, chunky platform sneakers.
 > **Hero prompt:** Full-body portrait, mid-eye-roll with an affectionate smirk, phone in one hand, other hand on her hip like she's enduring her family's nonsense. Background: her bedroom — vanity mirror with lights, fairy lights. [STYLE BLOCK]
 
 ### 🧸 LILY (8, the gremlin) — [LOCK BLOCK]
-> "Lily," a mischievous 8-year-old **Afro-Dominican and Black American** girl, the youngest sister. Warm brown skin, huge mischievous dark eyes, dark curly hair in two mismatched bows, one sock pulled up and one down. Signature outfit: striped tee, overall shorts, pockets visibly stuffed with "borrowed" items.
+> "Lily," a mischievous 8-year-old **African American Black** girl, the youngest sister. Warm brown skin, huge mischievous dark eyes, dark curly hair in two mismatched bows, one sock pulled up and one down. Signature outfit: striped tee, overall shorts, pockets visibly stuffed with "borrowed" items.
 > **Hero prompt:** Full-body portrait, grinning like she knows exactly where your stuff is and will never tell, holding something small behind her back. Background: hallway with a cracked-open bedroom door. [STYLE BLOCK]
 
 ### 👶🏾 MAX (5, the subscriber) — [LOCK BLOCK]
-> "Max," an adorable 5-year-old **Afro-Dominican and Black American** boy, the baby of the family. Warm brown skin, chubby cheeks, huge happy dark eyes, short dark curly hair, superhero cape over his regular clothes, one sock missing.
+> "Max," an adorable 5-year-old **African American Black** boy, the baby of the family. Warm brown skin, chubby cheeks, huge happy dark eyes, short dark curly hair, superhero cape over his regular clothes, one sock missing.
 > **Hero prompt:** Full-body portrait, holding a toy phone up like he's filming, mid-shout of pure joy, free hand raised. Background: living room with toys everywhere. [STYLE BLOCK]
 
 ### 👵🏾 MEMA HAZEL (grandma) — [LOCK BLOCK]
 > "Mema Hazel," a joyful Black grandmother in her 70s. Colorful patterned headscarf, oversized bright-frame cat-eye glasses pushed up on top of her head, chunky beaded necklaces, warm deep brown skin, laugh lines that have seen everything. Signature outfit: flowing floral house dress.
 > **Hero prompt:** Full-body portrait, mid-laugh, caught in a playful dance pose, one hand raised snapping to a show tune, a potted plant tucked under her other arm. Background: cozy sunlit kitchen. [STYLE BLOCK]
 
-### 👩🏽 MARITZA (mom — Afro-Dominican) — [LOCK BLOCK]
-> "Maritza," a warm Afro-Dominican mom in her late 30s. Long wavy dark hair, colorful scarf tied at her neck, kind laughing eyes, gold hoop earrings, warm brown skin. Signature outfit: flowy blouse, apron with a bit of flour on it.
+### 👩🏽 MARITZA (mom — name in question, see checklist) — [LOCK BLOCK]
+> "Maritza," a warm African American Black mom in her late 30s. Long wavy dark hair, colorful scarf tied at her neck, kind laughing eyes, gold hoop earrings, warm brown skin. Signature outfit: flowy blouse, apron with a bit of flour on it.
 > **Hero prompt:** Full-body portrait, laughing with a wooden spoon in one hand, like she's calling the whole family to eat. Background: warm kitchen. [STYLE BLOCK]
 
 ### 👨🏾 MARCUS (dad — Black American) — [LOCK BLOCK]
 > "Marcus," a cool creative Black American dad in his early 40s. Deep brown skin, short neat locs, clean-shaven face, square black glasses, warm proud grin. Signature outfit: paint-flecked denim jacket over a graphic tee, dark jeans, fresh sneakers, camera on a strap around his neck.
 > **Hero prompt:** Full-body portrait, filming the family chaos with the camera half-raised, laughing, proud-dad energy. Background: sunny living room with kids' colorful art on the walls. [STYLE BLOCK]
 
-### 🧔🏾 TÍO MO (uncle — Maritza's brother) — [LOCK BLOCK]
-> "Tío Mo," a warm Afro-Dominican man in his late 30s. Neat short beard, kind smile, gentle eyes, warm brown skin. Signature outfit: button-up shirt with rolled sleeves under a bodega apron.
-> **Hero prompt:** Full-body portrait, leaning on the bodega counter offering a golden pastelito on a small plate, like it's the answer to everything. Background: La Bodega de Luz — shelves of colorful goods, warm glowing light. [STYLE BLOCK]
+### 🧔🏾 TÍO MO / UNCLE MO (uncle — title in question, see checklist) — [LOCK BLOCK]
+> "Tío Mo," a warm African American Black man in his late 30s. Neat short beard, kind smile, gentle eyes, warm brown skin. Signature outfit: button-up shirt with rolled sleeves under a corner-store apron.
+> **Hero prompt:** Full-body portrait, leaning on the bodega counter offering a warm honey bun on a small plate, like it's the answer to everything. Background: his corner store — shelves of colorful goods, warm glowing light. [STYLE BLOCK]
 
 ---
 
@@ -118,8 +118,8 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 ## ✅ YOUR APPROVAL CHECKLIST
 
 1. **Style block:** A (modern 3D) or B (2D with depth)?
-2. **Kids' heritage:** the five Washington kids are now Afro-Dominican + Black American — read each kid's Lock Block and confirm (or tell me exactly what to adjust — hair texture, skin tone words, etc.)
-3. **Scope question:** does "all kids Afro-Dominican" include the crew (Jada, Emma) and rivals (Kayla, Sophie), or just the Washington children? (Currently: crew/rivals are described as Black American — your call.)
+2. **Direction restored:** the whole Washington family is **African American Black** — read each Lock Block and confirm (or tell me exactly what to adjust — hair texture, skin tone words, etc.)
+3. **Canon names from the merged family** (open items — your call): (a) Mom: keep **Maritza** or revert to the original **Brenda**? (b) Uncle: keep **Tío Mo** or Americanize to **Uncle Mo**? (c) The shop: keep **"La Bodega de Luz"** or rename to a corner store? (d) Middle names: keep **Solani Maris / Mia Luz** or swap for African American-rooted names?
 4. **Any outfit/hairstyle changes** while we're at it — this is the moment to change Mia's clips, Solani's hoodie color, anything.
 
 ## ⏭️ AFTER YOU APPROVE

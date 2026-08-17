@@ -33,7 +33,7 @@
 - **Intro line:** *"They call me Mema. I've been through every 'change' there is — and I danced through all of 'em. So can you."*
 
 ### 👩🏽 MARITZA WASHINGTON — *the mom*
-- **Signature look:** long wavy dark hair, colorful scarf, café con leche energy
+- **Signature look:** long wavy dark hair, colorful scarf, warm kitchen energy
 - **Personality:** warm, perceptive, nags lovingly in Spanish ("¡Mija, come eat!")
 - **Catchphrase:** *"Mija, eat something. Growing takes fuel."*
 - **Intro line:** *"I'm the mom. Which means I know everything before you tell me. Ask me how."*
@@ -48,7 +48,7 @@
 - **Signature look:** neat beard, kind smile, apron at the bodega
 - **Personality:** steady, wise, corny jokes delivered with total sincerity
 - **Catchphrase:** *"Even the sun needs clouds to rest, Sunshine."*
-- **Intro line:** *"I'm Tío Mo. I gave Solani a pencil so she'd remember her words matter. I keep the pastelitos coming for the same reason."*
+- **Intro line:** *"I'm Uncle Mo. I gave Solani a pencil so she'd remember her words matter. I keep the treats coming for the same reason."* *(title open — Tío Mo vs Uncle Mo in the approval doc)*
 
 ### 👩🏾🦱 SERAPHINA WASHINGTON — *the dramatic oldest*
 - **15 · high school · future fashion icon (her words)**

@@ -8,7 +8,7 @@
 
 | Old Mia family (2024) | New: **The Washington Family** (merged canon) |
 |---|---|
-| Mom: Brenda | 👩🏽 **Maritza Washington** — Afro-Dominican mom, warm, nags in Spanish ("¡Mija, come eat!"), keeps Solani's canon intact |
+| Mom: Brenda | 👩🏽 **Maritza Washington** — African American mom, warm, the Period Whisperer *(name in question: Maritza or original Brenda — see approval doc)* |
 | Dad: Marcus | 👨🏾 **Marcus Washington** — the cool creative dad (kept!) |
 | Grandma: Mema Hazel | 👵🏾 **Mema Hazel** — Marcus's mom, Betty White energy, song-and-dance routines, talks to her plants (kept!) |
 | Older sister: Seraphina | 👩🏾🦱 **Seraphina, 15** — the dramatic OLDEST sister, high school, thinks she's a grown woman |
@@ -18,14 +18,12 @@
 | Little brother: Max | 👶🏾 **Max, 5** — adorable chaos, Mia's #1 vlog subscriber |
 | — | 🧔🏾 **Tío Mo** — Maritza's brother, gives Solani the pencil-charm necklace ("Your words matter"), drops wisdom at the kitchen table |
 
-- **One house in Albany.** Mia's elementary school feeds into LPMS — where Solani goes. The reader graduates with Mia.
+- **One house in Albany.** An African American Black family. Mia's elementary school feeds into LPMS — where Solani goes. The reader graduates with Mia.
 - **Mema Hazel + Tío Mo = the two trusted adults** (kept from both canons — no character gets thrown away).
 - **Kayla & Sophie stay Mia's 5th-grade rivals.** Chloe stays Solani's middle-school rival. Clean separation, no collision.
 
-### The sister-name poetry (free gift from the universe)
-- Solani **Maris** = "sun + of the sea" (her canon) ☀️
-- Mia **Luz** = "light" (new middle name) ✨
-- *Solani carries the sun; Mia carries the light. And the family bodega is already "La Bodega de Luz." It was meant to be.* 💜
+### The sister-name poetry
+- Solani **Maris** = "of the sea" ☀️ · Mia **Luz** = "light" ✨ — *keep these or swap for African American-rooted middle names (open item in the approval doc)* 💜
 
 ---
 

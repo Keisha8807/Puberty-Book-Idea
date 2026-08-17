@@ -76,6 +76,10 @@
 - **CROWN Club series development** — on hold while Mia's 2 parts get built. Only Mia-adjacent canon stays live (Solani as sister, the handshake, the music bridge).
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **DIRECTION RESTORED:** the whole Washington family is **African American Black** — this series is FOR Black girls, first and unapologetically (the origin story: a book her daughter could finally see herself in). Readers of all backgrounds are welcome — but the mirrors are for Black girls. All docs swept; open naming items (Maritza vs Brenda, Tío Mo vs Uncle Mo, La Bodega de Luz, middle names) listed in the approval doc.
+- ✅ **Solani's heritage note for later:** when the CROWN Club series gets revisited, Solani's old "Afro-Dominican + Black American" canon line must be reverted to match (flag already parked with the series).
+
+## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **CHARACTER BIBLE + INTRO DECK BUILT** — `01-mia-puberty-book/characters/CHARACTER-BIBLE-AND-INTRO-DECK.md`: the full Washington family + Myth Machine + rivals + Ms. Vitality, each with signature look, catchphrase, voice, and a "hello world" intro line that doubles as marketing copy (social cards, clip lines, TPT character cards).
 - ✅ **CORE CREW ART GENERATED** — `characters/art-v2/`: Mema Hazel, Jada, Emma, Solani, and the full Washington family group portrait.
 - 🚧 **PARKED:** CROWN Club series dev + the BUFU question — revisit after Mia's 2 parts are done.
