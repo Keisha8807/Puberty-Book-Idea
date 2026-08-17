@@ -12,7 +12,7 @@ Okay. Quick briefing, because things are getting SERIOUSLY weird in my house.
 
 **Item 3:** There's a song she only listens to with headphones on, and when Mom asks what it is, she says "NOTHING" in a voice that sounds like a slammed door wearing a hoodie.
 
-**Item 4:** Mom and Tío Mo keep doing **The Look**. You know the one. The "our little girl is becoming a—" and then they stop talking because I walk in. RUDE. I'm ten, not invisible.
+**Item 4:** Mom and Uncle Mo keep doing **The Look**. You know the one. The "our little girl is becoming a—" and then they stop talking because I walk in. RUDE. I'm ten, not invisible.
 
 So I've started an official investigation:
 

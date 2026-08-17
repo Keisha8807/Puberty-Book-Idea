@@ -28,22 +28,22 @@
 
 # PART 1 — THE SHARED WORLD (canon, locked)
 
-**Place:** Albany, NY — a real city with real landmarks (Washington Park, Empire State Plaza, the bodega on the corner).
+**Place:** Albany, NY — a real city with real landmarks (Washington Park, Empire State Plaza, the bodega on the corner). **Schools are fictional:** Mia's = **Helderberg Elementary**, feeding into **Lincoln Park Middle School (LPMS)** for Solani — made-up names rooted in real Albany. Real schools never appear in the books (the cyberbullying plot and the resistant principal must never attach to a real school); the real TOAST partnership lives in the IRL program lane, not the pages.
 
 **The Washington Family — one house:**
 | Character | Age | Grade | Role in the universe |
 |---|---|---|---|
 | **Mema Hazel** (grandma) | — | — | The matriarch + trusted adult. Show tunes, cat-eye glasses on her head, talks to plants. The Wisest Bust-er of Myths. |
-| **Maritza** (mom) | — | — | African American, warm. The Period Whisperer. (name in question: Maritza or Brenda) |
+| **Brenda** (mom) | — | — | African American, warm. The Period Whisperer. |
 | **Marcus** (dad) | — | — | Cool creative dad. Makes everything a game. |
-| **Tío Mo** (uncle) | — | — | Maritza's brother. Gives the pencil-charm necklace. Wisdom at the kitchen table. |
+| **Uncle Mo** (uncle) | — | — | Brenda's brother. Runs the bodega. Gives the pencil-charm necklace. Wisdom at the kitchen table. |
 | **Seraphina** | 15 | HS | The dramatic oldest. Rare moments of actual usefulness. |
-| **SOLANI Maris** | 12 (turns 13 in Sept) | 7th | ☀️ Middle sister. Roast Queen. Butterfly clips. Hero of the SERIES. Hiding behind humor (Laughter Currency). |
-| **MIA Luz** | 10 | 5th | ✨ Our first narrator. Star clips. Operation Sisterwatch. Hero of the PRIMER. |
+| **SOLANI Maya** | 12 (turns 13 in Sept) | 7th | ☀️ Middle sister. Roast Queen. Butterfly clips. Hero of the SERIES. Hiding behind humor (Laughter Currency). |
+| **MIA Zora** | 10 | 5th | ✨ Our first narrator. Star clips. Operation Sisterwatch. Hero of the PRIMER. |
 | **Lily** | 8 | 3rd | Mischief. Steals Mia's stuff. Idolizes Solani. |
 | **Max** | 5 | K | Adorable chaos. Mia's #1 vlog subscriber. |
 
-**The sister poetry:** Solani *Maris* = "sun + of the sea" ☀️ · Mia *Luz* = "light" ✨ · the family bodega = **La Bodega de Luz**. Sun and light. The universe named itself.
+**The sister poetry:** Solani *Maya* — for Maya Angelou, the poet who turned pain into power · Mia *Zora* — for Zora Neale Hurston, the storyteller who went out to find the truth. The Washingtons named their girls after women who used their voices. And the family bodega keeps its old sign: **La Bodega de Luz** — Uncle Mo runs it now.
 
 **Mia's world (5th grade):** Jada (drama queen) & Emma (artist) = the Myth Machine. Rivals: Kayla & Sophie. Ms. Vitality (health teacher). The Shade Screen (anonymous gossip page) → The Uplift Project (their kindness counter).
 

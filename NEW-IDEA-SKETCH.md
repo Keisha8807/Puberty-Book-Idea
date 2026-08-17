@@ -76,6 +76,7 @@
 - **CROWN Club series development** — on hold while Mia's 2 parts get built. Only Mia-adjacent canon stays live (Solani as sister, the handshake, the music bridge).
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **NAMES LOCKED:** Brenda · Uncle Mo · Solani Maya · Mia Zora · bodega kept ("La Bodega de Luz" stays on the sign). **Schools are fictional:** Helderberg Elementary (Mia) → Lincoln Park Middle School (Solani); real school names never appear in the books.
 - ✅ **DIRECTION RESTORED:** the whole Washington family is **African American Black** — this series is FOR Black girls, first and unapologetically (the origin story: a book her daughter could finally see herself in). Readers of all backgrounds are welcome — but the mirrors are for Black girls. All docs swept; open naming items (Maritza vs Brenda, Tío Mo vs Uncle Mo, La Bodega de Luz, middle names) listed in the approval doc.
 - ✅ **Solani's heritage note for later:** when the CROWN Club series gets revisited, Solani's old "Afro-Dominican + Black American" canon line must be reverted to match (flag already parked with the series).
 
@@ -103,7 +104,7 @@
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **MIA 2.0 MAKEOVER STARTED** — the old manuscript is the foundation, NOT the final: Mia redefined as **Solani's little sister** (merged Washington family), narrator of the 2-season primer. Full spec: `MIA-2.0-MAKEOVER-BIBLE.md`
 - ✅ **The Myth Machine** — the stiffest part of the old book (fact sections) becomes the funniest: Mia/Jada/Emma generate hilariously wrong theories, Mema/Solani bust them. Education = punchline delivery system
-- ✅ **Family merge proposed:** Maritza (mom) + Marcus (dad) + Seraphina (15) + Solani (12) + Mia (10) + Lily (8) + Max (5) + Mema Hazel + Tío Mo, one house in Albany. Mia's middle name = Luz (light) to match Solani Maris (sun) ☀️✨
+- ✅ **Family merge LOCKED:** Brenda (mom) + Marcus (dad) + Seraphina (15) + Solani Maya (12, for Maya Angelou) + Mia Zora (10, for Zora Neale Hurston) + Lily (8) + Max (5) + Mema Hazel + Uncle Mo (runs the bodega), one house in Albany.
 - ✅ **Sample scene written** (`DRAFT-v2-Chapter1-ColdOpen.md`) — Operation Sisterwatch cold open with fourth wall, text thread, and Mema busting Myth #1
 - ✅ **New character art generated (2026 quality!)** — `characters/art-v2/`: character sheet (4 expressions) + Sisterwatch vlog scene
 

@@ -32,7 +32,7 @@
 - **Catchphrase:** *"Baby, let me tell you something..."*
 - **Intro line:** *"They call me Mema. I've been through every 'change' there is — and I danced through all of 'em. So can you."*
 
-### 👩🏽 MARITZA WASHINGTON — *the mom*
+### 👩🏽 BRENDA WASHINGTON — *the mom*
 - **Signature look:** long wavy dark hair, colorful scarf, warm kitchen energy
 - **Personality:** warm, perceptive, nags lovingly in Spanish ("¡Mija, come eat!")
 - **Catchphrase:** *"Mija, eat something. Growing takes fuel."*
@@ -44,11 +44,11 @@
 - **Catchphrase:** *"What's the play?"*
 - **Intro line:** *"I'm Dad. I make the rules fun and the pancakes questionable."*
 
-### 🧔🏾 TÍO MO — *the uncle*
-- **Signature look:** neat beard, kind smile, apron at the bodega
+### 🧔🏾 UNCLE MO — *the uncle*
+- **Signature look:** neat beard, kind smile, apron at his bodega
 - **Personality:** steady, wise, corny jokes delivered with total sincerity
 - **Catchphrase:** *"Even the sun needs clouds to rest, Sunshine."*
-- **Intro line:** *"I'm Uncle Mo. I gave Solani a pencil so she'd remember her words matter. I keep the treats coming for the same reason."* *(title open — Tío Mo vs Uncle Mo in the approval doc)*
+- **Intro line:** *"I'm Uncle Mo. I gave Solani a pencil so she'd remember her words matter. I keep the treats coming for the same reason."*
 
 ### 👩🏾🦱 SERAPHINA WASHINGTON — *the dramatic oldest*
 - **15 · high school · future fashion icon (her words)**

@@ -67,7 +67,7 @@ Mia, in the crowd, bounces in her seat. She grins at the stage... then turns and
 | Book 10 finale | The talent show returns — the reader finally sees the FULL "Headlines" performance they were promised in Mia's book |
 | The music bridge | Headlines' hook is the only part heard in Mia's world; the full song pays off in Book 10 — the beat is the hinge |
 
-**One small note:** in the current series cast, Solani's little sister Mia doesn't exist yet (Solani's family = mom Maritza + uncle Tío Mo). This beat *requires* the sisters connection — so it quietly confirms Option A. Worth deciding on purpose rather than by accident! (Cousins can work too — "that's my *cousin* Solani" — the beat survives either way.)
+**One small note:** in the current series cast, Solani's little sister Mia doesn't exist yet (Solani's family = mom Brenda + uncle Uncle Mo). This beat *requires* the sisters connection — so it quietly confirms Option A. Worth deciding on purpose rather than by accident! (Cousins can work too — "that's my *cousin* Solani" — the beat survives either way.)
 
 ---
 

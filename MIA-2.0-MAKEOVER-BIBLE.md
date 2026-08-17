@@ -8,7 +8,7 @@
 
 | Old Mia family (2024) | New: **The Washington Family** (merged canon) |
 |---|---|
-| Mom: Brenda | 👩🏽 **Maritza Washington** — African American mom, warm, the Period Whisperer *(name in question: Maritza or original Brenda — see approval doc)* |
+| Mom: Brenda | 👩🏽 **Brenda Washington** — African American mom, warm, the Period Whisperer |
 | Dad: Marcus | 👨🏾 **Marcus Washington** — the cool creative dad (kept!) |
 | Grandma: Mema Hazel | 👵🏾 **Mema Hazel** — Marcus's mom, Betty White energy, song-and-dance routines, talks to her plants (kept!) |
 | Older sister: Seraphina | 👩🏾🦱 **Seraphina, 15** — the dramatic OLDEST sister, high school, thinks she's a grown woman |
@@ -16,14 +16,16 @@
 | — | 🎀 **MIA, 10** — our narrator, 5th grade |
 | Younger sister: Lily | 🧸 **Lily, 8** — mischievous, steals Mia's stuff, idolizes Solani |
 | Little brother: Max | 👶🏾 **Max, 5** — adorable chaos, Mia's #1 vlog subscriber |
-| — | 🧔🏾 **Tío Mo** — Maritza's brother, gives Solani the pencil-charm necklace ("Your words matter"), drops wisdom at the kitchen table |
+| — | 🧔🏾 **Uncle Mo** — Brenda's brother, runs the bodega, gives Solani the pencil-charm necklace ("Your words matter"), drops wisdom at the kitchen table |
 
 - **One house in Albany.** An African American Black family. Mia's elementary school feeds into LPMS — where Solani goes. The reader graduates with Mia.
-- **Mema Hazel + Tío Mo = the two trusted adults** (kept from both canons — no character gets thrown away).
+- **Mema Hazel + Uncle Mo = the two trusted adults** (kept from both canons — no character gets thrown away).
 - **Kayla & Sophie stay Mia's 5th-grade rivals.** Chloe stays Solani's middle-school rival. Clean separation, no collision.
 
 ### The sister-name poetry
-- Solani **Maris** = "of the sea" ☀️ · Mia **Luz** = "light" ✨ — *keep these or swap for African American-rooted middle names (open item in the approval doc)* 💜
+- **Solani Maya Washington** — named for **Maya Angelou**, the poet who turned pain into power. Our Lyricist. 🎤
+- **Mia Zora Washington** — named for **Zora Neale Hurston**, the storyteller who went out to find the truth. Our Investigator. 🕵🏾‍♀️
+- *The Washingtons named their girls after women who used their voices. And they will too.* 💜
 
 ---
 
@@ -31,7 +33,7 @@
 
 | | |
 |---|---|
-| **Full name** | Mia Luz Washington |
+| **Full name** | Mia Zora Washington |
 | **Age / grade** | 10, starting 5th grade |
 | **Role** | **The Little Sister Who Investigates Everything** — self-appointed detective of her own future |
 | **The Season 1 mission** | **OPERATION SISTERWATCH** — figure out what's happening to Solani (the mood swings, the secret snack stash, the "I need SPACE" phase) and whether it's heading down the hall toward *her* next |

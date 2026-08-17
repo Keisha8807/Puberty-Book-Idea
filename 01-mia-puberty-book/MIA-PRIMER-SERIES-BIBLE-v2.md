@@ -26,13 +26,13 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 ## 4. THE WORLD (locked canon)
 
 **The Washington Family** — one house in Albany, NY:
-- **Maritza** (mom) — African American, warm, the Period Whisperer (name in question: Maritza or Brenda)
+- **Brenda** (mom) — African American, warm, the Period Whisperer
 - **Marcus** (dad) — cool, creative, makes everything a game
 - **Mema Hazel** (grandma) — Betty White energy, show tunes, cat-eye glasses on her head, talks to her plants. The trusted adult.
-- **Tío Mo** (uncle) — Maritza's brother, the pencil-charm necklace giver, wisdom at the kitchen table
+- **Uncle Mo** (uncle) — Brenda's brother, the pencil-charm necklace giver, wisdom at the kitchen table
 - **Seraphina (15)** — the dramatic oldest sister
-- **SOLANI "Maris" (12, turns 13 in Sept)** — the middle sister, 7th grade, Roast Queen, butterfly clips, going through IT. Mia's subject of investigation.
-- **MIA "Luz" (10)** — our narrator, 5th grade, star clips, Operation Sisterwatch
+- **SOLANI "Maya" (12, turns 13 in Sept)** — the middle sister, 7th grade, Roast Queen, butterfly clips, going through IT. Mia's subject of investigation.
+- **MIA "Zora" (10)** — our narrator, 5th grade, star clips, Operation Sisterwatch
 - **Lily (8)** — mischievous little sister
 - **Max (5)** — adorable chaos, Mia's #1 vlog subscriber
 
@@ -65,7 +65,7 @@ Mia's own changes begin — body hair, bra shopping, crushes, the chaos of socia
 1. **COLD OPEN** — mid-action, mid-sentence, Mia mid-crisis, talking to the reader
 2. **THE STORY** — Mia's first-person case, with **Fact Check cutaway cards** (the scene freezes; a card pops in; a character reacts)
 3. **THE MYTH MACHINE** — Jada, Emma & Mia generate 3–4 hilariously wrong theories
-4. **MEMA HAZEL EXPLAINS** (or Maritza / Tío Mo / Solani) — the facts, delivered as a scene, with the character's signature style
+4. **MEMA HAZEL EXPLAINS** (or Brenda / Uncle Mo / Solani) — the facts, delivered as a scene, with the character's signature style
 5. **STINGER** — "Next time on..." — teases the next episode AND the next topic
 6. **📓 GLOW WORKBOOK POINTER** — a tiny footer nod: quizzes, true/false, and activities live in the companion workbook
 

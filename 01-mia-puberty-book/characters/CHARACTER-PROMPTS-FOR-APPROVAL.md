@@ -49,16 +49,16 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 > "Mema Hazel," a joyful Black grandmother in her 70s. Colorful patterned headscarf, oversized bright-frame cat-eye glasses pushed up on top of her head, chunky beaded necklaces, warm deep brown skin, laugh lines that have seen everything. Signature outfit: flowing floral house dress.
 > **Hero prompt:** Full-body portrait, mid-laugh, caught in a playful dance pose, one hand raised snapping to a show tune, a potted plant tucked under her other arm. Background: cozy sunlit kitchen. [STYLE BLOCK]
 
-### 👩🏽 MARITZA (mom — name in question, see checklist) — [LOCK BLOCK]
-> "Maritza," a warm African American Black mom in her late 30s. Long wavy dark hair, colorful scarf tied at her neck, kind laughing eyes, gold hoop earrings, warm brown skin. Signature outfit: flowy blouse, apron with a bit of flour on it.
+### 👩🏽 BRENDA (mom) — [LOCK BLOCK]
+> "Brenda," a warm African American Black mom in her late 30s. Long wavy dark hair, colorful scarf tied at her neck, kind laughing eyes, gold hoop earrings, warm brown skin. Signature outfit: flowy blouse, apron with a bit of flour on it.
 > **Hero prompt:** Full-body portrait, laughing with a wooden spoon in one hand, like she's calling the whole family to eat. Background: warm kitchen. [STYLE BLOCK]
 
 ### 👨🏾 MARCUS (dad — Black American) — [LOCK BLOCK]
 > "Marcus," a cool creative Black American dad in his early 40s. Deep brown skin, short neat locs, clean-shaven face, square black glasses, warm proud grin. Signature outfit: paint-flecked denim jacket over a graphic tee, dark jeans, fresh sneakers, camera on a strap around his neck.
 > **Hero prompt:** Full-body portrait, filming the family chaos with the camera half-raised, laughing, proud-dad energy. Background: sunny living room with kids' colorful art on the walls. [STYLE BLOCK]
 
-### 🧔🏾 TÍO MO / UNCLE MO (uncle — title in question, see checklist) — [LOCK BLOCK]
-> "Tío Mo," a warm African American Black man in his late 30s. Neat short beard, kind smile, gentle eyes, warm brown skin. Signature outfit: button-up shirt with rolled sleeves under a corner-store apron.
+### 🧔🏾 UNCLE MO (uncle — Brenda's brother) — [LOCK BLOCK]
+> "Uncle Mo," a warm African American Black man in his late 30s. Neat short beard, kind smile, gentle eyes, warm brown skin. Signature outfit: button-up shirt with rolled sleeves under a corner-store apron.
 > **Hero prompt:** Full-body portrait, leaning on the bodega counter offering a warm honey bun on a small plate, like it's the answer to everything. Background: his corner store — shelves of colorful goods, warm glowing light. [STYLE BLOCK]
 
 ---
@@ -118,9 +118,10 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 ## ✅ YOUR APPROVAL CHECKLIST
 
 1. **Style block:** A (modern 3D) or B (2D with depth)?
-2. **Direction restored:** the whole Washington family is **African American Black** — read each Lock Block and confirm (or tell me exactly what to adjust — hair texture, skin tone words, etc.)
-3. **Canon names from the merged family** (open items — your call): (a) Mom: keep **Maritza** or revert to the original **Brenda**? (b) Uncle: keep **Tío Mo** or Americanize to **Uncle Mo**? (c) The shop: keep **"La Bodega de Luz"** or rename to a corner store? (d) Middle names: keep **Solani Maris / Mia Luz** or swap for African American-rooted names?
-4. **Any outfit/hairstyle changes** while we're at it — this is the moment to change Mia's clips, Solani's hoodie color, anything.
+2. ✅ **Direction locked:** the whole Washington family is **African American Black**. (Lock Blocks confirm.)
+3. ✅ **Names locked:** Mom = **Brenda** · Uncle = **Uncle Mo** · the shop stays the bodega (**"La Bodega de Luz"** — the old name stayed on the sign when Uncle Mo took over; bodegas are everywhere in Albany, so it fits) · Middle names = **Solani Maya** (for Maya Angelou — the poet who turned pain into power, our Lyricist) and **Mia Zora** (for Zora Neale Hurston — the storyteller who went out to find the truth, our Investigator). The Washingtons named their girls after women who used their voices.
+4. **Schools are FICTIONAL** (locked): Mia's school = **Helderberg Elementary**, feeding into **Lincoln Park Middle School (LPMS)** for Solani — both made up, but rooted in real Albany names. Real school names never appear in the books (the Shade Screen cyberbullying plot and the resistant principal must never attach to a real school). The real TOAST partnership lives in the IRL program lane, not on the book pages.
+5. **Any outfit/hairstyle changes** while we're at it — this is the moment to change Mia's clips, Solani's hoodie color, anything.
 
 ## ⏭️ AFTER YOU APPROVE
 1. **Hero character first** — my vote: **MIA** (she's the narrator, the face of everything)
