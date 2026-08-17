@@ -71,6 +71,15 @@
 - Q3 2026 Legal Finalization Plan (KDP-ready files, July–Oct 2026)
 - Etsy listing research, personality test + careers guide
 
+## 🚧 PARKED (revisit after Mia's 2 parts)
+- **BUFU mystery** — thinking it may be dropped; DO NOT decide now. Come back after Mia's primer is built.
+- **CROWN Club series development** — on hold while Mia's 2 parts get built. Only Mia-adjacent canon stays live (Solani as sister, the handshake, the music bridge).
+
+## ✅ NEW RESOLUTIONS (Aug 16)
+- ✅ **CHARACTER BIBLE + INTRO DECK BUILT** — `01-mia-puberty-book/characters/CHARACTER-BIBLE-AND-INTRO-DECK.md`: the full Washington family + Myth Machine + rivals + Ms. Vitality, each with signature look, catchphrase, voice, and a "hello world" intro line that doubles as marketing copy (social cards, clip lines, TPT character cards).
+- ✅ **CORE CREW ART GENERATED** — `characters/art-v2/`: Mema Hazel, Jada, Emma, Solani, and the full Washington family group portrait.
+- 🚧 **PARKED:** CROWN Club series dev + the BUFU question — revisit after Mia's 2 parts are done.
+
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **SOLANI IS A 7TH GRADER** (locked) — Mia 5th / Solani 7th = 2 grades apart = SAME school year (parallel timeline intact). Readers finish the primer in 5th, then read one year up as 6th graders — the middle-grade sweet spot. The six girls' bibles need a +1 age sweep (12–13) when touched.
 - ✅ **"GLOW-UP GIRLS" NAME RETIRED** — trademark conflict discovered; the series is now **the CROWN Club series** everywhere. Season 2 renamed "The Butterfly Files" (fits caterpillar→butterfly, zero risk). Verify CROWN Club etc. in the Q3 legal pass. All docs swept.
