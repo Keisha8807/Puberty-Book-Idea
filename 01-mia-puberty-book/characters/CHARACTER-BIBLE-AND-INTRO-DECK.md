@@ -116,7 +116,35 @@
 - **Catchphrase:** *"Bodies are AMAZING. Say it with me!"*
 - **Intro line:** *"Ms. Vitality! Health class is the best class. You'll see."*
 
-*(Supporting cameos: Ms. Pythagoras the math teacher, Coach Armstrong, Nurse Nightingale, Dr. Smiles — carried over from the 2024 cast, design later.)*
+### 🔺 MS. PYTHAGORAS — *the math magician*
+- **Signature look:** geometric glasses, pencils through her bun, blazer covered in embroidered math symbols
+- **Personality:** quirky, brilliant, makes every answer feel like a magic trick
+- **Catchphrase:** *"Math is MAGIC. Show your work, though."*
+- **Intro line:** *"Ms. Pythagoras! Numbers can't hurt you — they just want to be understood."*
+
+### 🏀 MS. ARMSTRONG — *the tough-love coach*
+- **Signature look:** navy track suit, whistle, clipboard, dodgeball under one arm
+- **Personality:** no-nonsense, secretly the biggest softie in the building, believes in every kid
+- **Catchphrase:** *"Strong bodies, strong minds. Let's GO."*
+- **Intro line:** *"I'm Coach Armstrong. In my gym, everybody plays. No exceptions."*
+
+### 🩹 NURSE NIGHTINGALE — *the unconventional healer*
+- **Signature look:** turquoise patterned scrubs, charm-covered stethoscope, fanny pack of band-aids
+- **Personality:** warm, quirky, treats hurt feelings as carefully as skinned knees
+- **Catchphrase:** *"Let's take a look. It's probably not fatal."*
+- **Intro line:** *"Nurse Nightingale. I fix boo-boos, bad days, and everything between."*
+
+### 😄 DR. SMILES — *the playful pediatrician*
+- **Signature look:** white coat over a fun patterned shirt, tongue depressor as a magic wand, sticker jar always open
+- **Personality:** playful, patient, answers every question like it's the best one he's heard all day
+- **Catchphrase:** *"No question is silly in here. Try me."*
+- **Intro line:** *"I'm Dr. Smiles. Your body is my favorite subject — let's talk about it."*
+
+### ☀️ MS. HARMONY — *the wise counselor*
+- **Signature look:** mustard cardigan, sun-charm necklace, rounded glasses, always leaning in to listen
+- **Personality:** calm, wise, makes everyone feel heard
+- **Catchphrase:** *"Feelings are information. Let's read them together."*
+- **Intro line:** *"I'm Ms. Harmony. Whatever's on your mind — it's welcome in this room."*
 
 ---
 
@@ -131,7 +159,7 @@ Solani's "study group" — glimpsed only from outside: a clipboard girl, a unico
 |---|---|
 | ✅ | Mia v2 character sheet (4 expressions) |
 | ✅ | Mia v2 Sisterwatch scene |
-| ⏭️ | **This batch:** Jada · Emma · Mema Hazel · Solani · the Washington family group |
-| ⏭️ | Kayla & Sophie · Ms. Vitality |
+| ✅ | **Batch 2:** Jada · Emma · Mema Hazel · Solani · Washington family group |
+| ✅ | **Batch 3 (this turn):** Kayla · Sophie · Ms. Vitality · Nurse Nightingale · Dr. Smiles · Ms. Pythagoras · Ms. Armstrong · Ms. Harmony — FULL CAST COMPLETE |
 | ⏭️ | 11-expression Mia sheet (remaster of 2024) |
 | ⏭️ | Intro-card series (one per character, for socials) |
