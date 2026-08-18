@@ -71,3 +71,15 @@ Each board must pass:
 | Sophie | Composite board v01 | Generated from approved v04 hero; QA candidate |
 
 Batch 3 receives: Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, Nurse Nightingale, Dr. Smiles, plus correction capacity.
+
+## Batch 3 — Generated and QA-passed candidates
+
+| Character | Candidate asset | QA note |
+|---|---|---|
+| Ms. Harmony | model board v01 | Four views, six expressions, props/palette; pass |
+| Ms. Armstrong | model board v01 | Four views, six expressions, no school branding; pass |
+| Ms. Pythagoras | model board v01 | Four views, six expressions, one correct theorem only; pass |
+| Ms. Vitality | model board v03 | Four views including back, six expressions, props/palette; pass |
+| Nurse Nightingale | model board v01 | Four views, six expressions, text-free medical props; pass |
+| Dr. Smiles | model board v01 | Woman identity, four views, six expressions, props/palette; pass |
+| Kayla | model board v03 clean | Planner covers cleaned; separate `KAYLA'S PLAN` callout correct; pass |
