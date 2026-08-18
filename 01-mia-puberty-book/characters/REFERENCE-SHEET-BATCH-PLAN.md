@@ -89,3 +89,16 @@ Batch 3 receives: Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, Nurs
 - **Approved:** Ms. Vitality v03
 - **Correction required:** Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Nurse Nightingale, Dr. Smiles, Kayla
 - **Shared correction:** no callout sentences, no arrows, no duplicate close-ups, no labels. Keep only four clean views, six expressions, isolated props, and palette swatches.
+
+## Clean-board revision pass — generated
+
+Final clean candidates now use no arrows/callout sentences:
+
+- Ms. Harmony v02
+- Ms. Armstrong v03
+- Ms. Pythagoras v02
+- Nurse Nightingale v02
+- Dr. Smiles v02
+- Kayla v05
+
+Annotated and captioned earlier attempts are superseded. Awaiting Keisha bulk approval.
