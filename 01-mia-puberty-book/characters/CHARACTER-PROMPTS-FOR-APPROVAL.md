@@ -82,8 +82,8 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 > **Hero prompt:** Full-body portrait, chin slightly raised, planner hugged to her chest, looking like she already won. Background: elegant light-pink gradient with subtle glowing crown motif. [STYLE BLOCK]
 
 ### 🌸 SOPHIE (10) — [LOCK BLOCK]
-> "Sophie," a soft-spoken 10-year-old Black girl, the conflicted sidekick. Deep brown skin, round wire-rimmed glasses, natural hair in two low buns, nervous half-smile. Signature outfit: modest lavender cardigan over a collared shirt, plaid skirt, tights, Mary Jane shoes, doodle-stuffed sketchbook always in hand.
-> **Hero prompt:** Full-body portrait, standing slightly behind an invisible person as if waiting for instructions, peeking up at the viewer, one hand half-raised like she wants to say something. Background: soft periwinkle blue with faint pencil-doodle clouds. [STYLE BLOCK]
+> "Sophie," a soft-spoken 10-year-old African American Black girl, the conflicted sidekick. Deep rich-brown skin, soft heart-shaped face, large thoughtful brown eyes, hesitant kind half-smile, smooth side-parted natural dark hair pulled into one long thick low braid tied with a lavender ribbon, angular translucent lavender glasses, small silver stud earrings. Signature preppy outfit: ivory collared blouse, periwinkle knit cardigan, long pleated lavender-and-navy plaid skirt, deep-plum opaque tights, polished dark-brown Mary Jane shoes. She hugs a closed navy notebook decorated with subtle original white doodle line art.
+> **Hero prompt:** Full-body portrait, notebook held protectively to her chest, free palm half-raised as if she wants to speak but is deciding whether she is allowed. Background: periwinkle-lavender studio gradient with faint cloud/flower line art and no words. [STYLE BLOCK]
 
 ---
 

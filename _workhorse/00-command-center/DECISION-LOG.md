@@ -159,6 +159,13 @@
 - **Effect:** Active Canon advances to v1.10. Dr. Smiles has short silver-accented natural tapered curls, rich medium-deep skin, a round joyful face, white coat, teal-coral-gold blouse, plum trousers, teal-white sneakers, stethoscope/icon pins, and tongue-depressor-wand/peace-sign pose. The male identity remains retired.
 - **Status:** Locked
 
+## DEC-2026-08-18-023 — Sophie's chosen identity receives cast-matched rendering
+
+- **Decision:** Use Keisha's uploaded Sophie v03 as the exact design source and approve the premium 3D cast-matched v04 regeneration as the controlling hero.
+- **Reason:** Keisha liked the v03 character but wanted her rendering to match the dimensional finish of the rest of the cast.
+- **Effect:** Active Canon advances to v1.11. Sophie now has one low side-parted braid with lavender ribbon, angular lavender glasses, periwinkle cardigan, long plaid skirt, plum tights, brown Mary Janes, navy doodle notebook, and hesitant raised palm. v03 remains provenance; v04 controls production.
+- **Status:** Locked
+
 ---
 
 ## New decision template

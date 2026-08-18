@@ -27,7 +27,7 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Dr. Smiles recast as a Black woman; retired male art archived
 - [x] Exact woman Dr. Smiles hero approved and synchronized
 - [ ] Emma redesign is approved
-- [ ] Sophie redesign is approved
+- [x] Sophie premium 3D redesign is approved and synchronized
 - [ ] Mia's full reference-sheet work packet is ready
 
 ## Current single next action

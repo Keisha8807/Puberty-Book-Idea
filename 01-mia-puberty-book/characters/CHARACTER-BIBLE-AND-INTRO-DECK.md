@@ -101,7 +101,7 @@
 
 ### 🌸 SOPHIE — *the sidekick with a sketchbook*
 - **10 · 5th grade · conflicted loyalist**
-- **Signature look:** quiet cardigans, doodles in the margins of everything
+- **Signature look:** side-parted low braid with lavender ribbon, angular lavender glasses, ivory collar, periwinkle cardigan, long lavender/navy plaid skirt, plum tights, brown Mary Janes, closed navy doodle notebook
 - **Personality:** soft-spoken, secretly artistic, torn between Kayla and her own ideas
 - **Catchphrase:** *"Whatever you think works..."* (and she means it less every week)
 - **Intro line:** *"I'm Sophie. I'm Kayla's... friend. And I also have ideas. Shh."*

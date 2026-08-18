@@ -1,33 +1,33 @@
 # Sophie — Visual Library
 
-> **Status:** Identity/design selected by Keisha; premium cast-match rendering awaiting final approval
+> **Status:** Premium 3D v04 hero approved August 18, 2026; full reference sheet pending
 
-## Cast-match candidate
+## Approved art
 
-**[arena-2026-08-18-hero-sophie-cast-match-v04.png](00-upload-candidates/arena-2026-08-18-hero-sophie-cast-match-v04.png)**
+**[hero-sophie.png](02-approved/hero-sophie.png)** — controlling visual identity
 
-<img src="00-upload-candidates/arena-2026-08-18-hero-sophie-cast-match-v04.png" alt="Sophie premium 3D cast-match candidate" width="300">
+<img src="02-approved/hero-sophie.png" alt="Approved Sophie hero" width="300">
 
-## Chosen source identity
+## Signature locks
 
-**[chatgpt-2026-08-18-hero-sophie-v03.png](00-upload-candidates/chatgpt-2026-08-18-hero-sophie-v03.png)**
-
-<img src="00-upload-candidates/chatgpt-2026-08-18-hero-sophie-v03.png" alt="Sophie chosen source design" width="240">
-
-## Identity/design retained
-
-- Smooth side-parted natural hair into one long low braid with lavender ribbon
+- 10-year-old Black girl with deep rich-brown skin and soft heart-shaped face
+- One long smooth side-parted low braid tied with lavender ribbon
 - Angular translucent lavender glasses and silver studs
-- Ivory collared blouse, periwinkle cardigan, navy-lavender plaid pleated skirt
-- Deep-plum tights, polished brown Mary Janes
-- Closed navy doodle notebook and hesitant raised palm
-- Reserved, kind, conflicted 10-year-old expression
+- Ivory collar, periwinkle cardigan, long lavender/navy plaid pleated skirt
+- Deep-plum tights and polished brown Mary Janes
+- Closed navy doodle notebook held protectively; hesitant raised palm
+- Premium dimensional 3D rendering aligned with the approved cast
+
+## Reference sheets
+
+_New turnaround, expression row, braid/ribbon/glasses callouts, wardrobe palette, notebook details, and hesitant/confident progression poses will be built from the approved hero._
 
 ## Superseded—do not use as current reference
 
-- [First preppy redesign](99-superseded/sophie-preppy-first-redesign-v02.png)
+- [Chosen source identity v03](99-superseded/sophie-chosen-source-v03.png)
+- [First preppy redesign v02](99-superseded/sophie-preppy-first-redesign-v02.png)
 - [Previous similar Emma/Sophie design](99-superseded/sophie-previous-similar-design.png)
 
 ## Approval rule
 
-The v04 image remains a candidate until Keisha confirms that its premium 3D rendering matches the cast. If approved, v03 remains provenance/reference and v04 becomes the controlling hero.
+The approved v04 hero supplies Sophie's exact face, age-read, hair, glasses, proportions, pose, wardrobe, and rendering level. If a future image drifts, reject the image—not Sophie.

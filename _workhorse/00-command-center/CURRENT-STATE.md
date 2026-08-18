@@ -53,7 +53,8 @@ A per-character GitHub visual library now lives at `01-mia-puberty-book/characte
 - Jada and Kayla are approved
 - Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, and Nurse Nightingale are approved; production cleanup heroes are complete
 - Dr. Smiles: woman pediatrician hero approved and synchronized; male identity retired
-- Emma and Sophie require redesign briefs
+- Sophie: premium 3D v04 redesign approved and synchronized
+- Emma: earthy artist redesign candidate awaiting approval
 - Mia full turnaround/reference sheet: must be rebuilt from the newly approved identity
 - Mia 11-expression remaster: not started
 - Character intro cards: not started

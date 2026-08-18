@@ -4,16 +4,23 @@
 
 ## Waiting on Keisha
 
-### AQ-005 — Emma redesign brief
+### AQ-005 — Emma redesign hero
 
 - **Type:** Visual
 - **Risk:** Yellow
-- **Decision needed:** Approve Emma's revised identity direction before generation
+- **Decision needed:** Approve, revise, or reject Emma's generated earthy artist identity
 - **Canon retained:** Emma is 10, thoughtful, gentle, artistic, and part of the Myth Machine
 - **Blocked by:** Nothing
 - **Status:** Waiting
 
 ## Approved this sprint
+
+### Sophie redesign and cast-match gate
+
+- **Decision:** Uploaded v03 design approved; premium 3D v04 cast-match approved as controlling hero
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Unlocks:** Sophie reference sheet and scene production
 
 ### AQ-004 — Dr. Smiles woman-hero gate
 
