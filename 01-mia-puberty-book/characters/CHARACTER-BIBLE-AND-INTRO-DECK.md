@@ -7,7 +7,7 @@
 
 ## THE WASHINGTON FAMILY
 
-### 👧🏾 MIA LUZ WASHINGTON — *our narrator*
+### 👧🏾 MIA ZORA WASHINGTON — *our narrator*
 - **10 · 5th grade · the little sister who investigates everything**
 - **Signature look:** hot pink overalls with hand-sewn patches, sunny yellow tee, space buns with **star clips** ("stars are better than butterflies anyway"), one blue + one pink hand-painted sneaker, gap-tooth grin, freckles
 - **Personality:** fiercely curious, confidently wrong, dramatic, loyal to the bone
@@ -16,7 +16,7 @@
 - **Core fear:** getting "promoted" to teenager. **Arc:** learns growing up happens at HER pace, HER way
 - **Intro line:** *"Hi. I'm Mia Washington, and I'm currently investigating the scariest case of my life: my big sister. You're my new partner now. Congratulations?"*
 
-### 🦋 SOLANI MARIS WASHINGTON — *the subject*
+### 🦋 SOLANI MAYA WASHINGTON — *the subject*
 - **12 (13 in Sept) · 7th grade · Roast Queen of LPMS**
 - **Signature look:** two braided puffs with butterfly clips, cropped hoodie over tank, baggy patchwork jeans, mismatched socks, dusty Converse, the pencil-charm necklace from Uncle Mo
 - **Personality:** loud, funny, magnetic — hiding the quiet poem-writing part of herself
