@@ -54,6 +54,8 @@ An approved image may replace a visual description, but it does not automaticall
 
 ## Brenda Washington
 
+**Decision — REVISED AND APPROVED:** The uploaded headwrap image supplied the starting identity, but Keisha requested natural hair and a stylish mom-fashionista wardrobe. The revised Arena candidate with a voluminous twist-out, terracotta wrap blouse, tailored wide-leg jeans, cognac accessories, and wooden spoon is the controlling hero.
+
 **Strong matches:** Warm Black mom; joyful laugh; gold hoops; wooden spoon; colorful, expressive family energy.
 
 **Differences from current Lock Block:**

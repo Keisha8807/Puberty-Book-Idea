@@ -1,6 +1,6 @@
 # Brenda Washington — Visual Library
 
-> **Status:** Hero approved
+> **Status:** Natural-hair fashionista hero approved August 18, 2026; full reference sheet pending
 
 ## Upload new candidates
 
@@ -10,38 +10,38 @@ Recommended filename: `source-YYYY-MM-DD-short-description.png`
 
 After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
 
-## Newly uploaded candidates
-
-**[chatgpt-2026-08-18-hero-brenda-washington-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-brenda-washington-v01.png)**
-
-<img src="00-upload-candidates/chatgpt-2026-08-18-hero-brenda-washington-v01.png" alt="Brenda Washington uploaded candidate" width="260">
-
-**[arena-2026-08-18-hero-brenda-fashionista-v02.png](00-upload-candidates/arena-2026-08-18-hero-brenda-fashionista-v02.png)**
-
-<img src="00-upload-candidates/arena-2026-08-18-hero-brenda-fashionista-v02.png" alt="Brenda Washington natural-hair fashionista candidate" width="260">
-
 ## Approved art
 
-**[hero-brenda.png](02-approved/hero-brenda.png)**
+**[hero-brenda.png](02-approved/hero-brenda.png)** — controlling visual identity
 
-<img src="02-approved/hero-brenda.png" alt="Brenda Washington — hero-brenda.png" width="260">
+<img src="02-approved/hero-brenda.png" alt="Approved Brenda Washington hero" width="300">
+
+## Signature locks
+
+- Must read as a youthful mom in her late 30s
+- Polished voluminous shoulder-length natural twist-out with soft defined curls
+- Terracotta wrap blouse, tailored dark-indigo wide-leg jeans, cognac belt and pointed flats
+- Gold hoops and stacked bracelets
+- Wooden spoon as her recurring family-call prop
 
 ## Candidates
 
-_None yet._
+_None currently awaiting review._
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, wardrobe palette, and prop callout will be built from the approved hero._
 
 ## Scenes
 
-_None yet._
+_New scenes must use the approved hero and future reference sheet._
 
 ## Superseded—do not use as current reference
 
-- [maritza-mom-retired-canon.png](99-superseded/maritza-mom-retired-canon.png)
+- [Previous Arena kitchen hero](99-superseded/hero-brenda-arena-previous.png)
+- [Uploaded headwrap candidate](99-superseded/hero-brenda-chatgpt-headwrap-v01.png)
+- [Retired Maritza-era art](99-superseded/maritza-mom-retired-canon.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Brenda's exact face, natural hair, age-read, proportions, and signature wardrobe. If a future image drifts, reject the image—not Brenda.

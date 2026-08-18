@@ -74,6 +74,14 @@
 - **Supersedes:** The Solani visual/background portion of DEC-2026-08-18-007
 - **Status:** Locked
 
+## DEC-2026-08-18-011 — Brenda's natural-hair mom-fashionista identity
+
+- **Decision:** Use the revised Arena Brenda v2 as the controlling hero: uploaded joyful face direction, natural shoulder-length twist-out, terracotta wrap blouse, tailored wide-leg jeans, cognac accessories, and wooden spoon.
+- **Reason:** Keisha wanted to remove the headwrap, show Brenda's natural hair, and make her read as a stylish mom fashionista distinct from Mema Hazel.
+- **Effect:** Active Canon advances to v1.3. The uploaded headwrap/maxi-dress concept and prior Arena kitchen hero are superseded and preserved.
+- **Supersedes:** The Brenda visual portion of DEC-2026-08-18-007
+- **Status:** Locked
+
 ---
 
 ## New decision template

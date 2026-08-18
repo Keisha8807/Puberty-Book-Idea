@@ -33,9 +33,9 @@
 - **Intro line:** *"They call me Mema. I've been through every 'change' there is — and I danced through all of 'em. So can you."*
 
 ### 👩🏽 BRENDA WASHINGTON — *the mom*
-- **Signature look:** long wavy dark hair, colorful scarf, warm kitchen energy
-- **Personality:** warm, perceptive, nags lovingly in Spanish ("¡Mija, come eat!")
-- **Catchphrase:** *"Mija, eat something. Growing takes fuel."*
+- **Signature look:** polished voluminous natural twist-out, gold hoops, terracotta wrap blouse, tailored wide-leg jeans, cognac belt and flats, stacked bracelets, wooden spoon always ready
+- **Personality:** warm, perceptive, stylish, and somehow knows what happened before anyone confesses
+- **Catchphrase:** *"Baby, eat something. Growing takes fuel."*
 - **Intro line:** *"I'm the mom. Which means I know everything before you tell me. Ask me how."*
 
 ### 👨🏾 MARCUS WASHINGTON — *the dad*

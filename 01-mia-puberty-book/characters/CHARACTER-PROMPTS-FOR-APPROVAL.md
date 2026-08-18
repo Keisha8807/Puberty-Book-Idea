@@ -50,8 +50,8 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 > **Hero prompt:** Full-body portrait, mid-laugh, caught in a playful dance pose, one hand raised snapping to a show tune, a potted plant tucked under her other arm. Background: cozy sunlit kitchen. [STYLE BLOCK]
 
 ### 👩🏽 BRENDA (mom) — [LOCK BLOCK]
-> "Brenda," a stylish warm African American Black mom in her late 30s (**must read youthful — late 30s, not older**). Soft waves of dark hair, colorful silk scarf tied at her neck, kind laughing eyes, gold hoop earrings, warm brown skin. Signature outfit: well-fitted dark jeans, pretty flowy blouse in warm terracotta, simple stylish flats — chic casual mom.
-> **Hero prompt:** Full-body portrait, laughing with a wooden spoon in one hand, like she's calling the whole family to eat. Background: warm kitchen. [STYLE BLOCK]
+> "Brenda Washington," a stylish warm African American Black mom in her late 30s (**must read youthful — late 30s, not older**). Warm brown skin, kind expressive eyes, huge joyful laugh, beautiful natural dark hair in a polished voluminous shoulder-length twist-out with soft defined curls, and gold hoop earrings. Signature mom-fashionista outfit: rich terracotta wrap blouse with elegant softly puffed sleeves and a tied waist, high-waisted dark indigo tailored wide-leg jeans, slim cognac belt, stacked gold and colorful bracelets, and cognac pointed-toe flats. Wooden spoon is her recurring family-call prop.
+> **Hero prompt:** Full-body portrait, one hand confidently on her hip and the other raising her wooden spoon, laughing like she just called the whole Washington family to eat. Background: warm peach-to-cream studio gradient. [STYLE BLOCK]
 
 ### 👨🏾 MARCUS (dad — Black American) — [LOCK BLOCK]
 > "Marcus," a cool creative Black American dad in his early 40s. Deep brown skin, short neat locs, clean-shaven face, square black glasses, warm proud grin. Signature outfit: paint-flecked denim jacket over a graphic tee, dark jeans, fresh sneakers, camera on a strap around his neck.
