@@ -83,3 +83,9 @@ Batch 3 receives: Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, Nurs
 | Nurse Nightingale | model board v01 | Four views, six expressions, text-free medical props; pass |
 | Dr. Smiles | model board v01 | Woman identity, four views, six expressions, props/palette; pass |
 | Kayla | model board v03 clean | Planner covers cleaned; separate `KAYLA'S PLAN` callout correct; pass |
+
+## Batch 3 approval result
+
+- **Approved:** Ms. Vitality v03
+- **Correction required:** Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Nurse Nightingale, Dr. Smiles, Kayla
+- **Shared correction:** no callout sentences, no arrows, no duplicate close-ups, no labels. Keep only four clean views, six expressions, isolated props, and palette swatches.
