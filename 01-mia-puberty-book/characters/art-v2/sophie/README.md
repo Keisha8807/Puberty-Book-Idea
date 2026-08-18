@@ -1,33 +1,25 @@
 # Sophie — Visual Library
 
-> **Status:** Candidate selection needed
+> **Status:** Previous similar design rejected; preppy sidekick redesign awaiting approval
 
-## Upload new candidates
+## Current redesign candidate
 
-Drop original, highest-resolution images into **`00-upload-candidates/`** on GitHub. Images from ChatGPT or another generator may be used as candidates when Keisha generated them or otherwise has the right to use them. Avoid third-party character art that is not ours.
+**[arena-2026-08-18-hero-sophie-redesign-v02.png](00-upload-candidates/arena-2026-08-18-hero-sophie-redesign-v02.png)**
 
-Recommended filename: `source-YYYY-MM-DD-short-description.png`
+<img src="00-upload-candidates/arena-2026-08-18-hero-sophie-redesign-v02.png" alt="Sophie preppy sidekick redesign candidate" width="300">
 
-After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
+## Proposed distinction
 
-## Approved art
+- One sleek low braided ponytail with lavender ribbons
+- Narrow translucent lavender oval glasses
+- Ivory collar, periwinkle cardigan, lavender/navy plaid skirt
+- Plum tights, polished brown Mary Janes, closed navy notebook
+- Controlled preppy palette and hesitant half-raised hand
 
-_None yet._
+## Superseded—do not use as current reference
 
-## Candidates
-
-**[sophie.png](01-candidates/sophie.png)**
-
-<img src="01-candidates/sophie.png" alt="Sophie — sophie.png" width="260">
-
-## Reference sheets
-
-_None yet._
-
-## Scenes
-
-_None yet._
+- [Previous similar design](99-superseded/sophie-previous-similar-design.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+Sophie remains a candidate until Keisha explicitly approves this redesign. The superseded bun/cardigan version cannot seed new assets.

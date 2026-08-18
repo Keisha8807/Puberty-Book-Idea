@@ -32,6 +32,11 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Nurse Nightingale | `nurse-nightingale/02-approved/hero-nurse-nightingale.png` | Arena image generation; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Approved identity; full-body, label-free cleanup |
 | 2026-08-18 | Dr. Smiles | `dr-smiles/02-approved/hero-dr-smiles.png` | Arena image generation; gender recast | Keisha-directed Workhorse | Yes | Confirmed | Approved | Exact woman hero approved; retired male identity blocked |
 
+| 2026-08-18 | Emma | `emma/99-superseded/emma-previous-similar-design.png` | Existing project art; metadata not backfilled | Prior project session | Yes | Rejected by Keisha | Superseded | Too visually similar to Sophie |
+| 2026-08-18 | Emma | `emma/00-upload-candidates/arena-2026-08-18-hero-emma-redesign-v02.png` | Arena image generation; full redesign | Keisha-directed Workhorse | Yes | Pending exact visual approval | Candidate | Earthy street-artist distinction |
+| 2026-08-18 | Sophie | `sophie/99-superseded/sophie-previous-similar-design.png` | Existing project art; metadata not backfilled | Prior project session | Yes | Rejected by Keisha | Superseded | Too visually similar to Emma |
+| 2026-08-18 | Sophie | `sophie/00-upload-candidates/arena-2026-08-18-hero-sophie-redesign-v02.png` | Arena image generation; full redesign | Keisha-directed Workhorse | Yes | Pending exact visual approval | Candidate | Controlled preppy sidekick distinction |
+
 ## Required before approval
 
 - [ ] Character and file are identified

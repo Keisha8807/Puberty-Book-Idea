@@ -1,33 +1,25 @@
 # Emma — Visual Library
 
-> **Status:** Candidate selection needed
+> **Status:** Previous similar design rejected; earthy artist redesign awaiting approval
 
-## Upload new candidates
+## Current redesign candidate
 
-Drop original, highest-resolution images into **`00-upload-candidates/`** on GitHub. Images from ChatGPT or another generator may be used as candidates when Keisha generated them or otherwise has the right to use them. Avoid third-party character art that is not ours.
+**[arena-2026-08-18-hero-emma-redesign-v02.png](00-upload-candidates/arena-2026-08-18-hero-emma-redesign-v02.png)**
 
-Recommended filename: `source-YYYY-MM-DD-short-description.png`
+<img src="00-upload-candidates/arena-2026-08-18-hero-emma-redesign-v02.png" alt="Emma earthy artist redesign candidate" width="300">
 
-After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
+## Proposed distinction
 
-## Approved art
+- Shoulder-length chunky twists in half-up style; palette clips
+- Translucent sage square glasses
+- Paint-splattered denim chore jacket, mustard/sage tee, olive cargos
+- Painted cream high-tops, open colorful sketchbook, pencil
+- Earthy creative palette and calm observant confidence
 
-_None yet._
+## Superseded—do not use as current reference
 
-## Candidates
-
-**[emma.png](01-candidates/emma.png)**
-
-<img src="01-candidates/emma.png" alt="Emma — emma.png" width="260">
-
-## Reference sheets
-
-_None yet._
-
-## Scenes
-
-_None yet._
+- [Previous similar design](99-superseded/emma-previous-similar-design.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+Emma remains a candidate until Keisha explicitly approves this redesign. The superseded puff/cardigan version cannot seed new assets.
