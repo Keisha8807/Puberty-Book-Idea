@@ -86,7 +86,7 @@
 - 🚧 **PARKED:** CROWN Club series dev + the BUFU question — revisit after Mia's 2 parts are done.
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
-- ✅ **SOLANI IS A 7TH GRADER** (locked) — Mia 5th / Solani 7th = 2 grades apart = SAME school year (parallel timeline intact). Readers finish the primer in 5th, then read one year up as 6th graders — the middle-grade sweet spot. The six girls' bibles need a +1 age sweep (12–13) when touched.
+- ✅ **SOLANI IS A 7TH GRADER** (locked) — Mia 5th / Solani 7th = 2 grades apart = SAME school year (parallel timeline intact). Readers finish the primer in 5th, then read one year up as 6th graders — the middle-grade sweet spot. The six girls' source bibles need a grade-and-age consistency sweep when touched; Solani is locked at 11, turning 12 in September.
 - ✅ **"GLOW-UP GIRLS" NAME RETIRED** — trademark conflict discovered; the series is now **the CROWN Club series** everywhere. Season 2 renamed "The Butterfly Files" (fits caterpillar→butterfly, zero risk). Verify CROWN Club etc. in the Q3 legal pass. All docs swept.
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
@@ -98,13 +98,13 @@
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **CROWN CLUB ORIGIN = SOLANI'S STORY** (Series Book 1 A-plot, spoiler-protected). Mia never explains it — she shows it from the OUTSIDE as mystery cameos (clipboard girl, unicorn backpack girl, the bodega back room off-limits, "crown" whispers). The club origin is the REWARD for graduating the primer. See `CROWN-CLUB-ORIGIN-LANE.md`
-- ✅ **PARALLEL TIMELINE DISCOVERY:** Mia (10, 5th grade) and Solani (12, 7th grade) live THE SAME SCHOOL YEAR. Primer and series run side by side, converging at the June talent show (seen from the crowd in Mia's book, from the stage in B10). The handshake's true meaning: "I can't open this door — she can."
+- ✅ **PARALLEL TIMELINE DISCOVERY:** Mia (10, 5th grade) and Solani (11, 7th grade) live THE SAME SCHOOL YEAR. Primer and series run side by side, converging at the June talent show (seen from the crowd in Mia's book, from the stage in B10). The handshake's true meaning: "I can't open this door — she can."
 - ⏳ Canon flag for B10: is the club still secret at the talent show, already public, or does the show = their public debut?
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **MIA 2.0 MAKEOVER STARTED** — the old manuscript is the foundation, NOT the final: Mia redefined as **Solani's little sister** (merged Washington family), narrator of the 2-season primer. Full spec: `MIA-2.0-MAKEOVER-BIBLE.md`
 - ✅ **The Myth Machine** — the stiffest part of the old book (fact sections) becomes the funniest: Mia/Jada/Emma generate hilariously wrong theories, Mema/Solani bust them. Education = punchline delivery system
-- ✅ **Family merge LOCKED:** Brenda (mom) + Marcus (dad) + Seraphina (15) + Solani Maya (12, for Maya Angelou) + Mia Zora (10, for Zora Neale Hurston) + Lily (8) + Max (5) + Mema Hazel + Uncle Mo (runs the bodega), one house in Albany.
+- ✅ **Family merge LOCKED:** Brenda (mom) + Marcus (dad) + Seraphina (15) + Solani Maya (11, turns 12 in Sept; for Maya Angelou) + Mia Zora (10, for Zora Neale Hurston) + Lily (8) + Max (5) + Mema Hazel + Uncle Mo (runs the bodega), one house in Albany.
 - ✅ **Sample scene written** (`DRAFT-v2-Chapter1-ColdOpen.md`) — Operation Sisterwatch cold open with fourth wall, text thread, and Mema busting Myth #1
 - ✅ **New character art generated (2026 quality!)** — `characters/art-v2/`: character sheet (4 expressions) + Sisterwatch vlog scene
 

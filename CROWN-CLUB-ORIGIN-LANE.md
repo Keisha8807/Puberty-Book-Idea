@@ -26,7 +26,7 @@ If Mia explained any of that in the primer, she'd:
 
 Check the canon math:
 - Mia: 10 years old, 5th grade
-- Solani: 12 years old (turns 13 in Sept), 7th grade
+- Solani: 11 years old (turns 12 in Sept), 7th grade
 - **They're two grades apart — which means Mia's 5th-grade year and Solani's 7th-grade year are THE SAME SCHOOL YEAR.**
 
 The primer and the series don't run one-after-another. **They run side by side:**

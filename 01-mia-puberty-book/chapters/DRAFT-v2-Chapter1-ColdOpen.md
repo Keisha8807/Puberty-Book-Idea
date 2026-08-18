@@ -6,7 +6,7 @@
 
 Okay. Quick briefing, because things are getting SERIOUSLY weird in my house.
 
-**Item 1:** My sister Solani — age twelve, owner of approximately nine hundred butterfly clips — has started saying "I need SPACE" like she's an astronaut. Yesterday she said it to the BATHROOM DOOR.
+**Item 1:** My sister Solani — age eleven, owner of approximately nine hundred butterfly clips — has started saying "I need SPACE" like she's an astronaut. Yesterday she said it to the BATHROOM DOOR.
 
 **Item 2:** She has a secret snack stash. I found it. Where? In a shoebox marked "DO NOT TOUCH, MIA," which, honestly, is basically an engraved invitation.
 

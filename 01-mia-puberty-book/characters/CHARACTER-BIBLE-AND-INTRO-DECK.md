@@ -17,7 +17,7 @@
 - **Intro line:** *"Hi. I'm Mia Washington, and I'm currently investigating the scariest case of my life: my big sister. You're my new partner now. Congratulations?"*
 
 ### 🦋 SOLANI MAYA WASHINGTON — *the subject*
-- **12 (13 in Sept) · 7th grade · Roast Queen of LPMS**
+- **11 (12 in Sept) · 7th grade · Roast Queen of LPMS**
 - **Signature look:** two braided puffs with butterfly clips, cropped hoodie over tank, baggy patchwork jeans, mismatched socks, dusty Converse, the pencil-charm necklace from Uncle Mo
 - **Personality:** loud, funny, magnetic — hiding the quiet poem-writing part of herself
 - **Voice:** quippy, rhythmic, "pause-then-punch" delivery

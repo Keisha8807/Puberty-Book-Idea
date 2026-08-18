@@ -18,7 +18,7 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 - **Format:** an animated series on paper — two "seasons" (Season 1 = 11 episodes, Season 2 = 7 episodes + finale)
 - **The narrator talks to the reader.** Always. The reader is Mia's new partner.
 - **The engine:** Mia investigates, invents the **Myth Machine**, gets hilariously busted, and the reader learns by watching her get it right
-- **The heart:** the Washington sisters — Mia (10, 5th grade) watching Solani (12, 7th grade) grow up two steps ahead of her
+- **The heart:** the Washington sisters — Mia (10, 5th grade) watching Solani (11, 7th grade) grow up two steps ahead of her
 - **The education (Format D):** story with woven **Fact Check** cutaway cards + a **"Mema Hazel Explains"** spread per episode; quizzes/activities live in the separate *Glow Workbook*
 - **The bridge:** Solani's secret song (Laughter Currency) teased in-story; the club stays a mystery behind a door; the June talent show hands the reader from Mia to Solani
 - **The promise:** this is NOT a stiff textbook book. This is the show.
@@ -31,7 +31,7 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 - **Mema Hazel** (grandma) — Betty White energy, show tunes, cat-eye glasses on her head, talks to her plants. The trusted adult.
 - **Uncle Mo** (uncle) — Brenda's brother, the pencil-charm necklace giver, wisdom at the kitchen table
 - **Seraphina (15)** — the dramatic oldest sister
-- **SOLANI "Maya" (12, turns 13 in Sept)** — the middle sister, 7th grade, Roast Queen, butterfly clips, going through IT. Mia's subject of investigation.
+- **SOLANI "Maya" (11, turns 12 in Sept)** — the middle sister, 7th grade, Roast Queen, butterfly clips, going through IT. Mia's subject of investigation.
 - **MIA "Zora" (10)** — our narrator, 5th grade, star clips, Operation Sisterwatch
 - **Lily (8)** — mischievous little sister
 - **Max (5)** — adorable chaos, Mia's #1 vlog subscriber

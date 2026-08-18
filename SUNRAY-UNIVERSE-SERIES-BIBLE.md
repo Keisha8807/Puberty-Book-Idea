@@ -38,7 +38,7 @@
 | **Marcus** (dad) | — | — | Cool creative dad. Makes everything a game. |
 | **Uncle Mo** (uncle) | — | — | Brenda's brother. Runs the bodega. Gives the pencil-charm necklace. Wisdom at the kitchen table. |
 | **Seraphina** | 15 | HS | The dramatic oldest. Rare moments of actual usefulness. |
-| **SOLANI Maya** | 12 (turns 13 in Sept) | 7th | ☀️ Middle sister. Roast Queen. Butterfly clips. Hero of the SERIES. Hiding behind humor (Laughter Currency). |
+| **SOLANI Maya** | 11 (turns 12 in Sept) | 7th | ☀️ Middle sister. Roast Queen. Butterfly clips. Hero of the SERIES. Hiding behind humor (Laughter Currency). |
 | **MIA Zora** | 10 | 5th | ✨ Our first narrator. Star clips. Operation Sisterwatch. Hero of the PRIMER. |
 | **Lily** | 8 | 3rd | Mischief. Steals Mia's stuff. Idolizes Solani. |
 | **Max** | 5 | K | Adorable chaos. Mia's #1 vlog subscriber. |
@@ -76,7 +76,7 @@
 
 # PART 4 — SHOW B: THE CROWN CLUB SERIES (the flagship)
 
-> **Grade sweep pending in the source bibles:** the Pixar character docs say 6th grade / ages 11–12 — update to 7th grade / ages 12–13 the next time those files are touched. The 7th-grade health class replaces the "6th-grade health class" in the original blueprints.
+> **Grade sweep pending in the source bibles:** the Pixar character docs still contain old 6th-grade and age assumptions. Update the grade to 7th and review each character's age individually when those files are touched; **Solani is locked at 11, turning 12 in September.** The 7th-grade health class replaces the "6th-grade health class" in the original blueprints.
 
 **Logline:** Six very different 7th-grade girls — strangers bonded by the world's most awkward health class — form a secret club called CROWN when the school refuses to let them, and spend one school year learning the five values that turn girls into queens: Confidence, Respect, Ownership, Worth, Nourishment.
 
