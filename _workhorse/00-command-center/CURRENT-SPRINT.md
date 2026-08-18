@@ -19,23 +19,23 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Safety and Approval rules created
 - [x] Reusable Work Request template created
 - [x] Keisha approves the Foundation Canon Gate
-- [x] Mia and Brenda heroes approved; Solani identity approved with a required background correction
 - [x] Per-character GitHub visual libraries and upload inboxes created
-- [ ] Keisha uploads any preferred external ChatGPT candidates
-- [ ] Remaining nine character identities are selected and their heroes approved
-- [ ] Solani's corrected hero is approved as a complete asset
+- [x] Keisha uploads the nine preferred Washington-family ChatGPT candidates
+- [x] Mia's uploaded identity is selected and synchronized across active visual canon
+- [ ] Remaining Washington family candidate identities are selected one at a time
+- [ ] Solani's final hero is approved as a complete asset
 - [ ] Mia's full reference-sheet work packet is ready
 
 ## Current single next action
 
-**Review the new character folders and drop any preferred ChatGPT images into each character's `00-upload-candidates/` inbox.**
+**Review and decide Solani's uploaded ChatGPT identity.**
 
-## After the upload gate
+## After that gate
 
-1. Select one approved identity per remaining character, beginning with Emma.
-2. Generate or refine only the hero portraits still needed.
-3. Correct Solani's hero background without changing her approved identity.
-4. Build Mia's turnaround, expression row, and palette.
+1. Continue Washington family selection: Brenda → Marcus → Mema Hazel → Uncle Mo → Seraphina → Lily → Max.
+2. Select the remaining friend, rival, and adult identities.
+3. Generate or refine only the hero portraits still needed.
+4. Build Mia's new turnaround, expression row, and palette.
 5. Begin the Episode 1 Book Factory pilot only after Mia's visual lock.
 
 ## Not this sprint

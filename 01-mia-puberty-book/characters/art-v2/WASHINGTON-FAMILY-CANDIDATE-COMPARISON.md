@@ -18,6 +18,8 @@ An approved image may replace a visual description, but it does not automaticall
 
 ## Mia Zora Washington
 
+**Decision — APPROVED:** Use the uploaded ChatGPT Mia exactly. It is now the controlling hero; the Lock Block has been synchronized and the previous hero/reference assets are superseded.
+
 **Strong matches:** Reads 10; warm brown skin; expressive brown eyes; freckles; gap-toothed grin; two high natural puffs with braided/cornrow detail; colorful star clips; hot-pink overalls; confident hand-on-hip pose.
 
 **Differences from current Lock Block:**

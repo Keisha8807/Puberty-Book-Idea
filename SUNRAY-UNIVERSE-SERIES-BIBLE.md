@@ -70,7 +70,7 @@
 **Engine:** Operation Sisterwatch → the Myth Machine (wrong theories) → Mema Hazel Explains (facts as comedy) → stinger.
 **Format (D):** cold open · story + Fact Check cards · Myth Machine · Mema Hazel Explains · "Next time on..." stinger · Glow Workbook pointer.
 **Seasons:** S1 = 11 episodes (the basics) · S2 = 7 episodes + talent-show finale (deeper + the handshake). Full episode map: `01-mia-puberty-book/MIA-PRIMER-SERIES-BIBLE-v2.md`
-**Art:** modern 3D animation; Mia = stars + painted sneakers + hot pink overalls; Solani = butterflies + hoodie + Converse. Same family, different galaxies.
+**Art:** modern 3D animation; Mia = stars + high fluffy puffs + multicolor sneakers + hot-pink overalls; Solani = butterflies + hoodie + high-tops. Same family, different galaxies.
 
 ---
 
@@ -113,7 +113,7 @@
 
 - **Style:** modern 3D animation — Turning Red × The Proud Family × Moon Girl & Devil Dinosaur, but OWNED (the "paused episode" look, never stock-pastel)
 - **Rules:** every chapter = an episode (cold opens, fourth wall, stingers); margins are alive (doodles, sticky notes); Fact Check = cutaway cards; Mema Hazel Explains = kitchen scene
-- **Silhouettes:** each girl must be identifiable by shape alone (Solani's buns + clips; Mia's space buns + overalls; Toni's unicorn backpack; Imani's clipboard)
+- **Silhouettes:** each girl must be identifiable by shape alone (Solani's butterfly puffs; Mia's star-clipped fluffy puffs + overalls; Toni's unicorn backpack; Imani's clipboard)
 - **Palette:** Mia's world = hot pink + sunny yellow + lavender. Series world = deeper jewel tones + Albany's brick + bodega warmth. Same brand, two moods.
 - **Assets owned:** Mia v2 character sheet + Sisterwatch scene (2026 quality); 2024 Mia expression sheet (11 expressions, to remaster); Solani character bible; the whole cast's fashion specs in the Pixar docs.
 

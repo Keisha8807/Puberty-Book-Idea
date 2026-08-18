@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.0 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.1 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -108,7 +108,7 @@ The exact Ask Mema Hazel page treatment must be approved during the Episode 1 fo
 ## 9. Visual locks
 
 - Style: modern 3D animation, expressive, warm, high detail, vibrant
-- Mia: warm brown skin with golden undertones; amber-brown eyes; freckles; gap-toothed grin; two braided puffs with colorful beads and star clips; hot-pink patched overalls; yellow shirt; one blue and one pink painted sneaker
+- Mia: warm brown skin with golden undertones; expressive brown eyes; freckles; gap-toothed grin; two high fluffy puffs with neat braided/cornrow front sections and colorful star clips; small gold hoops; bright multicolor paint-splash shirt; hot-pink overalls with colorful flower pins; matching multicolor low-top sneakers; colorful bracelets
 - Solani: warm golden-brown skin with red undertones; youthful face and full cheeks; dark eyes; gap-toothed grin and dimples; two high braided puffs with butterfly clips; lavender cropped hoodie over a tank; patchwork jeans; mismatched socks; dusty sneakers; pencil-charm necklace
 - Solani must read as **11, nearly 12**, not as an older teen
 - Approved character references outrank prose-only visual guesses

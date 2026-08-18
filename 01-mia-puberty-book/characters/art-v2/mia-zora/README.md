@@ -1,6 +1,6 @@
 # Mia Zora Washington — Visual Library
 
-> **Status:** Hero approved; full reference sheet pending
+> **Status:** Uploaded ChatGPT hero approved August 18, 2026; new full reference sheet pending
 
 ## Upload new candidates
 
@@ -10,33 +10,30 @@ Recommended filename: `source-YYYY-MM-DD-short-description.png`
 
 After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
 
-## Newly uploaded candidates
-
-**[chatgpt-2026-08-18-hero-mia-zora-washington-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-mia-zora-washington-v01.png)**
-
-<img src="00-upload-candidates/chatgpt-2026-08-18-hero-mia-zora-washington-v01.png" alt="Mia Zora Washington uploaded candidate" width="260">
 ## Approved art
 
-**[hero-mia.png](02-approved/hero-mia.png)**
+**[hero-mia.png](02-approved/hero-mia.png)** — controlling visual identity
 
-<img src="02-approved/hero-mia.png" alt="Mia Zora Washington — hero-mia.png" width="260">
+<img src="02-approved/hero-mia.png" alt="Approved Mia Zora Washington hero" width="300">
 
 ## Candidates
 
-_None yet._
+_None currently awaiting review._
 
 ## Reference sheets
 
-**[mia-v2-character-sheet.png](03-reference-sheets/mia-v2-character-sheet.png)**
-
-<img src="03-reference-sheets/mia-v2-character-sheet.png" alt="Mia Zora Washington — mia-v2-character-sheet.png" width="260">
+_New turnaround, expression row, and palette will be built from the approved hero._
 
 ## Scenes
 
-**[mia-v2-sisterwatch-scene.png](04-scenes/mia-v2-sisterwatch-scene.png)**
+_New scenes must use the approved hero and future reference sheet._
 
-<img src="04-scenes/mia-v2-sisterwatch-scene.png" alt="Mia Zora Washington — mia-v2-sisterwatch-scene.png" width="260">
+## Superseded—do not use as current reference
+
+- [Previous Arena hero](99-superseded/hero-mia-arena-previous.png)
+- [Previous character sheet](99-superseded/mia-v2-character-sheet-previous-identity.png)
+- [Previous Sisterwatch scene](99-superseded/mia-v2-sisterwatch-scene-previous-identity.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Mia's exact face, hair, age-read, proportions, and signature hero outfit. Her later reference sheet will lock turnaround, expressions, palette, and recurring props. If a future image drifts, reject the image—not Mia.

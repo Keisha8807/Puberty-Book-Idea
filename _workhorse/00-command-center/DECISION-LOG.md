@@ -58,6 +58,14 @@
 - **Effect:** Existing art is organized by character. External generated images may be uploaded as candidates and can become the approved reference after Keisha's visual gate and usage-right check.
 - **Status:** Locked
 
+## DEC-2026-08-18-009 — Mia's uploaded ChatGPT identity becomes canon
+
+- **Decision:** Use the uploaded ChatGPT Mia hero exactly as the controlling visual identity and synchronize the text descriptions to match it.
+- **Reason:** Keisha prefers this complete visual over the previous Arena hero and does not want to blend the two versions.
+- **Effect:** Active Canon advances to v1.1. Mia now has high fluffy puffs with braided/cornrow fronts and star clips, small gold hoops, a multicolor paint-splash shirt, flower-pinned hot-pink overalls, matching multicolor sneakers, and colorful bracelets. Her prior hero, reference sheet, and Sisterwatch scene are superseded and preserved.
+- **Supersedes:** The Mia visual portion of DEC-2026-08-18-007
+- **Status:** Locked
+
 ---
 
 ## New decision template

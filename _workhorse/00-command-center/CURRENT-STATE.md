@@ -38,11 +38,14 @@ The 2024 Canva draft and old chapters are **archive/reference only**. The new bo
 
 ### Visuals
 
-Generated hero files exist for Mia, Solani, Brenda, Seraphina, Lily, Max, Mema Hazel, Marcus, Uncle Mo, and Jada.
+A per-character GitHub visual library now lives at `01-mia-puberty-book/characters/art-v2/`. Each character has an upload inbox, candidate gallery, approval area, and room for later reference sheets and scenes.
 
-- Revised Mia, Solani, and Brenda heroes: generated; explicit visual approval still pending
-- Remaining heroes: Emma, Kayla, Sophie, Ms. Vitality, Nurse Nightingale, Dr. Smiles, Ms. Pythagoras, Ms. Armstrong, Ms. Harmony
-- Mia full turnaround/reference sheet: not started
+- Mia: uploaded ChatGPT identity approved; Active Canon and all current description sources synchronized
+- Mia's previous Arena hero, character sheet, and Sisterwatch scene: superseded and preserved for history
+- Washington-family candidate uploads received for Solani, Brenda, Marcus, Mema Hazel, Uncle Mo, Seraphina, Lily, and Max; decisions continue one character at a time
+- Previously approved heroes remain for Brenda, Marcus, Mema Hazel, Uncle Mo, Seraphina, Lily, Max, and Jada until each newly uploaded candidate is reviewed
+- Candidate selection still needed for Emma, Kayla, Sophie, Ms. Vitality, Nurse Nightingale, Dr. Smiles, Ms. Pythagoras, Ms. Armstrong, and Ms. Harmony
+- Mia full turnaround/reference sheet: must be rebuilt from the newly approved identity
 - Mia 11-expression remaster: not started
 - Character intro cards: not started
 
@@ -88,4 +91,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-Keisha reviews each character library and uploads any preferred ChatGPT-generated candidates into that character's `00-upload-candidates/` folder. After the uploads, the Workhorse resumes one-character-at-a-time identity selection, beginning with Emma.
+Continue one-character-at-a-time Washington family identity selection. Mia is complete; Solani is the next visual decision.

@@ -4,16 +4,15 @@
 
 ## Waiting on Keisha
 
-No unblocked approval is waiting. Keisha may first upload preferred external candidates into the new per-character inboxes.
-
-### AQ-003 — Remaining character identity gates
+### AQ-003 — Washington family identity gates
 
 - **Type:** Visual
 - **Risk:** Yellow
-- **Decision needed:** Choose one identity per character, one character at a time
-- **First character after uploads:** Emma
-- **Blocked by:** Candidate uploads/organization
-- **Status:** Not ready
+- **Decision needed:** Choose one uploaded identity at a time and authorize any Lock Block sync
+- **Completed:** Mia — exact uploaded ChatGPT look approved
+- **Current character:** Solani
+- **Blocked by:** Nothing
+- **Status:** Waiting
 
 ## Approved this sprint
 

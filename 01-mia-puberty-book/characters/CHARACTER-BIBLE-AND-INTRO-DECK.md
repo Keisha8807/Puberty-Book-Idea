@@ -9,7 +9,7 @@
 
 ### 👧🏾 MIA ZORA WASHINGTON — *our narrator*
 - **10 · 5th grade · the little sister who investigates everything**
-- **Signature look:** hot pink overalls with hand-sewn patches, sunny yellow tee, space buns with **star clips** ("stars are better than butterflies anyway"), one blue + one pink hand-painted sneaker, gap-tooth grin, freckles
+- **Signature look:** high fluffy puffs with neat braided/cornrow front sections and colorful **star clips** ("stars are better than butterflies anyway"), small gold hoops, bright multicolor paint-splash tee, hot-pink overalls with colorful flower pins, matching multicolor low-top sneakers, colorful bracelets, gap-tooth grin, freckles
 - **Personality:** fiercely curious, confidently wrong, dramatic, loyal to the bone
 - **Voice:** fourth-wall breaker, inventor of words ("hormotional"), case files & bulletins
 - **Catchphrase:** *"Stick with me. I'll explain everything."*
