@@ -54,3 +54,20 @@ Each board must pass:
 - Batch 2: remaining Washington family
 - Batch 3: rivals and school adults
 - Expand individual characters beyond a composite only when story production needs more detail
+
+## Batch 2 — Generated
+
+| Character | Candidate assets | QA note |
+|---|---|---|
+| Mia | Turnaround/palette v02 | No-gap corrected; candidate awaiting approval |
+| Mia | Expressions B curated v04 | Five selected faces assembled from overgenerated source; awaiting approval |
+| Solani | Braces-aware board v02 | Braces/elastics, gap, dimples, alternate outfit and necklace present |
+| Marcus | Composite board v01 | Generated; QA candidate |
+| Uncle Mo | Composite board v01 | Generated role-neutral; QA candidate |
+| Seraphina | Composite board v01 | Generated; QA candidate |
+| Lily | Composite board v01 | Generated; QA candidate |
+| Max | Composite board v01 | Generated; QA candidate |
+| Kayla | Composite board v01 | Identity correct; one small planner view has garbled lettering |
+| Sophie | Composite board v01 | Generated from approved v04 hero; QA candidate |
+
+Batch 3 receives: Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, Nurse Nightingale, Dr. Smiles, plus correction capacity.
