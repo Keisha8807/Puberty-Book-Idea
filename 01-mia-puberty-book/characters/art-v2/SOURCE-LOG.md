@@ -24,6 +24,14 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Lily | `lily/02-approved/hero-lily.png` | ChatGPT | Keisha | Yes | Confirmed by Keisha as her generated candidate | Approved | Exact uploaded look approved |
 | 2026-08-18 | Max | `max/02-approved/hero-max.png` | ChatGPT | Keisha | Yes | Confirmed by Keisha as her generated candidate | Approved | Exact uploaded look approved |
 
+| 2026-08-18 | Kayla | `kayla/02-approved/hero-kayla.png` | Existing project art; exact generator metadata not backfilled | Keisha-directed prior session | Yes | Approved by Keisha | Approved | Exact existing candidate approved |
+| 2026-08-18 | Ms. Harmony | `ms-harmony/02-approved/hero-ms-harmony.png` | Arena image generation; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Approved identity; full-body text-free cleanup |
+| 2026-08-18 | Ms. Armstrong | `ms-armstrong/02-approved/hero-ms-armstrong.png` | Arena image generation; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Approved identity; conflicting school branding removed |
+| 2026-08-18 | Ms. Pythagoras | `ms-pythagoras/02-approved/hero-ms-pythagoras.png` | Arena image generation; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Correct theorem; false/garbled background equations removed |
+| 2026-08-18 | Ms. Vitality | `ms-vitality/02-approved/hero-ms-vitality.png` | Arena image generation; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Approved identity; full-body, text-free cleanup |
+| 2026-08-18 | Nurse Nightingale | `nurse-nightingale/02-approved/hero-nurse-nightingale.png` | Arena image generation; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Approved identity; full-body, label-free cleanup |
+| 2026-08-18 | Dr. Smiles | `dr-smiles/00-upload-candidates/arena-2026-08-18-hero-dr-smiles-woman-v02.png` | Arena image generation; gender recast | Keisha-directed Workhorse | Yes | Pending exact visual approval | Candidate | Woman recast required by Keisha; retired male art superseded |
+
 ## Required before approval
 
 - [ ] Character and file are identified

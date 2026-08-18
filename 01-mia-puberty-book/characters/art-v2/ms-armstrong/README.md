@@ -1,33 +1,28 @@
 # Ms. Armstrong — Visual Library
 
-> **Status:** Candidate selection needed
-
-## Upload new candidates
-
-Drop original, highest-resolution images into **`00-upload-candidates/`** on GitHub. Images from ChatGPT or another generator may be used as candidates when Keisha generated them or otherwise has the right to use them. Avoid third-party character art that is not ours.
-
-Recommended filename: `source-YYYY-MM-DD-short-description.png`
-
-After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
+> **Status:** Approved identity; school-brand-free hero produced August 18, 2026
 
 ## Approved art
 
-_None yet._
+**[hero-ms-armstrong.png](02-approved/hero-ms-armstrong.png)** — controlling visual identity
 
-## Candidates
+<img src="02-approved/hero-ms-armstrong.png" alt="Approved Ms. Armstrong hero" width="300">
 
-**[ms-armstrong.png](01-candidates/ms-armstrong.png)**
+## Signature locks
 
-<img src="01-candidates/ms-armstrong.png" alt="Ms. Armstrong — ms-armstrong.png" width="260">
+- Tough-but-kind Black gym teacher in her 30s with athletic build
+- High curly ponytail and navy-white headband
+- Navy striped tracksuit, whistle, watch, clean white sneakers
+- Clipboard and maroon dodgeball; generic gym with no school branding
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, wardrobe/prop palette, and recurring poses will be built from the approved hero._
 
-## Scenes
+## Superseded—do not use as current reference
 
-_None yet._
+- [ms-armstrong-branded-gym-original.png](99-superseded/ms-armstrong-branded-gym-original.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Ms. Armstrong’s exact identity. If a future image drifts or reintroduces technical errors, reject the image—not the character.

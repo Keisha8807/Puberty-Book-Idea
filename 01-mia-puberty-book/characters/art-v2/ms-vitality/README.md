@@ -1,33 +1,28 @@
 # Ms. Vitality — Visual Library
 
-> **Status:** Candidate selection needed
-
-## Upload new candidates
-
-Drop original, highest-resolution images into **`00-upload-candidates/`** on GitHub. Images from ChatGPT or another generator may be used as candidates when Keisha generated them or otherwise has the right to use them. Avoid third-party character art that is not ours.
-
-Recommended filename: `source-YYYY-MM-DD-short-description.png`
-
-After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
+> **Status:** Approved identity; clean full-body hero produced August 18, 2026
 
 ## Approved art
 
-_None yet._
+**[hero-ms-vitality.png](02-approved/hero-ms-vitality.png)** — controlling visual identity
 
-## Candidates
+<img src="02-approved/hero-ms-vitality.png" alt="Approved Ms. Vitality hero" width="300">
 
-**[ms-vitality.png](01-candidates/ms-vitality.png)**
+## Signature locks
 
-<img src="01-candidates/ms-vitality.png" alt="Ms. Vitality — ms-vitality.png" width="260">
+- Energetic joyful Black health teacher in her 30s
+- High natural puff and teal-gold headband
+- Sunny-yellow athletic jacket, charcoal heart-icon tee, teal leggings, bright sneakers
+- Whistle/lanyard, raised fist, heart-icon mug; no readable health claims in art
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, wardrobe/prop palette, and recurring poses will be built from the approved hero._
 
-## Scenes
+## Superseded—do not use as current reference
 
-_None yet._
+- [ms-vitality-text-artifacts-original.png](99-superseded/ms-vitality-text-artifacts-original.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Ms. Vitality’s exact identity. If a future image drifts or reintroduces technical errors, reject the image—not the character.

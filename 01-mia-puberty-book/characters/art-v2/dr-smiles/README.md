@@ -1,33 +1,23 @@
 # Dr. Smiles — Visual Library
 
-> **Status:** Candidate selection needed
+> **Status:** Gender recast approved—Dr. Smiles is a Black woman; exact woman hero candidate awaiting approval
 
-## Upload new candidates
+## Current woman candidate
 
-Drop original, highest-resolution images into **`00-upload-candidates/`** on GitHub. Images from ChatGPT or another generator may be used as candidates when Keisha generated them or otherwise has the right to use them. Avoid third-party character art that is not ours.
+**[arena-2026-08-18-hero-dr-smiles-woman-v02.png](00-upload-candidates/arena-2026-08-18-hero-dr-smiles-woman-v02.png)**
 
-Recommended filename: `source-YYYY-MM-DD-short-description.png`
+<img src="00-upload-candidates/arena-2026-08-18-hero-dr-smiles-woman-v02.png" alt="Woman Dr. Smiles candidate" width="300">
 
-After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
+## Canon already locked
 
-## Approved art
+- Dr. Smiles is an African American Black woman pediatrician in her early-to-mid 40s
+- Warm, playful, patient, and medically responsible
+- Exact hair, face, outfit, and hero details await Keisha's visual approval
 
-_None yet._
+## Superseded—do not use as current reference
 
-## Candidates
-
-**[dr-smiles.png](01-candidates/dr-smiles.png)**
-
-<img src="01-candidates/dr-smiles.png" alt="Dr. Smiles — dr-smiles.png" width="260">
-
-## Reference sheets
-
-_None yet._
-
-## Scenes
-
-_None yet._
+- [Retired male Dr. Smiles](99-superseded/dr-smiles-male-retired-canon.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The retired male art cannot be reused. The woman candidate remains proposed until Keisha explicitly approves her exact identity.

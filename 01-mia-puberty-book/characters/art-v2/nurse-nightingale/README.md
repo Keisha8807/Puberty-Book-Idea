@@ -1,33 +1,29 @@
 # Nurse Nightingale — Visual Library
 
-> **Status:** Candidate selection needed
-
-## Upload new candidates
-
-Drop original, highest-resolution images into **`00-upload-candidates/`** on GitHub. Images from ChatGPT or another generator may be used as candidates when Keisha generated them or otherwise has the right to use them. Avoid third-party character art that is not ours.
-
-Recommended filename: `source-YYYY-MM-DD-short-description.png`
-
-After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
+> **Status:** Approved identity; clean text-free full-body hero produced August 18, 2026
 
 ## Approved art
 
-_None yet._
+**[hero-nurse-nightingale.png](02-approved/hero-nurse-nightingale.png)** — controlling visual identity
 
-## Candidates
+<img src="02-approved/hero-nurse-nightingale.png" alt="Approved Nurse Nightingale hero" width="300">
 
-**[nurse-nightingale.png](01-candidates/nurse-nightingale.png)**
+## Signature locks
 
-<img src="01-candidates/nurse-nightingale.png" alt="Nurse Nightingale — nurse-nightingale.png" width="260">
+- Warm quirky Black school nurse in her 40s
+- Colorful woven headwrap, earrings, warm knowing eyes
+- Turquoise icon-pattern scrubs, plush-sun stethoscope charm, fanny pack, teal-white nursing sneakers
+- Rainbow bandage held like a prize; office contains no readable labels
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, wardrobe/prop palette, and recurring poses will be built from the approved hero._
 
-## Scenes
+## Superseded—do not use as current reference
 
-_None yet._
+- [nurse-nightingale-cropped-original.png](99-superseded/nurse-nightingale-cropped-original.png)
+- [nurse-nightingale-labeled-intermediate-v02.png](99-superseded/nurse-nightingale-labeled-intermediate-v02.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Nurse Nightingale’s exact identity. If a future image drifts or reintroduces technical errors, reject the image—not the character.
