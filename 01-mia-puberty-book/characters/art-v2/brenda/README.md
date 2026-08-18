@@ -15,6 +15,11 @@ After uploading, tell the Workhorse which character you updated. No upload becom
 **[chatgpt-2026-08-18-hero-brenda-washington-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-brenda-washington-v01.png)**
 
 <img src="00-upload-candidates/chatgpt-2026-08-18-hero-brenda-washington-v01.png" alt="Brenda Washington uploaded candidate" width="260">
+
+**[arena-2026-08-18-hero-brenda-fashionista-v02.png](00-upload-candidates/arena-2026-08-18-hero-brenda-fashionista-v02.png)**
+
+<img src="00-upload-candidates/arena-2026-08-18-hero-brenda-fashionista-v02.png" alt="Brenda Washington natural-hair fashionista candidate" width="260">
+
 ## Approved art
 
 **[hero-brenda.png](02-approved/hero-brenda.png)**
