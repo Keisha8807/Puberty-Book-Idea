@@ -1,6 +1,6 @@
 # Marcus Washington — Visual Library
 
-> **Status:** Hero approved
+> **Status:** Uploaded ChatGPT hero approved August 18, 2026; full reference sheet pending
 
 ## Upload new candidates
 
@@ -10,31 +10,37 @@ Recommended filename: `source-YYYY-MM-DD-short-description.png`
 
 After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
 
-## Newly uploaded candidates
-
-**[chatgpt-2026-08-18-hero-marcus-washington-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-marcus-washington-v01.png)**
-
-<img src="00-upload-candidates/chatgpt-2026-08-18-hero-marcus-washington-v01.png" alt="Marcus Washington uploaded candidate" width="260">
 ## Approved art
 
-**[hero-marcus.png](02-approved/hero-marcus.png)**
+**[hero-marcus.png](02-approved/hero-marcus.png)** — controlling visual identity
 
-<img src="02-approved/hero-marcus.png" alt="Marcus Washington — hero-marcus.png" width="260">
+<img src="02-approved/hero-marcus.png" alt="Approved Marcus Washington hero" width="300">
+
+## Signature locks
+
+- Early-40s Black dad with short tightly coiled tapered fade
+- Full neatly shaped beard and mustache; no glasses
+- Paint-splattered blue denim jacket, cream tee, dark jeans
+- Blue-white-orange sneakers
+- Camera always in his hands or nearby
 
 ## Candidates
 
-**[marcus-dad.png](01-candidates/marcus-dad.png)**
-
-<img src="01-candidates/marcus-dad.png" alt="Marcus Washington — marcus-dad.png" width="260">
+_None currently awaiting review._
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, wardrobe palette, and camera callout will be built from the approved hero._
 
 ## Scenes
 
-_None yet._
+_New scenes must use the approved hero and future reference sheet._
+
+## Superseded—do not use as current reference
+
+- [Previous Arena hero](99-superseded/hero-marcus-arena-previous.png)
+- [Early Marcus candidate](99-superseded/marcus-early-candidate.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Marcus's exact face, hair, beard, age-read, proportions, and signature wardrobe. If a future image drifts, reject the image—not Marcus.

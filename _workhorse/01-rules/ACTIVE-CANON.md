@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.3 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.4 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -40,7 +40,7 @@ The Washingtons are an **African American Black family** living in Albany, New Y
 | Character | Locked detail |
 |---|---|
 | Brenda | Mom; warm and perceptive |
-| Marcus | Dad; locs, square glasses, paint-flecked jacket, camera; creative and playful |
+| Marcus | Dad; early 40s; short coily tapered fade; full neat beard; no glasses; paint-splattered denim jacket; camera; creative and playful |
 | Mema Hazel | Grandma; show tunes, cat-eye glasses, talks to plants, trusted myth-buster |
 | Uncle Mo | Brenda's brother; runs the bodega; never call him Tío Mo |
 | Seraphina | 15; dramatic oldest sister |

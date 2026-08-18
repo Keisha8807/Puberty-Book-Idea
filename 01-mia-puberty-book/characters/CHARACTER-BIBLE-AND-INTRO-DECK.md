@@ -39,7 +39,7 @@
 - **Intro line:** *"I'm the mom. Which means I know everything before you tell me. Ask me how."*
 
 ### 👨🏾 MARCUS WASHINGTON — *the dad*
-- **Signature look:** cool sneakers, paint-flecked jacket, camera always nearby
+- **Signature look:** short coily tapered fade, full neat beard, paint-splattered denim jacket, cream tee, dark jeans, blue-white-orange sneakers, camera always in his hands or nearby
 - **Personality:** creative, playful, turns every problem into a game
 - **Catchphrase:** *"What's the play?"*
 - **Intro line:** *"I'm Dad. I make the rules fun and the pancakes questionable."*

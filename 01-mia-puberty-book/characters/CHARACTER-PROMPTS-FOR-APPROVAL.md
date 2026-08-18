@@ -54,8 +54,8 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 > **Hero prompt:** Full-body portrait, one hand confidently on her hip and the other raising her wooden spoon, laughing like she just called the whole Washington family to eat. Background: warm peach-to-cream studio gradient. [STYLE BLOCK]
 
 ### 👨🏾 MARCUS (dad — Black American) — [LOCK BLOCK]
-> "Marcus," a cool creative Black American dad in his early 40s. Deep brown skin, short neat locs, clean-shaven face, square black glasses, warm proud grin. Signature outfit: paint-flecked denim jacket over a graphic tee, dark jeans, fresh sneakers, camera on a strap around his neck.
-> **Hero prompt:** Full-body portrait, filming the family chaos with the camera half-raised, laughing, proud-dad energy. Background: sunny living room with kids' colorful art on the walls. [STYLE BLOCK]
+> "Marcus Washington," a cool creative Black American dad in his early 40s. Deep brown skin, short tightly coiled hair in a clean tapered fade, full neatly shaped beard and mustache, expressive brown eyes, and a warm proud grin. He does not wear glasses. Signature outfit: blue paint-splattered denim jacket over a plain cream t-shirt, dark denim jeans, and fresh blue-white-orange low-top sneakers. His black camera is always in his hands or nearby.
+> **Hero prompt:** Full-body portrait, holding the camera at chest level with both hands, laughing with proud-dad energy. Background: clean soft-light-blue studio gradient. [STYLE BLOCK]
 
 ### 🧔🏾 UNCLE MO (uncle — Brenda's brother) — [LOCK BLOCK]
 > "Uncle Mo," a warm African American Black man in his late 30s. Neat short beard, kind smile, gentle eyes, warm brown skin. Signature outfit: button-up shirt with rolled sleeves under a corner-store apron.

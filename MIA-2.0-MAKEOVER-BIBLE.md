@@ -9,7 +9,7 @@
 | Old Mia family (2024) | New: **The Washington Family** (merged canon) |
 |---|---|
 | Mom: Brenda | 👩🏽 **Brenda Washington** — African American mom, warm, the Period Whisperer |
-| Dad: Marcus | 👨🏾 **Marcus Washington** — the cool creative dad (kept!) |
+| Dad: Marcus | 👨🏾 **Marcus Washington** — the cool creative dad; coily tapered fade, neat beard, paint-splattered jacket, camera always ready |
 | Grandma: Mema Hazel | 👵🏾 **Mema Hazel** — Marcus's mom, Betty White energy, song-and-dance routines, talks to her plants (kept!) |
 | Older sister: Seraphina | 👩🏾🦱 **Seraphina, 15** — the dramatic OLDEST sister, high school, thinks she's a grown woman |
 | — | 🦋 **SOLANI, 11 (turns 12 in Sept)** — the middle sister. 7th grade. Roast Queen. Going through IT. Mia's subject of investigation |

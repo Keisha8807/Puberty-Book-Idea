@@ -70,6 +70,8 @@ An approved image may replace a visual description, but it does not automaticall
 
 ## Marcus Washington
 
+**Decision — APPROVED:** Use the uploaded ChatGPT Marcus exactly. Short coily tapered fade, full neat beard, no glasses, paint-splattered denim, camera, and blue-white-orange sneakers are now controlling visual canon.
+
 **Strong matches:** Cool creative Black dad; warm grin; camera; paint-flecked denim jacket; dark jeans; fresh sneakers.
 
 **Differences from current Lock Block:**

@@ -82,6 +82,13 @@
 - **Supersedes:** The Brenda visual portion of DEC-2026-08-18-007
 - **Status:** Locked
 
+## DEC-2026-08-18-012 — Marcus's uploaded ChatGPT identity becomes canon
+
+- **Decision:** Use the uploaded ChatGPT Marcus exactly as the controlling visual identity.
+- **Reason:** Keisha prefers the new father design over the previous locs, glasses, and clean-shaven version.
+- **Effect:** Active Canon advances to v1.4. Marcus now has a short coily tapered fade, full neat beard and mustache, no glasses, paint-splattered denim jacket, cream tee, dark jeans, blue-white-orange sneakers, and camera in hand. Earlier Marcus art is superseded and preserved.
+- **Status:** Locked
+
 ---
 
 ## New decision template
