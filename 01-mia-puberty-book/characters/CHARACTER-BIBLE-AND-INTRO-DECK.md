@@ -26,7 +26,7 @@
 
 ### 👵🏾 MEMA HAZEL — *the myth-buster-in-chief*
 - **Grandma · age: classified (fabulous)**
-- **Signature look:** colorful headscarf, bright-frame cat-eye glasses (usually on top of her head), chunky beaded necklaces, lavender scent, roller-skating whiz
+- **Signature look:** teal-patterned headwrap, coral-pink cat-eye glasses, flower earrings, chunky pink-and-cream beads, floral cardigan with pink trim, olive pants, pink slip-ons, beloved potted plant; flowing floral house dress for home/show-tune days; lavender scent; roller-skating whiz
 - **Personality:** show-tune energy, contagious laugh, talks to her plants, wisdom disguised as chaos
 - **Voice:** warm, quippy, mid-song-and-dance at all times
 - **Catchphrase:** *"Baby, let me tell you something..."*

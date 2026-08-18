@@ -33,7 +33,7 @@
 **The Washington Family — one house:**
 | Character | Age | Grade | Role in the universe |
 |---|---|---|---|
-| **Mema Hazel** (grandma) | — | — | The matriarch + trusted adult. Show tunes, cat-eye glasses on her head, talks to plants. The Wisest Bust-er of Myths. |
+| **Mema Hazel** (grandma) | — | — | The matriarch + trusted adult. Show tunes, coral-pink cat-eye glasses, talks to plants. The Wisest Bust-er of Myths. |
 | **Brenda** (mom) | — | — | African American, warm. The Period Whisperer. |
 | **Marcus** (dad) | — | — | Cool creative dad. Makes everything a game. |
 | **Uncle Mo** (uncle) | — | — | Brenda's brother. Runs the bodega. Gives the pencil-charm necklace. Wisdom at the kitchen table. |

@@ -89,6 +89,13 @@
 - **Effect:** Active Canon advances to v1.4. Marcus now has a short coily tapered fade, full neat beard and mustache, no glasses, paint-splattered denim jacket, cream tee, dark jeans, blue-white-orange sneakers, and camera in hand. Earlier Marcus art is superseded and preserved.
 - **Status:** Locked
 
+## DEC-2026-08-18-013 — Mema Hazel's uploaded identity with alternate dress
+
+- **Decision:** Use the uploaded ChatGPT Mema as the controlling identity and hero outfit while preserving the flowing floral house dress and mid-dance show-tune pose as an approved alternate.
+- **Reason:** The upload strongly matches Mema's age, warmth, headwrap, cat-eye glasses, beads, joyful personality, and plant motif; Keisha wants the earlier house-dress lane retained.
+- **Effect:** Active Canon advances to v1.5. Mema's hero outfit is a floral cardigan, coral top, olive pants, and pink slip-ons. Her house dress remains available for home and performance scenes.
+- **Status:** Locked
+
 ---
 
 ## New decision template

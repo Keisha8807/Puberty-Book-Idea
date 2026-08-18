@@ -28,7 +28,7 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 **The Washington Family** — one house in Albany, NY:
 - **Brenda** (mom) — African American, warm, the Period Whisperer
 - **Marcus** (dad) — cool, creative, makes everything a game
-- **Mema Hazel** (grandma) — Betty White energy, show tunes, cat-eye glasses on her head, talks to her plants. The trusted adult.
+- **Mema Hazel** (grandma) — Betty White energy, show tunes, coral-pink cat-eye glasses, talks to her plants. The trusted adult.
 - **Uncle Mo** (uncle) — Brenda's brother, the pencil-charm necklace giver, wisdom at the kitchen table
 - **Seraphina (15)** — the dramatic oldest sister
 - **SOLANI "Maya" (11, turns 12 in Sept)** — the middle sister, 7th grade, Roast Queen, butterfly clips, going through IT. Mia's subject of investigation.

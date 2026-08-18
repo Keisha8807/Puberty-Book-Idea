@@ -44,9 +44,10 @@ A per-character GitHub visual library now lives at `01-mia-puberty-book/characte
 - Solani: uploaded ChatGPT identity and hero outfit approved; gap/dimples, pencil necklace, and patchwork alternate outfit preserved
 - Brenda: revised natural-hair mom-fashionista hero approved and synchronized
 - Marcus: uploaded ChatGPT hero approved exactly and synchronized
-- Superseded Mia, Solani, Brenda, and Marcus assets are preserved for history and blocked from current-reference use
-- Washington-family candidate uploads remain for Mema Hazel, Uncle Mo, Seraphina, Lily, and Max; decisions continue one character at a time
-- Previously approved heroes remain for those five family members and Jada until each newly uploaded candidate is reviewed
+- Mema Hazel: uploaded ChatGPT hero approved; floral house dress retained as alternate
+- Superseded Mia, Solani, Brenda, Marcus, and Mema assets are preserved for history and blocked from current-reference use
+- Washington-family candidate uploads remain for Uncle Mo, Seraphina, Lily, and Max; decisions continue one character at a time
+- Previously approved heroes remain for those four family members and Jada until each newly uploaded candidate is reviewed
 - Candidate selection still needed for Emma, Kayla, Sophie, Ms. Vitality, Nurse Nightingale, Dr. Smiles, Ms. Pythagoras, Ms. Armstrong, and Ms. Harmony
 - Mia full turnaround/reference sheet: must be rebuilt from the newly approved identity
 - Mia 11-expression remaster: not started
@@ -94,4 +95,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-Continue one-character-at-a-time Washington family identity selection. Mia, Solani, Brenda, and Marcus are complete; Mema Hazel is the next visual decision.
+Continue one-character-at-a-time Washington family identity selection. Mia, Solani, Brenda, Marcus, and Mema Hazel are complete; Uncle Mo is the next visual decision.

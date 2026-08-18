@@ -29,11 +29,11 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Review and decide Mema Hazel's uploaded ChatGPT identity.**
+**Review and decide Uncle Mo's uploaded ChatGPT identity.**
 
 ## After that gate
 
-1. Continue Washington family selection: Uncle Mo → Seraphina → Lily → Max.
+1. Continue Washington family selection: Seraphina → Lily → Max.
 2. Select the remaining friend, rival, and adult identities.
 3. Generate or refine only the hero portraits still needed.
 4. Build Mia's new turnaround, expression row, and palette.

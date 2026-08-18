@@ -87,6 +87,8 @@ An approved image may replace a visual description, but it does not automaticall
 
 ## Mema Hazel
 
+**Decision — APPROVED WITH ALTERNATE:** Use the uploaded ChatGPT Mema as the controlling identity and hero outfit. Preserve the flowing floral house dress and mid-dance show-tune pose as an approved alternate.
+
 **Strong matches:** Clearly in her 70s; colorful patterned headwrap; oversized cat-eye glasses; beaded necklace; deep warm skin; joyful expression; potted plant; playful style.
 
 **Differences from current Lock Block:**

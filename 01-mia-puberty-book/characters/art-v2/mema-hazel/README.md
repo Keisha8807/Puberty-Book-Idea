@@ -1,6 +1,6 @@
 # Mema Hazel — Visual Library
 
-> **Status:** Hero approved
+> **Status:** Uploaded ChatGPT hero approved August 18, 2026; floral house dress preserved as alternate; full reference sheet pending
 
 ## Upload new candidates
 
@@ -10,31 +10,38 @@ Recommended filename: `source-YYYY-MM-DD-short-description.png`
 
 After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
 
-## Newly uploaded candidates
-
-**[chatgpt-2026-08-18-hero-mema-hazel-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-mema-hazel-v01.png)**
-
-<img src="00-upload-candidates/chatgpt-2026-08-18-hero-mema-hazel-v01.png" alt="Mema Hazel uploaded candidate" width="260">
 ## Approved art
 
-**[hero-mema-hazel.png](02-approved/hero-mema-hazel.png)**
+**[hero-mema-hazel.png](02-approved/hero-mema-hazel.png)** — controlling visual identity and hero outfit
 
-<img src="02-approved/hero-mema-hazel.png" alt="Mema Hazel — hero-mema-hazel.png" width="260">
+<img src="02-approved/hero-mema-hazel.png" alt="Approved Mema Hazel hero" width="300">
+
+## Signature locks
+
+- Clearly in her 70s with warm deep-brown skin and expressive laugh lines
+- Teal-patterned headwrap and oversized coral-pink cat-eye glasses worn on her face
+- Flower earrings, chunky pink-and-cream beads, colorful bangles
+- Floral cardigan with bold pink trim, coral top, olive pants, bright pink slip-ons
+- Potted plant as recurring prop
+- Approved alternate: flowing floral house dress and mid-dance show-tune pose
 
 ## Candidates
 
-**[mema-hazel.png](01-candidates/mema-hazel.png)**
-
-<img src="01-candidates/mema-hazel.png" alt="Mema Hazel — mema-hazel.png" width="260">
+_None currently awaiting review._
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, wardrobe palette, dance poses, glasses/headwrap details, and plant callout will be built from the approved hero._
 
 ## Scenes
 
-_None yet._
+_New scenes must use the approved hero and future reference sheet._
+
+## Superseded—do not use as current reference
+
+- [Previous Arena hero](99-superseded/hero-mema-hazel-arena-previous.png)
+- [Early Mema candidate](99-superseded/mema-hazel-early-candidate.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Mema Hazel's exact face, age-read, glasses, headwrap, proportions, and hero outfit. Her floral house dress remains an approved alternate. If a future image drifts, reject the image—not Mema.

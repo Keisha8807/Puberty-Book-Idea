@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.4 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.5 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -112,6 +112,7 @@ The exact Ask Mema Hazel page treatment must be approved during the Episode 1 fo
 - Solani: warm golden-brown skin with red undertones; youthful face and full cheeks; wide-set dark eyes; expressive brows; knowing closed-mouth smile and a gap-toothed, deeply dimpled open grin; two high fluffy braided puffs with neat cornrow fronts and butterfly clips; hero outfit = cropped lavender hoodie, black joggers with purple drawstring, purple-and-white high-tops; recurring pencil-charm necklace from Uncle Mo; alternate outfit = striped tank, patchwork jeans, mismatched rainbow socks, dusty sneakers
 - Solani must read as **11, nearly 12**, not as an older teen
 - Brenda: youthful late-30s mom; warm brown skin; huge joyful laugh; polished shoulder-length natural twist-out; gold hoops; terracotta wrap blouse with softly puffed sleeves and tied waist; high-waisted dark indigo tailored wide-leg jeans; slim cognac belt; stacked bracelets; cognac pointed-toe flats; wooden spoon family-call prop
+- Mema Hazel: clearly in her 70s; deep warm brown skin; teal-patterned headwrap; coral-pink cat-eye glasses worn on her face; flower earrings; chunky beads; floral cardigan with pink trim; coral top; olive pants; pink slip-ons; potted plant; alternate flowing floral house dress and dance pose
 - Approved character references outrank prose-only visual guesses
 - Reject a drifting image; do not rewrite the character to match it
 
