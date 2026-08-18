@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.9 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.10 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -123,7 +123,7 @@ The exact Ask Mema Hazel page treatment must be approved during the Episode 1 fo
 - Ms. Pythagoras: approved geometric-glasses/textured-bun identity; teal math-symbol blazer; `MATH = MAGIC` tee; board correctly reads `a² + b² = c²`; background uses unlabeled geometry only
 - Ms. Armstrong: approved high-ponytail/headband identity; navy striped tracksuit; whistle/watch; clipboard; maroon dodgeball; white sneakers; no school name, mascot, or logo in art
 - Ms. Harmony: approved gold-cuffed shoulder-loc identity; rounded glasses; mustard cardigan; cream blouse; charcoal trousers; sun charm; brown loafers; succulent; text-free counselor office
-- Dr. Smiles: recast as an African American Black **woman** pediatrician in her early-to-mid 40s; retired male art/pronouns are forbidden; exact woman hero appearance awaits approval
+- Dr. Smiles: African American Black woman pediatrician in her early-to-mid 40s; rich medium-deep skin; soft round joyful face; short natural tapered curls with silver-gray accent; white coat; teal-coral-gold patterned blouse; plum ankle trousers; teal-white sneakers; stethoscope/icon pins; tongue-depressor wand and peace-sign pose; retired male art/pronouns forbidden
 - Approved character references outrank prose-only visual guesses
 - Reject a drifting image; do not rewrite the character to match it
 

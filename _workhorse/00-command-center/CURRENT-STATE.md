@@ -50,8 +50,10 @@ A per-character GitHub visual library now lives at `01-mia-puberty-book/characte
 - Lily and Max: uploaded ChatGPT heroes approved exactly; personality/story traits preserved
 - **Washington family visual identity gate: complete for all nine family members**
 - Superseded family assets are preserved for history and blocked from current-reference use
-- Jada remains approved from the earlier hero gate
-- Candidate selection still needed for Emma, Kayla, Sophie, Ms. Vitality, Nurse Nightingale, Dr. Smiles, Ms. Pythagoras, Ms. Armstrong, and Ms. Harmony
+- Jada and Kayla are approved
+- Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, and Nurse Nightingale are approved; production cleanup heroes are complete
+- Dr. Smiles: woman pediatrician hero approved and synchronized; male identity retired
+- Emma and Sophie require redesign briefs
 - Mia full turnaround/reference sheet: must be rebuilt from the newly approved identity
 - Mia 11-expression remaster: not started
 - Character intro cards: not started
@@ -98,4 +100,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-Washington family and approved school-cast cleanup are complete. The next decision is whether the new woman Dr. Smiles candidate becomes her exact visual identity.
+Washington family and approved school-cast cleanup are complete. Woman Dr. Smiles is locked. The next visual task is Emma's focused redesign brief.

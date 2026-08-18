@@ -152,6 +152,13 @@
 - **Effect:** Current images remain candidates/superseded references only and cannot seed final reference sheets.
 - **Status:** Locked
 
+## DEC-2026-08-18-022 — Woman Dr. Smiles hero approved
+
+- **Decision:** Approve the generated woman Dr. Smiles candidate as the controlling visual identity.
+- **Reason:** Keisha approved the exact woman design after requesting the gender recast.
+- **Effect:** Active Canon advances to v1.10. Dr. Smiles has short silver-accented natural tapered curls, rich medium-deep skin, a round joyful face, white coat, teal-coral-gold blouse, plum trousers, teal-white sneakers, stethoscope/icon pins, and tongue-depressor-wand/peace-sign pose. The male identity remains retired.
+- **Status:** Locked
+
 ---
 
 ## New decision template

@@ -25,19 +25,19 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Jada and Kayla are approved
 - [x] Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, and Nurse Nightingale are approved with technical cleanups complete
 - [x] Dr. Smiles recast as a Black woman; retired male art archived
-- [ ] Exact woman Dr. Smiles candidate is approved
+- [x] Exact woman Dr. Smiles hero approved and synchronized
 - [ ] Emma redesign is approved
 - [ ] Sophie redesign is approved
 - [ ] Mia's full reference-sheet work packet is ready
 
 ## Current single next action
 
-**Review Emma's existing candidate—or upload a preferred Emma alternative—before hero generation.**
+**Create and approve Emma's focused redesign brief.**
 
 ## After that gate
 
-1. Continue remaining cast selection: Kayla → Sophie → Ms. Vitality → Nurse Nightingale → Dr. Smiles → Ms. Pythagoras → Ms. Armstrong → Ms. Harmony.
-2. Generate or refine only the hero portraits still needed.
+1. Generate and approve Emma's new hero.
+2. Create, generate, and approve Sophie's redesign.
 3. Build Mia's new turnaround, expression row, and palette.
 4. Begin the Episode 1 Book Factory pilot only after Mia's visual lock.
 

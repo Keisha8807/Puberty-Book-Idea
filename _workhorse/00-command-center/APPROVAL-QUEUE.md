@@ -4,16 +4,23 @@
 
 ## Waiting on Keisha
 
-### AQ-004 — Dr. Smiles woman-hero gate
+### AQ-005 — Emma redesign brief
 
 - **Type:** Visual
 - **Risk:** Yellow
-- **Decision needed:** Approve, revise, or reject the exact woman Dr. Smiles candidate
-- **Canon already locked:** Dr. Smiles is an African American Black woman pediatrician in her early-to-mid 40s; male art is retired
+- **Decision needed:** Approve Emma's revised identity direction before generation
+- **Canon retained:** Emma is 10, thoughtful, gentle, artistic, and part of the Myth Machine
 - **Blocked by:** Nothing
 - **Status:** Waiting
 
 ## Approved this sprint
+
+### AQ-004 — Dr. Smiles woman-hero gate
+
+- **Decision:** Exact woman Dr. Smiles candidate approved
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Unlocks:** Dr. Smiles reference sheet; male art remains retired
 
 ### AQ-003 — Washington family identity gates
 

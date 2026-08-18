@@ -135,7 +135,7 @@
 - **Intro line:** *"Nurse Nightingale. I fix boo-boos, bad days, and everything between."*
 
 ### 😄 DR. SMILES — *the playful pediatrician*
-- **Signature look:** African American Black woman pediatrician in her early-to-mid 40s; exact woman hero details pending approval; white coat and tongue-depressor magic-wand energy
+- **Signature look:** short silver-accented natural tapered curls, white coat, teal-coral-gold patterned blouse, plum ankle trousers, teal-white sneakers, stethoscope/icon pins, tongue depressor used like a magic wand
 - **Personality:** playful, patient, answers every question like it's the best one she's heard all day
 - **Catchphrase:** *"No question is silly in here. Try me."*
 - **Intro line:** *"I'm Dr. Smiles. Your body is my favorite subject — let's talk about it."*

@@ -30,7 +30,7 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Ms. Pythagoras | `ms-pythagoras/02-approved/hero-ms-pythagoras.png` | Arena image generation; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Correct theorem; false/garbled background equations removed |
 | 2026-08-18 | Ms. Vitality | `ms-vitality/02-approved/hero-ms-vitality.png` | Arena image generation; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Approved identity; full-body, text-free cleanup |
 | 2026-08-18 | Nurse Nightingale | `nurse-nightingale/02-approved/hero-nurse-nightingale.png` | Arena image generation; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Approved identity; full-body, label-free cleanup |
-| 2026-08-18 | Dr. Smiles | `dr-smiles/00-upload-candidates/arena-2026-08-18-hero-dr-smiles-woman-v02.png` | Arena image generation; gender recast | Keisha-directed Workhorse | Yes | Pending exact visual approval | Candidate | Woman recast required by Keisha; retired male art superseded |
+| 2026-08-18 | Dr. Smiles | `dr-smiles/02-approved/hero-dr-smiles.png` | Arena image generation; gender recast | Keisha-directed Workhorse | Yes | Confirmed | Approved | Exact woman hero approved; retired male identity blocked |
 
 ## Required before approval
 

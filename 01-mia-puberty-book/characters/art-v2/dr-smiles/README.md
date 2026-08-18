@@ -1,18 +1,25 @@
 # Dr. Smiles — Visual Library
 
-> **Status:** Gender recast approved—Dr. Smiles is a Black woman; exact woman hero candidate awaiting approval
+> **Status:** Woman Dr. Smiles hero approved August 18, 2026; retired male identity blocked
 
-## Current woman candidate
+## Approved art
 
-**[arena-2026-08-18-hero-dr-smiles-woman-v02.png](00-upload-candidates/arena-2026-08-18-hero-dr-smiles-woman-v02.png)**
+**[hero-dr-smiles.png](02-approved/hero-dr-smiles.png)** — controlling visual identity
 
-<img src="00-upload-candidates/arena-2026-08-18-hero-dr-smiles-woman-v02.png" alt="Woman Dr. Smiles candidate" width="300">
+<img src="02-approved/hero-dr-smiles.png" alt="Approved woman Dr. Smiles hero" width="300">
 
-## Canon already locked
+## Signature locks
 
-- Dr. Smiles is an African American Black woman pediatrician in her early-to-mid 40s
-- Warm, playful, patient, and medically responsible
-- Exact hair, face, outfit, and hero details await Keisha's visual approval
+- African American Black woman pediatrician in her early-to-mid 40s
+- Rich medium-deep brown skin, kind crinkly eyes, round joyful face, genuine grin
+- Short natural tapered curls with silver-gray accent
+- White doctor's coat, teal-coral-gold patterned blouse, plum ankle trousers
+- Teal-white sneakers, stethoscope, cheerful icon pins
+- Tongue depressor used like a magic wand and playful peace-sign pose
+
+## Reference sheets
+
+_New turnaround, expression row, wardrobe palette, medical-prop callouts, and office poses will be built from the approved hero._
 
 ## Superseded—do not use as current reference
 
@@ -20,4 +27,4 @@
 
 ## Approval rule
 
-The retired male art cannot be reused. The woman candidate remains proposed until Keisha explicitly approves her exact identity.
+The approved hero supplies Dr. Smiles's exact woman identity, age-read, hair, face, proportions, and wardrobe. Male art and pronouns cannot return. If a future image drifts, reject the image—not Dr. Smiles.
