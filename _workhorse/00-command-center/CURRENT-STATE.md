@@ -104,4 +104,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-Mia's full reference package and Solani's braces-aware board are approved. The next image task is Batch 3: remaining school adults plus correction capacity.
+Batch 3 is approved. The next optional visual sprint is a consistency cleanup for the 10 remaining supporting boards; Mia's approved package already unlocks Episode 1.

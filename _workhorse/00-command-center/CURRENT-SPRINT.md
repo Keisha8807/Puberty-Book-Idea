@@ -37,14 +37,15 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Begin Batch 2 with Mia's remaining five no-gap expressions, Mia turnaround tooth correction, and Solani's braces-aware board.**
+**Choose the next lane: clean the 10 remaining supporting reference boards for visual consistency, then begin Episode 1; or begin Episode 1 now because Mia's required package is approved.**
 
-## After that gate
+## Remaining visual-consistency batch
 
-1. Complete remaining Batch 2 character boards.
-2. QA and approve Mia's full 11-expression set and turnaround/palette.
-3. Lock outfit, hair/accessory palette, proportions, and recurring props.
-4. Begin the Episode 1 Book Factory pilot only after Mia's reference sheet is approved.
+Brenda · Mema Hazel · Jada · Emma · Marcus · Uncle Mo · Seraphina · Lily · Max · Sophie
+
+## Story unlock
+
+Episode 1 Book Factory is no longer blocked by Mia's visual reference package.
 
 ## Not this sprint
 

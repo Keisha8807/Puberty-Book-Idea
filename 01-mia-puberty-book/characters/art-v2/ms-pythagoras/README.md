@@ -1,6 +1,6 @@
 # Ms. Pythagoras — Visual Library
 
-> **Status:** Approved identity; equations and anatomy corrected August 18, 2026
+> **Status:** Reference board approved August 18, 2026; Approved identity; equations and anatomy corrected August 18, 2026
 
 ## Approved art
 
@@ -15,9 +15,13 @@
 - Math-symbol teal blazer, black `MATH = MAGIC` shirt, cuffed jeans, math-pattern sneakers
 - Held theorem `a² + b² = c²` is correct; background uses unlabeled geometry only
 
-## Reference sheets
+## Approved reference board
 
-_New turnaround, expression row, wardrobe/prop palette, and recurring poses will be built from the approved hero._
+**[approved-ms-pythagoras-model-board-v02.png](03-reference-sheets/approved-ms-pythagoras-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-ms-pythagoras-model-board-v02.png" alt="Approved Ms. Pythagoras production model board" width="420">
+
+This board locks four views, six expressions, isolated props, and palette without annotation arrows or callout text.
 
 ## Superseded—do not use as current reference
 

@@ -46,6 +46,14 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Solani | `solani-maya/99-superseded/solani-model-board-no-braces-v01.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Rejected after braces decision | Superseded | Missing braces |
 | 2026-08-18 | Solani | `solani-maya/03-reference-sheets/approved-solani-braces-model-board-v02.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Confirmed | Approved | Braces-aware turnaround, expressions, outfits, props, palette |
 
+| 2026-08-18 | Ms. Vitality | `ms-vitality/03-reference-sheets/approved-ms-vitality-model-board-v03.png` | Arena image generation; model board | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Four views including back; six expressions; props/palette |
+| 2026-08-18 | Ms. Harmony | `ms-harmony/03-reference-sheets/approved-ms-harmony-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | No duplicate callouts, arrows, or labels |
+| 2026-08-18 | Ms. Armstrong | `ms-armstrong/03-reference-sheets/approved-ms-armstrong-model-board-v03.png` | Arena generation + caption-zone cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | No school branding, arrows, or captions |
+| 2026-08-18 | Ms. Pythagoras | `ms-pythagoras/03-reference-sheets/approved-ms-pythagoras-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | One correct theorem; no false equations/arrows/labels |
+| 2026-08-18 | Nurse Nightingale | `nurse-nightingale/03-reference-sheets/approved-nurse-nightingale-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Text-free four views, expressions, props/palette |
+| 2026-08-18 | Dr. Smiles | `dr-smiles/03-reference-sheets/approved-dr-smiles-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Woman identity; no arrows/labels |
+| 2026-08-18 | Kayla | `kayla/03-reference-sheets/approved-kayla-model-board-v05.png` | Arena generation + caption-zone cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Blank physical planners; no arrows/captions |
+
 ## Required before approval
 
 - [ ] Character and file are identified

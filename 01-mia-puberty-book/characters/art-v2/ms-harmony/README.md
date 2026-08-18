@@ -1,6 +1,6 @@
 # Ms. Harmony — Visual Library
 
-> **Status:** Approved identity; clean full-body hero produced August 18, 2026
+> **Status:** Reference board approved August 18, 2026; Approved identity; clean full-body hero produced August 18, 2026
 
 ## Approved art
 
@@ -15,9 +15,13 @@
 - Mustard cardigan, cream blouse, dark ankle trousers, sun pendant, brown loafers
 - Succulent, open listening gesture, calm plant-filled office
 
-## Reference sheets
+## Approved reference board
 
-_New turnaround, expression row, wardrobe/prop palette, and recurring poses will be built from the approved hero._
+**[approved-ms-harmony-model-board-v02.png](03-reference-sheets/approved-ms-harmony-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-ms-harmony-model-board-v02.png" alt="Approved Ms. Harmony production model board" width="420">
+
+This board locks four views, six expressions, isolated props, and palette without annotation arrows or callout text.
 
 ## Superseded—do not use as current reference
 

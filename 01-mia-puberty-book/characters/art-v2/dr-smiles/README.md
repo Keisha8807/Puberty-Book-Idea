@@ -1,6 +1,6 @@
 # Dr. Smiles — Visual Library
 
-> **Status:** Woman Dr. Smiles hero approved August 18, 2026; retired male identity blocked
+> **Status:** Reference board approved August 18, 2026; Woman Dr. Smiles hero approved August 18, 2026; retired male identity blocked
 
 ## Approved art
 
@@ -17,9 +17,13 @@
 - Teal-white sneakers, stethoscope, cheerful icon pins
 - Tongue depressor used like a magic wand and playful peace-sign pose
 
-## Reference sheets
+## Approved reference board
 
-_New turnaround, expression row, wardrobe palette, medical-prop callouts, and office poses will be built from the approved hero._
+**[approved-dr-smiles-model-board-v02.png](03-reference-sheets/approved-dr-smiles-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-dr-smiles-model-board-v02.png" alt="Approved Dr. Smiles production model board" width="420">
+
+This board locks four views, six expressions, isolated props, and palette without annotation arrows or callout text.
 
 ## Superseded—do not use as current reference
 

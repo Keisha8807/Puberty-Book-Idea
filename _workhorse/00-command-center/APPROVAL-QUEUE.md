@@ -15,6 +15,13 @@
 
 ## Approved this sprint
 
+### AQ-007 — Batch 3 supporting reference boards
+
+- **Decision:** Ms. Vitality, Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Nurse Nightingale, Dr. Smiles, and Kayla reference boards approved after cleanup
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Special condition:** No arrows/callout sentences; Kayla and Armstrong captions removed; false math and duplicate callouts remain superseded
+
 ### AQ-006 — Mia reference-sheet completion and Solani braces board
 
 - **Decision:** Mia turnaround/palette and all 11 expressions approved; written reference lock complete. Solani braces-aware model board approved.

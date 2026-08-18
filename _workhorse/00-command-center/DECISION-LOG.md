@@ -187,6 +187,13 @@
 - **Effect:** Mia's production reference package is complete: hero, turnaround, palette, all 11 expressions, immutable-trait lock, proportions, and recurring detective props. Solani's reference now locks braces/elastics, gap/dimples, expression range, both outfits, butterfly clips, pencil necklace, and palette.
 - **Status:** Locked
 
+## DEC-2026-08-18-027 — Batch 3 clean reference boards approved
+
+- **Decision:** Approve the cleaned reference boards for Ms. Vitality, Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Nurse Nightingale, Dr. Smiles, and Kayla.
+- **Reason:** Keisha rejected mismatched arrows, duplicate callouts, and annotation clutter. Clean no-arrow boards were regenerated; Kayla and Armstrong caption strips were removed without cutting portraits.
+- **Effect:** Seven supporting production references are approved. Earlier annotated, captioned, branded, and false-math boards remain superseded.
+- **Status:** Locked
+
 ---
 
 ## New decision template

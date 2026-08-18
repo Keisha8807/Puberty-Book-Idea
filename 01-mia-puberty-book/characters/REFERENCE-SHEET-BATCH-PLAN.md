@@ -101,4 +101,6 @@ Final clean candidates now use no arrows/callout sentences:
 - Dr. Smiles v02
 - Kayla v05
 
-Annotated and captioned earlier attempts are superseded. Awaiting Keisha bulk approval.
+Annotated and captioned earlier attempts are superseded.
+
+**Approved by Keisha:** Ms. Harmony v02, Ms. Armstrong v03, Ms. Pythagoras v02, Nurse Nightingale v02, Dr. Smiles v02, and Kayla v05. Ms. Vitality v03 was approved in the prior gate.
