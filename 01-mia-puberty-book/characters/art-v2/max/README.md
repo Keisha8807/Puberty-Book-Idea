@@ -1,40 +1,31 @@
 # Max Washington — Visual Library
 
-> **Status:** Hero approved
+> **Status:** Uploaded ChatGPT hero approved exactly August 18, 2026; full reference sheet pending
 
-## Upload new candidates
-
-Drop original, highest-resolution images into **`00-upload-candidates/`** on GitHub. Images from ChatGPT or another generator may be used as candidates when Keisha generated them or otherwise has the right to use them. Avoid third-party character art that is not ours.
-
-Recommended filename: `source-YYYY-MM-DD-short-description.png`
-
-After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
-
-## Newly uploaded candidates
-
-**[chatgpt-2026-08-18-hero-max-washington-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-max-washington-v01.png)**
-
-<img src="00-upload-candidates/chatgpt-2026-08-18-hero-max-washington-v01.png" alt="Max Washington uploaded candidate" width="260">
 ## Approved art
 
-**[hero-max.png](02-approved/hero-max.png)**
+**[hero-max.png](02-approved/hero-max.png)** — controlling visual identity
 
-<img src="02-approved/hero-max.png" alt="Max Washington — hero-max.png" width="260">
+<img src="02-approved/hero-max.png" alt="Approved Max Washington hero" width="300">
 
-## Candidates
+## Signature locks
 
-**[max.png](01-candidates/max.png)**
-
-<img src="01-candidates/max.png" alt="Max Washington — max.png" width="260">
+- 5-year-old baby brother with warm brown skin, chubby cheeks, huge dark eyes, short tight curls
+- Red cape with gold trim
+- Cream `W` shirt over royal-blue long sleeves
+- Cuffed jeans and red-blue-white sneakers
+- Proud hands-on-hips superhero stance
+- His love of filming Mia remains a story trait, but the toy phone is not required in every image
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, superhero outfit palette, cape details, and filming poses will be built from the approved hero._
 
-## Scenes
+## Superseded—do not use as current reference
 
-_None yet._
+- [Previous Arena hero](99-superseded/hero-max-arena-previous.png)
+- [Early Max candidate](99-superseded/max-early-candidate.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Max's exact face, age-read, hair, proportions, cape, and signature outfit. If a future image drifts, reject the image—not Max.

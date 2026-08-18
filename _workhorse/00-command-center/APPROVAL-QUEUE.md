@@ -16,6 +16,14 @@
 
 ## Approved this sprint
 
+### AQ-003 — Washington family identity gates
+
+- **Decision:** All nine Washington-family identities approved and synchronized: Mia, Solani, Brenda, Marcus, Mema Hazel, Uncle Mo, Seraphina, Lily, and Max
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Special conditions:** Solani retains story locks/alternate outfit; Mema retains house dress alternate; Uncle Mo remains role-neutral; Seraphina received background-only brand cleanup
+- **Unlocks:** Family reference sheets, ensemble regeneration, and remaining cast selection
+
 ### AQ-002 — Revised family hero gate
 
 - **Decision:** Mia approved; Brenda approved; Solani's character identity approved with a required storefront-background correction

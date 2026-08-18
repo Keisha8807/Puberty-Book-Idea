@@ -46,9 +46,11 @@ A per-character GitHub visual library now lives at `01-mia-puberty-book/characte
 - Marcus: uploaded ChatGPT hero approved exactly and synchronized
 - Mema Hazel: uploaded ChatGPT hero approved; floral house dress retained as alternate
 - Uncle Mo: role-neutral family hero approved; larger story role pending; no business association
-- Superseded Mia, Solani, Brenda, Marcus, Mema, and Uncle Mo assets are preserved for history and blocked from current-reference use
-- Washington-family candidate uploads remain for Seraphina, Lily, and Max; decisions continue one character at a time
-- Previously approved heroes remain for those three family members and Jada until each newly uploaded candidate is reviewed
+- Seraphina: uploaded identity/outfit approved; clean original bedroom hero produced without branded poster art
+- Lily and Max: uploaded ChatGPT heroes approved exactly; personality/story traits preserved
+- **Washington family visual identity gate: complete for all nine family members**
+- Superseded family assets are preserved for history and blocked from current-reference use
+- Jada remains approved from the earlier hero gate
 - Candidate selection still needed for Emma, Kayla, Sophie, Ms. Vitality, Nurse Nightingale, Dr. Smiles, Ms. Pythagoras, Ms. Armstrong, and Ms. Harmony
 - Mia full turnaround/reference sheet: must be rebuilt from the newly approved identity
 - Mia 11-expression remaster: not started
@@ -96,4 +98,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-Continue one-character-at-a-time Washington family identity selection. Mia, Solani, Brenda, Marcus, Mema Hazel, and Uncle Mo are complete; Seraphina is the next visual decision.
+Washington family visual locking is complete. The next visual decision is Emma: review the existing candidate or upload a preferred alternative before hero generation.

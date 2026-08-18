@@ -110,6 +110,27 @@
 - **Effect:** Active Canon advances to v1.7. Previous bodega/apron heroes are superseded. Uncle Mo may appear as family, but his job and larger narrative function remain intentionally unassigned.
 - **Status:** Locked
 
+## DEC-2026-08-18-016 — Seraphina's uploaded identity and DRAMA look
+
+- **Decision:** Approve the uploaded Seraphina identity and outfit exactly, with a production-only cleanup of copyrighted/readable bedroom branding.
+- **Reason:** The upload strongly matches her dramatic oldest-sister canon and Keisha approved it as-is.
+- **Effect:** Seraphina's controlling hero uses the cleaned portrait crop: gold-cuffed braids, rust `DRAMA` top, distressed jeans, chain belt, platforms, phone, and original vanity/fairy-light bedroom decor.
+- **Status:** Locked
+
+## DEC-2026-08-18-017 — Lily's uploaded ChatGPT identity becomes canon
+
+- **Decision:** Use uploaded Lily exactly as the controlling visual identity.
+- **Reason:** Keisha approved the uploaded hero without changes.
+- **Effect:** Lily now has beaded shoulder-length twists/braids, oversized colorful bows, rainbow tee, denim shortalls, yellow socks, pink high-tops, and hands-on-hips confidence. Her borrowed-item habit remains story canon.
+- **Status:** Locked
+
+## DEC-2026-08-18-018 — Max's uploaded ChatGPT identity becomes canon
+
+- **Decision:** Use uploaded Max exactly as the controlling visual identity.
+- **Reason:** Keisha approved the uploaded hero without changes.
+- **Effect:** Active Canon advances to v1.8 for the completed family batch. Max now has a red-and-gold cape, cream `W` shirt over blue sleeves, cuffed jeans, red-blue-white sneakers, and a superhero stance. His love of filming Mia remains story canon.
+- **Status:** Locked
+
 ---
 
 ## New decision template

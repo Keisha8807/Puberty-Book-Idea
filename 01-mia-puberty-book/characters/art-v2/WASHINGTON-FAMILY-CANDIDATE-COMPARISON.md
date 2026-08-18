@@ -144,6 +144,8 @@ An approved image may replace a visual description, but it does not automaticall
 
 ## Max Washington
 
+**Decision — APPROVED:** Use the uploaded ChatGPT Max exactly. His red-and-gold cape, `W` shirt, jeans, sneakers, face, age-read, and superhero pose are controlling visual canon; filming Mia remains a story trait.
+
 **Strong matches:** Reads 5; chubby cheeks; huge happy eyes; short curls; superhero cape; joyful confidence; regular clothes under the cape.
 
 **Differences from current Lock Block:**

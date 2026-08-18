@@ -32,15 +32,14 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Review and decide Seraphina's uploaded ChatGPT identity.**
+**Review Emma's existing candidate—or upload a preferred Emma alternative—before hero generation.**
 
 ## After that gate
 
-1. Continue Washington family selection: Lily → Max.
-2. Select the remaining friend, rival, and adult identities.
-3. Generate or refine only the hero portraits still needed.
-4. Build Mia's new turnaround, expression row, and palette.
-5. Begin the Episode 1 Book Factory pilot only after Mia's visual lock.
+1. Continue remaining cast selection: Kayla → Sophie → Ms. Vitality → Nurse Nightingale → Dr. Smiles → Ms. Pythagoras → Ms. Armstrong → Ms. Harmony.
+2. Generate or refine only the hero portraits still needed.
+3. Build Mia's new turnaround, expression row, and palette.
+4. Begin the Episode 1 Book Factory pilot only after Mia's visual lock.
 
 ## Not this sprint
 

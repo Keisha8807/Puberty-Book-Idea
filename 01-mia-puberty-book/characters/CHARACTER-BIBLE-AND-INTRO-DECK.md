@@ -52,19 +52,19 @@
 
 ### 👩🏾🦱 SERAPHINA WASHINGTON — *the dramatic oldest*
 - **15 · high school · future fashion icon (her words)**
-- **Signature look:** always mid-outfit-change, winged eyeliner that could cut glass
+- **Signature look:** gold-cuffed braids, winged eyeliner that could cut glass, gold hoops and layered jewelry, rust `DRAMA` crop sweatshirt, distressed cuffed jeans with chain belt, chunky platform high-tops, phone always nearby
 - **Catchphrase:** *"I can't. I have a vibe to maintain."*
 - **Intro line:** *"Seraphina. I'm the oldest, so I basically raised everyone. You're welcome."*
 
 ### 🧸 LILY WASHINGTON — *the gremlin*
 - **8 · 3rd grade · professional button-pusher**
-- **Signature look:** mismatched bows, pockets full of "borrowed" items
+- **Signature look:** beaded shoulder-length twists with oversized colorful mismatched bows, rainbow tee, denim shortalls, yellow socks, pink high-tops, pockets with a reputation for "borrowed" items
 - **Catchphrase:** *"I didn't take it. I'm HOLDING it."*
 - **Intro line:** *"I'm Lily. Everything in Mia's room is legally mine until she notices."*
 
 ### 👶🏾 MAX WASHINGTON — *the subscriber*
 - **5 · kindergarten · adorable chaos**
-- **Signature look:** superhero cape over regular clothes, at all times
+- **Signature look:** red-and-gold superhero cape, cream `W` shirt over royal-blue sleeves, cuffed jeans, red-blue-white sneakers; superhero stance at all times
 - **Catchphrase:** *"Mia! Do the video AGAIN!"*
 - **Intro line:** *"I'm Max! I'm Mia's favorite viewer! (She didn't say that. But I am.)"*
 

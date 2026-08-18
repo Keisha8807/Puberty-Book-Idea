@@ -1,40 +1,30 @@
 # Lily Washington — Visual Library
 
-> **Status:** Hero approved
+> **Status:** Uploaded ChatGPT hero approved exactly August 18, 2026; full reference sheet pending
 
-## Upload new candidates
-
-Drop original, highest-resolution images into **`00-upload-candidates/`** on GitHub. Images from ChatGPT or another generator may be used as candidates when Keisha generated them or otherwise has the right to use them. Avoid third-party character art that is not ours.
-
-Recommended filename: `source-YYYY-MM-DD-short-description.png`
-
-After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
-
-## Newly uploaded candidates
-
-**[chatgpt-2026-08-18-hero-lily-washington-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-lily-washington-v01.png)**
-
-<img src="00-upload-candidates/chatgpt-2026-08-18-hero-lily-washington-v01.png" alt="Lily Washington uploaded candidate" width="260">
 ## Approved art
 
-**[hero-lily.png](02-approved/hero-lily.png)**
+**[hero-lily.png](02-approved/hero-lily.png)** — controlling visual identity
 
-<img src="02-approved/hero-lily.png" alt="Lily Washington — hero-lily.png" width="260">
+<img src="02-approved/hero-lily.png" alt="Approved Lily Washington hero" width="300">
 
-## Candidates
+## Signature locks
 
-**[lily.png](01-candidates/lily.png)**
-
-<img src="01-candidates/lily.png" alt="Lily Washington — lily.png" width="260">
+- 8-year-old younger sister with warm brown skin, rosy freckled cheeks, huge amber-brown eyes
+- Shoulder-length twists/braids with colorful beads and oversized mismatched bows
+- Rainbow-striped tee, denim shortalls, yellow socks, pink high-tops
+- Confident hands-on-hips mischievous pose
+- Her habit of collecting "borrowed" items remains a story trait even when her pockets look empty
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, bow/bead map, outfit palette, and borrowed-item comedy poses will be built from the approved hero._
 
-## Scenes
+## Superseded—do not use as current reference
 
-_None yet._
+- [Previous Arena hero](99-superseded/hero-lily-arena-previous.png)
+- [Early Lily candidate](99-superseded/lily-early-candidate.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Lily's exact face, age-read, hair, bows/beads, proportions, and signature outfit. If a future image drifts, reject the image—not Lily.

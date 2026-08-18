@@ -19,9 +19,10 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Mema Hazel | `mema-hazel/02-approved/hero-mema-hazel.png` | ChatGPT | Keisha | Yes | Confirmed by Keisha as her generated candidate | Approved | Uploaded identity/hero outfit approved; floral house dress retained as alternate |
 | 2026-08-18 | Uncle Mo | `uncle-mo/99-superseded/hero-uncle-mo-chatgpt-bodega-v01.png` | ChatGPT | Keisha | Yes | Confirmed by Keisha as her generated candidate | Superseded | Bodega-associated upload conflicts with current role direction |
 | 2026-08-18 | Uncle Mo | `uncle-mo/02-approved/hero-uncle-mo.png` | Arena image generation; reference edit | Keisha-directed Workhorse | Yes | Confirmed | Approved | Role-neutral family styling approved by Keisha |
-| 2026-08-18 | Seraphina | `seraphina/00-upload-candidates/chatgpt-2026-08-18-hero-seraphina-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
-| 2026-08-18 | Lily | `lily/00-upload-candidates/chatgpt-2026-08-18-hero-lily-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
-| 2026-08-18 | Max | `max/00-upload-candidates/chatgpt-2026-08-18-hero-max-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Seraphina | `seraphina/99-superseded/hero-seraphina-chatgpt-branded-bedroom-v01.png` | ChatGPT | Keisha | Yes | Confirmed by Keisha as her generated candidate | Superseded source | Identity/outfit approved; background required brand cleanup |
+| 2026-08-18 | Seraphina | `seraphina/02-approved/hero-seraphina.png` | Arena image generation + crop; reference cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved | Exact approved identity/outfit; branded background replaced with original decor |
+| 2026-08-18 | Lily | `lily/02-approved/hero-lily.png` | ChatGPT | Keisha | Yes | Confirmed by Keisha as her generated candidate | Approved | Exact uploaded look approved |
+| 2026-08-18 | Max | `max/02-approved/hero-max.png` | ChatGPT | Keisha | Yes | Confirmed by Keisha as her generated candidate | Approved | Exact uploaded look approved |
 
 ## Required before approval
 

@@ -1,40 +1,33 @@
 # Seraphina Washington — Visual Library
 
-> **Status:** Hero approved
+> **Status:** Uploaded identity/outfit approved August 18, 2026; clean original bedroom hero produced; full reference sheet pending
 
-## Upload new candidates
-
-Drop original, highest-resolution images into **`00-upload-candidates/`** on GitHub. Images from ChatGPT or another generator may be used as candidates when Keisha generated them or otherwise has the right to use them. Avoid third-party character art that is not ours.
-
-Recommended filename: `source-YYYY-MM-DD-short-description.png`
-
-After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
-
-## Newly uploaded candidates
-
-**[chatgpt-2026-08-18-hero-seraphina-washington-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-seraphina-washington-v01.png)**
-
-<img src="00-upload-candidates/chatgpt-2026-08-18-hero-seraphina-washington-v01.png" alt="Seraphina Washington uploaded candidate" width="260">
 ## Approved art
 
-**[hero-seraphina.png](02-approved/hero-seraphina.png)**
+**[hero-seraphina.png](02-approved/hero-seraphina.png)** — controlling visual identity and hero outfit
 
-<img src="02-approved/hero-seraphina.png" alt="Seraphina Washington — hero-seraphina.png" width="260">
+<img src="02-approved/hero-seraphina.png" alt="Approved Seraphina Washington hero" width="300">
 
-## Candidates
+## Signature locks
 
-**[seraphina.png](01-candidates/seraphina.png)**
-
-<img src="01-candidates/seraphina.png" alt="Seraphina Washington — seraphina.png" width="260">
+- 15-year-old dramatic oldest sister with deep warm-brown skin
+- Long center-parted braids with gold cuffs, winged eyeliner, gold hoops, layered jewelry
+- Rust cropped `DRAMA` sweatshirt, distressed cuffed jeans, gold chain belt
+- Black-and-white chunky platform high-tops and smartphone
+- Affectionate eye-roll and knowing smirk
+- Original bedroom decor only; no copyrighted band posters or brand logos
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, outfit palette, phone, jewelry, and bedroom callouts will be built from the approved hero._
 
-## Scenes
+## Superseded—do not use as current reference
 
-_None yet._
+- [Previous Arena hero](99-superseded/hero-seraphina-arena-previous.png)
+- [Uploaded bedroom image with branded poster](99-superseded/hero-seraphina-chatgpt-branded-bedroom-v01.png)
+- [Wide cleanup intermediate](99-superseded/seraphina-clean-wide-intermediate-v02.png)
+- [Early Seraphina candidate](99-superseded/seraphina-early-candidate.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Seraphina's exact face, age-read, hair, makeup, proportions, and signature outfit. If a future image drifts, reject the image—not Seraphina.
