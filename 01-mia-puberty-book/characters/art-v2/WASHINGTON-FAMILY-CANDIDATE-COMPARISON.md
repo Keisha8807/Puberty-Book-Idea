@@ -35,6 +35,8 @@ An approved image may replace a visual description, but it does not automaticall
 
 ## Solani Maya Washington
 
+**Decision — APPROVED WITH STORY LOCKS:** Use the uploaded ChatGPT Solani as the controlling identity and hero outfit. Retain her gap/dimples and Uncle Mo's pencil necklace as story locks; retain patchwork jeans and mismatched rainbow socks as an approved alternate outfit.
+
 **Strong matches:** Two high braided/natural puffs; butterfly clips; lavender cropped hoodie; confident older-sister energy; warm brown skin; young middle-school styling.
 
 **Differences from current Lock Block:**

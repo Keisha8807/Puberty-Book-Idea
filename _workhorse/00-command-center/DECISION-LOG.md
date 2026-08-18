@@ -66,6 +66,14 @@
 - **Supersedes:** The Mia visual portion of DEC-2026-08-18-007
 - **Status:** Locked
 
+## DEC-2026-08-18-010 — Solani's uploaded identity with preserved story locks
+
+- **Decision:** Use the uploaded ChatGPT Solani as the controlling identity and hero outfit while retaining her gap/dimples, Uncle Mo's pencil-charm necklace, and the patchwork/mismatched-socks look.
+- **Reason:** Keisha prefers the uploaded Solani but wants meaningful story details and the earlier outfit preserved rather than erased by one portrait.
+- **Effect:** Active Canon advances to v1.2. Solani's hero outfit is a lavender cropped hoodie, black joggers, and purple high-tops. The pencil necklace remains a recurring story prop; patchwork jeans, striped tank, mismatched rainbow socks, and dusty sneakers become an approved alternate outfit.
+- **Supersedes:** The Solani visual/background portion of DEC-2026-08-18-007
+- **Status:** Locked
+
 ---
 
 ## New decision template

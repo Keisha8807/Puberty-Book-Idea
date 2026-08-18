@@ -12,7 +12,7 @@ Assets already in the repository before this log was created are labeled inside 
 |---|---|---|---|---|---|---|---|---|
 | YYYY-MM-DD |  |  | ChatGPT / Arena / other | Keisha | Yes / No | Pending / Confirmed | Inbox / Candidate / Approved / Superseded |  |
 | 2026-08-18 | Mia Zora | `mia-zora/02-approved/hero-mia.png` | ChatGPT | Keisha | Yes | Confirmed by Keisha as her generated candidate | Approved | Exact uploaded look approved; previous identity superseded |
-| 2026-08-18 | Solani Maya | `solani-maya/00-upload-candidates/chatgpt-2026-08-18-hero-solani-maya-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Solani Maya | `solani-maya/02-approved/hero-solani.png` | ChatGPT | Keisha | Yes | Confirmed by Keisha as her generated candidate | Approved | Uploaded identity/hero outfit approved; story locks and patchwork alternate retained |
 | 2026-08-18 | Brenda | `brenda/00-upload-candidates/chatgpt-2026-08-18-hero-brenda-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
 | 2026-08-18 | Marcus | `marcus/00-upload-candidates/chatgpt-2026-08-18-hero-marcus-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
 | 2026-08-18 | Mema Hazel | `mema-hazel/00-upload-candidates/chatgpt-2026-08-18-hero-mema-hazel-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |

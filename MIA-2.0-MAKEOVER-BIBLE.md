@@ -86,7 +86,7 @@
 
 - **Style:** modern 3D animation — Turning Red × The Proud Family × Moon Girl, but its own voice
 - **Mia's signature:** bright hot-pink overalls with colorful flower pins, a bright multicolor paint-splash tee, matching multicolor low-top sneakers, small gold hoops, colorful bracelets, **star-shaped clips** (her answer to Solani's butterflies — "stars are better anyway"), natural hair in two high fluffy puffs with braided/cornrow front sections, proud gap-tooth grin, freckles
-- **Sister contrast:** Solani = butterfly clips + cropped hoodie + high-tops. Mia = stars + hot-pink overalls + multicolor sneakers. Same family, different galaxies.
+- **Sister contrast:** Solani = butterfly-puff hair + cropped lavender hoodie + black joggers + purple high-tops. Mia = star-clipped fluffy puffs + hot-pink overalls + multicolor sneakers. Same family, different galaxies.
 - **Her room:** the vlog studio — evidence board, fairy lights, hot pink + yellow
 - **Deliverable:** full character sheet with 11 expressions (the 2024 sheet had 11 — we remaster them at 2026 quality)
 

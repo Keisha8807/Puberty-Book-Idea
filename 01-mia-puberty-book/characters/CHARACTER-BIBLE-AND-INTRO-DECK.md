@@ -18,7 +18,7 @@
 
 ### 🦋 SOLANI MAYA WASHINGTON — *the subject*
 - **11 (12 in Sept) · 7th grade · Roast Queen of LPMS**
-- **Signature look:** two braided puffs with butterfly clips, cropped hoodie over tank, baggy patchwork jeans, mismatched socks, dusty Converse, the pencil-charm necklace from Uncle Mo
+- **Signature look:** two high fluffy braided puffs with neat cornrow fronts and butterfly clips, cropped lavender hoodie, black joggers with a purple drawstring, purple-and-white high-tops, plus the pencil-charm necklace from Uncle Mo; alternate look = striped tank, baggy patchwork jeans, mismatched rainbow socks, and dusty sneakers
 - **Personality:** loud, funny, magnetic — hiding the quiet poem-writing part of herself
 - **Voice:** quippy, rhythmic, "pause-then-punch" delivery
 - **Catchphrase:** *"I only roast the people I like."*

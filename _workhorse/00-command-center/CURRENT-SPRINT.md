@@ -23,7 +23,7 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Keisha uploads the nine preferred Washington-family ChatGPT candidates
 - [x] Mia's uploaded identity is selected and synchronized across active visual canon
 - [ ] Remaining Washington family candidate identities are selected one at a time
-- [ ] Solani's final hero is approved as a complete asset
+- [x] Solani's uploaded hero is approved; story locks and alternate outfit preserved
 - [ ] Mia's full reference-sheet work packet is ready
 
 ## Current single next action

@@ -41,9 +41,10 @@ The 2024 Canva draft and old chapters are **archive/reference only**. The new bo
 A per-character GitHub visual library now lives at `01-mia-puberty-book/characters/art-v2/`. Each character has an upload inbox, candidate gallery, approval area, and room for later reference sheets and scenes.
 
 - Mia: uploaded ChatGPT identity approved; Active Canon and all current description sources synchronized
-- Mia's previous Arena hero, character sheet, and Sisterwatch scene: superseded and preserved for history
-- Washington-family candidate uploads received for Solani, Brenda, Marcus, Mema Hazel, Uncle Mo, Seraphina, Lily, and Max; decisions continue one character at a time
-- Previously approved heroes remain for Brenda, Marcus, Mema Hazel, Uncle Mo, Seraphina, Lily, Max, and Jada until each newly uploaded candidate is reviewed
+- Solani: uploaded ChatGPT identity and hero outfit approved; gap/dimples, pencil necklace, and patchwork alternate outfit preserved
+- Mia's previous Arena hero, character sheet, and Sisterwatch scene plus Solani's earlier candidates: superseded and preserved for history
+- Washington-family candidate uploads remain for Brenda, Marcus, Mema Hazel, Uncle Mo, Seraphina, Lily, and Max; decisions continue one character at a time
+- Previously approved heroes remain for those seven family members and Jada until each newly uploaded candidate is reviewed
 - Candidate selection still needed for Emma, Kayla, Sophie, Ms. Vitality, Nurse Nightingale, Dr. Smiles, Ms. Pythagoras, Ms. Armstrong, and Ms. Harmony
 - Mia full turnaround/reference sheet: must be rebuilt from the newly approved identity
 - Mia 11-expression remaster: not started
@@ -91,4 +92,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-Continue one-character-at-a-time Washington family identity selection. Mia is complete; Solani is the next visual decision.
+Continue one-character-at-a-time Washington family identity selection. Mia and Solani are complete; Brenda is the next visual decision.

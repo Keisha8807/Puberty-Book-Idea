@@ -1,6 +1,6 @@
 # Solani Maya Washington — Visual Library
 
-> **Status:** Character design approved; hero background correction pending
+> **Status:** Uploaded ChatGPT hero approved August 18, 2026; full reference sheet pending
 
 ## Upload new candidates
 
@@ -10,33 +10,35 @@ Recommended filename: `source-YYYY-MM-DD-short-description.png`
 
 After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
 
-## Newly uploaded candidates
-
-**[chatgpt-2026-08-18-hero-solani-maya-washington-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-solani-maya-washington-v01.png)**
-
-<img src="00-upload-candidates/chatgpt-2026-08-18-hero-solani-maya-washington-v01.png" alt="Solani Maya Washington uploaded candidate" width="260">
 ## Approved art
 
-_None yet._
+**[hero-solani.png](02-approved/hero-solani.png)** — controlling visual identity and hero outfit
+
+<img src="02-approved/hero-solani.png" alt="Approved Solani Maya Washington hero" width="300">
+
+## Story and outfit locks
+
+- Her open smile retains the canonical gap tooth and deep dimples.
+- Uncle Mo's silver pencil-charm necklace remains a recurring story prop even though this hero portrait does not show it.
+- Approved alternate outfit: lavender cropped hoodie over a striped tank, baggy patchwork jeans, mismatched rainbow socks, and dusty sneakers.
 
 ## Candidates
 
-**[hero-solani-character-approved-bg-fix-needed.png](01-candidates/hero-solani-character-approved-bg-fix-needed.png)**
-
-<img src="01-candidates/hero-solani-character-approved-bg-fix-needed.png" alt="Solani Maya Washington — hero-solani-character-approved-bg-fix-needed.png" width="260">
-
-**[solani.png](01-candidates/solani.png)**
-
-<img src="01-candidates/solani.png" alt="Solani Maya Washington — solani.png" width="260">
+_None currently awaiting review._
 
 ## Reference sheets
 
-_None yet._
+_New turnaround, expression row, hero/alternate outfit palette, and prop callout will be built from the approved hero._
 
 ## Scenes
 
-_None yet._
+_New scenes must use the approved hero and future reference sheet._
+
+## Superseded—do not use as current reference
+
+- [Previous Arena hero with incorrect storefront](99-superseded/hero-solani-arena-wrong-storefront.png)
+- [Early Solani candidate](99-superseded/solani-early-candidate.png)
 
 ## Approval rule
 
-The approved hero supplies the face and identity. The later reference sheet locks turnaround, expressions, outfit/hair palette, proportions, and recurring props. If a future image drifts, reject the image—not the character.
+The approved hero supplies Solani's exact face, hair, age-read, proportions, and hero outfit. Her story locks and approved alternate outfit are preserved in text and must appear in the future reference sheet. If a future image drifts, reject the image—not Solani.
