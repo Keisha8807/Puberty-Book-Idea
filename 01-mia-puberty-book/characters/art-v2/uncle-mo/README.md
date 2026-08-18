@@ -15,6 +15,11 @@ After uploading, tell the Workhorse which character you updated. No upload becom
 **[chatgpt-2026-08-18-hero-uncle-mo-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-uncle-mo-v01.png)**
 
 <img src="00-upload-candidates/chatgpt-2026-08-18-hero-uncle-mo-v01.png" alt="Uncle Mo uploaded candidate" width="260">
+
+**[arena-2026-08-18-hero-uncle-mo-family-v02.png](00-upload-candidates/arena-2026-08-18-hero-uncle-mo-family-v02.png)**
+
+<img src="00-upload-candidates/arena-2026-08-18-hero-uncle-mo-family-v02.png" alt="Uncle Mo role-neutral family candidate" width="260">
+
 ## Approved art
 
 **[hero-uncle-mo.png](02-approved/hero-uncle-mo.png)**

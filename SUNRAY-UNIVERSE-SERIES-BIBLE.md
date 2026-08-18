@@ -36,18 +36,18 @@
 | **Mema Hazel** (grandma) | — | — | The matriarch + trusted adult. Show tunes, coral-pink cat-eye glasses, talks to plants. The Wisest Bust-er of Myths. |
 | **Brenda** (mom) | — | — | African American, warm. The Period Whisperer. |
 | **Marcus** (dad) | — | — | Cool creative dad. Makes everything a game. |
-| **Uncle Mo** (uncle) | — | — | Brenda's brother. Runs the bodega. Gives the pencil-charm necklace. Wisdom at the kitchen table. |
+| **Uncle Mo** (uncle) | — | — | Brenda's brother. Warm family member. Gives the pencil-charm necklace. Larger story role pending; currently not connected to the bodega. |
 | **Seraphina** | 15 | HS | The dramatic oldest. Rare moments of actual usefulness. |
 | **SOLANI Maya** | 11 (turns 12 in Sept) | 7th | ☀️ Middle sister. Roast Queen. Butterfly clips. Hero of the SERIES. Hiding behind humor (Laughter Currency). |
 | **MIA Zora** | 10 | 5th | ✨ Our first narrator. Star clips. Operation Sisterwatch. Hero of the PRIMER. |
 | **Lily** | 8 | 3rd | Mischief. Steals Mia's stuff. Idolizes Solani. |
 | **Max** | 5 | K | Adorable chaos. Mia's #1 vlog subscriber. |
 
-**The sister poetry:** Solani *Maya* — for Maya Angelou, the poet who turned pain into power · Mia *Zora* — for Zora Neale Hurston, the storyteller who went out to find the truth. The Washingtons named their girls after women who used their voices. And the family bodega keeps its old sign: **La Bodega de Luz** — Uncle Mo runs it now.
+**The sister poetry:** Solani *Maya* — for Maya Angelou, the poet who turned pain into power · Mia *Zora* — for Zora Neale Hurston, the storyteller who went out to find the truth. The Washingtons named their girls after women who used their voices. The Albany corner bodega concept keeps its old sign, **La Bodega de Luz**, but its ownership, management, and relationship to the Washington family are pending story rework.
 
 **Mia's world (5th grade):** Jada (drama queen) & Emma (artist) = the Myth Machine. Rivals: Kayla & Sophie. Ms. Vitality (health teacher). The Shade Screen (anonymous gossip page) → The Uplift Project (their kindness counter).
 
-**Solani's world (7th grade, LPMS):** The CROWN Club six. Rival: Chloe Simmons. The principal (anti-club). The BUFU mystery. Tía's bodega back room.
+**Solani's world (7th grade, LPMS):** The CROWN Club six. Rival: Chloe Simmons. The principal (anti-club). The BUFU mystery. A back-room meeting location remains part of the mystery, but its connection to La Bodega de Luz is pending story rework.
 
 **THE TIMELINE (the franchise's masterstroke):** Mia's 5th-grade year and Solani's 7th-grade year are **THE SAME SCHOOL YEAR.** The two shows run parallel and converge at the June talent show — the primer ends in the crowd, the series ends on stage.
 

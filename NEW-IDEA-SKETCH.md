@@ -104,7 +104,7 @@
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **MIA 2.0 MAKEOVER STARTED** — the old manuscript is the foundation, NOT the final: Mia redefined as **Solani's little sister** (merged Washington family), narrator of the 2-season primer. Full spec: `MIA-2.0-MAKEOVER-BIBLE.md`
 - ✅ **The Myth Machine** — the stiffest part of the old book (fact sections) becomes the funniest: Mia/Jada/Emma generate hilariously wrong theories, Mema/Solani bust them. Education = punchline delivery system
-- ✅ **Family merge LOCKED:** Brenda (mom) + Marcus (dad) + Seraphina (15) + Solani Maya (11, turns 12 in Sept; for Maya Angelou) + Mia Zora (10, for Zora Neale Hurston) + Lily (8) + Max (5) + Mema Hazel + Uncle Mo (runs the bodega), one house in Albany.
+- ✅ **Family merge LOCKED:** Brenda (mom) + Marcus (dad) + Seraphina (15) + Solani Maya (11, turns 12 in Sept; for Maya Angelou) + Mia Zora (10, for Zora Neale Hurston) + Lily (8) + Max (5) + Mema Hazel + Uncle Mo, one family in Albany. **Updated Aug 18:** Uncle Mo is not currently tied to the bodega; his larger role is pending.
 - ✅ **Sample scene written** (`DRAFT-v2-Chapter1-ColdOpen.md`) — Operation Sisterwatch cold open with fourth wall, text thread, and Mema busting Myth #1
 - ✅ **New character art generated (2026 quality!)** — `characters/art-v2/`: character sheet (4 expressions) + Sisterwatch vlog scene
 

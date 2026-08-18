@@ -16,7 +16,7 @@
 | — | 🎀 **MIA, 10** — our narrator, 5th grade |
 | Younger sister: Lily | 🧸 **Lily, 8** — mischievous, steals Mia's stuff, idolizes Solani |
 | Little brother: Max | 👶🏾 **Max, 5** — adorable chaos, Mia's #1 vlog subscriber |
-| — | 🧔🏾 **Uncle Mo** — Brenda's brother, runs the bodega, gives Solani the pencil-charm necklace ("Your words matter"), drops wisdom at the kitchen table |
+| — | 🧔🏾 **Uncle Mo** — Brenda's brother, a warm family member who gives Solani the pencil-charm necklace ("Your words matter"); his larger story role is pending and he is not currently tied to the bodega |
 
 - **One house in Albany.** An African American Black family. Mia's elementary school feeds into LPMS — where Solani goes. The reader graduates with Mia.
 - **Mema Hazel + Uncle Mo = the two trusted adults** (kept from both canons — no character gets thrown away).

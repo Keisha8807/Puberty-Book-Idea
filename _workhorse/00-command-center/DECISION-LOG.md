@@ -96,6 +96,13 @@
 - **Effect:** Active Canon advances to v1.5. Mema's hero outfit is a floral cardigan, coral top, olive pants, and pink slip-ons. Her house dress remains available for home and performance scenes.
 - **Status:** Locked
 
+## DEC-2026-08-18-014 — Uncle Mo detached from the bodega lane
+
+- **Decision:** Uncle Mo remains Brenda's brother and a warm Washington-family member, but he is not currently associated with a bodega or other business. His larger story role will be reworked later.
+- **Reason:** Keisha does not want the character visually or narratively defined by the bodega before his place in the story is reconsidered.
+- **Effect:** Active Canon advances to v1.6. La Bodega de Luz remains a location concept with ownership/management pending. Existing CROWN bridge references cannot attribute the back-room access to Uncle Mo. Bodega/apron/honey-bun art becomes incompatible with current direction.
+- **Status:** Locked
+
 ---
 
 ## New decision template

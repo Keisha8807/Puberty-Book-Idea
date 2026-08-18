@@ -45,7 +45,7 @@
 - **Intro line:** *"I'm Dad. I make the rules fun and the pancakes questionable."*
 
 ### 🧔🏾 UNCLE MO — *the uncle*
-- **Signature look:** neat beard, kind smile, apron at his bodega
+- **Signature look:** short neat coily hair, full shaped beard, kind smile; role-neutral family-casual wardrobe while his larger story role is reworked
 - **Personality:** steady, wise, corny jokes delivered with total sincerity
 - **Catchphrase:** *"Even the sun needs clouds to rest, Sunshine."*
 - **Intro line:** *"I'm Uncle Mo. I gave Solani a pencil so she'd remember her words matter. I keep the treats coming for the same reason."*

@@ -52,7 +52,7 @@ Mia doesn't explain the club. She *notices* it, wrong, and it's hilarious:
 
 - Solani disappears to "club meetings" she will NOT explain ("It's a... study group." "You hate studying.")
 - Weird strangers keep appearing at the house: a girl with a clipboard and pins (Imani), a girl with a unicorn backpack who's SO loud (Toni), a girl who draws but never talks (Sanaa)
-- The back room of Uncle Mo's bodega is suddenly OFF LIMITS
+- A back-room meeting location is suddenly OFF LIMITS. Whether it remains inside La Bodega de Luz—and who controls access—is pending story rework; do not attribute it to Uncle Mo.
 - Solani's door, the headphones, the secret song (Laughter Currency seed — already canon)
 - Mia hears the word "crown" whispered and assumes it's an actual CROWN. Operation Sisterwatch goes fully off the rails
 - Mema Hazel knows something and will only wink

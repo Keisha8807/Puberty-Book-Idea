@@ -58,8 +58,8 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 > **Hero prompt:** Full-body portrait, holding the camera at chest level with both hands, laughing with proud-dad energy. Background: clean soft-light-blue studio gradient. [STYLE BLOCK]
 
 ### 🧔🏾 UNCLE MO (uncle — Brenda's brother) — [LOCK BLOCK]
-> "Uncle Mo," a warm African American Black man in his late 30s. Neat short beard, kind smile, gentle eyes, warm brown skin. Signature outfit: button-up shirt with rolled sleeves under a corner-store apron.
-> **Hero prompt:** Full-body portrait, leaning on the bodega counter offering a warm honey bun on a small plate, like it's the answer to everything. Background: his corner store — shelves of colorful goods, warm glowing light. [STYLE BLOCK]
+> "Uncle Mo," a warm African American Black man in his late 30s and Brenda's brother. Warm brown skin, expressive brown eyes, short neatly shaped coily hair, full neat beard and mustache, kind welcoming smile. **His larger story role is pending; do not associate him with a bodega, store, food-service apron, or business until Keisha reapproves that lane.** Role-neutral family-casual wardrobe is required for now.
+> **Hero prompt:** Full-body family portrait with no work setting or business props, relaxed and welcoming. Background: clean neutral studio gradient. [STYLE BLOCK]
 
 ---
 
@@ -119,7 +119,7 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 
 1. **Style block:** A (modern 3D) or B (2D with depth)?
 2. ✅ **Direction locked:** the whole Washington family is **African American Black**. (Lock Blocks confirm.)
-3. ✅ **Names locked:** Mom = **Brenda** · Uncle = **Uncle Mo** · the shop stays the bodega (**"La Bodega de Luz"** — the old name stayed on the sign when Uncle Mo took over; bodegas are everywhere in Albany, so it fits) · Middle names = **Solani Maya** (for Maya Angelou — the poet who turned pain into power, our Lyricist) and **Mia Zora** (for Zora Neale Hurston — the storyteller who went out to find the truth, our Investigator). The Washingtons named their girls after women who used their voices.
+3. ✅ **Names locked:** Mom = **Brenda** · Uncle = **Uncle Mo** · Middle names = **Solani Maya** (for Maya Angelou — the poet who turned pain into power, our Lyricist) and **Mia Zora** (for Zora Neale Hurston — the storyteller who went out to find the truth, our Investigator). **Location status:** La Bodega de Luz remains an Albany story-world concept, but its ownership/management and connection to the Washington family are pending; Uncle Mo is not currently associated with it.
 4. **Schools are FICTIONAL** (locked): Mia's school = **Helderberg Elementary**, feeding into **Lincoln Park Middle School (LPMS)** for Solani — both made up, but rooted in real Albany names. Real school names never appear in the books (the Shade Screen cyberbullying plot and the resistant principal must never attach to a real school). The real TOAST partnership lives in the IRL program lane, not on the book pages.
 5. **Any outfit/hairstyle changes** while we're at it — this is the moment to change Mia's clips, Solani's hoodie color, anything.
 

@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.5 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.6 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -31,7 +31,7 @@ Do not dilute the Black-girl-centered mission to satisfy generic inclusivity lan
 - Season 1 case: **Operation Sisterwatch**
 - Season 2: **The Butterfly Files**
 - Comedy engine: **The Myth Machine**
-- Family store sign: **La Bodega de Luz**; Uncle Mo kept the old sign
+- Location concept: **La Bodega de Luz** remains in the story world; its ownership, management, and relationship to the Washington family are pending story rework
 
 ## 4. Washington family locks
 
@@ -42,7 +42,7 @@ The Washingtons are an **African American Black family** living in Albany, New Y
 | Brenda | Mom; warm and perceptive |
 | Marcus | Dad; early 40s; short coily tapered fade; full neat beard; no glasses; paint-splattered denim jacket; camera; creative and playful |
 | Mema Hazel | Grandma; show tunes, cat-eye glasses, talks to plants, trusted myth-buster |
-| Uncle Mo | Brenda's brother; runs the bodega; never call him Tío Mo |
+| Uncle Mo | Brenda's brother; warm family member; larger story role pending; do not associate him with the bodega until reapproved; never call him Tío Mo |
 | Seraphina | 15; dramatic oldest sister |
 | **Solani Maya Washington** | **11; turns 12 in September; 7th grade; witty big sister; butterfly clips; lyricist** |
 | **Mia Zora Washington** | **10; 5th grade; investigator and narrator; star clips** |
