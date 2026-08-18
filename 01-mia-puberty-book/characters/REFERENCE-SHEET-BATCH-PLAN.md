@@ -59,9 +59,9 @@ Each board must pass:
 
 | Character | Candidate assets | QA note |
 |---|---|---|
-| Mia | Turnaround/palette v02 | No-gap corrected; candidate awaiting approval |
-| Mia | Expressions B curated v04 | Five selected faces assembled from overgenerated source; awaiting approval |
-| Solani | Braces-aware board v02 | Braces/elastics, gap, dimples, alternate outfit and necklace present |
+| Mia | Turnaround/palette v02 | **Approved—no-gap corrected** |
+| Mia | Expressions B curated v04 | **Approved—completes all 11 expressions** |
+| Solani | Braces-aware board v02 | **Approved—braces/elastics, gap, dimples, alternate outfit and necklace locked** |
 | Marcus | Composite board v01 | Generated; QA candidate |
 | Uncle Mo | Composite board v01 | Generated role-neutral; QA candidate |
 | Seraphina | Composite board v01 | Generated; QA candidate |

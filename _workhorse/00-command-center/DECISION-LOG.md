@@ -180,6 +180,13 @@
 - **Effect:** Active Canon advances to v1.13. Mia's first six-expression sheet is approved exactly. Any Mia reference showing a gap requires correction. Solani's no-braces model board is superseded; all future open-mouth Solani art must show braces, gap, and dimples.
 - **Status:** Locked
 
+## DEC-2026-08-18-026 — Mia reference package and Solani braces board approved
+
+- **Decision:** Approve Mia's corrected no-gap turnaround/palette and curated remaining five expressions, completing all 11. Approve Solani's braces-aware composite model board.
+- **Reason:** Keisha confirmed all three priority reference assets after Batch 2 QA.
+- **Effect:** Mia's production reference package is complete: hero, turnaround, palette, all 11 expressions, immutable-trait lock, proportions, and recurring detective props. Solani's reference now locks braces/elastics, gap/dimples, expression range, both outfits, butterfly clips, pencil necklace, and palette.
+- **Status:** Locked
+
 ---
 
 ## New decision template

@@ -20,9 +20,20 @@ After uploading, tell the Workhorse which character you updated. No upload becom
 
 _None currently awaiting review._
 
-## Reference sheets
+## Approved reference package
 
-_New turnaround, expression row, and palette will be built from the approved hero._
+- [Production Reference Lock](03-reference-sheets/MIA-REFERENCE-LOCK.md)
+- [Turnaround and palette v02](03-reference-sheets/approved-mia-turnaround-palette-v02.png)
+- [Expressions A—first six](03-reference-sheets/approved-mia-expressions-a-v03.png)
+- [Expressions B—remaining five](03-reference-sheets/approved-mia-expressions-b-v04.png)
+
+<img src="03-reference-sheets/approved-mia-turnaround-palette-v02.png" alt="Approved Mia turnaround and palette" width="320">
+
+<img src="03-reference-sheets/approved-mia-expressions-a-v03.png" alt="Approved first six Mia expressions" width="320">
+
+<img src="03-reference-sheets/approved-mia-expressions-b-v04.png" alt="Approved remaining five Mia expressions" width="480">
+
+Mia's turnaround, palette, all 11 expressions, immutable traits, and recurring detective props are now locked.
 
 ## Scenes
 

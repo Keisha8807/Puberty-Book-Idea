@@ -57,8 +57,9 @@ A per-character GitHub visual library now lives at `01-mia-puberty-book/characte
 - Emma: earthy artist redesign approved and synchronized
 - **All cast hero identities are now approved**
 - Dental distinction locked: Mia has no gap; Solani has a small gap, deep dimples, and silver braces with changeable colorful elastics
-- Mia reference production: turnaround/palette candidate needs no-gap tooth QA; first six expressions approved exactly; five expressions remain
-- Solani reference production: first board superseded because it lacks braces; braces-aware board required
+- Mia reference package: **complete and approved**—turnaround/palette, all 11 expressions, immutable traits, proportions, palette, and recurring detective props
+- Solani reference board: **approved**—braces/elastics, gap, dimples, expressions, hero/alternate outfits, butterfly clips, pencil necklace, and palette
+- Batch 1/2 supporting-character composite boards remain candidates pending QA
 - Character intro cards: not started
 
 ### Marketing and extensions
@@ -103,4 +104,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-Washington family and approved school-cast cleanup are complete. Woman Dr. Smiles is locked. The next visual task is Emma's focused redesign brief.
+Mia's full reference package and Solani's braces-aware board are approved. The next image task is Batch 3: remaining school adults plus correction capacity.

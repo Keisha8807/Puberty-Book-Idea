@@ -40,8 +40,11 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Sophie | `sophie/02-approved/hero-sophie.png` | Arena image generation; reference restyle | Keisha-directed Workhorse | Yes | Confirmed | Approved | v03 design preserved with premium 3D cast rendering |
 
 | 2026-08-18 | Mia | `mia-zora/03-reference-sheets/approved-mia-expressions-a-v03.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Confirmed | Approved partial reference | Six expressions approved exactly; Mia has no gap |
-| 2026-08-18 | Mia | `mia-zora/03-reference-sheets/candidate-mia-turnaround-palette-v01.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Pending no-gap QA | Candidate | Turnaround/palette requires tooth check before approval |
-| 2026-08-18 | Solani | `solani-maya/99-superseded/solani-model-board-no-braces-v01.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Rejected after braces decision | Superseded | Must regenerate with braces in every open-mouth smile |
+| 2026-08-18 | Mia | `mia-zora/99-superseded/mia-turnaround-gap-uncertain-v01.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Replaced by no-gap correction | Superseded | Tooth presentation uncertain |
+| 2026-08-18 | Mia | `mia-zora/03-reference-sheets/approved-mia-turnaround-palette-v02.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Confirmed | Approved | No-gap turnaround, detail callouts, palette |
+| 2026-08-18 | Mia | `mia-zora/03-reference-sheets/approved-mia-expressions-b-v04.png` | Arena generation + manual panel curation | Keisha-directed Workhorse | Yes | Confirmed | Approved | Remaining five no-gap expressions; completes 11 |
+| 2026-08-18 | Solani | `solani-maya/99-superseded/solani-model-board-no-braces-v01.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Rejected after braces decision | Superseded | Missing braces |
+| 2026-08-18 | Solani | `solani-maya/03-reference-sheets/approved-solani-braces-model-board-v02.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Confirmed | Approved | Braces-aware turnaround, expressions, outfits, props, palette |
 
 ## Required before approval
 

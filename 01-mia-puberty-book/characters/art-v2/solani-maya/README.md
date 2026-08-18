@@ -26,9 +26,13 @@ After uploading, tell the Workhorse which character you updated. No upload becom
 
 _None currently awaiting review._
 
-## Reference sheets
+## Approved reference board
 
-_New turnaround, expression row, hero/alternate outfit palette, and prop callout will be built from the approved hero._
+**[Braces-aware model board v02](03-reference-sheets/approved-solani-braces-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-solani-braces-model-board-v02.png" alt="Approved braces-aware Solani model board" width="340">
+
+This board locks turnaround views, braces/elastics, gap/dimples, expression range, hero and alternate outfits, butterfly clips, pencil necklace, and palette.
 
 ## Scenes
 

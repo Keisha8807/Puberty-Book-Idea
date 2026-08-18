@@ -30,10 +30,10 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Sophie premium 3D redesign is approved and synchronized
 - [x] All cast hero identities are approved
 - [x] Mia's first six expressions are approved exactly
-- [ ] Mia's remaining five no-gap expressions are generated and approved
-- [ ] Mia turnaround/palette passes no-gap QA
-- [ ] Solani braces-aware board is generated
-- [ ] Mia's full reference-sheet work packet is ready
+- [x] Mia's remaining five no-gap expressions are approved
+- [x] Mia turnaround/palette passes no-gap QA
+- [x] Solani braces-aware board is generated and approved
+- [x] Mia's full reference-sheet work packet is complete and approved
 
 ## Current single next action
 

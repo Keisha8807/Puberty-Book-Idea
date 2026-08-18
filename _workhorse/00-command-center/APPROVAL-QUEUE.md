@@ -4,17 +4,23 @@
 
 ## Waiting on Keisha
 
-### AQ-006 — Mia reference-sheet completion and QA
+### AQ-007 — Batch 3 supporting reference boards
 
 - **Type:** Visual system
 - **Risk:** Yellow
-- **Completed:** First six expressions approved exactly
-- **Still required:** Five no-gap expressions; turnaround/palette no-gap QA; final combined reference approval
-- **Related correction:** Solani's braces-aware board must replace the no-braces attempt
+- **Decision needed:** QA and approve usable school-adult composite boards after generation
+- **Characters:** Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, Nurse Nightingale, Dr. Smiles
 - **Blocked by:** Next image-generation batch
-- **Status:** In progress
+- **Status:** Ready
 
 ## Approved this sprint
+
+### AQ-006 — Mia reference-sheet completion and Solani braces board
+
+- **Decision:** Mia turnaround/palette and all 11 expressions approved; written reference lock complete. Solani braces-aware model board approved.
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Unlocks:** Episode 1 scene production and Batch 3 reference work
 
 ### Emma redesign gate
 
