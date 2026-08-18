@@ -10,6 +10,11 @@ Recommended filename: `source-YYYY-MM-DD-short-description.png`
 
 After uploading, tell the Workhorse which character you updated. No upload becomes the approved face automatically; Keisha chooses the winner at a focused visual gate.
 
+## Newly uploaded candidates
+
+**[chatgpt-2026-08-18-hero-marcus-washington-v01.png](00-upload-candidates/chatgpt-2026-08-18-hero-marcus-washington-v01.png)**
+
+<img src="00-upload-candidates/chatgpt-2026-08-18-hero-marcus-washington-v01.png" alt="Marcus Washington uploaded candidate" width="260">
 ## Approved art
 
 **[hero-marcus.png](02-approved/hero-marcus.png)**

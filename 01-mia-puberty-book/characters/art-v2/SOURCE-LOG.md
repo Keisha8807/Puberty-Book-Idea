@@ -11,6 +11,15 @@ Assets already in the repository before this log was created are labeled inside 
 | Date added | Character | File | Source/platform | Generated or uploaded by | Original/highest resolution? | Usage-right check | Status | Notes |
 |---|---|---|---|---|---|---|---|---|
 | YYYY-MM-DD |  |  | ChatGPT / Arena / other | Keisha | Yes / No | Pending / Confirmed | Inbox / Candidate / Approved / Superseded |  |
+| 2026-08-18 | Mia Zora | `mia-zora/00-upload-candidates/chatgpt-2026-08-18-hero-mia-zora-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Solani Maya | `solani-maya/00-upload-candidates/chatgpt-2026-08-18-hero-solani-maya-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Brenda | `brenda/00-upload-candidates/chatgpt-2026-08-18-hero-brenda-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Marcus | `marcus/00-upload-candidates/chatgpt-2026-08-18-hero-marcus-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Mema Hazel | `mema-hazel/00-upload-candidates/chatgpt-2026-08-18-hero-mema-hazel-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Uncle Mo | `uncle-mo/00-upload-candidates/chatgpt-2026-08-18-hero-uncle-mo-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Seraphina | `seraphina/00-upload-candidates/chatgpt-2026-08-18-hero-seraphina-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Lily | `lily/00-upload-candidates/chatgpt-2026-08-18-hero-lily-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
+| 2026-08-18 | Max | `max/00-upload-candidates/chatgpt-2026-08-18-hero-max-washington-v01.png` | ChatGPT | Keisha | Yes | Pending final terms/right check | Candidate | Uploaded by Keisha |
 
 ## Required before approval
 
