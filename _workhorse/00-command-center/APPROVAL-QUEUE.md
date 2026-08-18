@@ -4,17 +4,26 @@
 
 ## Waiting on Keisha
 
-### AQ-002 — Revised hero-shot gate
+No unblocked approval is waiting. Keisha may first upload preferred external candidates into the new per-character inboxes.
+
+### AQ-003 — Remaining character identity gates
 
 - **Type:** Visual
 - **Risk:** Yellow
-- **Assets:** revised Mia, revised Solani, revised Brenda hero portraits
-- **Decision needed:** Approve each look or provide one focused correction per character.
-- **Important canon note:** Solani is 11, turning 12 in September, and must read as a young middle schooler.
-- **Blocked by:** Nothing
-- **Status:** Waiting
+- **Decision needed:** Choose one identity per character, one character at a time
+- **First character after uploads:** Emma
+- **Blocked by:** Candidate uploads/organization
+- **Status:** Not ready
 
 ## Approved this sprint
+
+### AQ-002 — Revised family hero gate
+
+- **Decision:** Mia approved; Brenda approved; Solani's character identity approved with a required storefront-background correction
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Important canon note:** Solani is 11, turning 12 in September, and must read as a young middle schooler.
+- **Unlocks:** Per-character library organization and later reference-sheet production
 
 ### AQ-001 — Foundation Canon Gate
 

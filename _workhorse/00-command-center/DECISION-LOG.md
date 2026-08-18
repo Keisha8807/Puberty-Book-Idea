@@ -44,6 +44,20 @@
 - **Effect:** The visual-production gate is unblocked. Later Workhorse workflows must read Active Canon v1.0 before beginning.
 - **Status:** Locked
 
+## DEC-2026-08-18-007 — Revised family hero decisions
+
+- **Decision:** Mia's revised hero and Brenda's revised hero are approved. Solani's character identity is approved; her hero requires a background-only correction because the storefront used a false business name.
+- **Reason:** The characters match their Lock Blocks. Solani's character should be preserved while the background is brought back into canon.
+- **Effect:** Mia and Brenda art moved to approved status. Solani remains a candidate asset until the background correction is completed.
+- **Status:** Locked
+
+## DEC-2026-08-18-008 — Per-character visual libraries
+
+- **Decision:** Every active character receives a GitHub visual-library folder with an upload inbox, candidates, approved art, reference sheets, scenes, and superseded history as needed.
+- **Reason:** Keisha needs to compare Arena and external ChatGPT images directly and choose the identity she wants before additional assets are generated.
+- **Effect:** Existing art is organized by character. External generated images may be uploaded as candidates and can become the approved reference after Keisha's visual gate and usage-right check.
+- **Status:** Locked
+
 ---
 
 ## New decision template

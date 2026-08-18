@@ -86,6 +86,6 @@ The Foundation's Active Canon controls workers until those detailed files receiv
 
 The project needs a locked, repeatable visual foundation before scene art and marketing clips can scale.
 
-## Current single next decision
+## Current single next action
 
-Review the revised Mia, Solani, and Brenda heroes as one visual gate. The Foundation Canon Gate was approved on August 18, 2026.
+Keisha reviews each character library and uploads any preferred ChatGPT-generated candidates into that character's `00-upload-candidates/` folder. After the uploads, the Workhorse resumes one-character-at-a-time identity selection, beginning with Emma.
