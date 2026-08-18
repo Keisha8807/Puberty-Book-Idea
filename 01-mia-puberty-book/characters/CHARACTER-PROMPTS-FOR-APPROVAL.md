@@ -58,8 +58,8 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 > **Hero prompt:** Full-body portrait, holding the camera at chest level with both hands, laughing with proud-dad energy. Background: clean soft-light-blue studio gradient. [STYLE BLOCK]
 
 ### 🧔🏾 UNCLE MO (uncle — Brenda's brother) — [LOCK BLOCK]
-> "Uncle Mo," a warm African American Black man in his late 30s and Brenda's brother. Warm brown skin, expressive brown eyes, short neatly shaped coily hair, full neat beard and mustache, kind welcoming smile. **His larger story role is pending; do not associate him with a bodega, store, food-service apron, or business until Keisha reapproves that lane.** Role-neutral family-casual wardrobe is required for now.
-> **Hero prompt:** Full-body family portrait with no work setting or business props, relaxed and welcoming. Background: clean neutral studio gradient. [STYLE BLOCK]
+> "Uncle Mo," a warm African American Black man in his late 30s and Brenda's brother. Warm brown skin, expressive brown eyes, short neatly shaped coily hair in a clean taper, full neat beard and mustache, and kind welcoming smile. Signature role-neutral family outfit: deep forest-green unstructured overshirt with casually rolled sleeves over a warm cream henley, tailored dark-brown chinos, tan-and-cream casual high-top sneakers, and a simple brown-strap watch. **His larger story role is pending; do not associate him with a bodega, store, food-service apron, or business until Keisha reapproves that lane.**
+> **Hero prompt:** Full-body portrait, one hand loosely in his pocket and the other open in a warm welcoming gesture. No business props. Background: clean soft blue-to-warm-cream studio gradient. [STYLE BLOCK]
 
 ---
 

@@ -103,6 +103,13 @@
 - **Effect:** Active Canon advances to v1.6. La Bodega de Luz remains a location concept with ownership/management pending. Existing CROWN bridge references cannot attribute the back-room access to Uncle Mo. Bodega/apron/honey-bun art becomes incompatible with current direction.
 - **Status:** Locked
 
+## DEC-2026-08-18-015 — Uncle Mo's role-neutral family hero
+
+- **Decision:** Use the revised Arena Uncle Mo v2 as the controlling visual identity: uploaded face, short coily taper, neat beard, forest-green overshirt, cream henley, brown chinos, tan high-tops, watch, and open family-welcome gesture.
+- **Reason:** The revised hero preserves the identity Keisha liked while removing every job and bodega signal.
+- **Effect:** Active Canon advances to v1.7. Previous bodega/apron heroes are superseded. Uncle Mo may appear as family, but his job and larger narrative function remain intentionally unassigned.
+- **Status:** Locked
+
 ---
 
 ## New decision template

@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.6 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.7 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -113,6 +113,7 @@ The exact Ask Mema Hazel page treatment must be approved during the Episode 1 fo
 - Solani must read as **11, nearly 12**, not as an older teen
 - Brenda: youthful late-30s mom; warm brown skin; huge joyful laugh; polished shoulder-length natural twist-out; gold hoops; terracotta wrap blouse with softly puffed sleeves and tied waist; high-waisted dark indigo tailored wide-leg jeans; slim cognac belt; stacked bracelets; cognac pointed-toe flats; wooden spoon family-call prop
 - Mema Hazel: clearly in her 70s; deep warm brown skin; teal-patterned headwrap; coral-pink cat-eye glasses worn on her face; flower earrings; chunky beads; floral cardigan with pink trim; coral top; olive pants; pink slip-ons; potted plant; alternate flowing floral house dress and dance pose
+- Uncle Mo: late 30s; warm brown skin; short coily taper; full neat beard and mustache; forest-green rolled-sleeve overshirt; cream henley; dark-brown chinos; tan-and-cream high-tops; brown-strap watch; open welcoming gesture; role remains pending and no business association is allowed
 - Approved character references outrank prose-only visual guesses
 - Reject a drifting image; do not rewrite the character to match it
 

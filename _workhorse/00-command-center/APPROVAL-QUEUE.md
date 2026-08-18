@@ -9,8 +9,8 @@
 - **Type:** Visual
 - **Risk:** Yellow
 - **Decision needed:** Choose one uploaded identity at a time and authorize any Lock Block sync
-- **Completed:** Mia — exact uploaded ChatGPT look approved; Solani — uploaded identity approved with story locks and alternate outfit preserved; Brenda — revised natural-hair fashionista hero approved; Marcus — exact uploaded ChatGPT look approved; Mema Hazel — uploaded identity approved with floral house dress retained as alternate
-- **Current character:** Uncle Mo
+- **Completed:** Mia — exact uploaded ChatGPT look approved; Solani — uploaded identity approved with story locks and alternate outfit preserved; Brenda — revised natural-hair fashionista hero approved; Marcus — exact uploaded ChatGPT look approved; Mema Hazel — uploaded identity approved with floral house dress retained as alternate; Uncle Mo — revised role-neutral family hero approved
+- **Current character:** Seraphina
 - **Blocked by:** Nothing
 - **Status:** Waiting
 

@@ -102,6 +102,8 @@ An approved image may replace a visual description, but it does not automaticall
 
 ## Uncle Mo
 
+**Decision — REVISED AND APPROVED:** Keisha removed Uncle Mo's bodega association while his larger story role is reworked. The revised Arena candidate with the uploaded face, forest-green overshirt, cream henley, brown chinos, tan high-tops, watch, and welcoming family gesture is the controlling role-neutral hero.
+
 **Strong matches:** Late-30s Black man; neat beard; kind eyes and smile; rolled-sleeve button-up; corner-store apron; relaxed, welcoming stance.
 
 **Differences from current Lock Block:**
