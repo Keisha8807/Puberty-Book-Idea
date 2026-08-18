@@ -104,3 +104,14 @@ Final clean candidates now use no arrows/callout sentences:
 Annotated and captioned earlier attempts are superseded.
 
 **Approved by Keisha:** Ms. Harmony v02, Ms. Armstrong v03, Ms. Pythagoras v02, Nurse Nightingale v02, Dr. Smiles v02, and Kayla v05. Ms. Vitality v03 was approved in the prior gate.
+
+## Episode 1 supporting clean pass — generated
+
+Clean no-arrow/no-label candidates:
+
+- Mema Hazel v02
+- Emma v02
+- Jada v02
+- Brenda v04 (manual caption-zone cleanup from generated v02)
+
+Earlier annotated/captioned versions are superseded. Awaiting Keisha bulk approval.
