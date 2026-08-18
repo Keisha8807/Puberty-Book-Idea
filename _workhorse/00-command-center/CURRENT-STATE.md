@@ -98,4 +98,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-Washington family visual locking is complete. The next visual decision is Emma: review the existing candidate or upload a preferred alternative before hero generation.
+Washington family and approved school-cast cleanup are complete. The next decision is whether the new woman Dr. Smiles candidate becomes her exact visual identity.

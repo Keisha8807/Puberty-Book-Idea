@@ -94,7 +94,7 @@
 
 ### 👑 KAYLA — *the queen bee*
 - **10 · 5th grade · perfection in a headband**
-- **Signature look:** glossy hair, latest everything, color-coded planner
+- **Signature look:** gold-cuffed side-parted box braids, gold hoops, tailored pink blazer/skirt, white blouse with gold bow, gold flats, color-tabbed `KAYLA’S PLAN` planner
 - **Personality:** take-charge, secretly terrified of not being perfect
 - **Catchphrase:** *"It's not bossy if you're right."*
 - **Intro line:** *"Kayla. Somebody has to run this school. It's basically me."*
@@ -111,37 +111,37 @@
 ## THE ADULTS OF 5TH GRADE
 
 ### 🏃🏾♀️ MS. VITALITY — *the health teacher*
-- **Signature look:** bright sneakers, whistle, endless energy, "HEALTH IS WEALTH" mug
+- **Signature look:** high puff/headband, yellow athletic jacket, heart-icon tee and mug, teal leggings, bright sneakers, whistle, endless energy
 - **Personality:** relentlessly upbeat, makes facts fun, refuses to be embarrassed about bodies
 - **Catchphrase:** *"Bodies are AMAZING. Say it with me!"*
 - **Intro line:** *"Ms. Vitality! Health class is the best class. You'll see."*
 
 ### 🔺 MS. PYTHAGORAS — *the math magician*
-- **Signature look:** geometric glasses, pencils through her bun, blazer covered in embroidered math symbols
+- **Signature look:** colorful geometric glasses, pencils through textured bun, teal math-symbol blazer, `MATH = MAGIC` tee, cuffed jeans, math sneakers, correct theorem board
 - **Personality:** quirky, brilliant, makes every answer feel like a magic trick
 - **Catchphrase:** *"Math is MAGIC. Show your work, though."*
 - **Intro line:** *"Ms. Pythagoras! Numbers can't hurt you — they just want to be understood."*
 
 ### 🏀 MS. ARMSTRONG — *the tough-love coach*
-- **Signature look:** navy track suit, whistle, clipboard, dodgeball under one arm
+- **Signature look:** navy striped tracksuit, high curly ponytail/headband, whistle, watch, clipboard, maroon dodgeball, white sneakers
 - **Personality:** no-nonsense, secretly the biggest softie in the building, believes in every kid
 - **Catchphrase:** *"Strong bodies, strong minds. Let's GO."*
 - **Intro line:** *"I'm Coach Armstrong. In my gym, everybody plays. No exceptions."*
 
 ### 🩹 NURSE NIGHTINGALE — *the unconventional healer*
-- **Signature look:** turquoise patterned scrubs, charm-covered stethoscope, fanny pack of band-aids
+- **Signature look:** woven headwrap, turquoise icon-pattern scrubs, plush-sun stethoscope charm, bandage fanny pack, teal-white nursing sneakers
 - **Personality:** warm, quirky, treats hurt feelings as carefully as skinned knees
 - **Catchphrase:** *"Let's take a look. It's probably not fatal."*
 - **Intro line:** *"Nurse Nightingale. I fix boo-boos, bad days, and everything between."*
 
 ### 😄 DR. SMILES — *the playful pediatrician*
-- **Signature look:** white coat over a fun patterned shirt, tongue depressor as a magic wand, sticker jar always open
-- **Personality:** playful, patient, answers every question like it's the best one he's heard all day
+- **Signature look:** African American Black woman pediatrician in her early-to-mid 40s; exact woman hero details pending approval; white coat and tongue-depressor magic-wand energy
+- **Personality:** playful, patient, answers every question like it's the best one she's heard all day
 - **Catchphrase:** *"No question is silly in here. Try me."*
 - **Intro line:** *"I'm Dr. Smiles. Your body is my favorite subject — let's talk about it."*
 
 ### ☀️ MS. HARMONY — *the wise counselor*
-- **Signature look:** mustard cardigan, sun-charm necklace, rounded glasses, always leaning in to listen
+- **Signature look:** gold-cuffed shoulder locs, rounded glasses, mustard cardigan, cream blouse, charcoal trousers, sun-charm necklace, brown loafers, succulent, always leaning in to listen
 - **Personality:** calm, wise, makes everyone feel heard
 - **Catchphrase:** *"Feelings are information. Let's read them together."*
 - **Intro line:** *"I'm Ms. Harmony. Whatever's on your mind — it's welcome in this room."*

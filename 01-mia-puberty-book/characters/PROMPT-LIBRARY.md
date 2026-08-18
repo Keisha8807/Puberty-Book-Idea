@@ -54,14 +54,14 @@
 
 - **JADA:** braided hair with colorful beads, huge gold hoop earrings, color-block crop jacket (orange/pink), ripped jeans, chunky sneakers. Pose: mid-announcement, peace sign, one eyebrow raised. BG: magenta-purple sparkles.
 - **EMMA:** round glasses, natural hair in two afro puffs, oversized sage cardigan, paint-stained fingers, sketchbook hugged to chest. Pose: shy-but-proud over the glasses. BG: pastel yellow-green doodles.
-- **KAYLA:** glossy braids with gold beads, soft pink blazer-skirt set, gold accessories, color-coded planner. Pose: chin up, already won. BG: pink gradient with crown motif.
+- **KAYLA:** long side-parted box braids with gold cuffs, gold hoops, tailored pink blazer-skirt set, white blouse with gold bow, gold ballet flats, color-tabbed `KAYLA’S PLAN` planner. Pose: chin up, already won. BG: pink crown glow.
 - **SOPHIE:** round wire-rimmed glasses, two low buns, lavender cardigan, plaid skirt, sketchbook with doodles spilling out. Pose: peeking up, hand half-raised. BG: periwinkle pencil clouds.
-- **MS. VITALITY:** high puff with bright headband, yellow athletic jacket, teal leggings, whistle, "HEALTH IS WEALTH" mug. Pose: mid-cheer, fist raised. BG: bright classroom.
-- **NURSE NIGHTINGALE:** patterned turquoise scrubs, headwrap, charm-covered stethoscope, fanny pack. Pose: holding up a band-aid like a prize. BG: nurse's office.
-- **DR. SMILES:** white coat over fun patterned shirt, neat beard, tongue depressor as magic wand. Pose: friendly, peace sign. BG: pediatric exam room with sticker jar.
-- **MS. PYTHAGORAS:** geometric glasses, pencils through bun, math-symbol blazer, "MATH = MAGIC" tee. Pose: enthusiastic, holding a chalkboard. BG: chalkboard doodles.
-- **MS. ARMSTRONG:** navy track suit, ponytail + headband, whistle, clipboard + dodgeball. Pose: strong, chin up. BG: gymnasium.
-- **MS. HARMONY:** locs with gold cuffs, rounded glasses, mustard cardigan, sun-charm necklace. Pose: leaning in, listening. BG: calming counselor office.
+- **MS. VITALITY:** high puff with teal-gold headband, yellow athletic jacket, charcoal heart-icon tee, teal leggings, bright sneakers, whistle, icon-only mug. Pose: full-body mid-cheer, fist raised. BG: health classroom with no readable text.
+- **NURSE NIGHTINGALE:** woven headwrap, turquoise icon-pattern scrubs, plush-sun stethoscope charm, bandage fanny pack, teal-white nursing sneakers. Pose: full-body holding rainbow bandage like a prize. BG: label-free nurse office.
+- **DR. SMILES:** African American Black woman pediatrician, early-mid 40s; exact woman appearance pending approval. White coat and playful tongue-depressor wand/peace-sign energy. Retired male art forbidden. BG: text-free pediatric exam room.
+- **MS. PYTHAGORAS:** geometric glasses, pencils through textured bun, teal math-symbol blazer, `MATH = MAGIC` tee, cuffed jeans, math sneakers. Pose: full-body with board correctly reading `a² + b² = c²`. BG: unlabeled geometric diagrams only.
+- **MS. ARMSTRONG:** navy striped tracksuit, high curly ponytail + headband, whistle/watch, clipboard + maroon dodgeball, white sneakers. Pose: strong full body. BG: generic gym with no school branding.
+- **MS. HARMONY:** shoulder locs with gold cuffs, rounded glasses, mustard cardigan, cream blouse, charcoal trousers, sun charm, brown loafers. Pose: complete seated body, succulent and welcome gesture. BG: text-free calming office.
 
 ---
 

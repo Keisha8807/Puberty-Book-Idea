@@ -131,6 +131,27 @@
 - **Effect:** Active Canon advances to v1.8 for the completed family batch. Max now has a red-and-gold cape, cream `W` shirt over blue sleeves, cuffed jeans, red-blue-white sneakers, and a superhero stance. His love of filming Mia remains story canon.
 - **Status:** Locked
 
+## DEC-2026-08-18-019 — Approved school-cast batch and technical cleanup
+
+- **Decision:** Jada and Kayla remain approved. Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, and Nurse Nightingale are approved identities.
+- **Reason:** Keisha approved these characters and asked whether the visible math required repair.
+- **Effect:** Production-clean heroes preserve each approved identity. Ms. Pythagoras now displays one correct theorem with unlabeled geometry; false equations, text artifacts, conflicting school branding, cropped bodies, and office labels were removed from the adult heroes.
+- **Status:** Locked
+
+## DEC-2026-08-18-020 — Dr. Smiles recast as a woman
+
+- **Decision:** Dr. Smiles is an African American Black woman pediatrician in her early-to-mid 40s. Male art and male pronouns are retired.
+- **Reason:** Keisha requested a woman Dr. Smiles.
+- **Effect:** Active Canon advances to v1.9. A woman hero candidate exists, but her exact appearance remains pending visual approval.
+- **Status:** Locked
+
+## DEC-2026-08-18-021 — Emma and Sophie require redesign
+
+- **Decision:** Do not approve or extend the current Emma and Sophie visual identities. Both characters will receive focused redesign briefs and new heroes.
+- **Reason:** Keisha wants both characters redone.
+- **Effect:** Current images remain candidates/superseded references only and cannot seed final reference sheets.
+- **Status:** Locked
+
 ---
 
 ## New decision template

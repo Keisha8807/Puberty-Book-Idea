@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.8 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.9 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -117,6 +117,13 @@ The exact Ask Mema Hazel page treatment must be approved during the Episode 1 fo
 - Seraphina: 15; deep warm brown skin; long gold-cuffed braids; winged eyeliner; gold hoops/layered jewelry; rust cropped `DRAMA` sweatshirt; distressed cuffed jeans; gold chain belt; black-and-white platform high-tops; smartphone; bedroom vanity/fairy-light setting without branded background art
 - Lily: 8; warm brown skin; rosy freckled cheeks; amber-brown eyes; shoulder-length beaded twists/braids with oversized colorful mismatched bows; rainbow-striped tee; denim shortalls; yellow socks; pink high-tops; hands-on-hips mischief; collecting "borrowed" items remains a story trait
 - Max: 5; warm brown skin; chubby cheeks; dark eyes; short tight curls; red-and-gold cape; cream `W` shirt over royal-blue sleeves; cuffed jeans; red-blue-white sneakers; superhero stance; love of filming Mia remains a story trait
+- Kayla: 10; long side-parted box braids with gold cuffs; gold hoops; tailored pink blazer/skirt; white blouse with gold bow; gold flats; color-tabbed `KAYLA’S PLAN` planner
+- Ms. Vitality: approved high-puff/headband identity; yellow athletic jacket; heart-icon tee/mug; teal leggings; bright sneakers; whistle; full-body cheer pose; no readable health claims in art
+- Nurse Nightingale: approved woven-headwrap identity; turquoise icon-pattern scrubs; plush-sun stethoscope charm; fanny pack; rainbow bandage; teal-white nursing sneakers; no readable office labels
+- Ms. Pythagoras: approved geometric-glasses/textured-bun identity; teal math-symbol blazer; `MATH = MAGIC` tee; board correctly reads `a² + b² = c²`; background uses unlabeled geometry only
+- Ms. Armstrong: approved high-ponytail/headband identity; navy striped tracksuit; whistle/watch; clipboard; maroon dodgeball; white sneakers; no school name, mascot, or logo in art
+- Ms. Harmony: approved gold-cuffed shoulder-loc identity; rounded glasses; mustard cardigan; cream blouse; charcoal trousers; sun charm; brown loafers; succulent; text-free counselor office
+- Dr. Smiles: recast as an African American Black **woman** pediatrician in her early-to-mid 40s; retired male art/pronouns are forbidden; exact woman hero appearance awaits approval
 - Approved character references outrank prose-only visual guesses
 - Reject a drifting image; do not rewrite the character to match it
 

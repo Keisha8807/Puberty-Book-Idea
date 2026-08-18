@@ -78,8 +78,8 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 ## THE 5TH-GRADE RIVALS
 
 ### 👑 KAYLA (10) — [LOCK BLOCK]
-> "Kayla," a polished confident 10-year-old Black girl, the queen-bee rival. Flawless glossy braided hair with gold beads, perfect posture, poised smile with a competitive edge. Signature outfit: chic soft-pink blazer-and-skirt set, gold accessories, shiny ballet flats, color-coded planner always in hand.
-> **Hero prompt:** Full-body portrait, chin slightly raised, planner hugged to her chest, looking like she's already won. Background: elegant light pink gradient with a subtle golden crown motif. [STYLE BLOCK]
+> "Kayla," a polished confident 10-year-old African American Black girl, the queen-bee rival. Warm deep-brown skin, poised competitive smile, sharp expressive brown eyes, long side-parted box braids with small gold cuffs, gold hoop earrings and jewelry, perfect posture. Signature outfit: tailored soft-pink blazer and matching skirt with gold trim/buttons, crisp white blouse with a large metallic-gold bow, shiny gold ballet flats, color-tabbed planner labeled `KAYLA’S PLAN`.
+> **Hero prompt:** Full-body portrait, chin slightly raised, planner hugged to her chest, looking like she already won. Background: elegant light-pink gradient with subtle glowing crown motif. [STYLE BLOCK]
 
 ### 🌸 SOPHIE (10) — [LOCK BLOCK]
 > "Sophie," a soft-spoken 10-year-old Black girl, the conflicted sidekick. Deep brown skin, round wire-rimmed glasses, natural hair in two low buns, nervous half-smile. Signature outfit: modest lavender cardigan over a collared shirt, plaid skirt, tights, Mary Jane shoes, doodle-stuffed sketchbook always in hand.
@@ -90,28 +90,28 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 ## THE VILLAGE OF ADULTS (5th grade)
 
 ### 🏃🏾♀️ MS. VITALITY (health teacher) — [LOCK BLOCK]
-> "Ms. Vitality," an energetic joyful Black woman health teacher in her 30s. Warm brown skin, natural hair in a high puff with a bright headband, huge encouraging smile. Signature outfit: sunny yellow athletic zip-up jacket, teal leggings, bright sneakers, whistle around her neck, "HEALTH IS WEALTH" mug.
-> **Hero prompt:** Full-body portrait, mid-cheer, one fist raised in the air like a coach starting warm-ups. Background: bright classroom with anatomy posters and fruit decals. [STYLE BLOCK]
+> "Ms. Vitality," an energetic joyful African American Black woman health teacher in her 30s. Warm brown skin, natural hair in a high puff with a teal-gold patterned headband, huge encouraging smile. Signature outfit: sunny-yellow athletic zip jacket, charcoal t-shirt with a heart-and-pulse icon, teal leggings, bright multicolor sneakers, whistle and colorful lanyard. Recurring prop: mug with heart-and-sun icon and no text.
+> **Hero prompt:** Full-body portrait, one fist raised mid-cheer, one knee playfully lifted, icon mug in the other hand. Background: bright health classroom using fruit/body icons only, with no readable health claims or school branding. [STYLE BLOCK]
 
 ### 🩹 NURSE NIGHTINGALE (nurse) — [LOCK BLOCK]
-> "Nurse Nightingale," a warm quirky Black woman school nurse in her 40s. Deep brown skin, natural hair under a colorful patterned headwrap, warm knowing eyes. Signature outfit: bright turquoise scrubs with colorful bandage patterns, stethoscope with a small plush charm, fanny pack full of band-aids.
-> **Hero prompt:** Full-body portrait, holding up a single colorful band-aid like a prize, head tilted warmly. Background: cheerful nurse's office with a cot and a potted plant. [STYLE BLOCK]
+> "Nurse Nightingale," a warm quirky African American Black woman school nurse in her 40s. Deep brown skin, warm knowing eyes, colorful woven patterned headwrap and earrings. Signature outfit: turquoise scrubs covered in cheerful bandage/heart/star icons, stethoscope with plush smiling-sun charm, practical patterned fanny pack filled with bandages, watch, turquoise-and-white nursing sneakers.
+> **Hero prompt:** Full-body portrait, holding up one rainbow bandage like a prize, other hand on hip, warm head tilt. Background: cheerful school nurse office with no readable labels or poster text. [STYLE BLOCK]
 
 ### 😄 DR. SMILES (pediatrician) — [LOCK BLOCK]
-> "Dr. Smiles," a playful warm Black man pediatrician in his 40s. Medium brown skin, neat short beard, kind crinkly eyes, big genuine grin. Signature outfit: white doctor's coat over a colorful patterned button-up, stethoscope, lanyard with cheerful pins.
-> **Hero prompt:** Full-body portrait, holding a tongue depressor like a magic wand, other hand doing a silly peace sign, leaning toward the viewer. Background: bright pediatric exam room with a jar of stickers. [STYLE BLOCK]
+> "Dr. Smiles," a playful warm African American Black **woman** pediatrician in her early-to-mid 40s. Rich medium-deep brown skin, kind crinkly dark-brown eyes, big genuine grin, soft round face. **Exact hair, facial details, and signature wardrobe remain pending the current woman-hero approval gate; retired male art and male pronouns are forbidden.**
+> **Hero prompt:** Full-body portrait, holding a tongue depressor like a magic wand, other hand making a playful peace sign, leaning slightly toward the viewer. Background: bright child-friendly pediatric exam room with no readable text. [STYLE BLOCK]
 
 ### 🔺 MS. PYTHAGORAS (math) — [LOCK BLOCK]
-> "Ms. Pythagoras," a quirky fun Black woman math teacher in her 30s. Warm brown skin, geometric-frame glasses, natural hair in a stylish bun with two pencils through it, excited nerdy smile. Signature outfit: blazer embroidered with tiny math symbols, "MATH = MAGIC" tee, triangle-shaped earrings, colorful sneakers.
-> **Hero prompt:** Full-body portrait, holding up a small chalkboard with a cheerful equation, eyebrows raised, free hand gesturing like she just proved something amazing. Background: chalkboard covered in colorful equations and doodles. [STYLE BLOCK]
+> "Ms. Pythagoras," a quirky joyful African American Black woman math teacher in her 30s. Warm brown skin, huge nerdy smile, colorful geometric-frame glasses, natural hair in a high textured bun with colorful bands and pencils, triangle earrings. Signature outfit: dark-teal blazer embroidered with small colorful math symbols, black `MATH = MAGIC` t-shirt, dark cuffed jeans, colorful math-pattern sneakers and bracelets.
+> **Hero prompt:** Full-body portrait with two normal legs, holding a small board accurately reading `a² + b² = c²`, free hand making an excited teaching gesture. Background: chalkboard with unlabeled geometric diagrams only—no extra equations or garbled math. [STYLE BLOCK]
 
 ### 🏀 MS. ARMSTRONG (gym) — [LOCK BLOCK]
-> "Ms. Armstrong," a tough-but-kind Black woman gym teacher in her 30s. Deep brown skin, athletic build, natural hair in a high ponytail with a sporty headband, no-nonsense grin with a soft twinkle. Signature outfit: navy track jacket with white stripes, matching track pants, whistle, clean white sneakers.
-> **Hero prompt:** Full-body portrait, clipboard in one hand, dodgeball tucked under the other arm, standing strong like she believes every kid in that gym can do great things. Background: school gymnasium with basketball hoops. [STYLE BLOCK]
+> "Ms. Armstrong," a tough-but-kind African American Black woman gym teacher in her 30s. Deep brown skin, athletic build, natural hair in a high curly ponytail, navy-and-white sporty headband, no-nonsense grin with a soft twinkle. Signature outfit: navy track jacket and pants with clean white side stripes, whistle, watch, white sneakers.
+> **Hero prompt:** Full-body portrait, clipboard in one hand, maroon dodgeball under the other arm, standing strong and encouraging. Background: elementary gym with basketball hoops and abstract banners—no school name, mascot, slogan, or logo. [STYLE BLOCK]
 
 ### ☀️ MS. HARMONY (counselor) — [LOCK BLOCK]
-> "Ms. Harmony," a wise serene Black woman school counselor in her 40s. Rich brown skin, natural locs with small gold cuffs, gentle smiling eyes behind soft rounded glasses. Signature outfit: flowing mustard-yellow cardigan over a cream blouse, long pendant necklace with a small sun charm, comfortable loafers.
-> **Hero prompt:** Full-body portrait, seated on the edge of a cozy chair, leaning forward like she's really listening, potted plant in one hand, calm welcome gesture with the other. Background: soothing counselor's office with a small fountain and affirmation posters. [STYLE BLOCK]
+> "Ms. Harmony," a wise serene African American Black woman school counselor in her 40s. Rich brown skin, shoulder-length natural locs with small gold cuffs, gentle smiling eyes behind soft rounded glasses. Signature outfit: flowing mustard-yellow cardigan over cream blouse, dark charcoal ankle trousers, long necklace with small sun charm, brown loafers.
+> **Hero prompt:** Complete full-body seated portrait, holding a small succulent in one hand and offering a calm welcome gesture with the other, both loafers visible. Background: soothing counselor office with plants, books, cushions, and small stone fountain; abstract sun/heart art only, no readable poster text. [STYLE BLOCK]
 
 ---
 

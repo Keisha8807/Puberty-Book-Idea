@@ -4,13 +4,12 @@
 
 ## Waiting on Keisha
 
-### AQ-003 — Washington family identity gates
+### AQ-004 — Dr. Smiles woman-hero gate
 
 - **Type:** Visual
 - **Risk:** Yellow
-- **Decision needed:** Choose one uploaded identity at a time and authorize any Lock Block sync
-- **Completed:** Mia — exact uploaded ChatGPT look approved; Solani — uploaded identity approved with story locks and alternate outfit preserved; Brenda — revised natural-hair fashionista hero approved; Marcus — exact uploaded ChatGPT look approved; Mema Hazel — uploaded identity approved with floral house dress retained as alternate; Uncle Mo — revised role-neutral family hero approved
-- **Current character:** Seraphina
+- **Decision needed:** Approve, revise, or reject the exact woman Dr. Smiles candidate
+- **Canon already locked:** Dr. Smiles is an African American Black woman pediatrician in her early-to-mid 40s; male art is retired
 - **Blocked by:** Nothing
 - **Status:** Waiting
 

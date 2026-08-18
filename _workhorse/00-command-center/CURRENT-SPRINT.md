@@ -21,13 +21,13 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Keisha approves the Foundation Canon Gate
 - [x] Per-character GitHub visual libraries and upload inboxes created
 - [x] Keisha uploads the nine preferred Washington-family ChatGPT candidates
-- [x] Mia's uploaded identity is selected and synchronized across active visual canon
-- [ ] Remaining Washington family candidate identities are selected one at a time
-- [x] Solani's uploaded hero is approved; story locks and alternate outfit preserved
-- [x] Brenda's revised natural-hair fashionista hero is approved
-- [x] Marcus's uploaded ChatGPT hero is approved exactly
-- [x] Mema Hazel's uploaded hero is approved; floral house dress retained as alternate
-- [x] Uncle Mo's role-neutral family hero is approved; larger story role remains pending
+- [x] All nine Washington-family identities are selected and synchronized
+- [x] Jada and Kayla are approved
+- [x] Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, and Nurse Nightingale are approved with technical cleanups complete
+- [x] Dr. Smiles recast as a Black woman; retired male art archived
+- [ ] Exact woman Dr. Smiles candidate is approved
+- [ ] Emma redesign is approved
+- [ ] Sophie redesign is approved
 - [ ] Mia's full reference-sheet work packet is ready
 
 ## Current single next action
