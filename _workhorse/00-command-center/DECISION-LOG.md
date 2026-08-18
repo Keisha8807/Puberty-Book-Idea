@@ -37,6 +37,13 @@
 - **Effect:** Workers may preserve CROWN continuity and bridge clues but may not develop CROWN plots, origin, or BUFU without explicit override.
 - **Status:** Locked
 
+## DEC-2026-08-18-006 — Foundation Canon approved
+
+- **Decision:** Keisha approved Active Canon v1.0 without correction.
+- **Reason:** The compact Canon Gate accurately represents the current project and safely separates active work from archived development.
+- **Effect:** The visual-production gate is unblocked. Later Workhorse workflows must read Active Canon v1.0 before beginning.
+- **Status:** Locked
+
 ---
 
 ## New decision template

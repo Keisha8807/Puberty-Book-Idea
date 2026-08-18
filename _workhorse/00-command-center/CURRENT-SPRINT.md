@@ -18,21 +18,20 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Archive Rules created
 - [x] Safety and Approval rules created
 - [x] Reusable Work Request template created
-- [ ] Keisha approves the Foundation Canon Gate
+- [x] Keisha approves the Foundation Canon Gate
 - [ ] Revised Mia, Solani, and Brenda hero shots receive explicit visual approval or focused revision notes
 - [ ] Remaining nine hero shots are generated and reviewed
 - [ ] Mia's full reference-sheet work packet is ready
 
 ## Current single next action
 
-**Keisha reviews `01-rules/ACTIVE-CANON.md` and approves or flags one correction.**
+**Review the revised Mia, Solani, and Brenda hero shots as one focused visual gate.**
 
 ## After that gate
 
-1. Review revised Mia, Solani, and Brenda hero shots.
-2. Complete the remaining nine cast hero shots.
-3. Build Mia's turnaround, expression row, and palette.
-4. Begin the Episode 1 Book Factory pilot only after Mia's visual lock.
+1. Complete the remaining nine cast hero shots.
+2. Build Mia's turnaround, expression row, and palette.
+3. Begin the Episode 1 Book Factory pilot only after Mia's visual lock.
 
 ## Not this sprint
 

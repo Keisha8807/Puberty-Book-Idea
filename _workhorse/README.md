@@ -51,7 +51,7 @@ Keisha's request
 
 ## Current single next action
 
-Review the compact [`ACTIVE-CANON.md`](01-rules/ACTIVE-CANON.md). Once Keisha approves the Foundation, the system returns to the visual-production gate: confirm the revised Mia, Solani, and Brenda hero shots, then complete the remaining nine cast heroes.
+The Foundation was approved by Keisha on August 18, 2026. The system now returns to the visual-production gate: confirm the revised Mia, Solani, and Brenda hero shots, then complete the remaining nine cast heroes.
 
 ## Later layers—not built yet
 

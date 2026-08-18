@@ -4,15 +4,6 @@
 
 ## Waiting on Keisha
 
-### AQ-001 — Foundation Canon Gate
-
-- **Type:** System/canon
-- **Risk:** Yellow
-- **Review:** `_workhorse/01-rules/ACTIVE-CANON.md`
-- **Decision needed:** Approve the compact canon as the Workhorse's controlling rule set, or flag one correction.
-- **Blocked work:** Visual Factory work packets and all later agent workflows
-- **Status:** Waiting
-
 ### AQ-002 — Revised hero-shot gate
 
 - **Type:** Visual
@@ -20,10 +11,19 @@
 - **Assets:** revised Mia, revised Solani, revised Brenda hero portraits
 - **Decision needed:** Approve each look or provide one focused correction per character.
 - **Important canon note:** Solani is 11, turning 12 in September, and must read as a young middle schooler.
-- **Blocked by:** AQ-001
-- **Status:** Queued
+- **Blocked by:** Nothing
+- **Status:** Waiting
 
 ## Approved this sprint
+
+### AQ-001 — Foundation Canon Gate
+
+- **Decision:** Approved without correction
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Unlocks:** Visual Factory work packets and later manual-first workflows
+
+Additional locked decisions:
 
 - **August 18, 2026:** Build the Workhorse Foundation before expanding the system.
 - **August 18, 2026:** Solani is 11, turning 12 in September, and in 7th grade.

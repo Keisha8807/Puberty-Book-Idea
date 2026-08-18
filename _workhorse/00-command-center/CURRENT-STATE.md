@@ -88,4 +88,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next decision
 
-Approve the Foundation Canon Gate. After approval, review the revised Mia, Solani, and Brenda heroes as one visual gate.
+Review the revised Mia, Solani, and Brenda heroes as one visual gate. The Foundation Canon Gate was approved on August 18, 2026.
