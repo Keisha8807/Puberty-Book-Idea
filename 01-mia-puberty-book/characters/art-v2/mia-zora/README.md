@@ -36,4 +36,4 @@ _New scenes must use the approved hero and future reference sheet._
 
 ## Approval rule
 
-The approved hero supplies Mia's exact face, hair, age-read, proportions, and signature hero outfit. Her later reference sheet will lock turnaround, expressions, palette, and recurring props. If a future image drifts, reject the image—not Mia.
+The approved hero supplies Mia's exact face, hair, age-read, proportions, and signature hero outfit. **Mia has even front teeth and no gap.** Her approved expression sheet and later completed reference assets lock expressions, palette, and recurring props. If a future image adds a gap or otherwise drifts, reject the image—not Mia.

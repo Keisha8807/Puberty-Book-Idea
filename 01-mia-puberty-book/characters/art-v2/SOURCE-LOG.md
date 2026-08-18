@@ -39,6 +39,10 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Sophie | `sophie/99-superseded/sophie-chosen-source-v03.png` | ChatGPT | Keisha | Yes | Confirmed as chosen source identity | Superseded source | Exact design source retained for provenance |
 | 2026-08-18 | Sophie | `sophie/02-approved/hero-sophie.png` | Arena image generation; reference restyle | Keisha-directed Workhorse | Yes | Confirmed | Approved | v03 design preserved with premium 3D cast rendering |
 
+| 2026-08-18 | Mia | `mia-zora/03-reference-sheets/approved-mia-expressions-a-v03.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Confirmed | Approved partial reference | Six expressions approved exactly; Mia has no gap |
+| 2026-08-18 | Mia | `mia-zora/03-reference-sheets/candidate-mia-turnaround-palette-v01.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Pending no-gap QA | Candidate | Turnaround/palette requires tooth check before approval |
+| 2026-08-18 | Solani | `solani-maya/99-superseded/solani-model-board-no-braces-v01.png` | Arena image generation; reference sheet | Keisha-directed Workhorse | Yes | Rejected after braces decision | Superseded | Must regenerate with braces in every open-mouth smile |
+
 ## Required before approval
 
 - [ ] Character and file are identified

@@ -13,10 +13,10 @@
 
 | Character | Candidate assets | Status |
 |---|---|---|
-| Mia | Turnaround/palette v01 | Generated; QA candidate |
-| Mia | Expressions A v03—six faces | Generated; QA candidate |
-| Mia | Expressions B—five faces | Generation failed; retry first next turn |
-| Solani | Composite board v01 | Generated; QA candidate |
+| Mia | Turnaround/palette v01 | Generated; needs explicit no-gap tooth correction/QA |
+| Mia | Expressions A v03—six faces | **Approved exactly by Keisha** |
+| Mia | Expressions B—five faces | Generation failed; retry first next turn with no-gap instruction |
+| Solani | Composite board v01 | Superseded because it predates her braces; regenerate braces-aware |
 | Jada | Composite board v01 | Generated; QA candidate |
 | Emma | Composite board v01 | Generated; QA candidate |
 | Mema Hazel | Composite board v01 | Generated; QA candidate |

@@ -29,16 +29,20 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Emma earthy artist redesign is approved and synchronized
 - [x] Sophie premium 3D redesign is approved and synchronized
 - [x] All cast hero identities are approved
+- [x] Mia's first six expressions are approved exactly
+- [ ] Mia's remaining five no-gap expressions are generated and approved
+- [ ] Mia turnaround/palette passes no-gap QA
+- [ ] Solani braces-aware board is generated
 - [ ] Mia's full reference-sheet work packet is ready
 
 ## Current single next action
 
-**Create Mia's full reference-sheet work packet from her approved ChatGPT hero.**
+**Begin Batch 2 with Mia's remaining five no-gap expressions, Mia turnaround tooth correction, and Solani's braces-aware board.**
 
 ## After that gate
 
-1. Generate Mia's turnaround views.
-2. Generate the 11-expression row.
+1. Complete remaining Batch 2 character boards.
+2. QA and approve Mia's full 11-expression set and turnaround/palette.
 3. Lock outfit, hair/accessory palette, proportions, and recurring props.
 4. Begin the Episode 1 Book Factory pilot only after Mia's reference sheet is approved.
 

@@ -14,7 +14,7 @@ project: "Mia's Puberty Primer"
 workflow: ""
 status: "INBOX"
 risk: "GREEN | YELLOW | RED"
-canon_version: "ACTIVE-CANON v1.12"
+canon_version: "ACTIVE-CANON v1.13"
 approval_required: true
 archive_access: false
 owner: ""

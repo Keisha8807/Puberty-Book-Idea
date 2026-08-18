@@ -56,8 +56,9 @@ A per-character GitHub visual library now lives at `01-mia-puberty-book/characte
 - Sophie: premium 3D v04 redesign approved and synchronized
 - Emma: earthy artist redesign approved and synchronized
 - **All cast hero identities are now approved**
-- Mia full turnaround/reference sheet: must be rebuilt from the newly approved identity
-- Mia 11-expression remaster: not started
+- Dental distinction locked: Mia has no gap; Solani has a small gap, deep dimples, and silver braces with changeable colorful elastics
+- Mia reference production: turnaround/palette candidate needs no-gap tooth QA; first six expressions approved exactly; five expressions remain
+- Solani reference production: first board superseded because it lacks braces; braces-aware board required
 - Character intro cards: not started
 
 ### Marketing and extensions

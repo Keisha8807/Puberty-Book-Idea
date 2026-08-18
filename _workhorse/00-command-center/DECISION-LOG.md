@@ -173,6 +173,13 @@
 - **Effect:** Active Canon advances to v1.12. Emma now has half-up chunky twists with artist clips, sage square glasses, a paint-splattered denim chore jacket, mustard/sage tee, olive cargos, painted cream high-tops, pencil, paint-marked fingers, and open colorful sketchbook.
 - **Status:** Locked
 
+## DEC-2026-08-18-025 — Mia has no gap; Solani receives braces
+
+- **Decision:** Mia has even front teeth and no gap. Solani alone retains the small front gap and now wears silver braces with changeable colorful elastics, usually lavender and teal.
+- **Reason:** Keisha corrected the sisters' dental distinction and chose braces as a cute Solani signature.
+- **Effect:** Active Canon advances to v1.13. Mia's first six-expression sheet is approved exactly. Any Mia reference showing a gap requires correction. Solani's no-braces model board is superseded; all future open-mouth Solani art must show braces, gap, and dimples.
+- **Status:** Locked
+
 ---
 
 ## New decision template

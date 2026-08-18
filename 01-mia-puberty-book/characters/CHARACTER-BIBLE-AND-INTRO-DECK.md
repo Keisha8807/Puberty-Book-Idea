@@ -9,7 +9,7 @@
 
 ### 👧🏾 MIA ZORA WASHINGTON — *our narrator*
 - **10 · 5th grade · the little sister who investigates everything**
-- **Signature look:** high fluffy puffs with neat braided/cornrow front sections and colorful **star clips** ("stars are better than butterflies anyway"), small gold hoops, bright multicolor paint-splash tee, hot-pink overalls with colorful flower pins, matching multicolor low-top sneakers, colorful bracelets, gap-tooth grin, freckles
+- **Signature look:** high fluffy puffs with neat braided/cornrow front sections and colorful **star clips** ("stars are better than butterflies anyway"), small gold hoops, bright multicolor paint-splash tee, hot-pink overalls with colorful flower pins, matching multicolor low-top sneakers, colorful bracelets, bright even-toothed grin with no gap, freckles
 - **Personality:** fiercely curious, confidently wrong, dramatic, loyal to the bone
 - **Voice:** fourth-wall breaker, inventor of words ("hormotional"), case files & bulletins
 - **Catchphrase:** *"Stick with me. I'll explain everything."*
@@ -18,7 +18,7 @@
 
 ### 🦋 SOLANI MAYA WASHINGTON — *the subject*
 - **11 (12 in Sept) · 7th grade · Roast Queen of LPMS**
-- **Signature look:** two high fluffy braided puffs with neat cornrow fronts and butterfly clips, cropped lavender hoodie, black joggers with a purple drawstring, purple-and-white high-tops, plus the pencil-charm necklace from Uncle Mo; alternate look = striped tank, baggy patchwork jeans, mismatched rainbow socks, and dusty sneakers
+- **Signature look:** two high fluffy braided puffs with neat cornrow fronts and butterfly clips, silver braces with colorful elastics and a small front gap, cropped lavender hoodie, black joggers with a purple drawstring, purple-and-white high-tops, plus the pencil-charm necklace from Uncle Mo; alternate look = striped tank, baggy patchwork jeans, mismatched rainbow socks, and dusty sneakers
 - **Personality:** loud, funny, magnetic — hiding the quiet poem-writing part of herself
 - **Voice:** quippy, rhythmic, "pause-then-punch" delivery
 - **Catchphrase:** *"I only roast the people I like."*

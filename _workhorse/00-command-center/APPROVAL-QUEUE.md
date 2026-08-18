@@ -4,13 +4,15 @@
 
 ## Waiting on Keisha
 
-### AQ-006 — Mia reference-sheet brief
+### AQ-006 — Mia reference-sheet completion and QA
 
 - **Type:** Visual system
 - **Risk:** Yellow
-- **Decision needed:** Approve the production brief for Mia's turnaround, 11-expression row, outfit/hair palette, proportions, and recurring props before generation
-- **Blocked by:** Nothing
-- **Status:** Waiting
+- **Completed:** First six expressions approved exactly
+- **Still required:** Five no-gap expressions; turnaround/palette no-gap QA; final combined reference approval
+- **Related correction:** Solani's braces-aware board must replace the no-braces attempt
+- **Blocked by:** Next image-generation batch
+- **Status:** In progress
 
 ## Approved this sprint
 

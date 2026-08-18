@@ -38,6 +38,7 @@ _New scenes must use the approved hero and future reference sheet._
 
 - [Previous Arena hero with incorrect storefront](99-superseded/hero-solani-arena-wrong-storefront.png)
 - [Early Solani candidate](99-superseded/solani-early-candidate.png)
+- [No-braces model-board attempt](99-superseded/solani-model-board-no-braces-v01.png)
 
 ## Approval rule
 
