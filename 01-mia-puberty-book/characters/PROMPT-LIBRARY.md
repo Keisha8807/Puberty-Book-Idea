@@ -53,7 +53,7 @@
 ## THE CREW + RIVALS + TEACHERS (current art matches these)
 
 - **JADA:** braided hair with colorful beads, huge gold hoop earrings, color-block crop jacket (orange/pink), ripped jeans, chunky sneakers. Pose: mid-announcement, peace sign, one eyebrow raised. BG: magenta-purple sparkles.
-- **EMMA:** round glasses, natural hair in two afro puffs, oversized sage cardigan, paint-stained fingers, sketchbook hugged to chest. Pose: shy-but-proud over the glasses. BG: pastel yellow-green doodles.
+- **EMMA:** shoulder-length chunky half-up twists with artist clips, translucent sage square glasses, painted denim chore jacket, mustard/sage tee, olive cargos, painted cream high-tops, pencil and open colorful sketchbook. Pose: calm observant confidence. BG: sage-mustard art studio, no text.
 - **KAYLA:** long side-parted box braids with gold cuffs, gold hoops, tailored pink blazer-skirt set, white blouse with gold bow, gold ballet flats, color-tabbed `KAYLA’S PLAN` planner. Pose: chin up, already won. BG: pink crown glow.
 - **SOPHIE:** deep rich-brown skin, one long low braid with lavender ribbon, angular translucent lavender glasses, ivory collar, periwinkle cardigan, long lavender/navy plaid skirt, plum tights, brown Mary Janes, closed navy doodle notebook. Pose: protective hug + hesitant raised palm. BG: periwinkle cloud/flower line art.
 - **MS. VITALITY:** high puff with teal-gold headband, yellow athletic jacket, charcoal heart-icon tee, teal leggings, bright sneakers, whistle, icon-only mug. Pose: full-body mid-cheer, fist raised. BG: health classroom with no readable text.

@@ -82,7 +82,7 @@
 
 ### 🎨 EMMA — *the evidence keeper*
 - **10 · 5th grade · thoughtful artist**
-- **Signature look:** oversized cardigan, sketchbook always out, paint-stained fingers
+- **Signature look:** half-up chunky twists with artist clips, sage square glasses, paint-splattered doodle-patch denim jacket, mustard/sage tee, olive cargos, painted cream high-tops, pencil and open sketchbook, paint-stained fingers
 - **Personality:** gentle, observant, the one who actually writes things down
 - **Catchphrase:** *"Let's make something awesome!"*
 - **Myth Machine role:** the diagram maker — evidence boards, charts, the "probably not aliens" voice

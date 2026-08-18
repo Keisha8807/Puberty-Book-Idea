@@ -33,7 +33,7 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Dr. Smiles | `dr-smiles/02-approved/hero-dr-smiles.png` | Arena image generation; gender recast | Keisha-directed Workhorse | Yes | Confirmed | Approved | Exact woman hero approved; retired male identity blocked |
 
 | 2026-08-18 | Emma | `emma/99-superseded/emma-previous-similar-design.png` | Existing project art; metadata not backfilled | Prior project session | Yes | Rejected by Keisha | Superseded | Too visually similar to Sophie |
-| 2026-08-18 | Emma | `emma/00-upload-candidates/arena-2026-08-18-hero-emma-redesign-v02.png` | Arena image generation; full redesign | Keisha-directed Workhorse | Yes | Pending exact visual approval | Candidate | Earthy street-artist distinction |
+| 2026-08-18 | Emma | `emma/02-approved/hero-emma.png` | Arena image generation; full redesign | Keisha-directed Workhorse | Yes | Confirmed | Approved | Earthy artist redesign approved by Keisha |
 | 2026-08-18 | Sophie | `sophie/99-superseded/sophie-previous-similar-design.png` | Existing project art; metadata not backfilled | Prior project session | Yes | Rejected by Keisha | Superseded | Too visually similar to Emma |
 | 2026-08-18 | Sophie | `sophie/99-superseded/sophie-preppy-first-redesign-v02.png` | Arena image generation; full redesign | Keisha-directed Workhorse | Yes | Replaced by Keisha's chosen source | Superseded | First preppy redesign |
 | 2026-08-18 | Sophie | `sophie/99-superseded/sophie-chosen-source-v03.png` | ChatGPT | Keisha | Yes | Confirmed as chosen source identity | Superseded source | Exact design source retained for provenance |

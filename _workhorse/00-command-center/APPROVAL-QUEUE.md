@@ -4,16 +4,22 @@
 
 ## Waiting on Keisha
 
-### AQ-005 — Emma redesign hero
+### AQ-006 — Mia reference-sheet brief
 
-- **Type:** Visual
+- **Type:** Visual system
 - **Risk:** Yellow
-- **Decision needed:** Approve, revise, or reject Emma's generated earthy artist identity
-- **Canon retained:** Emma is 10, thoughtful, gentle, artistic, and part of the Myth Machine
+- **Decision needed:** Approve the production brief for Mia's turnaround, 11-expression row, outfit/hair palette, proportions, and recurring props before generation
 - **Blocked by:** Nothing
 - **Status:** Waiting
 
 ## Approved this sprint
+
+### Emma redesign gate
+
+- **Decision:** Earthy artist redesign approved as controlling hero
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Unlocks:** Emma reference sheet and scene production; full cast hero identity gate complete
 
 ### Sophie redesign and cast-match gate
 

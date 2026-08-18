@@ -26,20 +26,21 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, and Nurse Nightingale are approved with technical cleanups complete
 - [x] Dr. Smiles recast as a Black woman; retired male art archived
 - [x] Exact woman Dr. Smiles hero approved and synchronized
-- [ ] Emma redesign is approved
+- [x] Emma earthy artist redesign is approved and synchronized
 - [x] Sophie premium 3D redesign is approved and synchronized
+- [x] All cast hero identities are approved
 - [ ] Mia's full reference-sheet work packet is ready
 
 ## Current single next action
 
-**Create and approve Emma's focused redesign brief.**
+**Create Mia's full reference-sheet work packet from her approved ChatGPT hero.**
 
 ## After that gate
 
-1. Generate and approve Emma's new hero.
-2. Create, generate, and approve Sophie's redesign.
-3. Build Mia's new turnaround, expression row, and palette.
-4. Begin the Episode 1 Book Factory pilot only after Mia's visual lock.
+1. Generate Mia's turnaround views.
+2. Generate the 11-expression row.
+3. Lock outfit, hair/accessory palette, proportions, and recurring props.
+4. Begin the Episode 1 Book Factory pilot only after Mia's reference sheet is approved.
 
 ## Not this sprint
 

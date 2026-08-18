@@ -166,6 +166,13 @@
 - **Effect:** Active Canon advances to v1.11. Sophie now has one low side-parted braid with lavender ribbon, angular lavender glasses, periwinkle cardigan, long plaid skirt, plum tights, brown Mary Janes, navy doodle notebook, and hesitant raised palm. v03 remains provenance; v04 controls production.
 - **Status:** Locked
 
+## DEC-2026-08-18-024 — Emma's earthy artist redesign approved
+
+- **Decision:** Approve the generated earthy artist Emma redesign as the controlling visual identity.
+- **Reason:** Keisha approved the redesign after rejecting Emma and Sophie's overly similar prior looks.
+- **Effect:** Active Canon advances to v1.12. Emma now has half-up chunky twists with artist clips, sage square glasses, a paint-splattered denim chore jacket, mustard/sage tee, olive cargos, painted cream high-tops, pencil, paint-marked fingers, and open colorful sketchbook.
+- **Status:** Locked
+
 ---
 
 ## New decision template

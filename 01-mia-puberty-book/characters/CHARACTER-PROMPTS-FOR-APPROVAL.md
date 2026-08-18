@@ -70,8 +70,8 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 > **Hero prompt:** Full-body portrait, mid-announcement, one hand on her hip, the other raised with a peace sign. Background: bold magenta-purple gradient with sparkle accents. [STYLE BLOCK]
 
 ### 🎨 EMMA (10) — [LOCK BLOCK]
-> "Emma," a thoughtful gentle 10-year-old Black girl artist, Mia's best friend. Medium brown skin, round glasses, natural hair in two fluffy afro puffs, gentle smile. Signature outfit: oversized sage-green knit cardigan over a striped shirt, jeans, paint-splattered canvas sneakers, pencil behind her ear.
-> **Hero prompt:** Full-body portrait, hugging an open sketchbook to her chest, looking at the viewer over her glasses, paint smudges on her fingers. Background: soft pastel yellow-green with doodled stars and swirls. [STYLE BLOCK]
+> "Emma," a thoughtful gentle 10-year-old African American Black girl artist and Mia's best friend. Medium-deep warm brown skin, soft oval face, observant dark-brown eyes, gentle proud smile, light freckles. Natural dark hair in shoulder-length chunky two-strand twists styled half-up, with small colorful artist-palette and paint-drop clips. Oversized translucent sage-green square glasses, graphite pencil behind one ear. Signature earthy artist outfit: cropped paint-splattered denim chore jacket with original doodle patches, mustard-and-sage striped t-shirt, relaxed olive cargo pants, cream high-top canvas sneakers with colorful hand-painted marks; paint smudges on her fingers.
+> **Hero prompt:** Full-body portrait, one foot slightly forward, open spiral sketchbook angled toward viewer showing original flowers/stars/swirls with no words, pencil in the other hand, calm expression like she noticed the clue everyone missed. Background: warm sage-mustard artist-studio gradient with abstract paint swirls and no text. [STYLE BLOCK]
 
 ---
 

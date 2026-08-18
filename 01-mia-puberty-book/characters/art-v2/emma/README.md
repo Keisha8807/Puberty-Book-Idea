@@ -1,25 +1,31 @@
 # Emma — Visual Library
 
-> **Status:** Previous similar design rejected; earthy artist redesign awaiting approval
+> **Status:** Earthy artist redesign approved August 18, 2026; full reference sheet pending
 
-## Current redesign candidate
+## Approved art
 
-**[arena-2026-08-18-hero-emma-redesign-v02.png](00-upload-candidates/arena-2026-08-18-hero-emma-redesign-v02.png)**
+**[hero-emma.png](02-approved/hero-emma.png)** — controlling visual identity
 
-<img src="00-upload-candidates/arena-2026-08-18-hero-emma-redesign-v02.png" alt="Emma earthy artist redesign candidate" width="300">
+<img src="02-approved/hero-emma.png" alt="Approved Emma hero" width="300">
 
-## Proposed distinction
+## Signature locks
 
-- Shoulder-length chunky twists in half-up style; palette clips
-- Translucent sage square glasses
-- Paint-splattered denim chore jacket, mustard/sage tee, olive cargos
-- Painted cream high-tops, open colorful sketchbook, pencil
-- Earthy creative palette and calm observant confidence
+- 10-year-old thoughtful Black artist with medium-deep warm-brown skin and light freckles
+- Shoulder-length chunky two-strand twists styled half-up with artist-palette/paint-drop clips
+- Oversized translucent sage square glasses and pencil behind ear
+- Paint-splattered doodle-patch denim chore jacket, mustard/sage striped tee
+- Olive cargo pants, cream painted high-top canvas sneakers
+- Paint-marked fingers, pencil, open colorful sketchbook
+- Calm observant expression like she noticed the clue everyone missed
+
+## Reference sheets
+
+_New turnaround, expression row, twists/clips/glasses callouts, wardrobe palette, sketchbook, art tools, and observant poses will be built from the approved hero._
 
 ## Superseded—do not use as current reference
 
-- [Previous similar design](99-superseded/emma-previous-similar-design.png)
+- [Previous similar Emma/Sophie design](99-superseded/emma-previous-similar-design.png)
 
 ## Approval rule
 
-Emma remains a candidate until Keisha explicitly approves this redesign. The superseded puff/cardigan version cannot seed new assets.
+The approved hero supplies Emma's exact face, age-read, hair, glasses, proportions, wardrobe, palette, and artist props. If a future image drifts, reject the image—not Emma.
