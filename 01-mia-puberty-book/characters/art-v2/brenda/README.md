@@ -28,9 +28,13 @@ After uploading, tell the Workhorse which character you updated. No upload becom
 
 _None currently awaiting review._
 
-## Reference sheets
+## Approved reference board
 
-_New turnaround, expression row, wardrobe palette, and prop callout will be built from the approved hero._
+**[approved-brenda-model-board-v04.png](03-reference-sheets/approved-brenda-model-board-v04.png)**
+
+<img src="03-reference-sheets/approved-brenda-model-board-v04.png" alt="Approved Brenda production model board" width="420">
+
+This clean board locks four views, six expressions, isolated props, and palette without callout arrows or captions.
 
 ## Scenes
 

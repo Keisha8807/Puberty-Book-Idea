@@ -37,15 +37,11 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Choose the next lane: clean the 10 remaining supporting reference boards for visual consistency, then begin Episode 1; or begin Episode 1 now because Mia's required package is approved.**
-
-## Remaining visual-consistency batch
-
-Brenda · Mema Hazel · Jada · Emma · Marcus · Uncle Mo · Seraphina · Lily · Max · Sophie
+**Run the final six-board clean pass: Marcus, Uncle Mo, Seraphina, Lily, Max, and Sophie.**
 
 ## Story unlock
 
-Episode 1 Book Factory is no longer blocked by Mia's visual reference package.
+Mia, Solani, Mema, Jada, Emma, and Brenda references already support the Episode 1 Book Factory. The final six-board pass completes visual-library consistency across the cast.
 
 ## Not this sprint
 

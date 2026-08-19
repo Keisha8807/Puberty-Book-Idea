@@ -22,6 +22,14 @@
 
 _New turnaround, expression row, twists/clips/glasses callouts, wardrobe palette, sketchbook, art tools, and observant poses will be built from the approved hero._
 
+## Approved reference board
+
+**[approved-emma-model-board-v02.png](03-reference-sheets/approved-emma-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-emma-model-board-v02.png" alt="Approved Emma production model board" width="420">
+
+This clean board locks four views, six expressions, isolated props, and palette without callout arrows or captions.
+
 ## Superseded—do not use as current reference
 
 - [Previous similar Emma/Sophie design](99-superseded/emma-previous-similar-design.png)

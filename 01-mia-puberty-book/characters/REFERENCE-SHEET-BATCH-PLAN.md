@@ -114,4 +114,6 @@ Clean no-arrow/no-label candidates:
 - Jada v02
 - Brenda v04 (manual caption-zone cleanup from generated v02)
 
-Earlier annotated/captioned versions are superseded. Awaiting Keisha bulk approval.
+Earlier annotated/captioned versions are superseded.
+
+**Approved by Keisha:** Mema Hazel v02, Emma v02, Jada v03, and Brenda v04.

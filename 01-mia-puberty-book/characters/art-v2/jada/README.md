@@ -22,9 +22,13 @@ After uploading, tell the Workhorse which character you updated. No upload becom
 
 <img src="01-candidates/jada.png" alt="Jada — jada.png" width="260">
 
-## Reference sheets
+## Approved reference board
 
-_None yet._
+**[approved-jada-model-board-v03.png](03-reference-sheets/approved-jada-model-board-v03.png)**
+
+<img src="03-reference-sheets/approved-jada-model-board-v03.png" alt="Approved Jada production model board" width="420">
+
+This clean board locks four views, six expressions, isolated props, and palette without callout arrows or captions.
 
 ## Scenes
 

@@ -54,6 +54,11 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Dr. Smiles | `dr-smiles/03-reference-sheets/approved-dr-smiles-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Woman identity; no arrows/labels |
 | 2026-08-18 | Kayla | `kayla/03-reference-sheets/approved-kayla-model-board-v05.png` | Arena generation + caption-zone cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Blank physical planners; no arrows/captions |
 
+| 2026-08-18 | Mema Hazel | `mema-hazel/03-reference-sheets/approved-mema-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean views, expressions, props, palette, alternate dress |
+| 2026-08-18 | Emma | `emma/03-reference-sheets/approved-emma-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean artist views, expressions, props, palette |
+| 2026-08-18 | Jada | `jada/03-reference-sheets/approved-jada-model-board-v03.png` | Arena generation + caption-zone cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean views, expressions, braid/hoop/outfit props, palette |
+| 2026-08-18 | Brenda | `brenda/03-reference-sheets/approved-brenda-model-board-v04.png` | Arena generation + targeted caption cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean views, expressions, fashion/wooden-spoon props, palette |
+
 ## Required before approval
 
 - [ ] Character and file are identified

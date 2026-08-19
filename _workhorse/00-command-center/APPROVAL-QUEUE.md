@@ -4,16 +4,23 @@
 
 ## Waiting on Keisha
 
-### AQ-007 — Batch 3 supporting reference boards
+### AQ-008 — Final six supporting-board cleanup
 
 - **Type:** Visual system
 - **Risk:** Yellow
-- **Decision needed:** QA and approve usable school-adult composite boards after generation
-- **Characters:** Ms. Harmony, Ms. Armstrong, Ms. Pythagoras, Ms. Vitality, Nurse Nightingale, Dr. Smiles
-- **Blocked by:** Next image-generation batch
+- **Decision needed:** QA and approve clean boards for Marcus, Uncle Mo, Seraphina, Lily, Max, and Sophie
+- **Blocked by:** Next image-generation turn
 - **Status:** Ready
 
 ## Approved this sprint
+
+### Episode 1 supporting clean-reference gate
+
+- **Decision:** Mema Hazel v02, Emma v02, Jada v03, and Brenda v04 approved
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Special condition:** Clean no-arrow/no-label boards replace annotated/captioned attempts
+- **Unlocks:** Episode 1 support-character scene production
 
 ### AQ-007 — Batch 3 supporting reference boards
 

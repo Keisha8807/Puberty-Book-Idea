@@ -37,6 +37,14 @@ _New turnaround, expression row, wardrobe palette, dance poses, glasses/headwrap
 
 _New scenes must use the approved hero and future reference sheet._
 
+## Approved reference board
+
+**[approved-mema-model-board-v02.png](03-reference-sheets/approved-mema-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-mema-model-board-v02.png" alt="Approved Mema Hazel production model board" width="420">
+
+This clean board locks four views, six expressions, isolated props, and palette without callout arrows or captions.
+
 ## Superseded—do not use as current reference
 
 - [Previous Arena hero](99-superseded/hero-mema-hazel-arena-previous.png)

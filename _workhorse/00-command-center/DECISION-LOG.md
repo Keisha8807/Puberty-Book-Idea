@@ -194,6 +194,13 @@
 - **Effect:** Seven supporting production references are approved. Earlier annotated, captioned, branded, and false-math boards remain superseded.
 - **Status:** Locked
 
+## DEC-2026-08-18-028 — Episode 1 supporting clean references approved
+
+- **Decision:** Approve clean reference boards for Mema Hazel, Emma, Jada, and Brenda.
+- **Reason:** Keisha approved all four after their annotation-free consistency pass.
+- **Effect:** Episode 1's core support cast now has approved model references. Earlier annotated and badly masked versions remain superseded. Six non-core supporting boards remain for the final consistency pass.
+- **Status:** Locked
+
 ---
 
 ## New decision template
