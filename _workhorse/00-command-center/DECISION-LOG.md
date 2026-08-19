@@ -215,6 +215,14 @@
 - **Effect:** Active Canon advances to v1.14. Episode 17 becomes a Flow Grid rebuild slot with no bodega or BUFU. Historical files are archive-only. Planning order becomes Season 1 cards/grid → Season 2 cards/grid → cross-season audit → Minimum Viable World Bible → detailed Episode 1 packet.
 - **Status:** Locked
 
+## DEC-2026-08-18-031 — Approve Season 1 governing spine and Episode 11 payoff
+
+- **Decision:** Approve AQ-009A as written. Mia begins Season 1 by investigating Solani across the proposed 11-episode progression, then experiences her own first period in Episode 11 and discovers that the milestone did not erase who she is.
+- **Reason:** The finale is structurally load-bearing: Episode 2's individual-timing lesson, Episode 3's emotional groundwork, Episodes 5/8's privacy lesson, and Episode 9's backpack kit all pay off through Mia's own experience. Changing the ending would orphan those setups. The outline already states that Mia's timing is character-specific, not a universal reader timeline.
+- **Effect:** Active Canon advances to v1.15. The Season 1 Level 1 order, governing arc, and finale endpoint are locked. Episode 8's exact privacy setup, support distribution, music clues, and Episode 17 rebuild placeholder remain sequential approval gates.
+- **Approved by:** Keisha
+- **Status:** Locked
+
 ---
 
 ## New decision template

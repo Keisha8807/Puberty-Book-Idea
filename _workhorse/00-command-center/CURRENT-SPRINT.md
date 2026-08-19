@@ -37,7 +37,7 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Decide AQ-009A only:** approve or revise the Season 1 governing spine—Mia begins by investigating Solani and ends the proposed 11-episode progression with her own first period, discovering that the milestone did not erase who she is. Remaining pre-feedback decisions will follow sequentially.
+**Decide AQ-009B only:** approve or revise the Episode 8 privacy setup—Lily accidentally exposes Solani's red-stained pajama shorts among her “borrowed” items, and Mia stops the clue from becoming public. AQ-009A's Season 1 spine and Episode 11 payoff are locked.
 
 ## Sprint completion
 

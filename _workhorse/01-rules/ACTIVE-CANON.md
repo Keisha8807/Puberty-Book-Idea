@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.14 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.15 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -68,6 +68,8 @@ Retired family names/details that must not return: Mia Luz, Solani Maris, Maritz
 - Two seasons, 18 episodes total
 - Season 1: 11 episodes
 - Season 2: 7 episodes including the talent-show finale
+- Season 1 governing spine/order is approved at Level 1: Mia begins by investigating Solani, progresses through the 11 Episode Flow Cards, and experiences her own first period in Episode 11
+- Episode 11's milestone resolves Mia's fear that growing up will erase her; it does **not** imply that every 10-year-old or reader follows Mia's timing
 - Mia talks directly to the reader; the reader is her case partner
 - Mia uses lists, case files, text threads, invented words, dramatic logic, and stingers
 - Mia is confidently wrong; the educational correction delivers the punchline

@@ -1,12 +1,12 @@
 # MIA'S PUBERTY PRIMER — SEASON 1 LEVEL 1 FLOW GRID
 
-> **Status:** DRAFT FOR KEISHA APPROVAL · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
+> **Status:** PARTIALLY APPROVED · **AQ-009A locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
 >
 > **Feedback readiness:** Internal outline audit incorporated. Do not send to the Outline Feedback System until Keisha locks the pre-feedback decisions in Section 6.
 >
 > **Planning level:** Compact architecture only. These cards establish flow before detailed Book Factory work packets or prose.
 >
-> **Active Canon:** v1.14 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
+> **Active Canon:** v1.15 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
 
 ---
 
@@ -52,9 +52,9 @@ Mia learns that preparation is not permission to invade someone else's privacy. 
 
 Mia's preparation is tested when her own first period begins. She uses the support system built across the season and discovers that a body milestone does not instantly make her older, different, or less silly.
 
-### Current finale assumption requiring explicit approval
+### Approved finale lock — AQ-009A
 
-This draft follows the existing Season 1 plot spine: **Mia gets her first period in Episode 11.** This is a character-specific event, not a promise that every 10-year-old reader will begin at the same age.
+Keisha approved the governing Season 1 spine and order: **Mia begins by investigating Solani, progresses through the 11 cards shown here, and gets her own first period in Episode 11.** This is a character-specific event and payoff—not a promise that every 10-year-old reader will begin at the same age.
 
 ---
 
@@ -892,18 +892,29 @@ These locations—not unused franchise geography—should form the Season 1 port
 
 Do **not** send this outline to the Outline Feedback System with major canon choices still open. Keisha locks these decisions first, one at a time. Reviewers can then test age fit, cultural specificity, story energy, emotional safety, educational clarity, and buyer trust against a fixed target instead of answering the project's unresolved architecture questions.
 
-## Current single decision — AQ-009A
+## Locked — AQ-009A
 
-**Approve or revise the governing Season 1 spine:** Mia begins by investigating Solani across the 11-episode progression shown here, then ends by experiencing her own first period in Episode 11 and discovering that the milestone did not erase who she is.
+Keisha approved the governing Season 1 spine, 11-episode progression, and Episode 11 first-period payoff as written.
+
+## Current single decision — AQ-009B
+
+**Approve or revise the Episode 8 privacy setup:** Lily brings Solani's red-stained pajama shorts among her “borrowed” items. Mia initially fears Solani is injured, but the Episode 5 boundary lesson stops Mia from broadcasting the clue before Brenda explains menstruation. Solani controls what she shares; Mia returns the clothing and helps privately.
+
+Required dignity guardrails if approved:
+
+- The stain is a story clue, never a gross-out image or disgust joke.
+- Lily's action creates the accidental exposure; Solani is never blamed for the stain.
+- Mia interrupts her own reveal before peers or the wider family see it.
+- Solani may be embarrassed or angry and sets the disclosure boundary.
+- The scene ends in private, practical support—not a public “case solved” celebration.
 
 This is the only decision being requested now.
 
-## Held for sequential review after AQ-009A
+## Held for sequential review after AQ-009B
 
-1. Episode 8 privacy setup: Lily brings Solani's red-stained pajama shorts among “borrowed” items.
-2. Adult/support distribution and the support-web tradeoff recorded in Section 5.
-3. Exactly three music clues: Episodes 1, 3, and 11.
-4. Season 2 Episode 17 remains a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder until its new mechanism and location are designed.
+1. Adult/support distribution and the support-web tradeoff recorded in Section 5.
+2. Exactly three music clues: Episodes 1, 3, and 11.
+3. Season 2 Episode 17 remains a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder until its new mechanism and location are designed.
 
 ## What full Season 1 approval unlocks
 

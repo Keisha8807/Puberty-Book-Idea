@@ -108,4 +108,4 @@ The complete visual reference foundation is locked. The active bottleneck is Sea
 
 ## Current single next action
 
-Decide **AQ-009A only**: approve or revise the governing Season 1 spine in which Mia begins by investigating Solani across the proposed progression, then experiences her own first period in Episode 11 and learns that the milestone did not erase who she is. The outline's internal audit now explicitly tracks the parent/caregiver trust promise, Kayla/Sophie peer thread, intentional-but-flexible episode rhythm, and recurring-support-versus-specialist tradeoff.
+AQ-009A is approved: the Season 1 order, governing spine, and Mia's Episode 11 first-period payoff are locked. Decide **AQ-009B only**: approve or revise the Episode 8 setup in which Lily accidentally exposes Solani's red-stained pajama shorts among her “borrowed” items, and Mia applies her boundary lesson before the clue becomes public.

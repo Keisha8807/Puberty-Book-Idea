@@ -4,18 +4,27 @@
 
 ## Waiting on Keisha
 
-### AQ-009A — Season 1 governing spine and endpoint
+### AQ-009B — Episode 8 privacy setup
 
-- **Type:** Story architecture · pre-feedback gate 1
+- **Type:** Story architecture · pre-feedback gate 2
 - **Risk:** Yellow
-- **Decision needed now:** Approve or revise this single spine: Mia begins by investigating Solani across the proposed 11-episode progression, then experiences her own first period in Episode 11 and discovers that the milestone did not erase who she is.
-- **Held for later sequential gates:** Episode 8 privacy setup; adult/support distribution; three music clues; Episode 17 no-bodega/no-BUFU rebuild placeholder
+- **Decision needed now:** Approve or revise Lily bringing Solani's red-stained pajama shorts among her “borrowed” items as the Episode 8 clue
+- **Required guardrails if approved:** No gross-out framing; no blame; Mia stops the exposure before a public reveal; Solani controls disclosure; private practical support replaces a “case solved” celebration
+- **Held for later sequential gates:** Adult/support distribution; three music clues; Episode 17 no-bodega/no-BUFU rebuild placeholder
 - **Draft:** `01-mia-puberty-book/planning/DRAFT-SEASON-1-LEVEL-1-FLOW-GRID.md`
 - **Blocked by:** Nothing
 - **Status:** Waiting
 - **Feedback rule:** Do not create/send the Outline Feedback System packet until Keisha locks all pre-feedback architecture decisions one at a time
 
 ## Approved this sprint
+
+### AQ-009A — Season 1 governing spine and endpoint
+
+- **Decision:** Approve the proposed 11-episode progression and Mia's own first period as the Episode 11 identity-fear payoff
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Decision Log:** DEC-2026-08-18-031
+- **Unlocks:** AQ-009B; Active Canon v1.15
 
 ### AQ-008 — Final six supporting-board cleanup
 
