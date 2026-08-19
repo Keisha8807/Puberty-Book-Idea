@@ -10,8 +10,9 @@
 - **Risk:** Yellow
 - **Decision needed:** Approve the 11 compact Episode Flow Cards and side-by-side season flow before detailed Episode 1 work packets
 - **Retired constraints:** No bodega; no BUFU
-- **Blocked by:** Flow Grid draft
-- **Status:** Ready
+- **Draft:** `01-mia-puberty-book/planning/DRAFT-SEASON-1-LEVEL-1-FLOW-GRID.md`
+- **Blocked by:** Nothing
+- **Status:** Waiting
 
 ## Approved this sprint
 

@@ -37,7 +37,7 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Close SUNRAY-SPRINT-001 and prepare the Episode 1 Book Factory work packet for SUNRAY-SPRINT-002.**
+**Review and approve/revise the Season 1 Level 1 Flow Grid before Season 2 cards or detailed Episode 1 work.**
 
 ## Sprint completion
 

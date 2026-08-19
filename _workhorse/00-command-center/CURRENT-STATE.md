@@ -108,4 +108,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-The full visual identity and reference-sheet milestone is complete. The next active production lane is the Episode 1 Book Factory pilot, beginning with its work packet and story-architecture gate.
+The draft Season 1 Level 1 Flow Grid is complete: 11 compact Episode Flow Cards plus the side-by-side season view and flow audit. It is awaiting Keisha's architecture approval before Season 2 planning.
