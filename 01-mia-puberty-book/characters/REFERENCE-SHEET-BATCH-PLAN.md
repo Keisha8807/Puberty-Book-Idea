@@ -117,3 +117,14 @@ Clean no-arrow/no-label candidates:
 Earlier annotated/captioned versions are superseded.
 
 **Approved by Keisha:** Mema Hazel v02, Emma v02, Jada v03, and Brenda v04.
+
+## Final six clean boards — generated and QA-passed candidates
+
+- Marcus v02
+- Uncle Mo v02
+- Seraphina v02
+- Lily v03—corrected to exactly four views and six expressions
+- Max v02
+- Sophie v02
+
+No annotation text/arrows. Awaiting Keisha bulk approval.
