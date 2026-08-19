@@ -108,4 +108,4 @@ The complete visual reference foundation is locked. The active bottleneck is Sea
 
 ## Current single next action
 
-AQ-009A/B/C are approved: the Season 1 spine/endpoint, Episode 8 privacy setup, and intentional adult/support web are locked. Decide **AQ-009D only**: approve or revise exactly three Season 1 music clues in Episodes 1, 3, and 11.
+AQ-009A/B/C/D are approved: the Season 1 spine/endpoint, Episode 8 privacy setup, support web, and three-clue music pattern are locked. Decide **AQ-009E only**: approve or revise Episode 17 remaining a no-bodega/no-BUFU rebuild placeholder until its new Season 2 mechanism and location are designed.

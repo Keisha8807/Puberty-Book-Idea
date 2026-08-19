@@ -4,19 +4,28 @@
 
 ## Waiting on Keisha
 
-### AQ-009D — Three Season 1 music clues
+### AQ-009E — Episode 17 rebuild placeholder
 
-- **Type:** Story architecture · pre-feedback gate 4
+- **Type:** Cross-season architecture · pre-feedback gate 5
 - **Risk:** Yellow
-- **Decision needed now:** Approve or revise exactly three music clues: Episode 1 muffled song fragment; Episode 3 lyric-notebook glimpse without reading; Episode 11 private note signed with a lyric fragment
-- **Required guardrails if approved:** No full song release; no CROWN explanation; no reading Solani's notebook; no early `Headlines`; preserve Solani's privacy and ownership
-- **Held for later sequential gate:** Episode 17 no-bodega/no-BUFU rebuild placeholder
+- **Decision needed now:** Approve or revise Episode 17 remaining **[FLOW GRID REBUILD — CROWN CLUE]** until a new Season 2 mechanism and location are designed
+- **Required constraints if approved:** No La Bodega de Luz; no bodega back room; no BUFU; no Uncle Mo business-access mechanism; placeholder approval does not approve a replacement
+- **Held for later design:** Exact CROWN clue, future conflict mechanism, and meeting location
 - **Draft:** `01-mia-puberty-book/planning/DRAFT-SEASON-1-LEVEL-1-FLOW-GRID.md`
 - **Blocked by:** Nothing
 - **Status:** Waiting
-- **Feedback rule:** Do not create/send the Outline Feedback System packet until Keisha locks all pre-feedback architecture decisions one at a time
+- **Feedback rule:** This is the final pre-feedback architecture gate
 
 ## Approved this sprint
+
+### AQ-009D — Three Season 1 music clues
+
+- **Decision:** Approve exactly three restrained clues in Episodes 1, 3, and 11
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Decision Log:** DEC-2026-08-18-034
+- **Terminology correction:** Pattern is **introduce → deepen → payoff**, not “introduce → remind → payoff”
+- **Unlocks:** AQ-009E; Active Canon v1.18
 
 ### AQ-009C — Adult/support distribution
 

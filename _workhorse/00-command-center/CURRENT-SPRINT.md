@@ -37,7 +37,7 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Decide AQ-009D only:** approve or revise exactly three Season 1 music clues in Episodes 1, 3, and 11. AQ-009A/B/C's spine, Episode 8 setup, and support web are locked.
+**Decide AQ-009E only:** approve or revise Episode 17 remaining a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder. AQ-009A/B/C/D's Season 1 architecture decisions are locked.
 
 ## Sprint completion
 

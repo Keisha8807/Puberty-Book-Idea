@@ -1,12 +1,12 @@
 # MIA'S PUBERTY PRIMER — SEASON 1 LEVEL 1 FLOW GRID
 
-> **Status:** PARTIALLY APPROVED · **AQ-009A/B/C locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
+> **Status:** PARTIALLY APPROVED · **AQ-009A/B/C/D locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
 >
 > **Feedback readiness:** Internal outline audit incorporated. Do not send to the Outline Feedback System until Keisha locks the pre-feedback decisions in Section 6.
 >
 > **Planning level:** Compact architecture only. These cards establish flow before detailed Book Factory work packets or prose.
 >
-> **Active Canon:** v1.17 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
+> **Active Canon:** v1.18 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
 
 ---
 
@@ -858,11 +858,13 @@ Detailed packets should also vary who initiates the disruption, where the truth 
 
 ## Season clues
 
-- Episode 1: muffled secret song fragment
-- Episode 3: lyric notebook glimpse
-- Episode 11: note signed with lyric
+The approved music pattern is **introduce → deepen → payoff**:
 
-No CROWN origin details, bodega clues, or BUFU mystery.
+- **Introduce · Episode 1:** muffled secret-song fragment
+- **Deepen · Episode 3:** lyric-notebook glimpse; Mia does not read it
+- **Payoff · Episode 11:** private note signed with a lyric fragment
+
+This thread is atmospheric rather than plot-active; its restraint enacts the same respect for Solani's inner life that Mia is learning. No full song, CROWN origin details, bodega clues, BUFU mystery, or early `Headlines` release.
 
 ## World locations proven necessary by Season 1
 
@@ -892,27 +894,22 @@ These locations—not unused franchise geography—should form the Season 1 port
 
 Do **not** send this outline to the Outline Feedback System with major canon choices still open. Keisha locks these decisions first, one at a time. Reviewers can then test age fit, cultural specificity, story energy, emotional safety, educational clarity, and buyer trust against a fixed target instead of answering the project's unresolved architecture questions.
 
-## Locked — AQ-009A/B/C
+## Locked — AQ-009A/B/C/D
 
 - **AQ-009A:** Keisha approved the governing Season 1 spine, 11-episode progression, and Episode 11 first-period payoff as written.
 - **AQ-009B:** Keisha approved the Episode 8 accidental privacy setup with dignity locks. A blameless household mix-up places the item in Lily's pile; Lily is oblivious, Solani is not careless or blamed, and exact mechanics belong in the Episode 8 Book Factory packet.
 - **AQ-009C:** Keisha approved the support-web distribution. Brenda, Nurse Nightingale, and Solani are the primary recurring relational anchors; Ms. Harmony recurs as school social-emotional support; Mema opens/callbacks; Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles each appear once where naturally suited.
+- **AQ-009D:** Keisha approved exactly three restrained music clues using the **introduce → deepen → payoff** pattern in Episodes 1, 3, and 11.
 
-## Current single decision — AQ-009D
+## Current single decision — AQ-009E
 
-**Approve or revise exactly three Season 1 music clues:**
+**Approve or revise the Episode 17 rebuild placeholder:**
 
-1. **Episode 1:** A muffled fragment of Solani's private song passes through her closed bedroom door.
-2. **Episode 3:** Mia glimpses Solani's lyric notebook but does not read it.
-3. **Episode 11:** Solani's private note to Mia is signed with a lyric fragment.
+> **[FLOW GRID REBUILD — CROWN CLUE]**
 
-The proposed pattern introduces, reminds, and pays off the music thread without releasing a full song, explaining CROWN, or violating Solani's privacy. **Laughter Currency** remains where Solani starts; **Headlines** remains reserved for the later series finale.
+This gate approves only the constraint: Episode 17 cannot reuse La Bodega de Luz, a bodega back room, BUFU, or Uncle Mo as a business-access mechanism. The future CROWN clue and its meeting location remain intentionally undecided until the Season 2 Flow Grid is built. Approving the placeholder does **not** approve a replacement mechanism.
 
 This is the only decision being requested now.
-
-## Held for sequential review after AQ-009D
-
-1. Season 2 Episode 17 remains a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder until its new mechanism and location are designed.
 
 ## What full Season 1 approval unlocks
 

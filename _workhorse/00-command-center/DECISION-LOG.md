@@ -242,6 +242,16 @@
 - **Approved by:** Keisha
 - **Status:** Locked
 
+## DEC-2026-08-18-034 — Approve three restrained Season 1 music clues
+
+- **Decision:** Approve AQ-009D. Keep exactly three music clues: Episode 1's muffled song fragment, Episode 3's lyric-notebook glimpse without reading, and Episode 11's private note signed with a lyric fragment.
+- **Reason:** Music is an atmospheric window onto Solani's protected inner life, not a plot-active thread that needs frequent reminders. Moving the Episode 3 clue would detach it from the feelings theme or overload a later episode; reducing to two clues would make the finale payoff feel insufficiently tracked.
+- **Terminology correction:** The pattern is **introduce → deepen → payoff**, not “introduce → remind → payoff.” Episode 3 deepens the meaning of Solani's music by showing that humor is not her only emotional outlet.
+- **Required execution locks:** No full song, no CROWN explanation, no reading Solani's notebook, no privacy violation, and no early `Headlines` release.
+- **Effect:** Active Canon advances to v1.18. The Season 1 music thread is locked at Level 1.
+- **Approved by:** Keisha
+- **Status:** Locked
+
 ---
 
 ## New decision template
