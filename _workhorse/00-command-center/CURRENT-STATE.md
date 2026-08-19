@@ -74,12 +74,16 @@ A per-character GitHub visual library now lives at `01-mia-puberty-book/characte
 
 Do not actively develop without Keisha's explicit override:
 
-- CROWN Club origin beyond spoiler-protected bridge requirements
-- BUFU mystery
+- CROWN Club origin/conflict beyond spoiler-protected bridge requirements
 - Books 1–10 prose
 - Full album rollout or Headlines release
 - Local school/community initiatives
 - Advanced website games, child accounts, live child chat, or open submissions
+
+## Retired—not parked for automatic return
+
+- BUFU mystery
+- La Bodega de Luz and the bodega/back-room story mechanism
 
 ## Real-world constraints
 

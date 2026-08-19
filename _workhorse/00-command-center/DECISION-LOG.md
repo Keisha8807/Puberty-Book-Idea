@@ -208,6 +208,13 @@
 - **Effect:** All 19 active cast identities now have approved reference coverage, represented by 21 approved image assets because Mia's package uses separate turnaround and two expression sheets. The Visual Factory identity/reference milestone is complete; Episode 1 is unblocked.
 - **Status:** Locked
 
+## DEC-2026-08-18-030 — Retire bodega and BUFU; adopt Flow Grid layer
+
+- **Decision:** Retire La Bodega de Luz and the BUFU mystery from active canon. Use Level 1 Episode Flow Cards for all 18 episodes, summarized in season Flow Grids, before detailed work packets.
+- **Reason:** Keisha no longer wants the bodega/BUFU obligations and wants to see the whole narrative flow before investing in individual episode production.
+- **Effect:** Active Canon advances to v1.14. Episode 17 becomes a Flow Grid rebuild slot with no bodega or BUFU. Historical files are archive-only. Planning order becomes Season 1 cards/grid → Season 2 cards/grid → cross-season audit → Minimum Viable World Bible → detailed Episode 1 packet.
+- **Status:** Locked
+
 ---
 
 ## New decision template

@@ -1,5 +1,7 @@
 # 📚 THE STORIES, SEPARATED — and how they could connect
 
+> **HISTORICAL COMPARISON:** This document preserves earlier development stages. References to Tía/Tío, La Bodega de Luz, BUFU, old grades, or retired structures are archive-only and cannot override Active Canon v1.14.
+
 > **Your question:** *"So are you saying Mia as the younger sister is the better way?"*
 > **Honest answer:** I wasn't crowning a winner — I called it "the missing bridge" because it's the most *emotionally powerful* connection, not the easiest one. Below is everything separated, exactly how the two worlds relate and differ, and the real trade-offs of every way to connect them. **Nothing locks until you decide** — and your new idea might change all of this anyway.
 

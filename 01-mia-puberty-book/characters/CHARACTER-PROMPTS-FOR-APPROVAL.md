@@ -58,7 +58,7 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 > **Hero prompt:** Full-body portrait, holding the camera at chest level with both hands, laughing with proud-dad energy. Background: clean soft-light-blue studio gradient. [STYLE BLOCK]
 
 ### 🧔🏾 UNCLE MO (uncle — Brenda's brother) — [LOCK BLOCK]
-> "Uncle Mo," a warm African American Black man in his late 30s and Brenda's brother. Warm brown skin, expressive brown eyes, short neatly shaped coily hair in a clean taper, full neat beard and mustache, and kind welcoming smile. Signature role-neutral family outfit: deep forest-green unstructured overshirt with casually rolled sleeves over a warm cream henley, tailored dark-brown chinos, tan-and-cream casual high-top sneakers, and a simple brown-strap watch. **His larger story role is pending; do not associate him with a bodega, store, food-service apron, or business until Keisha reapproves that lane.**
+> "Uncle Mo," a warm African American Black man in his late 30s and Brenda's brother. Warm brown skin, expressive brown eyes, short neatly shaped coily hair in a clean taper, full neat beard and mustache, and kind welcoming smile. Signature role-neutral family outfit: deep forest-green unstructured overshirt with casually rolled sleeves over a warm cream henley, tailored dark-brown chinos, tan-and-cream casual high-top sneakers, and a simple brown-strap watch. **His larger story role is pending; do not assign him a store, food-service apron, business, or job until Keisha approves a new lane.**
 > **Hero prompt:** Full-body portrait, one hand loosely in his pocket and the other open in a warm welcoming gesture. No business props. Background: clean soft blue-to-warm-cream studio gradient. [STYLE BLOCK]
 
 ---
@@ -119,7 +119,7 @@ Each character gets a **Lock Block** — the paragraph that never changes. Poses
 
 1. **Style block:** A (modern 3D) or B (2D with depth)?
 2. ✅ **Direction locked:** the whole Washington family is **African American Black**. (Lock Blocks confirm.)
-3. ✅ **Names locked:** Mom = **Brenda** · Uncle = **Uncle Mo** · Middle names = **Solani Maya** (for Maya Angelou — the poet who turned pain into power, our Lyricist) and **Mia Zora** (for Zora Neale Hurston — the storyteller who went out to find the truth, our Investigator). **Location status:** La Bodega de Luz remains an Albany story-world concept, but its ownership/management and connection to the Washington family are pending; Uncle Mo is not currently associated with it.
+3. ✅ **Names locked:** Mom = **Brenda** · Uncle = **Uncle Mo** · Middle names = **Solani Maya** (for Maya Angelou — the poet who turned pain into power, our Lyricist) and **Mia Zora** (for Zora Neale Hurston — the storyteller who went out to find the truth, our Investigator). **Retired location status:** La Bodega de Luz is no longer part of active story canon. Historical bodega art remains superseded only; Uncle Mo has no current business role.
 4. **Schools are FICTIONAL** (locked): Mia's school = **Helderberg Elementary**, feeding into **Lincoln Park Middle School (LPMS)** for Solani — both made up, but rooted in real Albany names. Real school names never appear in the books (the Shade Screen cyberbullying plot and the resistant principal must never attach to a real school). The real TOAST partnership lives in the IRL program lane, not on the book pages.
 5. **Any outfit/hairstyle changes** while we're at it — this is the moment to change Mia's clips, Solani's hoodie color, anything.
 

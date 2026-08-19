@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.13 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.14 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -8,7 +8,7 @@
 
 The only active creative-production lane is **Mia's Puberty Primer**. Write the new manuscript fresh from the approved Operation Sisterwatch cold open and v2 premise. The 2024 Canva draft and old chapter prose are not the manuscript baseline.
 
-The full CROWN Club series, its origin story, and the BUFU mystery remain parked. Mia may glimpse or tease that world only as already approved.
+The full CROWN Club series and its origin story remain parked. The BUFU mystery and La Bodega de Luz are retired from active canon. Mia may tease Solani’s future world only through newly approved, non-BUFU, non-bodega clues.
 
 ## 2. Mission and audience
 
@@ -31,7 +31,7 @@ Do not dilute the Black-girl-centered mission to satisfy generic inclusivity lan
 - Season 1 case: **Operation Sisterwatch**
 - Season 2: **The Butterfly Files**
 - Comedy engine: **The Myth Machine**
-- Location concept: **La Bodega de Luz** remains in the story world; its ownership, management, and relationship to the Washington family are pending story rework
+- **Retired locations/mysteries:** La Bodega de Luz and BUFU do not appear in active Mia or CROWN planning; historical references are archive-only
 
 ## 4. Washington family locks
 
@@ -42,7 +42,7 @@ The Washingtons are an **African American Black family** living in Albany, New Y
 | Brenda | Mom; warm and perceptive |
 | Marcus | Dad; early 40s; short coily tapered fade; full neat beard; no glasses; paint-splattered denim jacket; camera; creative and playful |
 | Mema Hazel | Grandma; show tunes, cat-eye glasses, talks to plants, trusted myth-buster |
-| Uncle Mo | Brenda's brother; warm family member; larger story role pending; do not associate him with the bodega until reapproved; never call him Tío Mo |
+| Uncle Mo | Brenda's brother; warm family member; larger story role pending; no current business role; never call him Tío Mo |
 | Seraphina | 15; dramatic oldest sister |
 | **Solani Maya Washington** | **11; turns 12 in September; 7th grade; witty big sister; butterfly clips; lyricist** |
 | **Mia Zora Washington** | **10; 5th grade; investigator and narrator; star clips** |
@@ -153,7 +153,6 @@ Read only the references needed for the assigned job:
 - `01-mia-puberty-book/MIA-PRIMER-SERIES-BIBLE-v2.md`
 - `MIA-2.0-MAKEOVER-BIBLE.md`
 - `01-mia-puberty-book/characters/CHARACTER-PROMPTS-FOR-APPROVAL.md`
-- `CROWN-CLUB-ORIGIN-LANE.md`
 - `MUSIC-BRIDGE-STRATEGY.md`
 - `READER-HANDSHAKE-BEAT.md`
 - `01-mia-puberty-book/chapters/DRAFT-v2-Chapter1-ColdOpen.md`

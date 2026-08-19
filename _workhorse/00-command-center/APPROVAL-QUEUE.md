@@ -4,12 +4,13 @@
 
 ## Waiting on Keisha
 
-### AQ-008 — Final six supporting-board cleanup
+### AQ-009 — Season 1 Level 1 Flow Grid
 
-- **Type:** Visual system
+- **Type:** Story architecture
 - **Risk:** Yellow
-- **Decision needed:** QA and approve clean boards for Marcus, Uncle Mo, Seraphina, Lily, Max, and Sophie
-- **Blocked by:** Next image-generation turn
+- **Decision needed:** Approve the 11 compact Episode Flow Cards and side-by-side season flow before detailed Episode 1 work packets
+- **Retired constraints:** No bodega; no BUFU
+- **Blocked by:** Flow Grid draft
 - **Status:** Ready
 
 ## Approved this sprint

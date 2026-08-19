@@ -53,7 +53,7 @@
 ## 🧬 OTHER THREADS SHE WANTS
 
 - **Current kid slang** so it's relatable — but worried it'll date quickly
-- **Bullying + social media** in the story, showing positive ways to handle it while growing through puberty *(already exists: The Shade Screen / Uplift Project in Mia's book, the BUFU mystery + Chloe in the series!)*
+- **Bullying + social media** in the story, showing positive ways to handle it while growing through puberty *(The Shade Screen / Uplift Project remains in Mia’s lane; the former BUFU mystery is retired.)*
 - **Unique backgrounds** — not all girls come from perfect homes; they're learning as they grow
 - **CROWN Club = how they meet & learn**
   - ✅ RESOLVED: **"Creating Real Ones with Nurture"** = the book/series mission (the tagline, already in the Book 1 blueprint as Solani's line)
@@ -72,18 +72,18 @@
 - Etsy listing research, personality test + careers guide
 
 ## 🚧 PARKED (revisit after Mia's 2 parts)
-- **BUFU mystery** — thinking it may be dropped; DO NOT decide now. Come back after Mia's primer is built.
+- **BUFU mystery — RETIRED Aug 18, 2026.** Do not carry it into active planning.
 - **CROWN Club series development** — on hold while Mia's 2 parts get built. Only Mia-adjacent canon stays live (Solani as sister, the handshake, the music bridge).
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
-- ✅ **NAMES LOCKED:** Brenda · Uncle Mo · Solani Maya · Mia Zora · bodega kept ("La Bodega de Luz" stays on the sign). **Schools are fictional:** Helderberg Elementary (Mia) → Lincoln Park Middle School (Solani); real school names never appear in the books.
-- ✅ **DIRECTION RESTORED:** the whole Washington family is **African American Black** — this series is FOR Black girls, first and unapologetically (the origin story: a book her daughter could finally see herself in). Readers of all backgrounds are welcome — but the mirrors are for Black girls. All docs swept. Naming items since RESOLVED: Brenda, Uncle Mo, Solani Maya, Mia Zora, bodega kept.
+- ✅ **NAMES LOCKED:** Brenda · Uncle Mo · Solani Maya · Mia Zora · La Bodega de Luz retired from active canon Aug 18, 2026. **Schools are fictional:** Helderberg Elementary (Mia) → Lincoln Park Middle School (Solani); real school names never appear in the books.
+- ✅ **DIRECTION RESTORED:** the whole Washington family is **African American Black** — this series is FOR Black girls, first and unapologetically (the origin story: a book her daughter could finally see herself in). Readers of all backgrounds are welcome — but the mirrors are for Black girls. All docs swept. Naming items resolved: Brenda, Uncle Mo, Solani Maya, Mia Zora. The bodega concept was later retired.
 - ✅ **Solani's heritage note for later:** when the CROWN Club series gets revisited, Solani's old "Afro-Dominican + Black American" canon line must be reverted to match (flag already parked with the series).
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **CHARACTER BIBLE + INTRO DECK BUILT** — `01-mia-puberty-book/characters/CHARACTER-BIBLE-AND-INTRO-DECK.md`: the full Washington family + Myth Machine + rivals + Ms. Vitality, each with signature look, catchphrase, voice, and a "hello world" intro line that doubles as marketing copy (social cards, clip lines, TPT character cards).
 - ✅ **CORE CREW ART GENERATED** — `characters/art-v2/`: Mema Hazel, Jada, Emma, Solani, and the full Washington family group portrait.
-- 🚧 **PARKED:** CROWN Club series dev + the BUFU question — revisit after Mia's 2 parts are done.
+- 🚧 **PARKED:** CROWN Club series development. **RETIRED:** BUFU mystery; do not revive automatically.
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **SOLANI IS A 7TH GRADER** (locked) — Mia 5th / Solani 7th = 2 grades apart = SAME school year (parallel timeline intact). Readers finish the primer in 5th, then read one year up as 6th graders — the middle-grade sweet spot. The six girls' source bibles need a grade-and-age consistency sweep when touched; Solani is locked at 11, turning 12 in September.
@@ -97,7 +97,7 @@
 - ✅ **FRESH FOUNDATION WRITTEN** — `MIA-PRIMER-SERIES-BIBLE-v2.md`: logline, premise, concept, world, two-season synopsis, plot spine, episode format, full 18-episode outline (S1=11 basics, S2=7 incl. Bra/Crush/Social/Stress + talent-show finale). 2024 content all repurposed, nothing lost.
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
-- ✅ **CROWN CLUB ORIGIN = SOLANI'S STORY** (Series Book 1 A-plot, spoiler-protected). Mia never explains it — she shows it from the OUTSIDE as mystery cameos (clipboard girl, unicorn backpack girl, the bodega back room off-limits, "crown" whispers). The club origin is the REWARD for graduating the primer. See `CROWN-CLUB-ORIGIN-LANE.md`
+- ✅ **CROWN CLUB ORIGIN = SOLANI'S STORY** (Series Book 1 A-plot, spoiler-protected). Mia never explains it — she shows it from the OUTSIDE as mystery cameos (spoiler-light girl cameos, a closed-door feeling, and "crown" whispers; exact mechanism TBD in the Flow Grid). The club origin is the REWARD for graduating the primer. See `CROWN-CLUB-ORIGIN-LANE.md`
 - ✅ **PARALLEL TIMELINE DISCOVERY:** Mia (10, 5th grade) and Solani (11, 7th grade) live THE SAME SCHOOL YEAR. Primer and series run side by side, converging at the June talent show (seen from the crowd in Mia's book, from the stage in B10). The handshake's true meaning: "I can't open this door — she can."
 - ⏳ Canon flag for B10: is the club still secret at the talent show, already public, or does the show = their public debut?
 

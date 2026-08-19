@@ -1,5 +1,7 @@
 # 👑 WHO TELLS THE CROWN CLUB ORIGIN? — Solani does. Here's why that's a feature.
 
+> **STATUS — PARKED/ARCHIVE (Aug 18, 2026):** Solani still owns the future CROWN Club origin, but the former BUFU mystery, bodega/back-room mechanism, and detailed origin plot in this file are not active canon. Do not use this file to seed Mia's Flow Grid or future series work without a new Keisha approval.
+
 > **The question:** *"Do we need to discuss how the CROWN Club came into the picture, or is that Solani's story to tell?"*
 > **The answer:** It's Solani's. And protecting it creates the best structural trick in the whole universe.
 

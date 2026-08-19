@@ -48,9 +48,9 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - All supporting cast reference boards approved
 - Visual library organized with source and superseded history
 
-## Story unlock
+## Story-planning unlock
 
-Episode 1 Book Factory is fully unblocked.
+Visual production is complete. Detailed Episode 1 drafting waits for the Season 1 and Season 2 Level 1 Flow Grids and the cross-season continuity audit.
 
 ## Not this sprint
 

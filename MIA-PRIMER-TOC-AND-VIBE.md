@@ -62,7 +62,7 @@ You named The Proud Family and animation. Here's your comp lineup and — more i
 | **Turning Red** | Puberty comedy with heart; cultural specificity (the mom, the temple, the friend group); a big visual metaphor for "changing" |
 | **Inside Out** | Emotions as characters — you already run this engine in your music pipeline ("all her emotions working together") |
 | **Moon Girl & Devil Dinosaur** | Black girl heroine; kinetic 2D style; smart + funky + real |
-| **The Casagrandes** | Multi-generational family + matriarch + neighborhood corner-store atmosphere (La Bodega de Luz remains a location concept; ownership is pending) |
+| **The Casagrandes** | Multi-generational family, matriarch energy, neighborhood ensemble comedy |
 | **Diary of a Wimpy Kid / Dork Diaries** | Doodles in the margins = the antidote to stiffness |
 | **Guts / Smile (Raina Telgemeier)** | Honest puberty feelings, drawn with warmth, zero clinical energy |
 

@@ -23,12 +23,12 @@
 ## ⚖️ NAMING & TRADEMARK (locked)
 
 - Forward-facing series name: **the CROWN Club series**. The former working name **"Glow-Up Girls" is RETIRED** (trademark conflict discovered Aug 2026) — do not use it in any new material.
-- Canonical names: Sunray Story Universe™ · Sunray Story Press™ · Mia's Puberty Primer · Creating Real Ones with Nurture · CROWN Club · The Myth Machine · Mema Hazel Explains · Laughter Currency · Headlines · La Bodega de Luz.
+- Canonical names: Sunray Story Universe™ · Sunray Story Press™ · Mia's Puberty Primer · Creating Real Ones with Nurture · CROWN Club · The Myth Machine · Mema Hazel Explains · Laughter Currency · Headlines.
 - **Legal pass (your Q3 2026 plan):** verify CROWN Club, CROWN + Ten to Me™, and every product name before public use. Historical files in this repo may still contain the old name — treat them as archive only.
 
 # PART 1 — THE SHARED WORLD (canon, locked)
 
-**Place:** Albany, NY — a real city with real landmarks (Washington Park, Empire State Plaza, the bodega on the corner). **Schools are fictional:** Mia's = **Helderberg Elementary**, feeding into **Lincoln Park Middle School (LPMS)** for Solani — made-up names rooted in real Albany. Real schools never appear in the books (the cyberbullying plot and the resistant principal must never attach to a real school); the real TOAST partnership lives in the IRL program lane, not the pages.
+**Place:** Albany, NY — a real city with real landmarks (Washington Park, Empire State Plaza, neighborhood streets and community spaces). **Schools are fictional:** Mia's = **Helderberg Elementary**, feeding into **Lincoln Park Middle School (LPMS)** for Solani — made-up names rooted in real Albany. Real schools never appear in the books (the cyberbullying plot and the resistant principal must never attach to a real school); the real TOAST partnership lives in the IRL program lane, not the pages.
 
 **The Washington Family — one house:**
 | Character | Age | Grade | Role in the universe |
@@ -36,18 +36,18 @@
 | **Mema Hazel** (grandma) | — | — | The matriarch + trusted adult. Show tunes, coral-pink cat-eye glasses, talks to plants. The Wisest Bust-er of Myths. |
 | **Brenda** (mom) | — | — | African American, warm. The Period Whisperer. |
 | **Marcus** (dad) | — | — | Cool creative dad. Makes everything a game. |
-| **Uncle Mo** (uncle) | — | — | Brenda's brother. Warm family member. Gives the pencil-charm necklace. Larger story role pending; currently not connected to the bodega. |
+| **Uncle Mo** (uncle) | — | — | Brenda's brother. Warm family member. Gives the pencil-charm necklace. Larger story role pending; no current business role. |
 | **Seraphina** | 15 | HS | The dramatic oldest. Rare moments of actual usefulness. |
 | **SOLANI Maya** | 11 (turns 12 in Sept) | 7th | ☀️ Middle sister. Roast Queen. Butterfly clips. Hero of the SERIES. Hiding behind humor (Laughter Currency). |
 | **MIA Zora** | 10 | 5th | ✨ Our first narrator. Star clips. Operation Sisterwatch. Hero of the PRIMER. |
 | **Lily** | 8 | 3rd | Mischief. Steals Mia's stuff. Idolizes Solani. |
 | **Max** | 5 | K | Adorable chaos. Mia's #1 vlog subscriber. |
 
-**The sister poetry:** Solani *Maya* — for Maya Angelou, the poet who turned pain into power · Mia *Zora* — for Zora Neale Hurston, the storyteller who went out to find the truth. The Washingtons named their girls after women who used their voices. The Albany corner bodega concept keeps its old sign, **La Bodega de Luz**, but its ownership, management, and relationship to the Washington family are pending story rework.
+**The sister poetry:** Solani *Maya* — for Maya Angelou, the poet who turned pain into power · Mia *Zora* — for Zora Neale Hurston, the storyteller who went out to find the truth. The Washingtons named their girls after women who used their voices. **Retired from active canon:** the La Bodega de Luz location concept. It remains only in historical development files.
 
 **Mia's world (5th grade):** Jada (drama queen) & Emma (artist) = the Myth Machine. Rivals: Kayla & Sophie. Ms. Vitality (health teacher). The Shade Screen (anonymous gossip page) → The Uplift Project (their kindness counter).
 
-**Solani's world (7th grade, LPMS):** The CROWN Club six. Rival: Chloe Simmons. The principal (anti-club). The BUFU mystery. A back-room meeting location remains part of the mystery, but its connection to La Bodega de Luz is pending story rework.
+**Solani's world (7th grade, LPMS):** The CROWN Club six. Rival: Chloe Simmons. The principal conflict remains available for later review. BUFU and the bodega/back-room mechanism are retired; the series' future conflict and meeting-place design remain undecided.
 
 **THE TIMELINE (the franchise's masterstroke):** Mia's 5th-grade year and Solani's 7th-grade year are **THE SAME SCHOOL YEAR.** The two shows run parallel and converge at the June talent show — the primer ends in the crowd, the series ends on stage.
 
@@ -57,7 +57,7 @@
 
 1. **THE READER HANDSHAKE** — Mia talks to the reader all book long; at her finale she hands the reader to Solani: *"Solani! Tell them how it all started!" / "Tell who?" / "Them."* The reader is a character in both shows. (Scripted: `READER-HANDSHAKE-BEAT.md`)
 2. **THE MUSIC BRIDGE** — Mia's books TEASE the songs (Solani's secret song through the door; Headlines' first chords at the handshake); the SERIES releases them. No wrong associations. (Full plan: `MUSIC-BRIDGE-STRATEGY.md`)
-3. **THE CLUB ORIGIN LANE** — the CROWN Club's origin is Solani's A-plot (Series Book 1), spoiler-protected. Mia only glimpses it from outside (the bodega door, the clipboard girl, the unicorn backpack). The club is the REWARD for graduating the primer. (Full plan: `CROWN-CLUB-ORIGIN-LANE.md`)
+3. **THE CLUB ORIGIN LANE** — the CROWN Club's origin is Solani's A-plot (Series Book 1), spoiler-protected. Mia only glimpses it through spoiler-light cameos and a closed-door feeling; the exact location and clue mechanism will be rebuilt in the Flow Grid. The club is the REWARD for graduating the primer. (Full plan: `CROWN-CLUB-ORIGIN-LANE.md`)
 4. **THE CROWN CYCLES** — 5 values × 2 cycles = 10 books. Cycle 1 = learn, Cycle 2 = stronger. The book is *Creating Real Ones with Nurture*; the club curriculum IS CROWN. (Full plan: `CROWN-CYCLE-ARCHITECTURE.md`)
 5. **TWO LANES, ONE BRAND** — Mia = elementary lane, 5th grade (story-first, family + friends teach). Solani = middle-school lane, 7th grade (club + school + deeper themes). Nothing overlaps; everything rhymes.
 
@@ -91,7 +91,7 @@
 | **Sanaa Truitt** | 🎨 Art (Art Director) | safe inside her head | Anxiety, the body as mystery |
 
 **Structure:** 10 books, Sept–June. Books 1–5 = CROWN Cycle 1. Books 6–10 = Cycle 2 (each value "Revisited," harder). Book 10 = the talent show = **Headlines** = the reader's handshake fulfilled.
-**Mystery spine:** the BUFU Club — why did the school shut down a girls' club before? (Imani & Sanaa lead the investigation.)
+**Mystery spine:** TBD after Mia. The former BUFU mystery is retired and must not be reintroduced automatically.
 
 ---
 
@@ -114,7 +114,7 @@
 - **Style:** modern 3D animation — Turning Red × The Proud Family × Moon Girl & Devil Dinosaur, but OWNED (the "paused episode" look, never stock-pastel)
 - **Rules:** every chapter = an episode (cold opens, fourth wall, stingers); margins are alive (doodles, sticky notes); Fact Check = cutaway cards; Mema Hazel Explains = kitchen scene
 - **Silhouettes:** each girl must be identifiable by shape alone (Solani's butterfly puffs; Mia's star-clipped fluffy puffs + overalls; Toni's unicorn backpack; Imani's clipboard)
-- **Palette:** Mia's world = hot pink + sunny yellow + lavender. Series world = deeper jewel tones + Albany's brick + bodega warmth. Same brand, two moods.
+- **Palette:** Mia's world = hot pink + sunny yellow + lavender. Series world = deeper jewel tones + Albany brick + Washington-family/community warmth. Same brand, two moods.
 - **Assets owned:** Mia v2 character sheet + Sisterwatch scene (2026 quality); 2024 Mia expression sheet (11 expressions, to remaster); Solani character bible; the whole cast's fashion specs in the Pixar docs.
 
 ---
@@ -153,7 +153,7 @@ Primer (2 seasons) → Series (2 parts) → Companion guides → Teacher syllabu
 
 ## 📚 Recommended study (from the Archive.org list — steal like a pro)
 - **Adventure Time** — how to make a weird premise feel inevitable [1](https://jmassat.com/2024/08/05/every-cartoon-pitch-and-writers-bible-on-archive-org/)
-- **Gravity Falls** — the mystery spine + secrets economy (your BUFU Club mirror)
+- **Gravity Falls** — controlled secrets, clue economy, and season-level reveals
 - **Avatar: The Last Airbender** — world rules + character arcs across seasons
 - **Moon Girl and Devil Dinosaur** — your vibe comp: Black girl heroine, kinetic, smart
 - **Amphibia / The Owl House** — lore drip + season-arc payoff

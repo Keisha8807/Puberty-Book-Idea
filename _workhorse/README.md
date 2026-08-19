@@ -6,7 +6,7 @@
 
 ## Current scope
 
-The Workhorse currently serves **Mia's Puberty Primer**. The full CROWN Club series, BUFU mystery, album rollout, local initiatives, and advanced website features are protected but parked until Mia's two-season primer is complete or Keisha explicitly changes the priority.
+The Workhorse currently serves **Mia's Puberty Primer**. The full CROWN Club series, album rollout, local initiatives, and advanced website features are protected but parked until Mia's two-season primer is complete or Keisha explicitly changes the priority. **BUFU and La Bodega de Luz are retired from active canon.**
 
 Version 1 is **manual-first**. It proves each workflow before any n8n automation is built.
 

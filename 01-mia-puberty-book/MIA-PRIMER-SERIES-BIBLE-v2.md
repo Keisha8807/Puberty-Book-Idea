@@ -94,14 +94,14 @@ Mia's own changes begin — body hair, bra shopping, crushes, the chaos of socia
 | 14 | **Crush Confidential** | Jada has a crush and it's CONTAGIOUS | "A crush = you're in LOVE forever" | Mema + Mom: feelings are practice, not contracts |
 | 15 | **Selfies, Snaps & Shade** | The Shade Screen appears — who's posting?! | "The internet is real life / anonymous = invisible" | Ms. Vitality + Mom: digital citizenship + the Uplift Project |
 | 16 | **The Stress Vortex** | Everything at once: tests, growing, FEELINGS | "Stress = weakness / worry alone" | Uncle Mo: the Zen Zone + pencil-charm wisdom |
-| 17 | **The Door at the Bodega** | Solani's club: the back room is OFF LIMITS | "A 'crown' is actual royal headgear" | Mema: some doors open when you're ready |
+| 17 | **[FLOW GRID REBUILD — CROWN CLUE]** | Location and case TBD; no bodega or BUFU | "A 'crown' is actual royal headgear" | Mema: some stories belong to the person living them |
 | 18 | **The Talent Show** (S2 FINALE) | Mia in the crowd; Solani on stage; the song begins... | — | **THE READER HANDSHAKE** → to the series |
 
 ## 10. THE MUSIC BRIDGE (built into the outline)
 
 - **Ep 1 (S1):** first fragment — Mia overhears the secret song through Solani's door
 - **Ep 11 (S1 finale):** Solani's note to Mia, signed with a lyric
-- **Eps 12–17 (S2):** the song keeps appearing (headphones, humming, the bodega radio)
+- **Eps 12–17 (S2):** the song keeps appearing through headphones, humming, and brief instrumental clues
 - **Ep 18 (S2 finale):** the first chords of **HEADLINES** on stage — then the Handshake. The full song is the series' crown jewel. 🔒
 
 ## 11. WHAT SURVIVES FROM 2024 (repurposed, not discarded)
