@@ -37,7 +37,7 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Decide AQ-009C only:** approve or revise the adult/support distribution as a deliberate support web. AQ-009A/B's Season 1 spine, Episode 11 payoff, and Episode 8 privacy setup are locked.
+**Decide AQ-009D only:** approve or revise exactly three Season 1 music clues in Episodes 1, 3, and 11. AQ-009A/B/C's spine, Episode 8 setup, and support web are locked.
 
 ## Sprint completion
 

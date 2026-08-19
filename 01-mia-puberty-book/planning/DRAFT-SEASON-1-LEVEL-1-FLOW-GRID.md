@@ -1,12 +1,12 @@
 # MIA'S PUBERTY PRIMER — SEASON 1 LEVEL 1 FLOW GRID
 
-> **Status:** PARTIALLY APPROVED · **AQ-009A/B locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
+> **Status:** PARTIALLY APPROVED · **AQ-009A/B/C locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
 >
 > **Feedback readiness:** Internal outline audit incorporated. Do not send to the Outline Feedback System until Keisha locks the pre-feedback decisions in Section 6.
 >
 > **Planning level:** Compact architecture only. These cards establish flow before detailed Book Factory work packets or prose.
 >
-> **Active Canon:** v1.16 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
+> **Active Canon:** v1.17 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
 
 ---
 
@@ -789,7 +789,7 @@ A body-hair clue opens **The Butterfly Files** and Season 2.
 
 ### Adult-load and reader-attachment decision
 
-The season intentionally gives Mia a **support web**, not one all-purpose puberty guru. The recurring attachment anchors are Brenda (caregiver), Nurse Nightingale (school health), and Solani (sister impact); Mema opens the truth-telling pattern and may recur through the still-pending Ask Mema format. Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles appear where their relationships or expertise fit naturally.
+The season intentionally gives Mia a **support web**, not one all-purpose puberty guru. The primary recurring attachment anchors are Brenda (caregiver), Nurse Nightingale (school health), and Solani (sister impact). Ms. Harmony is a second-tier recurring school support in Episodes 3 and 5—not a one-off specialist. Mema opens the truth-telling pattern and may recur through the still-pending Ask Mema format. Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles each appear once where their relationships or expertise fit naturally.
 
 This variety serves real-world accuracy, but it can make the season feel like a rotation of experts. Detailed packets must therefore:
 
@@ -799,7 +799,7 @@ This variety serves real-world accuracy, but it can make the season feel like a 
 - consolidate a truth-giver when a specialist adds no relationship, story, or factual-fit advantage; and
 - not add Mema to every episode merely because Ask Mema exists.
 
-The final distribution remains a Keisha approval item.
+Keisha approved this distribution under AQ-009C; detailed packets must preserve these execution guardrails.
 
 ## Kayla/Sophie peer-thread continuity
 
@@ -892,27 +892,27 @@ These locations—not unused franchise geography—should form the Season 1 port
 
 Do **not** send this outline to the Outline Feedback System with major canon choices still open. Keisha locks these decisions first, one at a time. Reviewers can then test age fit, cultural specificity, story energy, emotional safety, educational clarity, and buyer trust against a fixed target instead of answering the project's unresolved architecture questions.
 
-## Locked — AQ-009A/B
+## Locked — AQ-009A/B/C
 
 - **AQ-009A:** Keisha approved the governing Season 1 spine, 11-episode progression, and Episode 11 first-period payoff as written.
 - **AQ-009B:** Keisha approved the Episode 8 accidental privacy setup with dignity locks. A blameless household mix-up places the item in Lily's pile; Lily is oblivious, Solani is not careless or blamed, and exact mechanics belong in the Episode 8 Book Factory packet.
+- **AQ-009C:** Keisha approved the support-web distribution. Brenda, Nurse Nightingale, and Solani are the primary recurring relational anchors; Ms. Harmony recurs as school social-emotional support; Mema opens/callbacks; Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles each appear once where naturally suited.
 
-## Current single decision — AQ-009C
+## Current single decision — AQ-009D
 
-**Approve or revise the adult/support distribution as an intentional support web:**
+**Approve or revise exactly three Season 1 music clues:**
 
-- **Recurring relational anchors:** Brenda (Episodes 2, 4, 7, 8, 9, 11), Nurse Nightingale (2, 9, 11), and Solani (2, 5, 8, 9, 11).
-- **Opening/callback anchor:** Mema Hazel (Episode 1 and Episode 6 callback), with any additional presence dependent on the later Ask Mema format gate.
-- **Role-specific support:** Coach Armstrong (2), Ms. Harmony (3, 5), Marcus (4), Ms. Vitality (6), and Dr. Smiles (10).
+1. **Episode 1:** A muffled fragment of Solani's private song passes through her closed bedroom door.
+2. **Episode 3:** Mia glimpses Solani's lyric notebook but does not read it.
+3. **Episode 11:** Solani's private note to Mia is signed with a lyric fragment.
 
-The proposed tradeoff favors a believable community of support over one all-purpose mentor. Detailed packets must keep one-episode adults embedded in Mia's existing world, not stage them as rotating guest lecturers; adults provide context and care, but Mia still makes the central choice.
+The proposed pattern introduces, reminds, and pays off the music thread without releasing a full song, explaining CROWN, or violating Solani's privacy. **Laughter Currency** remains where Solani starts; **Headlines** remains reserved for the later series finale.
 
 This is the only decision being requested now.
 
-## Held for sequential review after AQ-009C
+## Held for sequential review after AQ-009D
 
-1. Exactly three music clues: Episodes 1, 3, and 11.
-2. Season 2 Episode 17 remains a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder until its new mechanism and location are designed.
+1. Season 2 Episode 17 remains a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder until its new mechanism and location are designed.
 
 ## What full Season 1 approval unlocks
 

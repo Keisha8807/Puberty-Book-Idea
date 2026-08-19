@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.16 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.17 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -72,6 +72,8 @@ Retired family names/details that must not return: Mia Luz, Solani Maris, Maritz
 - Episode 11's milestone resolves Mia's fear that growing up will erase her; it does **not** imply that every 10-year-old or reader follows Mia's timing
 - Episode 8's privacy setup is approved: an innocent household mix-up puts Solani's red-stained pajama shorts among Lily's “borrowed” items, allowing Mia to apply the Episode 5 boundary lesson before the clue becomes public
 - Episode 8 staging must keep Solani blameless, Lily oblivious rather than gossiping, the stain non-graphic and non-disgusting, and Solani in control of disclosure; the exact household-mix-up mechanics belong in the Episode 8 Book Factory packet
+- Season 1 uses an approved support web rather than one all-purpose mentor: Brenda, Nurse Nightingale, and Solani are recurring relational anchors; Ms. Harmony recurs in her school social-emotional role; Mema opens/callbacks; Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles appear once where their relationships or expertise fit
+- Adults provide trustworthy context and care but do not solve Mia's central emotional problem; Brenda and Solani remain characters, one-episode adults must not feel like rotating guest lecturers, and any added Mema presence waits for the Ask Mema format gate
 - Mia talks directly to the reader; the reader is her case partner
 - Mia uses lists, case files, text threads, invented words, dramatic logic, and stingers
 - Mia is confidently wrong; the educational correction delivers the punchline

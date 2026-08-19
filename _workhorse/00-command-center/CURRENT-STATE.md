@@ -108,4 +108,4 @@ The complete visual reference foundation is locked. The active bottleneck is Sea
 
 ## Current single next action
 
-AQ-009A/B are approved: the Season 1 spine/endpoint and Episode 8 accidental privacy setup are locked with child-dignity guardrails. Decide **AQ-009C only**: approve or revise the adult/support distribution as a deliberate support web with recurring relational anchors and role-specific specialists.
+AQ-009A/B/C are approved: the Season 1 spine/endpoint, Episode 8 privacy setup, and intentional adult/support web are locked. Decide **AQ-009D only**: approve or revise exactly three Season 1 music clues in Episodes 1, 3, and 11.

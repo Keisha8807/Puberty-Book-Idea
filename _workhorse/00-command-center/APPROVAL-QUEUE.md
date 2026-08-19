@@ -4,19 +4,28 @@
 
 ## Waiting on Keisha
 
-### AQ-009C — Adult/support distribution
+### AQ-009D — Three Season 1 music clues
 
-- **Type:** Story architecture · pre-feedback gate 3
+- **Type:** Story architecture · pre-feedback gate 4
 - **Risk:** Yellow
-- **Decision needed now:** Approve or revise the deliberate support-web model: Brenda, Nurse Nightingale, and Solani recur as relational anchors; Mema opens/callbacks; role-specific adults appear where naturally needed
-- **Required guardrails if approved:** No rotating-guest-lecturer feeling; no adult conveniently solves Mia's emotional problem; Brenda and Solani remain characters rather than information dispensers; Ask Mema expansion waits for its own format gate
-- **Held for later sequential gates:** Three music clues; Episode 17 no-bodega/no-BUFU rebuild placeholder
+- **Decision needed now:** Approve or revise exactly three music clues: Episode 1 muffled song fragment; Episode 3 lyric-notebook glimpse without reading; Episode 11 private note signed with a lyric fragment
+- **Required guardrails if approved:** No full song release; no CROWN explanation; no reading Solani's notebook; no early `Headlines`; preserve Solani's privacy and ownership
+- **Held for later sequential gate:** Episode 17 no-bodega/no-BUFU rebuild placeholder
 - **Draft:** `01-mia-puberty-book/planning/DRAFT-SEASON-1-LEVEL-1-FLOW-GRID.md`
 - **Blocked by:** Nothing
 - **Status:** Waiting
 - **Feedback rule:** Do not create/send the Outline Feedback System packet until Keisha locks all pre-feedback architecture decisions one at a time
 
 ## Approved this sprint
+
+### AQ-009C — Adult/support distribution
+
+- **Decision:** Approve the intentional support web with primary recurring anchors, a recurring school social-emotional support, an opening/callback Mema role, and naturally placed one-episode adults
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Decision Log:** DEC-2026-08-18-033
+- **Accuracy correction:** Ms. Harmony recurs in Episodes 3 and 5; she is not a one-off specialist
+- **Unlocks:** AQ-009D; Active Canon v1.17
 
 ### AQ-009B — Episode 8 privacy setup
 

@@ -232,6 +232,16 @@
 - **Approved by:** Keisha
 - **Status:** Locked
 
+## DEC-2026-08-18-033 — Approve Season 1 support web
+
+- **Decision:** Approve AQ-009C. Brenda, Nurse Nightingale, and Solani recur as relational anchors; Ms. Harmony recurs in Episodes 3 and 5 as school social-emotional support; Mema opens the truth-telling pattern and callbacks; Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles each appear once where their relationship or expertise naturally fits.
+- **Reason:** The specialists carry story-world, representation, and trusted-pathway value that consolidation would erase. Increasing Brenda's or Solani's episode load would intensify already-identified information-dispenser/privacy risks. A community of support better earns the culturally affirming caregiver promise than one all-purpose mentor.
+- **Required execution locks:** Adults provide context and care but do not solve Mia's central emotional problem; Brenda and Solani stay characters rather than lecturers; one-episode adults stay embedded in Mia's existing world; added Mema presence waits for the Ask Mema format gate.
+- **Accuracy correction:** Ms. Harmony is a second-tier recurring support, not a one-off specialist.
+- **Effect:** Active Canon advances to v1.17. The adult/support distribution is locked for Season 1 Level 1 planning.
+- **Approved by:** Keisha
+- **Status:** Locked
+
 ---
 
 ## New decision template
