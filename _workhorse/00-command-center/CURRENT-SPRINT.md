@@ -37,7 +37,7 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Decide AQ-009B only:** approve or revise the Episode 8 privacy setup—Lily accidentally exposes Solani's red-stained pajama shorts among her “borrowed” items, and Mia stops the clue from becoming public. AQ-009A's Season 1 spine and Episode 11 payoff are locked.
+**Decide AQ-009C only:** approve or revise the adult/support distribution as a deliberate support web. AQ-009A/B's Season 1 spine, Episode 11 payoff, and Episode 8 privacy setup are locked.
 
 ## Sprint completion
 

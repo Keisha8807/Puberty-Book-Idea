@@ -4,19 +4,28 @@
 
 ## Waiting on Keisha
 
-### AQ-009B — Episode 8 privacy setup
+### AQ-009C — Adult/support distribution
 
-- **Type:** Story architecture · pre-feedback gate 2
+- **Type:** Story architecture · pre-feedback gate 3
 - **Risk:** Yellow
-- **Decision needed now:** Approve or revise Lily bringing Solani's red-stained pajama shorts among her “borrowed” items as the Episode 8 clue
-- **Required guardrails if approved:** No gross-out framing; no blame; Mia stops the exposure before a public reveal; Solani controls disclosure; private practical support replaces a “case solved” celebration
-- **Held for later sequential gates:** Adult/support distribution; three music clues; Episode 17 no-bodega/no-BUFU rebuild placeholder
+- **Decision needed now:** Approve or revise the deliberate support-web model: Brenda, Nurse Nightingale, and Solani recur as relational anchors; Mema opens/callbacks; role-specific adults appear where naturally needed
+- **Required guardrails if approved:** No rotating-guest-lecturer feeling; no adult conveniently solves Mia's emotional problem; Brenda and Solani remain characters rather than information dispensers; Ask Mema expansion waits for its own format gate
+- **Held for later sequential gates:** Three music clues; Episode 17 no-bodega/no-BUFU rebuild placeholder
 - **Draft:** `01-mia-puberty-book/planning/DRAFT-SEASON-1-LEVEL-1-FLOW-GRID.md`
 - **Blocked by:** Nothing
 - **Status:** Waiting
 - **Feedback rule:** Do not create/send the Outline Feedback System packet until Keisha locks all pre-feedback architecture decisions one at a time
 
 ## Approved this sprint
+
+### AQ-009B — Episode 8 privacy setup
+
+- **Decision:** Approve the accidental period-stain clue with no-blame, no-gross-out, private-disclosure, and child-dignity locks
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Decision Log:** DEC-2026-08-18-032
+- **Special condition:** An innocent household mix-up—not Solani's carelessness—puts the item in an oblivious Lily's pile; exact mechanics wait for the Episode 8 packet
+- **Unlocks:** AQ-009C; Active Canon v1.16
 
 ### AQ-009A — Season 1 governing spine and endpoint
 

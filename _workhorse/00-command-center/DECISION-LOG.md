@@ -223,6 +223,15 @@
 - **Approved by:** Keisha
 - **Status:** Locked
 
+## DEC-2026-08-18-032 — Approve Episode 8 accidental privacy setup with dignity locks
+
+- **Decision:** Approve AQ-009B. Lily innocently brings Solani's red-stained pajama shorts among her “borrowed” items, and Mia applies her Episode 5 boundary lesson before the clue becomes public.
+- **Reason:** The accidental discovery preserves Mia's growth instead of making her snoop again, pays off Episode 7's stinger, and turns Mia's “red means injury” myth into a concrete story clue. Replacing or re-routing the discovery would weaken those linked setups without solving a proven problem.
+- **Required staging locks:** The item enters Lily's pile through a genuinely blameless household mix-up; Solani is not framed as careless; Lily is oblivious, not preparing to gossip; the stain receives no graphic, disgust, or gross-out framing; Mia intercepts the exposure; Solani controls disclosure; the resolution is private support, not a public case celebration.
+- **Effect:** Active Canon advances to v1.16. The Episode 8 architecture is locked; the precise household mechanism (such as a wrong laundry basket or shared bag) must be chosen and continuity-tested in the Episode 8 Book Factory packet.
+- **Approved by:** Keisha
+- **Status:** Locked
+
 ---
 
 ## New decision template

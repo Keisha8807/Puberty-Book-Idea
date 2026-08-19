@@ -1,12 +1,12 @@
 # MIA'S PUBERTY PRIMER — SEASON 1 LEVEL 1 FLOW GRID
 
-> **Status:** PARTIALLY APPROVED · **AQ-009A locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
+> **Status:** PARTIALLY APPROVED · **AQ-009A/B locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
 >
 > **Feedback readiness:** Internal outline audit incorporated. Do not send to the Outline Feedback System until Keisha locks the pre-feedback decisions in Section 6.
 >
 > **Planning level:** Compact architecture only. These cards establish flow before detailed Book Factory work packets or prose.
 >
-> **Active Canon:** v1.15 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
+> **Active Canon:** v1.16 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
 
 ---
 
@@ -68,7 +68,7 @@ Keisha approved the governing Season 1 spine and order: **Mia begins by investig
 | 4. **Mirror, Mirror, Maybe Liar** | Early Oct · bathroom mirror / picture day / home | Why does every reflection look different? | Find the “true” pretty version → “If my body changes, people may judge me.” | Bodies and appearances vary; comparison and images can distort self-perception; worth is not a look. | Brenda | Brenda shares imperfection without turning the scene into a lecture. | Marcus's camera shows one moment, not an objective verdict. | Solani catches Mia crossing a boundary |
 | 5. **Operation Personal Space** | Late Oct · hallway / bedrooms / group project | Is “I need space” just a rude way to reject people? | Keep access to every clue → “Boundaries mean someone stopped loving me.” | Boundaries protect relationships; girls can give, receive, and revise consent around space, belongings, touch, and conversation. | Solani + Ms. Harmony | Mia apologizes without demanding immediate forgiveness. | Closed-door feeling remains; no bodega, BUFU, or CROWN explanation. | Max announces a smell emergency |
 | 6. **The Deodorant Debacle** | Early Nov · health room / home bathroom / kitchen | Does smelling sweaty mean someone is dirty? | Create the perfect smell-proof formula → “Other people will notice and shame me.” | Sweat and body odor are normal; washing, clean clothes, deodorant/antiperspirant choices, and gentle care beat fragrance overload. | Ms. Vitality | The Myth Machine tests itself instead of targeting Solani. | “Armpit perfume” returns as a callback, not a repeated lesson. | Jada and Emma's fight splits the team |
-| 7. **Friendship Fluctuations** | Late Nov · cafeteria / art table / Mia's room | If best friends fight, is the friendship over? | Force Jada and Emma to agree → “Change will take my people away.” | Healthy friendship can include conflict, repair, accountability, new interests, and boundaries. | Brenda | Mia realizes her fixing attempts made both friends feel unheard. | The Myth Machine survives by changing its rules. | Lily appears with something red that belongs to Solani |
+| 7. **Friendship Fluctuations** | Late Nov · cafeteria / art table / Mia's room | If best friends fight, is the friendship over? | Force Jada and Emma to agree → “Change will take my people away.” | Healthy friendship can include conflict, repair, accountability, new interests, and boundaries. | Brenda | Mia realizes her fixing attempts made both friends feel unheard. | The Myth Machine survives by changing its rules. | Lily appears, oblivious, with something red that belongs to Solani |
 | 8. **The Crimson Mystery** | Early Dec · home hallway / laundry / bathroom | Is the red stain evidence of an injury? | Prove Solani needs rescuing → “Periods mean danger and humiliation.” | Menstruation is normal uterine bleeding, not an injury; timing varies; privacy and respectful help matter. | Brenda + Solani | Mia chooses Solani's dignity over a public “case reveal.” | Episode 5 boundary lesson pays off. | Mia decides every backpack needs a plan |
 | 9. **Operation Period Power** | Mid Dec · kitchen table / school nurse / backpack | What belongs in an emergency period kit? | Build the Ultimate Kit → “If I'm not prepared for everything, disaster wins.” | Period products and routines vary; practical preparation reduces panic; periods do not require life to stop. | Nurse Nightingale + Brenda + Solani | Mia makes a useful kit without treating it like armor against growing up. | Kit goes into Mia's backpack for later payoff. | A pimple appears before Mia records a video |
 | 10. **Pimple Patrol** | Mid Jan · mirror / vlog setup / pediatric office | Can Mia erase a pimple before anyone sees it? | Remove it immediately → “Visible change gives other people power over me.” | Acne is common and not proof of dirtiness; gentle evidence-based care and not picking matter; dark marks deserve careful care. | Dr. Smiles | Mia posts/keeps a funny imperfect moment instead of hiding her face. | Reader trust: facts require source and clinician review. | Mia discovers red in her own underwear at school |
@@ -515,7 +515,7 @@ The Myth Machine becomes a healthier team; Sophie begins showing a separate opin
 
 ### Stinger
 
-Lily appears with something red that belongs to Solani.
+Lily appears, completely oblivious, with something red that belongs to Solani.
 
 ---
 
@@ -527,11 +527,11 @@ A frightening red clue forces Mia to choose between public investigation and Sol
 
 ### Premise
 
-Lily arrives with Solani's red-stained pajama shorts among her “borrowed” items. Mia believes Solani is injured.
+A blameless household mix-up puts Solani's red-stained pajama shorts among Lily's “borrowed” items. Lily is oblivious; Mia believes Solani is injured.
 
 ### Short synopsis
 
-Panic activates the Myth Machine, but the privacy lesson from Episode 5 slows Mia before she broadcasts the clue. Brenda explains menstruation in simple, medically reviewable language. Solani, embarrassed and angry, gets to control how much she shares. Mia returns the clothing, redirects Lily, and helps privately instead of converting Solani's period into entertainment.
+Panic activates the Myth Machine, but the privacy lesson from Episode 5 slows Mia before she broadcasts the clue. The exact household-mix-up mechanics will be chosen in the Episode 8 Book Factory packet; they must not imply that Solani was careless or that Lily intended to gossip. Brenda explains menstruation in simple, medically reviewable language. Solani, embarrassed and angry, controls how much she shares. Mia returns the clothing, redirects Lily, and helps privately instead of converting Solani's period into entertainment.
 
 ### Mia's want
 
@@ -566,7 +566,7 @@ Brenda explains; Solani defines the privacy boundary.
 
 ### Five plot beats
 
-1. Lily brings the red-stained clothing.
+1. An oblivious Lily reveals the red-stained clothing after a blameless household mix-up.
 2. Mia starts a rescue investigation.
 3. Episode 5 boundary memory stops a public reveal.
 4. Brenda explains; Solani controls her story.
@@ -892,29 +892,27 @@ These locations—not unused franchise geography—should form the Season 1 port
 
 Do **not** send this outline to the Outline Feedback System with major canon choices still open. Keisha locks these decisions first, one at a time. Reviewers can then test age fit, cultural specificity, story energy, emotional safety, educational clarity, and buyer trust against a fixed target instead of answering the project's unresolved architecture questions.
 
-## Locked — AQ-009A
+## Locked — AQ-009A/B
 
-Keisha approved the governing Season 1 spine, 11-episode progression, and Episode 11 first-period payoff as written.
+- **AQ-009A:** Keisha approved the governing Season 1 spine, 11-episode progression, and Episode 11 first-period payoff as written.
+- **AQ-009B:** Keisha approved the Episode 8 accidental privacy setup with dignity locks. A blameless household mix-up places the item in Lily's pile; Lily is oblivious, Solani is not careless or blamed, and exact mechanics belong in the Episode 8 Book Factory packet.
 
-## Current single decision — AQ-009B
+## Current single decision — AQ-009C
 
-**Approve or revise the Episode 8 privacy setup:** Lily brings Solani's red-stained pajama shorts among her “borrowed” items. Mia initially fears Solani is injured, but the Episode 5 boundary lesson stops Mia from broadcasting the clue before Brenda explains menstruation. Solani controls what she shares; Mia returns the clothing and helps privately.
+**Approve or revise the adult/support distribution as an intentional support web:**
 
-Required dignity guardrails if approved:
+- **Recurring relational anchors:** Brenda (Episodes 2, 4, 7, 8, 9, 11), Nurse Nightingale (2, 9, 11), and Solani (2, 5, 8, 9, 11).
+- **Opening/callback anchor:** Mema Hazel (Episode 1 and Episode 6 callback), with any additional presence dependent on the later Ask Mema format gate.
+- **Role-specific support:** Coach Armstrong (2), Ms. Harmony (3, 5), Marcus (4), Ms. Vitality (6), and Dr. Smiles (10).
 
-- The stain is a story clue, never a gross-out image or disgust joke.
-- Lily's action creates the accidental exposure; Solani is never blamed for the stain.
-- Mia interrupts her own reveal before peers or the wider family see it.
-- Solani may be embarrassed or angry and sets the disclosure boundary.
-- The scene ends in private, practical support—not a public “case solved” celebration.
+The proposed tradeoff favors a believable community of support over one all-purpose mentor. Detailed packets must keep one-episode adults embedded in Mia's existing world, not stage them as rotating guest lecturers; adults provide context and care, but Mia still makes the central choice.
 
 This is the only decision being requested now.
 
-## Held for sequential review after AQ-009B
+## Held for sequential review after AQ-009C
 
-1. Adult/support distribution and the support-web tradeoff recorded in Section 5.
-2. Exactly three music clues: Episodes 1, 3, and 11.
-3. Season 2 Episode 17 remains a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder until its new mechanism and location are designed.
+1. Exactly three music clues: Episodes 1, 3, and 11.
+2. Season 2 Episode 17 remains a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder until its new mechanism and location are designed.
 
 ## What full Season 1 approval unlocks
 

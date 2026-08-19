@@ -108,4 +108,4 @@ The complete visual reference foundation is locked. The active bottleneck is Sea
 
 ## Current single next action
 
-AQ-009A is approved: the Season 1 order, governing spine, and Mia's Episode 11 first-period payoff are locked. Decide **AQ-009B only**: approve or revise the Episode 8 setup in which Lily accidentally exposes Solani's red-stained pajama shorts among her “borrowed” items, and Mia applies her boundary lesson before the clue becomes public.
+AQ-009A/B are approved: the Season 1 spine/endpoint and Episode 8 accidental privacy setup are locked with child-dignity guardrails. Decide **AQ-009C only**: approve or revise the adult/support distribution as a deliberate support web with recurring relational anchors and role-specific specialists.
