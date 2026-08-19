@@ -104,8 +104,8 @@ The Foundation's Active Canon controls workers until those detailed files receiv
 
 ## Current bottleneck
 
-The project needs a locked, repeatable visual foundation before scene art and marketing clips can scale.
+The complete visual reference foundation is locked. The active bottleneck is Season 1 story architecture: the major choices must be approved before structured outside feedback, Season 2 planning, or detailed episode work.
 
 ## Current single next action
 
-The draft Season 1 Level 1 Flow Grid is complete: 11 compact Episode Flow Cards plus the side-by-side season view and flow audit. It is awaiting Keisha's architecture approval before Season 2 planning.
+Decide **AQ-009A only**: approve or revise the governing Season 1 spine in which Mia begins by investigating Solani across the proposed progression, then experiences her own first period in Episode 11 and learns that the milestone did not erase who she is. The outline's internal audit now explicitly tracks the parent/caregiver trust promise, Kayla/Sophie peer thread, intentional-but-flexible episode rhythm, and recurring-support-versus-specialist tradeoff.

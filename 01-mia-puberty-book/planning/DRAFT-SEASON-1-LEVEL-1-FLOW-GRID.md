@@ -2,6 +2,8 @@
 
 > **Status:** DRAFT FOR KEISHA APPROVAL · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
 >
+> **Feedback readiness:** Internal outline audit incorporated. Do not send to the Outline Feedback System until Keisha locks the pre-feedback decisions in Section 6.
+>
 > **Planning level:** Compact architecture only. These cards establish flow before detailed Book Factory work packets or prose.
 >
 > **Active Canon:** v1.14 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
@@ -27,6 +29,12 @@ The reader moves from:
 To:
 
 > “Puberty happens on different schedules. I can understand it, prepare for it, ask for help, and still be fully myself.”
+
+### Parent/caregiver trust promise
+
+> A funny, culturally affirming story that helps a Black girl begin puberty conversations with practical language, trusted-adult pathways, and guidance that will be sourced and medically reviewed before publication—without shame, fear tactics, or treating one timeline as universal.
+
+This is the fixed buyer/trust target for later caregiver feedback. Reviewers should test whether the outline earns this promise rather than inventing a different promise for the book.
 
 ---
 
@@ -271,7 +279,7 @@ On school-picture morning, every mirror, phone camera, and reflection seems to s
 
 ### Short synopsis
 
-Mia tries lighting, angles, expressions, and increasingly ridiculous mirror tests. Kayla's polished confidence intensifies the comparison. Marcus's camera demonstrates that one image captures one moment, while Brenda helps Mia name the pressure beneath her jokes. Mia chooses a picture expression that feels like herself rather than the one she thinks will be judged best. The episode protects body positivity without forcing instant self-love.
+Mia tries lighting, angles, expressions, and increasingly ridiculous mirror tests. Mia reads Kayla's polished confidence as a standard she must match, intensifying the comparison without making Kayla an objective measure of beauty. Marcus's camera demonstrates that one image captures one moment, while Brenda helps Mia name the pressure beneath her jokes. Mia chooses a picture expression that feels like herself rather than the one she thinks will be judged best. The episode protects body positivity without forcing instant self-love.
 
 ### Mia's want
 
@@ -645,11 +653,11 @@ Mia treats a pimple as a public-relations crisis and nearly creates a bigger ski
 
 ### Premise
 
-A visible pimple appears before Mia records a Myth Machine video. Kayla's polished look makes Mia desperate for an instant fix.
+A visible pimple appears before Mia records a Myth Machine video. Mia treats Kayla's polished look as proof that everyone else has appearance figured out, making her desperate for an instant fix.
 
 ### Short synopsis
 
-The girls test increasingly questionable “hacks” until irritation and picking threaten dark marks. Dr. Smiles explains, through an age-appropriate clinical scene, that acne is common and not caused simply by dirt. Mia learns gentle care, patience, when to seek adult/medical help, and why melanated skin needs thoughtful treatment around irritation and post-inflammatory marks. She chooses not to hide every imperfect frame.
+The girls test increasingly questionable “hacks” until irritation and picking threaten dark marks. Mia's comparison to Kayla remains Mia's projection—not proof that Kayla is flawless or a setup for Kayla's humiliation. Dr. Smiles explains, through an age-appropriate clinical scene, that acne is common and not caused simply by dirt. Mia learns gentle care, patience, when to seek adult/medical help, and why melanated skin needs thoughtful treatment around irritation and post-inflammatory marks. She chooses not to hide every imperfect frame.
 
 ### Mia's want
 
@@ -779,9 +787,30 @@ A body-hair clue opens **The Butterfly Files** and Season 2.
 | Ms. Vitality | 6 | Non-shaming hygiene education |
 | Dr. Smiles | 10 | Sourced skin/clinical guidance |
 
-### Adult-load note
+### Adult-load and reader-attachment decision
 
-Brenda appears frequently because the season's practical body/period spine needs a caregiver. Detailed packets must ensure she remains a character rather than an information dispenser. Mema should not be added to every episode merely because Ask Mema exists.
+The season intentionally gives Mia a **support web**, not one all-purpose puberty guru. The recurring attachment anchors are Brenda (caregiver), Nurse Nightingale (school health), and Solani (sister impact); Mema opens the truth-telling pattern and may recur through the still-pending Ask Mema format. Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles appear where their relationships or expertise fit naturally.
+
+This variety serves real-world accuracy, but it can make the season feel like a rotation of experts. Detailed packets must therefore:
+
+- keep Brenda a character rather than an information dispenser;
+- keep Solani a sister rather than a junior health teacher;
+- reintroduce one-episode adults quickly through Mia's existing world rather than treating each as a new “guest expert” event;
+- consolidate a truth-giver when a specialist adds no relationship, story, or factual-fit advantage; and
+- not add Mema to every episode merely because Ask Mema exists.
+
+The final distribution remains a Keisha approval item.
+
+## Kayla/Sophie peer-thread continuity
+
+| Episode | Peer beat | Required movement / continuity lock |
+|---|---|---|
+| 4 | Mia reads Kayla's polished picture-day confidence as a standard. | Comparison pressure begins inside Mia; Kayla is not declared the objective standard or reduced to a “perfect girl” villain. |
+| 5 | Kayla controls the group project; Sophie tries to speak. | The boundary problem becomes visible between peers; Sophie must register as a person with a preference, not only a lesson prop. |
+| 7 | Kayla pressures Sophie to choose a side; Sophie voices a separate opinion. | Sophie takes a first clear agency step. Kayla can be wrong without becoming a one-note bully. |
+| 10 | Mia again projects flawlessness onto Kayla's polished appearance. | The comparison motif returns, but Sophie's Episode 7 growth cannot reset and Kayla cannot be humiliated merely to cure Mia's insecurity. |
+
+Detailed packets must track this as one four-episode peer thread. It is **not** permission to revive the unapproved Kayla/Sophie framing plot.
 
 ## Location rhythm
 
@@ -809,8 +838,23 @@ Detailed packets should vary cold-open staging and avoid beginning every home ep
 
 - Episode 1 uses “armpit perfume” only as the first Myth Machine demonstration.
 - Episode 6 does not reteach the same joke; it expands to routines, products, sweat, shame, and irritation.
-- Episodes 8, 9, and 11 form a three-step period arc: **understand → prepare → experience**.
+- Episodes 8, 9, and 11 form a period arc: **understand and protect dignity → prepare → experience and use support**.
 - Episodes 3, 5, and 7 separate feelings, boundaries, and friendship repair rather than blending them into one SEL lesson.
+
+## Episode-shape and rhythm decision
+
+A recognizable case rhythm is intentional for the 9–11 reader and the “animated show on paper” format. The recurring engine is:
+
+> Disruptive clue → funny theory/attempt → consequence or complication → trustworthy context → Mia's child-led decision/new normal
+
+It is a **rhythm, not a mandatory adult-correction formula**. Mia must act; adults may provide context or support but cannot conveniently solve her central emotional problem.
+
+Two emotional high points deliberately bend the pattern:
+
+- **Episode 8:** Mia remembers the Episode 5 boundary lesson and interrupts her own public reveal **before** Brenda explains menstruation. Her ethical choice creates the safe conditions for truth; the adult does not stop a completed humiliation.
+- **Episode 11:** The episode opens at the season's bodily payoff, skips a fresh comic theory spiral, and lets Mia use accumulated knowledge to choose her next safe action before Nurse Nightingale, Brenda, and Solani support her. The ending resolves identity fear rather than simply closing a case.
+
+Detailed packets should also vary who initiates the disruption, where the truth enters, whether a theory is spoken or acted out, and whether the final beat is comic, tender, or unresolved. Do not force every episode into **mystery → wrong theories → adult lecture → feeling → tidy resolution**.
 
 ## Season clues
 
@@ -842,19 +886,28 @@ These locations—not unused franchise geography—should form the Season 1 port
 
 ---
 
-# 6. APPROVAL GATE
+# 6. PRE-FEEDBACK APPROVAL GATE
 
-## Decisions requested
+## Sequencing rule
 
-1. Approve the Season 1 progression and episode order.
-2. Approve or revise the assumption that Mia gets her first period in Episode 11.
-3. Approve the Episode 8 privacy setup involving Lily and Solani's borrowed pajama shorts.
-4. Approve the adult distribution.
-5. Approve the three music clues only: Episodes 1, 3, and 11.
-6. Approve the no-bodega/no-BUFU Episode 17 placeholder for later Season 2 rebuilding.
+Do **not** send this outline to the Outline Feedback System with major canon choices still open. Keisha locks these decisions first, one at a time. Reviewers can then test age fit, cultural specificity, story energy, emotional safety, educational clarity, and buyer trust against a fixed target instead of answering the project's unresolved architecture questions.
 
-## What approval unlocks
+## Current single decision — AQ-009A
 
+**Approve or revise the governing Season 1 spine:** Mia begins by investigating Solani across the 11-episode progression shown here, then ends by experiencing her own first period in Episode 11 and discovering that the milestone did not erase who she is.
+
+This is the only decision being requested now.
+
+## Held for sequential review after AQ-009A
+
+1. Episode 8 privacy setup: Lily brings Solani's red-stained pajama shorts among “borrowed” items.
+2. Adult/support distribution and the support-web tradeoff recorded in Section 5.
+3. Exactly three music clues: Episodes 1, 3, and 11.
+4. Season 2 Episode 17 remains a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder until its new mechanism and location are designed.
+
+## What full Season 1 approval unlocks
+
+- Outline Feedback System packet
 - Season 2 Level 1 Flow Cards/Grid
 - Cross-season continuity audit
 - Minimum Viable World Bible

@@ -37,7 +37,7 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Review and approve/revise the Season 1 Level 1 Flow Grid before Season 2 cards or detailed Episode 1 work.**
+**Decide AQ-009A only:** approve or revise the Season 1 governing spine—Mia begins by investigating Solani and ends the proposed 11-episode progression with her own first period, discovering that the milestone did not erase who she is. Remaining pre-feedback decisions will follow sequentially.
 
 ## Sprint completion
 

@@ -4,15 +4,16 @@
 
 ## Waiting on Keisha
 
-### AQ-009 — Season 1 Level 1 Flow Grid
+### AQ-009A — Season 1 governing spine and endpoint
 
-- **Type:** Story architecture
+- **Type:** Story architecture · pre-feedback gate 1
 - **Risk:** Yellow
-- **Decision needed:** Approve the 11 compact Episode Flow Cards and side-by-side season flow before detailed Episode 1 work packets
-- **Retired constraints:** No bodega; no BUFU
+- **Decision needed now:** Approve or revise this single spine: Mia begins by investigating Solani across the proposed 11-episode progression, then experiences her own first period in Episode 11 and discovers that the milestone did not erase who she is.
+- **Held for later sequential gates:** Episode 8 privacy setup; adult/support distribution; three music clues; Episode 17 no-bodega/no-BUFU rebuild placeholder
 - **Draft:** `01-mia-puberty-book/planning/DRAFT-SEASON-1-LEVEL-1-FLOW-GRID.md`
 - **Blocked by:** Nothing
 - **Status:** Waiting
+- **Feedback rule:** Do not create/send the Outline Feedback System packet until Keisha locks all pre-feedback architecture decisions one at a time
 
 ## Approved this sprint
 
