@@ -22,6 +22,14 @@
 
 _New turnaround, expression row, braid/ribbon/glasses callouts, wardrobe palette, notebook details, and hesitant/confident progression poses will be built from the approved hero._
 
+## Approved reference board
+
+**[approved-sophie-model-board-v02.png](03-reference-sheets/approved-sophie-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-sophie-model-board-v02.png" alt="Approved Sophie production model board" width="420">
+
+This clean board locks four views, six expressions, isolated props, and palette without callout arrows or captions.
+
 ## Superseded—do not use as current reference
 
 - [Chosen source identity v03](99-superseded/sophie-chosen-source-v03.png)

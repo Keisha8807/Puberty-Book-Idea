@@ -36,6 +36,14 @@ _New turnaround, expression row, wardrobe palette, and camera callout will be bu
 
 _New scenes must use the approved hero and future reference sheet._
 
+## Approved reference board
+
+**[approved-marcus-model-board-v02.png](03-reference-sheets/approved-marcus-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-marcus-model-board-v02.png" alt="Approved Marcus production model board" width="420">
+
+This clean board locks four views, six expressions, isolated props, and palette without callout arrows or captions.
+
 ## Superseded—do not use as current reference
 
 - [Previous Arena hero](99-superseded/hero-marcus-arena-previous.png)

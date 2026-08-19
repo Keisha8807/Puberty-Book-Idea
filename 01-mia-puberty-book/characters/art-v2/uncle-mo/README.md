@@ -37,6 +37,14 @@ _New turnaround, expression row, wardrobe palette, and family poses will be buil
 
 _New scenes may use him as family. Do not place him behind a store counter or in a business role._
 
+## Approved reference board
+
+**[approved-uncle-mo-model-board-v02.png](03-reference-sheets/approved-uncle-mo-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-uncle-mo-model-board-v02.png" alt="Approved Uncle Mo production model board" width="420">
+
+This clean board locks four views, six expressions, isolated props, and palette without callout arrows or captions.
+
 ## Superseded—do not use as current reference
 
 - [Previous Arena bodega hero](99-superseded/hero-uncle-mo-arena-bodega-previous.png)

@@ -37,11 +37,20 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Run the final six-board clean pass: Marcus, Uncle Mo, Seraphina, Lily, Max, and Sophie.**
+**Close SUNRAY-SPRINT-001 and prepare the Episode 1 Book Factory work packet for SUNRAY-SPRINT-002.**
+
+## Sprint completion
+
+- Foundation approved
+- All cast hero identities approved
+- Mia full production reference approved
+- Solani braces-aware reference approved
+- All supporting cast reference boards approved
+- Visual library organized with source and superseded history
 
 ## Story unlock
 
-Mia, Solani, Mema, Jada, Emma, and Brenda references already support the Episode 1 Book Factory. The final six-board pass completes visual-library consistency across the cast.
+Episode 1 Book Factory is fully unblocked.
 
 ## Not this sprint
 

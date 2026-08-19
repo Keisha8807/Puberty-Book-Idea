@@ -201,6 +201,13 @@
 - **Effect:** Episode 1's core support cast now has approved model references. Earlier annotated and badly masked versions remain superseded. Six non-core supporting boards remain for the final consistency pass.
 - **Status:** Locked
 
+## DEC-2026-08-18-029 — Full-cast reference library complete
+
+- **Decision:** Approve the final clean model boards for Marcus, Uncle Mo, Seraphina, Lily, Max, and Sophie.
+- **Reason:** Keisha approved all six after the annotation-free consistency and Lily expression-count correction pass.
+- **Effect:** All 19 active cast identities now have approved reference coverage, represented by 21 approved image assets because Mia's package uses separate turnaround and two expression sheets. The Visual Factory identity/reference milestone is complete; Episode 1 is unblocked.
+- **Status:** Locked
+
 ---
 
 ## New decision template

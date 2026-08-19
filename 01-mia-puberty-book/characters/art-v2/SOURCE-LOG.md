@@ -59,6 +59,13 @@ Assets already in the repository before this log was created are labeled inside 
 | 2026-08-18 | Jada | `jada/03-reference-sheets/approved-jada-model-board-v03.png` | Arena generation + caption-zone cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean views, expressions, braid/hoop/outfit props, palette |
 | 2026-08-18 | Brenda | `brenda/03-reference-sheets/approved-brenda-model-board-v04.png` | Arena generation + targeted caption cleanup | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean views, expressions, fashion/wooden-spoon props, palette |
 
+| 2026-08-18 | Marcus | `marcus/03-reference-sheets/approved-marcus-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean views, six expressions, camera/outfit props, palette |
+| 2026-08-18 | Uncle Mo | `uncle-mo/03-reference-sheets/approved-uncle-mo-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Role-neutral, no business cues, clean views/expressions/props |
+| 2026-08-18 | Seraphina | `seraphina/03-reference-sheets/approved-seraphina-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean views, expressions, jewelry/phone/fashion props |
+| 2026-08-18 | Lily | `lily/03-reference-sheets/approved-lily-model-board-v03.png` | Arena image generation; strict-grid revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Exactly four views and six expressions; props/palette |
+| 2026-08-18 | Max | `max/03-reference-sheets/approved-max-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean views, expressions, cape/W shirt/phone props, palette |
+| 2026-08-18 | Sophie | `sophie/03-reference-sheets/approved-sophie-model-board-v02.png` | Arena image generation; clean-board revision | Keisha-directed Workhorse | Yes | Confirmed | Approved reference | Clean views, expressions, braid/glasses/notebook props, palette |
+
 ## Required before approval
 
 - [ ] Character and file are identified

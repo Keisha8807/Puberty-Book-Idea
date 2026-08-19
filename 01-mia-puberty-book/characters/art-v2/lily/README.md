@@ -20,6 +20,14 @@
 
 _New turnaround, expression row, bow/bead map, outfit palette, and borrowed-item comedy poses will be built from the approved hero._
 
+## Approved reference board
+
+**[approved-lily-model-board-v03.png](03-reference-sheets/approved-lily-model-board-v03.png)**
+
+<img src="03-reference-sheets/approved-lily-model-board-v03.png" alt="Approved Lily production model board" width="420">
+
+This clean board locks four views, six expressions, isolated props, and palette without callout arrows or captions.
+
 ## Superseded—do not use as current reference
 
 - [Previous Arena hero](99-superseded/hero-lily-arena-previous.png)

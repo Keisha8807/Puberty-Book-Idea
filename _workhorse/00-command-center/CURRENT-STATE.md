@@ -104,4 +104,4 @@ The project needs a locked, repeatable visual foundation before scene art and ma
 
 ## Current single next action
 
-Episode 1 core references are approved. The final optional visual-consistency batch contains six characters: Marcus, Uncle Mo, Seraphina, Lily, Max, and Sophie.
+The full visual identity and reference-sheet milestone is complete. The next active production lane is the Episode 1 Book Factory pilot, beginning with its work packet and story-architecture gate.

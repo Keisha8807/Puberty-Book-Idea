@@ -21,6 +21,14 @@
 
 _New turnaround, expression row, outfit palette, phone, jewelry, and bedroom callouts will be built from the approved hero._
 
+## Approved reference board
+
+**[approved-seraphina-model-board-v02.png](03-reference-sheets/approved-seraphina-model-board-v02.png)**
+
+<img src="03-reference-sheets/approved-seraphina-model-board-v02.png" alt="Approved Seraphina production model board" width="420">
+
+This clean board locks four views, six expressions, isolated props, and palette without callout arrows or captions.
+
 ## Superseded—do not use as current reference
 
 - [Previous Arena hero](99-superseded/hero-seraphina-arena-previous.png)

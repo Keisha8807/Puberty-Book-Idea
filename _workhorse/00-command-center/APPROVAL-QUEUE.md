@@ -14,6 +14,13 @@
 
 ## Approved this sprint
 
+### AQ-008 — Final six supporting-board cleanup
+
+- **Decision:** Marcus, Uncle Mo, Seraphina, Lily, Max, and Sophie clean boards approved
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Unlocks:** Full-cast reference-library milestone complete
+
 ### Episode 1 supporting clean-reference gate
 
 - **Decision:** Mema Hazel v02, Emma v02, Jada v03, and Brenda v04 approved

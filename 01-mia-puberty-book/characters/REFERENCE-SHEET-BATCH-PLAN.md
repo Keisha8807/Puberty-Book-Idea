@@ -127,4 +127,6 @@ Earlier annotated/captioned versions are superseded.
 - Max v02
 - Sophie v02
 
-No annotation text/arrows. Awaiting Keisha bulk approval.
+No annotation text/arrows.
+
+**Approved by Keisha:** Marcus v02, Uncle Mo v02, Seraphina v02, Lily v03, Max v02, Sophie v02. The full-cast reference library is complete.
