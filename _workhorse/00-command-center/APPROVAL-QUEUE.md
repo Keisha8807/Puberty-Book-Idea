@@ -4,18 +4,20 @@
 
 ## Waiting on Keisha
 
-### AQ-011 — Stage 2 Outline Feedback Packet
-
-- **Type:** Review protocol
-- **Risk:** Yellow
-- **Decision needed now:** Approve or revise the lean Season 1 Stage 2 reviewer packet before any distribution
-- **Draft:** `01-mia-puberty-book/planning/SEASON-1-STAGE-2-OUTLINE-FEEDBACK-PACKET.md`
-- **Includes:** Five independent reviewer lanes; fixed review targets; universal/role-specific questions; evidence and severity labels; response form; synthesis rules; exit criteria
-- **Safety:** Document approval does not authorize reviewer contact, sending, posting, child data collection, or a medical-review claim
-- **Blocked by:** Nothing; AQ-010 is approved
-- **Status:** Waiting
+*None — AQ-011 approved. Next approvals will be routed from synthesized Stage 2 findings.*
 
 ## Approved this sprint
+
+### AQ-011 — Stage 2 Outline Feedback Packet — APPROVED
+
+- **Decision:** Approve the Season 1 Stage 2 Outline Feedback Packet as reconciled against the restored standalone Outline Feedback System source
+- **Approved by:** Keisha
+- **Date:** August 19, 2026
+- **Decision Log:** DEC-2026-08-19-037
+- **Packet:** `01-mia-puberty-book/planning/SEASON-1-STAGE-2-OUTLINE-FEEDBACK-PACKET.md`
+- **Reconciliation:** Original four adult groups (caregiver, story people, health, educator/librarian) map to Groups 1/3/4/5; Group 2 (Black-girl reader and dignity lens) added intentionally as an improvement, not a gap; 5–8 reviewer ceiling restored (Section 5); Group 2 reverted to adults-only at Stage 2 per original rule — “Only ask children after you have a safer, more polished sample and with parent/caregiver permission. For now, get adult feedback on the outline.” Optional direct tween feedback deferred to a later polished-sample stage with explicit permission and trusted-adult facilitation
+- **Safety lock retained:** Document approval does not authorize reviewer contact, sending, posting, child data collection, or a medical-review claim. Separate human-controlled distribution required.
+- **Unlocks:** Active Canon v1.21; reviewer panel recruitment (5–8 lean panel) may now be planned; synthesis after independent reviews; Season 2 planning remains gated until Stage 2 findings are reviewed
 
 ### AQ-010 — Stage 2 feedback before Season 2
 

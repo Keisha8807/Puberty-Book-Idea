@@ -273,6 +273,19 @@
 
 ---
 
+## DEC-2026-08-19-037 — Approve Stage 2 Outline Feedback Packet (reconciled; adults-only at Stage 2)
+
+- **Decision:** Approve AQ-011. The `SEASON-1-STAGE-2-OUTLINE-FEEDBACK-PACKET.md` is approved as reconciled against the restored standalone **Outline Feedback System** source.
+- **Reason:** The packet is a strong protocol — evidence/severity labels, independent-review-before-synthesis, no-majority-rule weighting, explicit child-privacy safeguards — and required only two fast-follow corrections rather than a rework of lanes or questions. Reconciliation confirmed: (a) the original's four adult groups map cleanly to Groups 1/3/4/5, with Group 2 (Black-girl reader and dignity lens) added intentionally as an improvement; (b) the original's numeric guardrail (ask 5–8 at first, not 50) was restored as a Review-size ceiling in Section 5; (c) the child-inclusion policy was reverted to the original rule — adults-only at Stage 2, because an outline is planning language not story prose and therefore cannot yield useful child signal, and because concentrated topic-list exposure without narrative cushioning is precisely what the “safer, more polished sample” rule protects against. Facilitation/anonymization alone solves privacy, not developmental appropriateness. Tween input moves to the later polished-sample stage where it can test voice, pacing, and tone.
+- **Alternatives rejected:** Keeping optional direct tween feedback at Stage 2 (Option A) — rejected per Keisha's explicit choice to revert (Option B). Direct child reaction to outline architecture would be a reaction to the wrong artifact and would front-load exposure ahead of the original system's intent.
+- **Files affected:** `01-mia-puberty-book/planning/SEASON-1-STAGE-2-OUTLINE-FEEDBACK-PACKET.md` (Section 2 provenance note rewritten; Section 5 ceiling added; Section 5 Group 2 reverted to adults-only with deferred-child-input language and clarified child-safety rule)
+- **What this unlocks:** Active Canon v1.21; lean 5–8 reviewer recruitment may be planned (separate human-controlled distribution still required); synthesis under Section 10 rules; Season 2 Flow Grid remains gated until findings are reviewed
+- **Authority lock:** Document approval does not authorize reviewer contact, sending, posting, child data collection, or a medical-review claim. Health review at this stage is an early risk screen only; final sourcing and qualified human review remain required at manuscript stage.
+- **Approved by:** Keisha
+- **Status:** Locked
+
+---
+
 ## New decision template
 
 ```text

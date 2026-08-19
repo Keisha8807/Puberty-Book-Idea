@@ -67,7 +67,12 @@ Do not send archive prose, the 2024 Canva draft, raw paid-course materials, priv
 
 ### Process-provenance note
 
-A standalone source file for the broader “Outline Feedback System” was not present in this branch when this packet was assembled. This packet operationalizes the Stage 2 principles already stated in the approved Flow Grid, Workhorse safety rules, and Keisha's review direction. If the standalone system document is later restored, reconcile it through a Keisha gate rather than silently overwriting this packet.
+This packet is reconciled against the standalone **Outline Feedback System** source, which Keisha restored and provided during this review. The reconciliation produced two deliberate changes, recorded here rather than left as open questions:
+
+- **Reviewer lanes.** The original system named four adult groups — caregiver, story people, health, and educator/librarian. This packet maps those onto Groups 1, 3, 4, and 5, and **adds** Group 2, the “Black-girl reader and dignity lens,” which the original did not name separately. The addition is intentional, not a gap: it directs reviewer attention to the cultural specificity and child dignity this book's promise depends on, rather than only generic age-fit.
+- **Review-size ceiling.** The original system carried a numeric guardrail — ask 5–8 people at first, not 50. That ceiling is restored in Section 5 so that “one response per lane minimum” has a stated upper bound.
+
+Any other divergence from the original system is unintended and must be routed through a Keisha gate rather than silently overwritten.
 
 ---
 
@@ -156,11 +161,13 @@ Run reviews independently before reviewers see one another's comments. This redu
 
 ### Group 2 — Black-girl reader and dignity lens
 
-**Best fit:** A Black children's-literature reader advocate with strong tween knowledge. Optional direct tween feedback must be privately facilitated by a trusted adult and returned without names, contact information, health history, or identifying quotes.
+**Best fit:** A Black children's-literature reader advocate with strong tween knowledge (adult reviewer).
+
+**Stage rule — adults only at this stage:** No direct child feedback at Stage 2. Consistent with the original system — *“Only ask children after you have a safer, more polished sample and with parent/caregiver permission. For now, get adult feedback on the outline”* — tween input is deferred until a future stage where puberty content is fully wrapped in story, voice, and context rather than presented as isolated architecture bullets. When that later stage is authorized, it will require explicit parent/caregiver permission and private trusted-adult facilitation.
 
 **Focus:** age fit, Mia's agency and voice, cultural specificity, relatability, embarrassment load, Solani's privacy, Kayla/Sophie continuity, and whether any girl becomes a lesson prop.
 
-**Child-safety rule:** No open link, public profile, DM, child email collection, AI chat, or unmoderated submission may be used.
+**Child-safety rule (applies to any later child-inclusive stage):** No open link, public profile, DM, child email collection, AI chat, or unmoderated submission may be used. No names, contact information, health history, or identifying quotes may be retained.
 
 ### Group 3 — Children's story architecture
 
@@ -185,6 +192,10 @@ Run reviews independently before reviewers see one another's comments. This redu
 ### Minimum responsible panel
 
 Aim for one independent response from each group. One adult may cover two nonmedical lenses if their competence is clear. The health lane must not be replaced by AI or by an unqualified general reader.
+
+### Review-size ceiling
+
+Ask 5–8 people at first, not 50. The minimum is one independent response per group; the ceiling keeps the panel lean enough that every response can be read fully and weighed on evidence and competence rather than count. Do not recruit beyond 8 reviewers in this first pass without a separate Keisha decision.
 
 ---
 

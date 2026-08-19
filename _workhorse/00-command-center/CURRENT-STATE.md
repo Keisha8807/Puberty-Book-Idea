@@ -107,8 +107,8 @@ The Foundation's Active Canon controls workers until those detailed files receiv
 
 ## Current bottleneck
 
-The visual foundation and Season 1 Level 1 architecture are fully locked. The Stage 2 packet is drafted, but its reviewer lanes, questions, safety controls, and evidence protocol require Keisha's approval before any distribution.
+The visual foundation, Season 1 Level 1 architecture, and Stage 2 Outline Feedback Packet are fully locked (AQ-011 approved, DEC-2026-08-19-037, Active Canon v1.21). Next bottleneck is executing the lean Stage 2 review itself: recruit 5–8 independent reviewers across five lanes, collect evidence-labeled findings, and synthesize without groupthink or majority-rule weighting.
 
 ## Current single next action
 
-Decide **AQ-011 only**: approve or revise `SEASON-1-STAGE-2-OUTLINE-FEEDBACK-PACKET.md`. Approval of the document does not authorize sending it or contacting reviewers.
+Plan the lean 5–8 reviewer panel per the approved packet (AQ-011) — select one independent adult per lane, preserve independent-review-before-synthesis order, and do not distribute until Keisha separately authorizes the reviewer roster and sending. Approval of the document alone does not authorize contact, sending, posting, child data collection, or a medical-review claim.
