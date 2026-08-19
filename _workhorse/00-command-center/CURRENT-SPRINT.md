@@ -1,10 +1,10 @@
 # CURRENT SPRINT — SUNRAY-SPRINT-001
 
-> **Start:** August 18, 2026 · **Lane:** Foundation + Visual Lock · **WIP limit:** one major creative item
+> **Start:** August 18, 2026 · **Lane:** Foundation closeout + Season 1 Stage 2 · **WIP limit:** one major creative item
 
 ## Sprint objective
 
-Establish the Workhorse source-of-truth layer, then return to the approved visual-production sequence without starting manuscript automation or unrelated franchise development.
+Complete the source-of-truth and visual foundations, lock Season 1 Level 1 architecture, and prepare one controlled Stage 2 feedback pass before Season 2 planning.
 
 ## Definition of done
 
@@ -34,10 +34,15 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - [x] Mia turnaround/palette passes no-gap QA
 - [x] Solani braces-aware board is generated and approved
 - [x] Mia's full reference-sheet work packet is complete and approved
+- [x] Season 1 Level 1 Flow Grid is internally audited and approved
+- [x] AQ-009A–E architecture gates are locked
+- [x] Feedback-first post-approval sequence is approved
+- [x] Season 1 Stage 2 Outline Feedback Packet is drafted
+- [ ] Keisha approves or revises the Stage 2 packet (AQ-011)
 
 ## Current single next action
 
-**Decide AQ-010 only:** approve or revise building the lean Season 1 Outline Feedback System packet before the Season 2 Flow Grid. Season 1 Level 1 architecture and AQ-009A–E are fully locked.
+**Decide AQ-011 only:** approve or revise the drafted Season 1 Stage 2 Outline Feedback Packet. No distribution or reviewer contact is authorized by document approval.
 
 ## Sprint completion
 
@@ -47,6 +52,8 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 - Solani braces-aware reference approved
 - All supporting cast reference boards approved
 - Visual library organized with source and superseded history
+- Season 1 Level 1 Flow Grid fully approved
+- Stage 2 feedback-first sequence locked; packet drafted for AQ-011
 
 ## Story-planning unlock
 

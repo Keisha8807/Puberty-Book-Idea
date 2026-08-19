@@ -215,7 +215,7 @@
 - **Effect:** Active Canon advances to v1.14. Episode 17 becomes a Flow Grid rebuild slot with no bodega or BUFU. Historical files are archive-only. Planning order becomes Season 1 cards/grid → Season 2 cards/grid → cross-season audit → Minimum Viable World Bible → detailed Episode 1 packet.
 - **Status:** Locked
 
-## DEC-2026-08-18-031 — Approve Season 1 governing spine and Episode 11 payoff
+## DEC-2026-08-19-031 — Approve Season 1 governing spine and Episode 11 payoff
 
 - **Decision:** Approve AQ-009A as written. Mia begins Season 1 by investigating Solani across the proposed 11-episode progression, then experiences her own first period in Episode 11 and discovers that the milestone did not erase who she is.
 - **Reason:** The finale is structurally load-bearing: Episode 2's individual-timing lesson, Episode 3's emotional groundwork, Episodes 5/8's privacy lesson, and Episode 9's backpack kit all pay off through Mia's own experience. Changing the ending would orphan those setups. The outline already states that Mia's timing is character-specific, not a universal reader timeline.
@@ -223,7 +223,7 @@
 - **Approved by:** Keisha
 - **Status:** Locked
 
-## DEC-2026-08-18-032 — Approve Episode 8 accidental privacy setup with dignity locks
+## DEC-2026-08-19-032 — Approve Episode 8 accidental privacy setup with dignity locks
 
 - **Decision:** Approve AQ-009B. Lily innocently brings Solani's red-stained pajama shorts among her “borrowed” items, and Mia applies her Episode 5 boundary lesson before the clue becomes public.
 - **Reason:** The accidental discovery preserves Mia's growth instead of making her snoop again, pays off Episode 7's stinger, and turns Mia's “red means injury” myth into a concrete story clue. Replacing or re-routing the discovery would weaken those linked setups without solving a proven problem.
@@ -232,7 +232,7 @@
 - **Approved by:** Keisha
 - **Status:** Locked
 
-## DEC-2026-08-18-033 — Approve Season 1 support web
+## DEC-2026-08-19-033 — Approve Season 1 support web
 
 - **Decision:** Approve AQ-009C. Brenda, Nurse Nightingale, and Solani recur as relational anchors; Ms. Harmony recurs in Episodes 3 and 5 as school social-emotional support; Mema opens the truth-telling pattern and callbacks; Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles each appear once where their relationship or expertise naturally fits.
 - **Reason:** The specialists carry story-world, representation, and trusted-pathway value that consolidation would erase. Increasing Brenda's or Solani's episode load would intensify already-identified information-dispenser/privacy risks. A community of support better earns the culturally affirming caregiver promise than one all-purpose mentor.
@@ -242,7 +242,7 @@
 - **Approved by:** Keisha
 - **Status:** Locked
 
-## DEC-2026-08-18-034 — Approve three restrained Season 1 music clues
+## DEC-2026-08-19-034 — Approve three restrained Season 1 music clues
 
 - **Decision:** Approve AQ-009D. Keep exactly three music clues: Episode 1's muffled song fragment, Episode 3's lyric-notebook glimpse without reading, and Episode 11's private note signed with a lyric fragment.
 - **Reason:** Music is an atmospheric window onto Solani's protected inner life, not a plot-active thread that needs frequent reminders. Moving the Episode 3 clue would detach it from the feelings theme or overload a later episode; reducing to two clues would make the finale payoff feel insufficiently tracked.
@@ -252,12 +252,22 @@
 - **Approved by:** Keisha
 - **Status:** Locked
 
-## DEC-2026-08-18-035 — Approve Episode 17 rebuild placeholder
+## DEC-2026-08-19-035 — Approve Episode 17 rebuild placeholder
 
 - **Decision:** Approve AQ-009E. Episode 17 remains **[FLOW GRID REBUILD — CROWN CLUE]** until the Season 2 Flow Grid establishes a replacement mechanism and location.
 - **Reason:** Designing the replacement before the Season 2 frame exists would repeat the out-of-sequence planning problem the Flow Grid process prevents. CROWN remains valid; only its retired bodega/BUFU/Uncle Mo business-access instantiation is prohibited.
 - **Constraint locked:** No La Bodega de Luz, bodega back room, BUFU, or Uncle Mo business-access mechanism may return. Placeholder approval does not approve any replacement clue, conflict, or meeting place.
 - **Effect:** Active Canon advances to v1.19. All five Season 1 pre-feedback gates are complete, and the Season 1 Level 1 Flow Grid is fully approved.
+- **Approved by:** Keisha
+- **Status:** Locked
+
+## DEC-2026-08-19-036 — Run Stage 2 outline feedback before Season 2 planning
+
+- **Decision:** Approve AQ-010. Build and review the lean Season 1 Outline Feedback System packet before creating the Season 2 Flow Grid.
+- **Reason:** Season 2 inherits Season 1's health framing, support roster, case rhythm, continuity threads, and handoff. Testing the fixed Season 1 architecture first creates a bounded schedule pause and avoids the larger rework cost of propagating a later finding across two seasons.
+- **Sequence correction:** Feedback-first already matches Section 6's displayed unlock order. The AQ-010 alternative was inaccurately described as preserving an earlier Season 2-first order; that label is corrected and rejected.
+- **Authority lock:** Reviewer findings are evidence and recommendations. They do not alter approved canon without a later Keisha decision.
+- **Effect:** Active Canon advances to v1.20. Post-Season-1 work begins with the Stage 2 feedback packet; Season 2 planning waits for Keisha's review of the compiled findings.
 - **Approved by:** Keisha
 - **Status:** Locked
 

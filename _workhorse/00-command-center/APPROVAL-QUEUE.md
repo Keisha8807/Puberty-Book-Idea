@@ -4,24 +4,35 @@
 
 ## Waiting on Keisha
 
-### AQ-010 — Post-approval work order
+### AQ-011 — Stage 2 Outline Feedback Packet
 
-- **Type:** Workflow sequence
+- **Type:** Review protocol
 - **Risk:** Yellow
-- **Decision needed now:** Approve or revise the recommendation to build the lean Season 1 Outline Feedback System packet **before** the Season 2 Flow Grid
-- **Reason for recommendation:** Test the now-fixed Season 1 target before possible findings are propagated into Season 2; treat feedback as evidence routed through a future Keisha gate, not automatic canon changes
-- **Alternative:** Preserve the prior Season 2-first planning order, then run feedback after the cross-season architecture exists
-- **Blocked by:** Nothing; AQ-009A–E are complete
+- **Decision needed now:** Approve or revise the lean Season 1 Stage 2 reviewer packet before any distribution
+- **Draft:** `01-mia-puberty-book/planning/SEASON-1-STAGE-2-OUTLINE-FEEDBACK-PACKET.md`
+- **Includes:** Five independent reviewer lanes; fixed review targets; universal/role-specific questions; evidence and severity labels; response form; synthesis rules; exit criteria
+- **Safety:** Document approval does not authorize reviewer contact, sending, posting, child data collection, or a medical-review claim
+- **Blocked by:** Nothing; AQ-010 is approved
 - **Status:** Waiting
 
 ## Approved this sprint
+
+### AQ-010 — Stage 2 feedback before Season 2
+
+- **Decision:** Build and review the Season 1 Outline Feedback System packet before creating the Season 2 Flow Grid
+- **Approved by:** Keisha
+- **Date:** August 19, 2026
+- **Decision Log:** DEC-2026-08-19-036
+- **Sequence correction:** Feedback-first already matches Section 6's unlock order; the prior option inaccurately labeled Season 2-first as preserving that order
+- **Authority condition:** Feedback is evidence, not an automatic canon change
+- **Unlocks:** Active Canon v1.20; Stage 2 packet build; AQ-011
 
 ### AQ-009E — Episode 17 rebuild placeholder
 
 - **Decision:** Keep Episode 17 as **[FLOW GRID REBUILD — CROWN CLUE]** until the Season 2 Flow Grid proves its mechanism and location
 - **Approved by:** Keisha
-- **Date:** August 18, 2026
-- **Decision Log:** DEC-2026-08-18-035
+- **Date:** August 19, 2026
+- **Decision Log:** DEC-2026-08-19-035
 - **Constraints:** No bodega, BUFU, or Uncle Mo business-access mechanism; no replacement pre-approved
 - **Unlocks:** Full Season 1 Level 1 approval; Active Canon v1.19; AQ-010
 
@@ -29,8 +40,8 @@
 
 - **Decision:** Approve exactly three restrained clues in Episodes 1, 3, and 11
 - **Approved by:** Keisha
-- **Date:** August 18, 2026
-- **Decision Log:** DEC-2026-08-18-034
+- **Date:** August 19, 2026
+- **Decision Log:** DEC-2026-08-19-034
 - **Terminology correction:** Pattern is **introduce → deepen → payoff**, not “introduce → remind → payoff”
 - **Unlocks:** AQ-009E; Active Canon v1.18
 
@@ -38,8 +49,8 @@
 
 - **Decision:** Approve the intentional support web with primary recurring anchors, a recurring school social-emotional support, an opening/callback Mema role, and naturally placed one-episode adults
 - **Approved by:** Keisha
-- **Date:** August 18, 2026
-- **Decision Log:** DEC-2026-08-18-033
+- **Date:** August 19, 2026
+- **Decision Log:** DEC-2026-08-19-033
 - **Accuracy correction:** Ms. Harmony recurs in Episodes 3 and 5; she is not a one-off specialist
 - **Unlocks:** AQ-009D; Active Canon v1.17
 
@@ -47,8 +58,8 @@
 
 - **Decision:** Approve the accidental period-stain clue with no-blame, no-gross-out, private-disclosure, and child-dignity locks
 - **Approved by:** Keisha
-- **Date:** August 18, 2026
-- **Decision Log:** DEC-2026-08-18-032
+- **Date:** August 19, 2026
+- **Decision Log:** DEC-2026-08-19-032
 - **Special condition:** An innocent household mix-up—not Solani's carelessness—puts the item in an oblivious Lily's pile; exact mechanics wait for the Episode 8 packet
 - **Unlocks:** AQ-009C; Active Canon v1.16
 
@@ -56,8 +67,8 @@
 
 - **Decision:** Approve the proposed 11-episode progression and Mia's own first period as the Episode 11 identity-fear payoff
 - **Approved by:** Keisha
-- **Date:** August 18, 2026
-- **Decision Log:** DEC-2026-08-18-031
+- **Date:** August 19, 2026
+- **Decision Log:** DEC-2026-08-19-031
 - **Unlocks:** AQ-009B; Active Canon v1.15
 
 ### AQ-008 — Final six supporting-board cleanup

@@ -6,7 +6,7 @@
 >
 > **Planning level:** Approved compact architecture. These cards establish flow before detailed Book Factory work packets or prose.
 >
-> **Active Canon:** v1.19 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
+> **Active Canon:** v1.20 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
 
 ---
 
