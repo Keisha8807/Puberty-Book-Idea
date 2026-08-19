@@ -30,7 +30,9 @@ The 2024 Canva draft and old chapters are **archive/reference only**. The new bo
 
 ### Writing
 
-- Two-season premise and episode map: drafted
+- Two-season premise and legacy episode map: drafted
+- Season 1 Level 1 Flow Grid: fully approved (AQ-009A–E)
+- Season 2 Level 1 Flow Grid: not yet built
 - Episode 1 cold open: drafted
 - Episode 1 full script: not yet drafted
 - Episodes 2–18 full scripts: not started
@@ -104,8 +106,8 @@ The Foundation's Active Canon controls workers until those detailed files receiv
 
 ## Current bottleneck
 
-The complete visual reference foundation is locked. The active bottleneck is Season 1 story architecture: the major choices must be approved before structured outside feedback, Season 2 planning, or detailed episode work.
+The visual foundation and Season 1 Level 1 architecture are fully locked. The active bottleneck is selecting the first post-approval work product without opening multiple lanes at once.
 
 ## Current single next action
 
-AQ-009A/B/C/D are approved: the Season 1 spine/endpoint, Episode 8 privacy setup, support web, and three-clue music pattern are locked. Decide **AQ-009E only**: approve or revise Episode 17 remaining a no-bodega/no-BUFU rebuild placeholder until its new Season 2 mechanism and location are designed.
+Decide **AQ-010 only**: approve or revise the recommendation to build the lean Season 1 Outline Feedback System packet before the Season 2 Flow Grid. The recommendation avoids propagating untested Season 1 assumptions; feedback would remain evidence, not an automatic canon change.

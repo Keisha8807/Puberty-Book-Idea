@@ -4,19 +4,26 @@
 
 ## Waiting on Keisha
 
-### AQ-009E — Episode 17 rebuild placeholder
+### AQ-010 — Post-approval work order
 
-- **Type:** Cross-season architecture · pre-feedback gate 5
+- **Type:** Workflow sequence
 - **Risk:** Yellow
-- **Decision needed now:** Approve or revise Episode 17 remaining **[FLOW GRID REBUILD — CROWN CLUE]** until a new Season 2 mechanism and location are designed
-- **Required constraints if approved:** No La Bodega de Luz; no bodega back room; no BUFU; no Uncle Mo business-access mechanism; placeholder approval does not approve a replacement
-- **Held for later design:** Exact CROWN clue, future conflict mechanism, and meeting location
-- **Draft:** `01-mia-puberty-book/planning/DRAFT-SEASON-1-LEVEL-1-FLOW-GRID.md`
-- **Blocked by:** Nothing
+- **Decision needed now:** Approve or revise the recommendation to build the lean Season 1 Outline Feedback System packet **before** the Season 2 Flow Grid
+- **Reason for recommendation:** Test the now-fixed Season 1 target before possible findings are propagated into Season 2; treat feedback as evidence routed through a future Keisha gate, not automatic canon changes
+- **Alternative:** Preserve the prior Season 2-first planning order, then run feedback after the cross-season architecture exists
+- **Blocked by:** Nothing; AQ-009A–E are complete
 - **Status:** Waiting
-- **Feedback rule:** This is the final pre-feedback architecture gate
 
 ## Approved this sprint
+
+### AQ-009E — Episode 17 rebuild placeholder
+
+- **Decision:** Keep Episode 17 as **[FLOW GRID REBUILD — CROWN CLUE]** until the Season 2 Flow Grid proves its mechanism and location
+- **Approved by:** Keisha
+- **Date:** August 18, 2026
+- **Decision Log:** DEC-2026-08-18-035
+- **Constraints:** No bodega, BUFU, or Uncle Mo business-access mechanism; no replacement pre-approved
+- **Unlocks:** Full Season 1 Level 1 approval; Active Canon v1.19; AQ-010
 
 ### AQ-009D — Three Season 1 music clues
 

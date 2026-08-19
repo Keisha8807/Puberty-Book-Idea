@@ -1,6 +1,6 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.18 · **Approved:** August 18, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.19 · **Approved:** August 18, 2026
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -76,6 +76,8 @@ Retired family names/details that must not return: Mia Luz, Solani Maris, Maritz
 - Adults provide trustworthy context and care but do not solve Mia's central emotional problem; Brenda and Solani remain characters, one-episode adults must not feel like rotating guest lecturers, and any added Mema presence waits for the Ask Mema format gate
 - Season 1 uses exactly three restrained music clues: Episode 1 introduces a muffled private-song fragment, Episode 3 deepens the thread through a lyric-notebook glimpse Mia does not read, and Episode 11 pays it off through Solani's private note signed with a lyric fragment
 - The music pattern is **introduce → deepen → payoff**, not a plot-active breadcrumb trail; no full song, CROWN explanation, privacy violation, or early `Headlines` release is allowed
+- Episode 17 remains **[FLOW GRID REBUILD — CROWN CLUE]** until the Season 2 Flow Grid proves a replacement mechanism and location
+- Episode 17 cannot reuse La Bodega de Luz, a bodega back room, BUFU, or Uncle Mo as a business-access mechanism; this negative constraint does not pre-approve any replacement
 - Mia talks directly to the reader; the reader is her case partner
 - Mia uses lists, case files, text threads, invented words, dramatic logic, and stingers
 - Mia is confidently wrong; the educational correction delivers the punchline

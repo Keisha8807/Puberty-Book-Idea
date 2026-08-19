@@ -1,12 +1,12 @@
 # MIA'S PUBERTY PRIMER — SEASON 1 LEVEL 1 FLOW GRID
 
-> **Status:** PARTIALLY APPROVED · **AQ-009A/B/C/D locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
+> **Status:** APPROVED · **AQ-009A–E locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
 >
-> **Feedback readiness:** Internal outline audit incorporated. Do not send to the Outline Feedback System until Keisha locks the pre-feedback decisions in Section 6.
+> **Feedback readiness:** READY. Internal outline audit incorporated; all pre-feedback decisions in Section 6 are locked.
 >
-> **Planning level:** Compact architecture only. These cards establish flow before detailed Book Factory work packets or prose.
+> **Planning level:** Approved compact architecture. These cards establish flow before detailed Book Factory work packets or prose.
 >
-> **Active Canon:** v1.18 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
+> **Active Canon:** v1.19 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
 
 ---
 
@@ -888,30 +888,19 @@ These locations—not unused franchise geography—should form the Season 1 port
 
 ---
 
-# 6. PRE-FEEDBACK APPROVAL GATE
+# 6. PRE-FEEDBACK APPROVAL — COMPLETE
 
-## Sequencing rule
+All major architecture choices were locked sequentially so reviewers can now test age fit, cultural specificity, story energy, emotional safety, educational clarity, and buyer trust against a fixed target instead of deciding canon.
 
-Do **not** send this outline to the Outline Feedback System with major canon choices still open. Keisha locks these decisions first, one at a time. Reviewers can then test age fit, cultural specificity, story energy, emotional safety, educational clarity, and buyer trust against a fixed target instead of answering the project's unresolved architecture questions.
-
-## Locked — AQ-009A/B/C/D
+## Locked — AQ-009A–E
 
 - **AQ-009A:** Keisha approved the governing Season 1 spine, 11-episode progression, and Episode 11 first-period payoff as written.
 - **AQ-009B:** Keisha approved the Episode 8 accidental privacy setup with dignity locks. A blameless household mix-up places the item in Lily's pile; Lily is oblivious, Solani is not careless or blamed, and exact mechanics belong in the Episode 8 Book Factory packet.
 - **AQ-009C:** Keisha approved the support-web distribution. Brenda, Nurse Nightingale, and Solani are the primary recurring relational anchors; Ms. Harmony recurs as school social-emotional support; Mema opens/callbacks; Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles each appear once where naturally suited.
 - **AQ-009D:** Keisha approved exactly three restrained music clues using the **introduce → deepen → payoff** pattern in Episodes 1, 3, and 11.
+- **AQ-009E:** Keisha approved Episode 17 remaining **[FLOW GRID REBUILD — CROWN CLUE]** until Season 2 proves a new mechanism and location. No bodega, BUFU, or Uncle Mo business-access mechanism may return; no replacement was pre-approved.
 
-## Current single decision — AQ-009E
-
-**Approve or revise the Episode 17 rebuild placeholder:**
-
-> **[FLOW GRID REBUILD — CROWN CLUE]**
-
-This gate approves only the constraint: Episode 17 cannot reuse La Bodega de Luz, a bodega back room, BUFU, or Uncle Mo as a business-access mechanism. The future CROWN clue and its meeting location remain intentionally undecided until the Season 2 Flow Grid is built. Approving the placeholder does **not** approve a replacement mechanism.
-
-This is the only decision being requested now.
-
-## What full Season 1 approval unlocks
+## Full Season 1 approval unlocks
 
 - Outline Feedback System packet
 - Season 2 Level 1 Flow Cards/Grid
@@ -919,4 +908,4 @@ This is the only decision being requested now.
 - Minimum Viable World Bible
 - Detailed Episode 1 Book Factory packet
 
-No episode prose should be drafted from this document until the relevant architecture is approved.
+This approval closes Season 1 Level 1 only; it does not authorize episode prose. Episode 1 still waits for the approved post-feedback/Season 2 sequence, cross-season audit, Minimum Viable World Bible, and detailed Book Factory packet.

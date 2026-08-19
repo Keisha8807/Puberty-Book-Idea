@@ -252,6 +252,15 @@
 - **Approved by:** Keisha
 - **Status:** Locked
 
+## DEC-2026-08-18-035 — Approve Episode 17 rebuild placeholder
+
+- **Decision:** Approve AQ-009E. Episode 17 remains **[FLOW GRID REBUILD — CROWN CLUE]** until the Season 2 Flow Grid establishes a replacement mechanism and location.
+- **Reason:** Designing the replacement before the Season 2 frame exists would repeat the out-of-sequence planning problem the Flow Grid process prevents. CROWN remains valid; only its retired bodega/BUFU/Uncle Mo business-access instantiation is prohibited.
+- **Constraint locked:** No La Bodega de Luz, bodega back room, BUFU, or Uncle Mo business-access mechanism may return. Placeholder approval does not approve any replacement clue, conflict, or meeting place.
+- **Effect:** Active Canon advances to v1.19. All five Season 1 pre-feedback gates are complete, and the Season 1 Level 1 Flow Grid is fully approved.
+- **Approved by:** Keisha
+- **Status:** Locked
+
 ---
 
 ## New decision template

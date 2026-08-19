@@ -37,7 +37,7 @@ Establish the Workhorse source-of-truth layer, then return to the approved visua
 
 ## Current single next action
 
-**Decide AQ-009E only:** approve or revise Episode 17 remaining a no-bodega/no-BUFU **[FLOW GRID REBUILD — CROWN CLUE]** placeholder. AQ-009A/B/C/D's Season 1 architecture decisions are locked.
+**Decide AQ-010 only:** approve or revise building the lean Season 1 Outline Feedback System packet before the Season 2 Flow Grid. Season 1 Level 1 architecture and AQ-009A–E are fully locked.
 
 ## Sprint completion
 
