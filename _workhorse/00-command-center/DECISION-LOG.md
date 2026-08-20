@@ -299,6 +299,17 @@
 
 ---
 
+## DEC-2026-08-20-039 — Lock: Mia does not experience first period on-page in either season
+
+- **Decision:** Clarify and lock per Keisha's explicit direction: Mia does not get her period on-page in Season 1 **or** Season 2. The question is not left open indefinitely. Book Factory drafting for both seasons must proceed without assuming an on-page first-period scene for Mia, and without holding open placeholder flexibility for one.
+- **Reason:** Keeps Episode 1 prose, kit payoff, and Season 2 Butterfly Files architecture writing against a stable ending; avoids reintroducing timeline pressure or indefinite optionality after the rebuilt Acceptance-of-Uncertainty payoff (DEC-038). Kit remains readiness symbol; Solani's period storyline remains private/dignified/centered on Solani's choices only.
+- **Amends:** DEC-2026-08-20-038 as to "to be decided separately" and Active Canon v1.22 → v1.23
+- **Files affected:** `_workhorse/01-rules/ACTIVE-CANON.md` (v1.23), `01-mia-puberty-book/planning/DRAFT-SEASON-1-LEVEL-1-FLOW-GRID.md` (header, Section 2 lock language), synthesis and current-state wording
+- **Approved by:** Keisha
+- **Status:** Locked
+
+---
+
 ## New decision template
 
 ```text

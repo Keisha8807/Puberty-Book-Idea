@@ -1,6 +1,6 @@
 # MIA'S PUBERTY PRIMER — SEASON 1 LEVEL 1 FLOW GRID
 
-> **Status:** APPROVED · **AQ-009A–E locked as amended by DEC-2026-08-20-038 (E11 rebuilt — Mia remains 10, no on-page first period in S1)** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
+> **Status:** APPROVED · **AQ-009A–E locked as amended by DEC-2026-08-20-038/039 (E11 rebuilt — Mia remains 10, no on-page first period in S1 or S2)** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
 >
 > **Feedback readiness:** READY. Internal outline audit incorporated; all pre-feedback decisions in Section 6 are locked as amended.
 >
@@ -54,7 +54,7 @@ Mia's preparation is tested when she must accept uncertainty. She closes or rede
 
 ### Approved finale lock — AQ-009A ( superseded in part by authorial decision 2026-08-20, DEC-2026-08-20-038 )
 
-Season 1 spine and 11-episode order remain approved: **Mia begins by investigating Solani and progresses through the 11 cards shown here.** The element of **Mia getting her own first period in Episode 11 is removed by binding authorial decision.** Mia remains ten throughout Season 1; whether she ever begins her period on-page will be decided separately and is not automatically moved to Season 2. Period kit remains as symbol of practical readiness; use in Season 1 not required to complete the arc.
+Season 1 spine and 11-episode order remain approved: **Mia begins by investigating Solani and progresses through the 11 cards shown here.** The element of **Mia getting her own first period in Episode 11 is removed by binding authorial decision (DEC-2026-08-20-038).** Per DEC-2026-08-20-039, Mia also does not experience her first period on-page in Season 2. Period kit remains as symbol of practical readiness; use in S1/S2 not required to complete the arc.
 
 The revised payoff chain is **Boundaries → Understanding → Preparation → Acceptance of Uncertainty** (E5 → E8 → E9 → E11). Payoff is not "kit gets used" but Mia moving from needing to control puberty through investigation to feeling prepared without demanding certainty. This does not create an orphaned setup.
 

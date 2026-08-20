@@ -1,8 +1,8 @@
 # CURRENT STATE
 
-> **As of:** August 20, 2026 · **Owner:** Keisha · **Active lane:** Mia's Puberty Primer · **Canon:** v1.22 (DEC-2026-08-20-038)
+> **As of:** August 20, 2026 · **Owner:** Keisha · **Active lane:** Mia's Puberty Primer · **Canon:** v1.23 (DEC-2026-08-20-039)
 
-> **Status update per binding authorial decisions 2026-08-20:** Season 1 is approved for continued drafting and internal architecture development with Mia's first-period event removed. Revised ending centers preparedness, strengthened trust, and acceptance that every girl's timeline is her own. Human-reader, educator, cultural-dignity, and clinical validation remain pending. Season 2 Level 1 may be developed as provisional working draft only — not validated/locked/advanced from Stage 2 gate until genuine responses received.
+> **Status update per binding authorial decisions 2026-08-20:** Mia remains 10 and does not experience her first period on-page in either season. Both seasons center preparedness, strengthened trust, and acceptance that every girl's timeline is her own. Season 1 is approved for continued drafting with E11 rebuilt (Acceptance of Uncertainty). Season 2 may be drafted as provisional working draft only — not validated/locked/advanced from Stage 2 gate until genuine human responses received. Human-reader, educator, cultural-dignity, and clinical validation remain pending.
 
 ## North Star
 
@@ -33,7 +33,7 @@ The 2024 Canva draft and old chapters are **archive/reference only**. The new bo
 ### Writing
 
 - Two-season premise and legacy episode map: drafted
-- Season 1 Level 1 Flow Grid: approved at Level 1 (AQ-009A–E as amended by DEC-2026-08-20-038) — Mia remains 10, no on-page first period in S1; E11 rebuilt around Acceptance of Uncertainty; payoff chain now Boundaries→Understanding→Preparation→Acceptance of Uncertainty
+- Season 1 Level 1 Flow Grid: approved at Level 1 (AQ-009A–E as amended by DEC-2026-08-20-038/039) — Mia remains 10, no on-page first period in S1 or S2; E11 rebuilt around Acceptance of Uncertainty; payoff chain now Boundaries→Understanding→Preparation→Acceptance of Uncertainty; no on-page period flexibility to hold open in Book Factory
 - Season 1 Stage 2 Outline Feedback Packet: approved (AQ-011, DEC-2026-08-19-037) — evidence record corrected 2026-08-20: simulated diagnostic only, zero human-weight; Named Review Collection excluded; human validation remains open
 - Season 2 Level 1 Flow Grid: provisional working draft may be developed; not validated/locked/advanced from Stage 2 gate until genuine human responses received
 - Episode 1 cold open: drafted

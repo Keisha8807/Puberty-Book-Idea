@@ -37,14 +37,14 @@ This synthesis does not establish consensus, validate medical information, predi
 
 ## Revised Season 1 Payoff Chain (authorial, binding)
 
-**Replaces:** `5 → 8 → 9 → 11` first-period payoff (retired per binding decision 2026-08-20)
+**Replaces:** `5 → 8 → 9 → 11` first-period payoff (retired per binding decisions 2026-08-20)
 
-**New chain:** **Boundaries → Understanding → Preparation → Acceptance of Uncertainty**
+**New chain (locked through S2):** **Boundaries → Understanding → Preparation → Acceptance of Uncertainty**
 
 - **Episode 5 — Boundaries:** Mia learns caring about Solani does not entitle her to Solani's private information.
 - **Episode 8 — Understanding:** Mia protects Solani's dignity rather than treating stained clothing as evidence.
 - **Episode 9 — Preparation:** Mia prepares a small period kit and learns which trusted adults she can approach if she ever needs help.
-- **Episode 11 — Acceptance of Uncertainty:** Mia accepts she cannot investigate, predict, or control exactly when puberty will happen. She knows she is prepared, supported, and still herself.
+- **Episode 11 — Acceptance of Uncertainty:** Mia accepts she cannot investigate, predict, or control exactly when puberty will happen. She knows she is prepared, supported, and still herself. Per DEC-2026-08-20-039, this does not lead to an on-page first period in either season.
 
 **Payoff redefined:** Not "the kit gets used." The payoff is Mia moves from trying to control puberty through investigation to feeling prepared without demanding certainty. This does not create an orphaned payoff. Kit remains in backpack as symbol of practical readiness; use in Season 1 not required.
 
