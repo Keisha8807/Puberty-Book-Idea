@@ -1,0 +1,161 @@
+# 🤝 CREATOR & ORGANIC PLAYBOOK
+> **Owner:** Keisha · **Written:** August 20, 2026 · **Status:** PROPOSED — draft only, no outreach until AQ-BF-07 clears
+> **Companion to:** `ROADMAP-TO-BLACK-FRIDAY-2026.md` §10
+> **Gate:** 🟡 YELLOW to research and draft · 🔴 RED to contact anyone — **every message is sent by Keisha, never by an agent**
+---
+## 0. Why this beats the ad budget
+You have $280 for ads. One good micro-creator share can outperform all of it.
+| | Paid ads at your budget | One right micro-creator |
+|---|---|---|
+| Reach | ~10–20k impressions total | 8–40k, already gathered |
+| Trust | Zero — you're a stranger interrupting | Borrowed — she vouched for you |
+| Cost | $1–3 per email | $0 (gifted) or 40% of a sale that wouldn't exist |
+| Half-life | Dies when spend stops | Post stays up; her comments keep working |
+| Bonus | — | Content you can repost, a testimonial, sometimes a friend-of-a-friend chain |
+**The catch:** it's slow, it's rejection-heavy, and *you* have to send the messages. Budget 30 minutes a week and expect most people to ignore you. The ones who don't are worth it.
+---
+## 1. Micro, not macro — and why
+| Tier | Followers | Typical engagement | Reality for you |
+|---|---|---|---|
+| **Nano** | 1k–10k | 4–8% | ⭐ **Best fit.** Answers her own DMs. Will genuinely read your kit. Often a mom exactly like your buyer. |
+| **Micro** | 10k–50k | 2–5% | ⭐ **Target zone.** Big enough to move 20–60 emails, small enough to reply to you. |
+| **Mid** | 50k–250k | 1–3% | Occasionally reachable. Usually wants payment. Try 3–5, don't count on them. |
+| **Macro** | 250k+ | <1% | Ignore. Has a manager, a rate card, and no reason to care yet. |
+Engagement *inverts* with size. A 6k-follower mom whose comments are full of other moms of 10-year-olds is worth more to you than a 200k lifestyle account.
+---
+## 2. The eight archetypes to target
+Don't just chase "mom influencers." These eight all have a reason to care about a puberty book for Black girls:
+| # | Archetype | Where to find them | Why they say yes |
+|---|---|---|---|
+| 1 | **Black mom creators, daughters 8–13** | IG/TikTok: #girlmom #blackgirlmom #raisingdaughters #tweenmom | She is literally dreading this conversation right now |
+| 2 | **Puberty / period educators & nurses** | IG, YouTube, school-nurse hashtags | It's their subject. ⭐ **Double win — one of these could also be your paid health reviewer (§3 of the roadmap).** |
+| 3 | **5th-grade & upper-elementary teachers** | TPT seller profiles, #teachersofinstagram, #5thgradeteacher | Crossover to your TPT listing; they buy caregiver resources |
+| 4 | **School counselors / SEL educators** | #schoolcounselor #SELcurriculum | CROWN values map directly onto SEL language |
+| 5 | **Black kidlit reviewers / bookstagram** | #blackchildrensbooks #diversekidlit #bookstagram | Reviewing is the whole point of their account |
+| 6 | **Librarians (public + school)** | #librariansofinstagram, BookTok librarians | Recommendation engines; also future bulk buyers in 2027 |
+| 7 | **Girls' ministry / church youth leaders** | Local + national, Facebook groups | Ties to the *Crowned & Confident* faith-adjacent lane |
+| 8 | **Black homeschool moms** | #blackhomeschool #homeschoolmom | Heaviest buyers of printables and journals of anyone on this list |
+**Split your 60:** 20 from #1, 8 from #2, 10 from #3+#4, 10 from #5+#6, 6 from #7, 6 from #8.
+---
+## 3. Building the list of 60
+**Tool routing:** Claude in Chrome researches (read-only, logged in) → Cowork writes each profile into the tracker → **you** decide who to contact.
+Search patterns that work:
+- Hashtag → sort by recent, not top (top is macro)
+- **The comment-section trick:** open a post from a creator you like, read *her commenters* — many are nano-creators in the same niche and far more reachable
+- Pinterest: search "puberty talk daughter," "period kit for tween" → click through to profiles
+- TPT: search "puberty," "growing up," "girls SEL" → look at seller storefronts → most link an Instagram
+- YouTube: "talking to my daughter about puberty" → check channel sizes under 50k
+**Disqualify immediately:** anyone posting their child's body, anyone giving medical advice without credentials, anyone whose comments are hostile, anyone with obviously bought followers (huge count, 4 comments).
+### Tracker schema — `_workhorse/02-inbox/marketing/creator-tracker.csv`
+```
+name, handle, platform, followers, archetype, why_them, personal_detail,
+contact_method, date_contacted, response, offer_made, posted_date,
+emails_driven, sales_driven, notes
+```
+`personal_detail` is the most important column. It's the sentence in your DM that proves you're not a bot.
+---
+## 4. What you offer when you have no money
+You are not asking for a favor. You're offering something genuinely useful to *her* audience.
+| Offer | Cost to you | Best for |
+|---|---|---|
+| **The Question Kit, free, to share with her audience** | $0 | Everyone — this is the opener |
+| **Full Founding Reader Bundle, gifted** | $0 (digital) | Reviewers, educators, nurses |
+| **40% affiliate commission on digital** | Only paid on sales that wouldn't exist | Anyone with a shop-y audience |
+| **Co-created content** — a myth-buster Reel *with* her, IG Collab post | Your time | Nano creators; Collab posts publish to **both** audiences = free reach |
+| **Name in the 2027 acknowledgements** | $0 | Educators, librarians, ministry leaders — they love this |
+| **Early access to Episode 1** before anyone | $0 | Bookstagram, kidlit reviewers |
+| **A custom myth-buster graphic for her niche** | 20 min | Teachers, counselors |
+| **Paid physical copy of the Journal** (once SKU 2 exists) | ~$6–9 print + ship | Save for your top 8 only |
+**Never offer:** money for a positive review, or a paid review on Amazon (violates Amazon's terms and can nuke your listing). Gifted-for-honest-review is fine and legal — with disclosure.
+---
+## 5. The affiliate setup
+Etsy and TPT don't support your own affiliates well. If you want commissions to work, sell SKU 1 and SKU 3 through a platform with affiliates built in — **Payhip, Gumroad, ThriveCart, or Kit Commerce** — and keep Etsy/TPT as separate discovery channels.
+- **40% on digital** is generous and normal; digital has no COGS.
+- Give each creator a **unique link + a unique discount code** (her code = her tracking = her ego = she promotes it more).
+- Pay out within 7 days of Black Friday. Fast payment is how you get the second post.
+---
+## 6. Outreach templates
+Personalize the first line of every single one. If you can't, don't send it.
+### Template A — cold DM (nano/micro, Instagram)
+> Hi [Name] — your post about [SPECIFIC THING, e.g. "your daughter asking why her body was changing before her friends'"] stopped me. That's exactly the conversation I froze on with mine.
+>
+> I'm a mom in Albany writing a story-first book for Black girls about growing up — the kind I wish I'd had instead of the clinical pamphlet.
+>
+> I made a free one-page "how to start the talk" kit for parents. Can I send it to you? No ask attached — if it's useful to your people you're welcome to share it, and if not, you've got a free kit. 💛
+**Why it works:** specific, gives before asking, one clear yes/no, no link in the first message (links tank DM deliverability).
+### Template B — educator / nurse / librarian (email)
+> Subject: A free puberty-talk resource for your [families / students / patrons]
+>
+> Hi [Name],
+>
+> I'm Keisha, a mom in Albany writing *[title]* — a story-first middle-grade book for Black girls about puberty, built around a character named Mia and her family. Not a clinical handbook; a story with the facts folded in.
+>
+> I saw [SPECIFIC THING you do]. I've put together a free caregiver conversation kit and I'd love your eyes on it — both to share with your [families/students] if it's useful, and honestly because feedback from someone who does this work daily would make the book better.
+>
+> No cost, no catch. Would you like me to send it over?
+>
+> — Keisha [link to landing page]
+⭐ **For nurses/health educators, add:** *"I'm also looking for a health professional to review the book's factual content as a paid consultant — if that's of interest, I'd love to talk."* This is how you solve two problems with one email.
+### Template C — the follow-up (send once, 7 days later, then stop)
+> Hi [Name] — bumping this once in case it got buried, then I'll leave you alone. 😊 Still happy to send the kit over if it's useful.
+### Template D — the ask, after she's said yes to the kit
+> So glad it landed! One thing if you're open to it: I'm launching a Founding Reader bundle on Black Friday. If you'd ever want to share it, I'd set you up with 40% commission and your own code for your people. Totally fine either way — the kit's yours regardless.
+---
+## 7. Cadence and realistic math
+**10 outreach messages per week, starting Block 2 (Sep 22).** That's ~30 minutes on Friday. Ten weeks = ~100 contacts, comfortably past your 60.
+Expect this funnel:
+```
+60 contacted
+  → 20 reply                    (33% — good for cold, personalized)
+  → 10 accept the kit
+  →  4 actually post            (this is normal, not failure)
+  →  2 post more than once
+= 80–250 waitlist emails
+```
+**Four posts from the right four people is a success.** Plan for that, not for virality.
+**The compounding part:** each creator who posts gives you a testimonial, a piece of content to repost, and social proof for the next pitch. Pitch #40 is far easier than pitch #1 because you can say "I've worked with [names]."
+---
+## 8. Organic engine — the free channels, ranked
+### 1. Pinterest (highest ROI, most ignored)
+Pinterest is a **search engine**, not a social feed. A pin from September still delivers traffic in December — the opposite of Instagram.
+- 5 boards: *Puberty Talk for Parents* · *Raising Confident Black Girls* · *Tween Girl Mom Life* · *Printables & Journals* · *Mia's World*
+- **3–5 pins/day, scheduled** (Workhorse drafts, you approve Monday, scheduler runs it)
+- Keyword-stuff the *pin title + description + board name* with real search phrases: "how to talk to your daughter about puberty," "period kit for 10 year old," "puberty book for girls"
+- Every pin → the free Question Kit landing page
+- Vertical 1000×1500, text overlay readable at thumbnail size
+- **Start Block 1.** Pinterest takes 4–8 weeks to warm up — which is exactly why starting it in November is useless.
+### 2. Instagram + TikTok (trust-building)
+5 posts/week across the 4 pillars. Your face 2×/week minimum. Use **IG Collab posts** with creators — it publishes to both audiences and is the single best free reach mechanic on the platform.
+### 3. Facebook groups (slow, high-intent)
+Join 6–8 Black-mom / girl-mom / homeschool groups **now**. Be a human for 3–4 weeks. Answer questions. Never drop a link cold — most will ban you. When someone asks "how do I talk to my daughter about her period," *that's* your moment, and it converts better than any ad.
+### 4. Etsy + TPT search
+These platforms hand you buyers. **List SKU 1 by early October** so ranking and reviews accrue before Black Friday. Keyword research is a Cowork job; listing copy is a Cowork draft; the actual listing form is Chrome-with-you-watching.
+### 5. Your email list
+The only audience you own. Everything above exists to feed it.
+---
+## 9. Rules — non-negotiable
+1. 🔴 **You send every message.** No agent DMs, emails, or comments as you. Cowork drafts into `02-inbox/marketing/outreach/`; you copy, personalize, send.
+2. **FTC disclosure** on every gifted collaboration — #gifted or #ad. Protects you both.
+3. **No child photos, names, schools, or stories** from any creator's kids, ever. Not in a repost, not in a testimonial.
+4. **No creator makes medical claims** on your behalf. Give them approved language. A well-meaning "this book explains exactly what's happening to her body" is a claim you haven't cleared yet.
+5. **No paid Amazon reviews.** Gifted-for-honest-review with disclosure only.
+6. **Written permission before you repost or quote** anyone. Save it in the vault.
+7. **Never DM a minor.** Adults only, always, no exceptions.
+8. **One follow-up, then stop.** Reputation compounds in a small niche.
+---
+## 10. Weekly workflow (30 min of you)
+| Step | Who | Where |
+|---|---|---|
+| Research 10 new prospects | Chrome (read-only) → Cowork writes them into the tracker | `02-inbox/marketing/creator-tracker.csv` |
+| Draft 10 personalized messages | Cowork, using Templates A–D + the `personal_detail` column | `02-inbox/marketing/outreach/YYYY-MM-DD.md` |
+| **Read, fix the voice, send** | **You. Friday, 30 min.** | IG / email |
+| Log responses | You (one line) or Cowork from your voice note | tracker |
+| Fulfil gifts | Cowork prepares the packet; you send the link | — |
+| Weekly readout | Cowork: contacted / replied / posted / emails driven | `00-command-center/` |
+---
+## 11. Gate item to add
+- [ ] **AQ-BF-07** — Approve creator outreach: the 60-target list, the gifting offer, the 40% affiliate rate, and that Keisha personally sends every message
+---
+## Current single next action
+When you reach Block 2 (Sep 22): **build the first 20 rows of the tracker, and send five messages.** Five. Not fifty.
+And in archetype #2 — the puberty/period educators — you are looking for two things at once: someone to share your kit, and someone to review your facts. Send those first.

@@ -1,0 +1,289 @@
+# 🛠️ TOOL STACK AND AUTOMATION PLAN
+> **Owner:** Keisha · **System:** Sunray Story Universe · **Written:** August 20, 2026
+>
+> **Audience:** you, a non-technical author who wants the books, songs, art, and marketing to move without you becoming the IT department.
+>
+> **Promise:** this is a *map*, not a shopping list. You do not need every tool. You need one combo, one shared memory, and hard stop-signs so nothing public, medical, or child-facing goes out on autopilot.
+---
+## How to read this
+If you only remember four sentences, remember these:
+1. **Claude Fable 5 is a brain, not an app.** Cowork, Code, Desktop, and Chrome are different *doors* into that brain.
+2. **ChatGPT Work and Codex are the OpenAI twins** of Cowork and Code. Useful. Not your home base.
+3. **`_workhorse/` is the memory.** Chats forget. Files remember. If it isn’t filed here (or in an approved bible), it is not canon.
+4. **Semi-autonomous means draft-and-queue, never send-and-post.** The Workhorse prepares. You approve. That is the whole system.
+Current project rule still stands: **one major creative item at a time.** Right now that item is the Mia primer’s 9-episode text spine. This plan does not change that. It tells you *which tool to pick* when you sit down to work, and how the other lanes (songs, trailers, marketing, sales) get in line without stealing the wheel.
+---
+## 1. The tools, in plain English
+Think of an office.
+| Name | What it actually is | The office analogy | You use it when… |
+|---|---|---|---|
+| **Claude Fable 5** | Anthropic’s strongest generally-available *model* (the brain). Released June 9, 2026. Not a separate app. | The most capable colleague on staff | The job is long, messy, or expensive to get wrong: series continuity, a sales plan, a multi-file research pass, a days-long Cowork run |
+| **Claude Desktop** | The downloadable Claude app (Mac / Windows / Linux / ChromeOS). Houses Chat, Cowork, and Code under one roof. | The office building | You want files, scheduled work, and the browser on your own computer |
+| **Claude Cowork** | The “do the knowledge work” mode. Give it a goal and a folder. It reads, writes, plans, and comes back with a deliverable for review. Lives in Desktop; also rolling out on web and phone. | The coworker who handles the pile on your desk | Drafts, research, decks, spreadsheets, organizing folders, assembling a packet from this vault |
+| **Claude Code** | The “work in the actual project” mode. Terminal, IDE, Desktop Code tab, or web. Reads the repo, edits files, runs commands, opens pull requests. | The production assistant who can *move the files* and leave a paper trail | This GitHub vault needs real file changes, batch edits, or a PR — including Arena sessions on this repo |
+| **Claude in Chrome** | A Chrome extension that reads the page you’re signed into, then clicks, types, and fills forms. You stay in charge. | Hands on the browser | KDP, TPT, Etsy, Gmail, Substack, Suno, Canva, Drive — any logged-in site with no good export button |
+| **ChatGPT Work** | OpenAI’s longer-job agent (July 2026). Makes finished docs, sheets, decks, reports, Sites. Shares usage with Codex. | The other office’s coworker | You already have the thread, the Custom GPT, or the files in ChatGPT, and you want a polished business artifact |
+| **Codex** | OpenAI’s software agent, now a tab inside the ChatGPT desktop app. Repos, diffs, tests, pull requests. | The other office’s production assistant | You are in an OpenAI-native coding loop. **Do not run Codex and Claude Code on this vault at the same time.** |
+### What Fable 5 is — and is not
+Fable 5 is Anthropic’s Mythos-class model made safe for general use. Official positioning: strongest on long, complex, asynchronous work; unusually good vision (screenshots, figures, “does this drawing match the model board?”); stays focused across huge contexts; writes its own notes and checks itself.
+It is **not** the default. In Cowork, everyday work still starts on a cheaper/faster model (Sonnet-class as of July 2026). Pick Fable 5 on purpose.
+Practical cost picture as of late July 2026 (plans change — check your account):
+- **Max / premium Team seats:** Fable 5 is in the plan, but it burns weekly limits faster. Roughly half the weekly budget can go to Fable 5 before credits.
+- **Pro / standard Team seats:** Fable 5 is mostly **usage credits**, not unlimited “included.”
+- **Free plan:** no Fable 5.
+**Puberty-book warning:** Fable 5 has extra safety classifiers for biology/chemistry and cybersecurity. Harmless health-education prompts *can* get quietly handed to Claude Opus 4.8. If a chat suddenly feels dumber or more cautious mid-task, that is often the classifier, not you. Start a new chat to get Fable 5 back, and keep medical claims on the human-review track regardless of which model answered.
+### Cowork vs Code vs Chrome vs Desktop — the decision rule
+Ask one question:
+| Question | Use |
+|---|---|
+| Does the answer live in a conversation? | **Chat** (web, phone, or Desktop Chat) |
+| Does the deliverable live in *your files* (a doc, a packet, a folder of drafts)? | **Cowork** |
+| Does the deliverable live in *this GitHub repo* (edit, commit, PR)? | **Claude Code** (or Arena on this repo — same job) |
+| Does the work live on a *logged-in website*? | **Claude in Chrome** |
+| Do you need all of the above in one sitting? | **Desktop**, because Chat + Cowork + Code + Chrome sit together |
+Cowork is the right default for a non-technical author. Code is the right default when the vault itself is the product. Chrome is never the place to “set it and forget it” on Gmail, KDP, or ads.
+### ChatGPT Work vs Codex — when the other office is better
+Keep ChatGPT. Do not make it HQ.
+**Work is better than Cowork when:**
+- The source material already lives in ChatGPT (old threads, Custom GPTs, uploaded decks).
+- You want a spreadsheet / slide deck / one-pager and you are already in that app.
+- You are talking to the Glow-Up Command Central “department” GPTs (Penelope, Wordsmith, and the rest) as *people*, not as file workers.
+**Codex is better than Claude Code when:** you are not in this repo. For *this* vault, stay on Claude Code / Arena so git history, PRs, and `_workhorse/` stay in one family.
+**Do not dual-wield.** Two coding agents editing the same files is how canon forks.
+### The honest “do I need both companies?” answer
+Yes, for now, because they hold different pieces of *your* history:
+| Keep | Why |
+|---|---|
+| **Claude (Desktop + Cowork + Code + Chrome)** | Home base for new work on this vault |
+| **ChatGPT (Chat + Work + your Custom GPTs)** | Character-art continuity (art-v2 already came from ChatGPT), old research threads, the department GPTs |
+| **Suno (paid)** | Songs with commercial rights |
+| **Canva** | Layouts, worksheets, cover experiments you already started |
+| **This GitHub repo** | The only memory that survives a closed chat, a new laptop, or a new Arena session |
+You do **not** need Manus, a second coding agent, or n8n on day one. n8n is the later spine once a manual loop has shipped three times. That matches `AGENT-ORCHESTRATION-SYSTEM.md`.
+---
+## 2. The combo that actually runs this series
+### Home-base stack (use this)
+```text
+YOU (approvals, voice, taste, “does this feel like us?”)
+    │
+    ▼
+Claude Desktop
+    ├─ Chat        → think out loud, tiny questions
+    ├─ Cowork      → build packets from the vault
+    ├─ Code        → change files in this repo / open PRs
+    └─ Chrome      → logged-in sites, with you watching
+         │
+         ▼
+This GitHub vault
+    especially _workhorse/   ← shared memory every worker must read
+         │
+         ▼
+Specialist tools (only when the packet says so)
+    ChatGPT images  → character / scene stills against approved boards
+    Suno Pro        → songs from approved lyrics
+    Canva           → page layout, cover, trailer assembly
+    Image-to-video  → 3–8s clips from approved stills, then you cut a 30–45s trailer
+```
+### What “semi-autonomous” means here
+A worker may:
+- Read canon and the current sprint
+- Draft inside the vault or a Cowork folder
+- Fill a Work Request
+- Put one item on the Approval Queue
+- Log what it did
+A worker may **not**:
+- Change Active Canon
+- Post, publish, email, DM, or submit a form
+- Upload a book, listing, or song
+- Spend money
+- Contact a reviewer, school, creator, or parent
+- Collect anything from a child
+- Mark a health fact “reviewed”
+That is already law in `_workhorse/01-rules/SAFETY-AND-APPROVALS.md`. This stack does not loosen it.
+### Who does which job
+| Lane | Drafts here | Uses these tools | Lands in | Gate |
+|---|---|---|---|---|
+| **Writing** (episodes, bibles, packets) | Claude Code / Arena on this repo, or Cowork pointed at the clone | Fable 5 for continuity-heavy passes; Sonnet for routine drafting | `01-mia-puberty-book/` + Approval Queue | YELLOW (prose) / RED (health claims) |
+| **Social / email / marketing** | Cowork drafts the calendar and copy | Chrome *prepares* inside Gmail/Substack/later social — does not send | `_workhorse/02-inbox/` until approved | YELLOW to draft, RED to send |
+| **30–45s book trailers** | Cowork writes the beat sheet from approved trailer concepts | Approved 2D stills → image-to-video clips → Canva/CapCut cut + Suno bed. **3D is promo-only** (DEC-043) | `01-mia-puberty-book/marketing/` as PROPOSED | YELLOW to draft, RED to publish |
+| **Suno songs** | Lyrics already in `_workhorse/02-inbox/songs/` | Suno **Pro or Premier** (commercial rights). Custom mode. Your lyrics, not a one-line prompt. Chrome may drive the site; you click Generate and you keep the files. | Inbox until a theme song is approved. **Do not release.** Music Bridge still teases, never drops, in Mia. | YELLOW to generate a demo, RED to distribute |
+| **Illustrations** | Prompts from `01-mia-puberty-book/characters/` | ChatGPT (or current image model) against the **approved** hero + model board. Fable 5 vision to QA “does this match?” | `characters/art-v2/…/00-upload-candidates/` then you promote to `02-approved/` | YELLOW, one character at a time |
+| **Sales plan** | Cowork or Code, reading the launch plan + this vault | Fable 5 once for a serious pass; Chrome for live KDP/TPT/Etsy *research* (no listing edits) | `07-business-marketing/` or a Work Request output | YELLOW to draft, RED to spend or list |
+### Trailer recipe (so 30–45 seconds is not a mystery)
+AI video tools in 2026 still make **short clips** (often ~8–15 seconds), not a finished 45-second ad in one click. Treat them like a B-roll camera:
+1. **Beat sheet** (Cowork): 5–7 shots from the approved trailer concepts in `_workhorse/02-inbox/trailers/`. Hook in the first 3 seconds. No humiliation comedy. No on-page period. No medical lecture.
+2. **Stills** from approved 2D boards only. Do not invent a new Mia.
+3. **Image-to-video** for 2–4 clips (Runway, Kling, Google Veo, or whatever you already have — pick one and stay there).
+4. **Edit** in Canva or CapCut: clips + title card + Suno bed or instrumental. Target 30–45 seconds.
+5. **You** watch it against Active Canon and child-safety rules before anyone else sees it.
+3D renders stay in the promo/development bucket. Book interiors stay 2D graphic novel.
+### Song recipe
+1. Pull the lyric packet from `_workhorse/02-inbox/songs/` (or `01-mia-puberty-book/marketing/`).
+2. Confirm Music Bridge rules: Mia **teases**, the series **releases**. Theme song is **not** locked.
+3. Generate on a **paid** Suno plan. Free-plan tracks cannot be used commercially, even if you upgrade later.
+4. Save the audio + prompt + date in the inbox. Do not upload to DistroKid, YouTube Content ID, or the book QR until a RED approval says so.
+5. Human authorship note: your lyrics and your selection/edits are the part that is *yours*. Fully machine-made audio is a shaky copyright. Keep the lyric files.
+---
+## 3. How `_workhorse/` is the shared memory
+Every chat starts empty. Arena sessions close. Phones die. Custom GPTs do not read each other’s brains.
+**The vault is the brain they all share.** `_workhorse/` is the part of the vault that says *what is true right now*.
+```text
+_workhorse/
+├── 00-command-center/     ← the now
+│   ├── CURRENT-STATE.md   ← what is happening
+│   ├── CURRENT-SPRINT.md  ← the one goal and the one next action
+│   ├── APPROVAL-QUEUE.md  ← only Keisha can clear this
+│   └── DECISION-LOG.md    ← why canon or strategy changed
+├── 01-rules/              ← the laws
+│   ├── ACTIVE-CANON.md    ← compact rules every worker obeys
+│   ├── SOURCE-HIERARCHY.md
+│   ├── ARCHIVE-RULES.md
+│   └── SAFETY-AND-APPROVALS.md
+├── 02-inbox/              ← incoming, not canon
+│   ├── songs/
+│   ├── trailers/
+│   └── graphic-novel/
+├── 03-templates/
+│   └── WORK-REQUEST.md    ← the job ticket
+└── TOOL-STACK-AND-AUTOMATION-PLAN.md   ← this file
+```
+### The memory protocol (paste this at the top of a new Cowork or Code job)
+```text
+You are a worker on Sunray Story Universe.
+Read, in this order, before doing anything:
+1. _workhorse/00-command-center/CURRENT-SPRINT.md
+2. _workhorse/00-command-center/CURRENT-STATE.md
+3. _workhorse/01-rules/ACTIVE-CANON.md
+4. _workhorse/00-command-center/APPROVAL-QUEUE.md
+5. _workhorse/01-rules/SAFETY-AND-APPROVALS.md
+Then read only the smallest extra files the job needs.
+Do not mine old ChatGPT threads or the 2024 Canva draft unless the Work Request says Archive access: Allowed.
+One major creative item at a time.
+Yellow work = draft only. Red work = draft only, never execute.
+Put anything that needs me on the Approval Queue as ONE decision.
+When you finish, write where the file went and what you did not do.
+```
+### Rules that keep the memory from rotting
+1. **Chats are scratch paper.** Good lines get copied into a file. The chat is not the record.
+2. **Inbox is not canon.** Songs, trailers, and sketches sit in `02-inbox/` until you approve them.
+3. **Newest file date ≠ truth.** Approval status beats timestamp (`SOURCE-HIERARCHY.md`).
+4. **Smallest sufficient packet.** An illustration job gets Active Canon + that character’s lock + the approved board. It does not get the ten-book blueprint.
+5. **Conflicts stop the line.** Quote both versions, cite ranks, add one Approval Queue item. Do not blend.
+6. **One ACTIVE job.** Everything else stays INBOX or PARKED.
+7. **n8n, scheduled Chrome, and auto-send wait** until a manual loop has worked three times.
+If a tool cannot see this folder, it is a guest. Guests may brainstorm. Guests may not write canon.
+---
+## 4. Thirty-day ramp
+This ramp respects the current sprint: **draft the 9-episode spine in text only.** No reviewer contact, no posting, no illustration production, no trailer production until that spine exists and you change the sprint.
+Do the setup in the cracks around writing — not instead of writing.
+### Days 1–3 — Open the office (no new creative work)
+- [ ] Install **Claude Desktop**. Sign into the same paid Claude account you already use.
+- [ ] Clone or open **this GitHub repo** as a local folder Cowork is allowed to touch.
+- [ ] Turn on **Claude in Chrome**. Practice on a throwaway task (sort a Drive folder, pull a public Amazon listing). Not Gmail. Not KDP.
+- [ ] Confirm ChatGPT still has the Custom GPTs and the image history. Do not migrate them yet.
+- [ ] Confirm **Suno** is on Pro/Premier if you want any demo you might later sell. If not, skip songs this month.
+- [ ] Put a sticky note on the monitor: *Draft ≠ Done. Queue ≠ Sent.*
+**Done when:** you can point Cowork at this repo and it can see `_workhorse/README.md`.
+### Days 4–10 — Writing loop (this *is* the sprint)
+- [ ] Every session starts by reading Current Sprint + Active Canon (or paste the memory protocol).
+- [ ] Use **Claude Code / Arena** for the spine files in `01-mia-puberty-book/`. Use **Cowork** if you want a briefing packet first.
+- [ ] Use Fable 5 only when the pass is continuity-heavy (ages, payoff chain, no-on-page-period lock, Washington family). Otherwise save it.
+- [ ] End every session with: file saved, one sentence in the work log, next action written in Current Sprint if it changed.
+- [ ] If the model wanders into CROWN Book 1, songs, or trailers — park it. Inbox, not sprint.
+**Done when:** the 9-episode text spine exists as files in the vault, waiting for your read.
+### Days 11–17 — One support lane, still private
+Pick **one**:
+- A caregiver one-pager draft, **or**
+- A cleaned song shortlist (which of the 25 are Mia-tease vs series-release), **or**
+- A trailer beat sheet from the existing 10/15 concepts — text only.
+Cowork drafts it into `02-inbox/`. You do not post. You do not generate final audio or video unless the spine is already approved and you explicitly open a new Work Request.
+**Done when:** one packet sits on the Approval Queue as a single decision.
+### Days 18–24 — Sales brain, not sales motion
+- [ ] Cowork (Fable 5 once) reads `LAUNCH-PLAN-TPT-ETSY-KDP.md`, `PRODUCT-ARCHITECTURE.md`, and Current State, then writes a **one-page “what we sell first”** memo. Mia primer only. Digital-first. No local initiatives.
+- [ ] Chrome may *look* at live TPT/KDP/Etsy comps. No listing created. No ads.
+- [ ] Anything that wants money, an ISBN, or a store account goes RED.
+**Done when:** you have a one-page sales memo you could hand a future you on a low-energy day.
+### Days 25–30 — Review the machine, don’t expand it
+- [ ] You read the spine. Not the AI. You.
+- [ ] Mark what is Yellow (revise) vs what is actually ready for a human reader.
+- [ ] Decide whether next month is still writing, or whether art/trailer gets its own sprint.
+- [ ] Only then consider: a scheduled Cowork “Monday status readout,” or a first n8n experiment that *writes a log file* and does not send mail.
+**Not this month:** waitlist, website, micro-influencers, school emails, auto-posting, CROWN Club drafting, BUFU, n8n department factory.
+### After day 30 — the automation test
+Automate a step only if all three are true:
+1. You have done it by hand the same way **three times**.
+2. The output lands in the vault with a source list.
+3. The step cannot spend, send, publish, or talk to a child.
+First honest automations: weekly status summary, duplicate-file watch, “what’s on the Approval Queue” digest **to you**. Not to the internet.
+---
+## 5. Safety guardrails (non-negotiable)
+Copy of the spirit of `SAFETY-AND-APPROVALS.md`, translated into tool settings.
+### Green / Yellow / Red — where tools must stop
+| Level | Examples | Tools may | Tools must not |
+|---|---|---|---|
+| **GREEN** | Indexes, outlines, research queries, status summaries | Run inside an approved packet | Silently change canon |
+| **YELLOW** | Manuscript prose, art, marketing copy, emails, calendars, freebies | Draft | Publish, send, or call it final |
+| **RED** | Health claims, child questions, legal/money, school outreach, posting, uploads, ads | Research or draft | Execute. Ever. |
+“No reply from Keisha” is not approval.
+### Child-reader and health
+- No shame, scare, sexualization, diagnosis, or ridicule.
+- No on-page first period for Mia in Season 1 or 2 (DEC-039). Trailers and songs obey that too.
+- No collecting stories, photos, voice, school, or contact info from children.
+- No unmoderated child comments, DMs, or live chat.
+- Fictional Mema Hazel does not handle a crisis. Trusted adult + real help.
+- Every health sentence needs a source, age-appropriate language, and a **human** reviewer before it is public. Do not list someone as a medical reviewer without their consent.
+### Browser and computer-use
+- Do not put Chrome or computer-use on banking, health-portal, or password pages.
+- Prefer **Permissions Mode** (site by site) until you trust a workflow.
+- Hidden text on web pages can hijack an agent. If Chrome starts doing something you didn’t ask for, **stop**.
+- Purchases, form submits, “delete,” “publish,” and “send” wait for you.
+- Scheduled / unattended runs are for Green internal jobs only (a status file, a research digest). Never for mail or listings.
+### Art, voice, music
+- Approved model board wins. Do not average old faces.
+- Never clone a child’s voice or use a child’s photo without a separate approved plan and adult permission.
+- Suno commercial rights require a paid plan at the moment of generation.
+- Do not release songs against the Music Bridge (tease in Mia, release with the series).
+### Culture and authorship
+- Black girls stay centered. No generic “all girls” wash.
+- You are the author. AI is the assistant. Do not claim a human reviewed work that only a model saw.
+- Keep prompts, sources, versions, and approvals next to production assets.
+### Fable 5-specific
+- Expect occasional biology-classifier handoffs on puberty topics. Don’t fight the classifier by jailbreaking. Rephrase as *story + age-appropriate education* and keep claims on the human track.
+- Fable 5 is for the hard jobs. Burning it on “rename this heading” wastes the week’s budget.
+---
+## 6. What each combo looks like on a real workday
+**Morning, writing day:** Desktop → Code/Arena → memory protocol → one episode beat. You read. Queue if needed. Stop.
+**Afternoon, low energy:** Cowork → “summarize Approval Queue and Current State in ten lines.” Green. You do not open a new creative job.
+**Browser hour (optional, after the spine exists):** Chrome on TPT, watching. Cowork takes notes into a research file. No account changes.
+**Song hour (optional, its own Work Request):** lyrics from inbox → Suno Custom on Pro → files saved → still not released.
+If you feel like you are “running a company of bots,” you have too many tabs. Close Chrome. Close ChatGPT. Leave one Claude mode open. Return to Current Sprint.
+---
+## 7. Later — not now
+Parked on purpose (matches Workhorse v1 and the orchestration note):
+- n8n Book Factory (Penelope → Wordsmith → Dr. Rae → Continuity → Compiler)
+- Auto social / email drip
+- Waitlist and website engines
+- School or reviewer outreach
+- CROWN Club drafting
+- Local initiatives (TOAST, in-person clubs)
+- Anything that spends
+When a manual loop has worked three times, *then* write the n8n spec. Not before.
+---
+## 8. Sources (checked August 20, 2026)
+Capabilities move. Re-check these if a button has vanished:
+- Anthropic, “Claude Fable 5 and Claude Mythos 5” (June 9, 2026; redeployed July 1, 2026) — [anthropic.com/news/claude-fable-5-mythos-5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+- Claude Docs, “Working with Claude Fable 5 in Claude Cowork” (July 16, 2026) — [claude.com/blog/working-with-claude-fable-5-in-claude-cowork](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)
+- Claude Support, “Claude Fable 5 on your plan” (July 20, 2026)
+- Claude Cowork product — [claude.com/product/cowork](https://claude.com/product/cowork)
+- Claude Code product — [claude.com/product/claude-code](https://claude.com/product/claude-code)
+- Claude in Chrome product — [claude.com/claude-in-chrome](https://claude.com/claude-in-chrome)
+- OpenAI Help, “ChatGPT Work and Codex” (updated mid-August 2026) — [help.openai.com/en/articles/20001275-chatgpt-work-and-codex](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)
+- Suno commercial rights: paid Pro/Premier at time of generation; free-tier tracks stay non-commercial. Confirm on Suno’s current terms before any release.
+- This vault: `_workhorse/01-rules/SAFETY-AND-APPROVALS.md`, `ACTIVE-CANON.md`, `SOURCE-HIERARCHY.md`, `AGENT-ORCHESTRATION-SYSTEM.md`, `MUSIC-BRIDGE-STRATEGY.md`, `LAUNCH-PLAN-TPT-ETSY-KDP.md`
+---
+## Current single next action
+Same as the sprint, on purpose:
+**Draft the 9-episode spine in text only.** Use Claude Code or Arena on this repo. Read `_workhorse/` first. Do not open Chrome for marketing. Do not generate trailers or songs until that spine is in the vault and you put a new item on the Approval Queue.
+---
+> **Campaign companion:** the dated production and launch schedule that runs off this stack lives in
+> `_workhorse/00-command-center/ROADMAP-TO-BLACK-FRIDAY-2026.md`.
