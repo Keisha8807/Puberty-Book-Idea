@@ -24,6 +24,7 @@ Version 1 is **manual-first**. It proves each workflow before any n8n automation
 | Safety gates | [`01-rules/SAFETY-AND-APPROVALS.md`](01-rules/SAFETY-AND-APPROVALS.md) | Green/yellow/red risk and approval rules |
 | Keisha drop box | [`02-inbox/README.md`](02-inbox/README.md) | Intake-only songs, trailers, graphic-novel — not canon until filed |
 | Job intake | [`03-templates/WORK-REQUEST.md`](03-templates/WORK-REQUEST.md) | Reusable packet for every future task |
+| Tool stack | [`TOOL-STACK-AND-AUTOMATION-PLAN.md`](TOOL-STACK-AND-AUTOMATION-PLAN.md) | Which AI door to use, how this folder is shared memory, 30-day ramp, guardrails |
 
 ## The operating loop
 
