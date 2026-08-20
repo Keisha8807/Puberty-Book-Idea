@@ -109,8 +109,8 @@ The Foundation's Active Canon controls workers until those detailed files receiv
 
 ## Current bottleneck
 
-**Cross-season audit PASS** (2026-08-20, Canon v1.24): S1→S2 inheritance clean — no orphaned payoffs, Mia 10 / Solani 12 continuity held, kit remains readiness symbol (E9 execution note added so E9 does not read as anticlimax), E17 community rec center is distinct from retired commercial mechanism (DEC-040). No audit blockers. Next bottleneck remains genuine human validation (Groups 1,2,4,5 + later child polished-sample) before S2 can be marked validated/locked.
+**DEC-041 locked: 9-episode spine-first drafting.** Spine episodes 1, 2, 5, 8, 11, 12, 13, 15, 18 will be drafted text-only first, then reviewed via lean in-person panel (parent, clinician colleague not treating your children, teacher not teaching your children) using the 9-episode SPINE-REVIEW-SHEET. Cross-season audit already PASS (v1.24). Remaining 9 episodes (3,4,6,7,9,10,14,16,17) on hold until spine review returns. No simulated material counts as validation. Author accepts 9-episode rework trade-off vs. 18 blind.
 
 ## Current single next action
 
-Human validation panel remains the only gate before S2 validation — plan lean 5–8 reviewer panel per approved packet (adults-only at Stage 2), but do not distribute/contact/collect until Keisha authorizes roster/sending. Book Factory Episode 1 packet may now proceed (audit passed); E17 mechanism packet remains to-be-proven.
+**Draft the 9-episode spine in text only (no illustration/formatting).** When spine is complete, distribute spine sample via `SPINE-REVIEW-SHEET.md` to the 5–8 lean panel (independent returns, evidence-weighted synthesis, no majority rule). Do not start remaining 9 episodes or full illustration pass until spine feedback is synthesized and Keisha approves the direction.

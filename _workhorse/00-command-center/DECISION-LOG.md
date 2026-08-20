@@ -320,6 +320,18 @@
 
 ---
 
+## DEC-2026-08-20-041 — Spine-first authorial override: 9-episode spine before remaining manuscript (1, 2, 5, 8, 11, 12, 13, 15, 18)
+
+- **Decision:** Keisha elects to proceed via **9-episode spine-first drafting**: draft and polish **Episodes 1, 2, 5, 8, 11, 12, 13, 15, 18** as a text-only spine sample first — provides beginning→hinges→closes across both seasons (open, S1 hinge, dignity, S1 close, S2 open pair Hair+Bra-vo, S2 hinge, Handshake) — then draft remaining 9 episodes (3, 4, 6, 7, 9, 10, 14, 16, 17) after spine review. Overrides AQ-010 sequencing (which held all prose until Stage 2 validation). Spine reviews reclassified as Stage 3/4 on the completed spine sample via lean in-person panel (parent not of Keisha's children, clinician colleague not treating Keisha's children, teacher not currently teaching Keisha's children), 5–8 lean panel limit; independent return before synthesis.
+- **Reason:** Spine sample gives reviewers a real beginning-to-end arc without requiring a full 18-episode read (which reduces follow-through), while keeping rework risk to 9 episodes rather than 18. Author consciously accepts that any systemic voice/tone/formula finding will still require revising up to 9 spine episodes — cheaper than 18 blind, but not cheap. Remaining 9 episodes benefit from validated voice.
+- **Guardrails carried forward:** Text-only draft for spine sample; illustration/formatting held until after this review round. No simulated material counted as validation. Child input remains adults-only at outline sample stage; any later child input requires explicit parent/caregiver permission and private trusted-adult facilitation per packet/state rules. E9 kit execution note (conscious preparedness beat) and E17 rec-center distinction (DEC-040) remain locked.
+- **Files affected:** `01-mia-puberty-book/planning/SPINE-REVIEW-SHEET.md` (new 9-episode lean sheet), `01-mia-puberty-book/planning/CROSS-SEASON-AUDIT.md` remains PASS, `_workhorse/00-command-center/CURRENT-STATE.md` bottleneck/next-action, Canon v1.24 unchanged as to spine lock.
+- **Review sheet scope:** 60–75 min ask (9 × ~7 min). Validates voice/tone across seasons, arc, and delicate scene (E8); does not validate consistency across the 9 episodes not sampled (3, 4, 6, 7, 9, 10, 14, 16, 17) — flagged explicitly on the sheet so "I read the spine" ≠ "I read the book."
+- **Approved by:** Keisha (binding authorial override)
+- **Status:** Locked
+
+---
+
 ## New decision template
 
 ```text
