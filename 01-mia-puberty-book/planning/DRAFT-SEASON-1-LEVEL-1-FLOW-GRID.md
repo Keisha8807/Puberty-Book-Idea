@@ -1,12 +1,12 @@
 # MIA'S PUBERTY PRIMER — SEASON 1 LEVEL 1 FLOW GRID
 
-> **Status:** APPROVED · **AQ-009A–E locked** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
+> **Status:** APPROVED · **AQ-009A–E locked as amended by DEC-2026-08-20-038 (E11 rebuilt — Mia remains 10, no on-page first period in S1)** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
 >
-> **Feedback readiness:** READY. Internal outline audit incorporated; all pre-feedback decisions in Section 6 are locked.
+> **Feedback readiness:** READY. Internal outline audit incorporated; all pre-feedback decisions in Section 6 are locked as amended.
 >
 > **Planning level:** Approved compact architecture. These cards establish flow before detailed Book Factory work packets or prose.
 >
-> **Active Canon:** v1.20 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
+> **Active Canon:** v1.22 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
 
 ---
 
@@ -72,7 +72,7 @@ The revised payoff chain is **Boundaries → Understanding → Preparation → A
 | 6. **The Deodorant Debacle** | Early Nov · health room / home bathroom / kitchen | Does smelling sweaty mean someone is dirty? | Create the perfect smell-proof formula → “Other people will notice and shame me.” | Sweat and body odor are normal; washing, clean clothes, deodorant/antiperspirant choices, and gentle care beat fragrance overload. | Ms. Vitality | The Myth Machine tests itself instead of targeting Solani. | “Armpit perfume” returns as a callback, not a repeated lesson. | Jada and Emma's fight splits the team |
 | 7. **Friendship Fluctuations** | Late Nov · cafeteria / art table / Mia's room | If best friends fight, is the friendship over? | Force Jada and Emma to agree → “Change will take my people away.” | Healthy friendship can include conflict, repair, accountability, new interests, and boundaries. | Brenda | Mia realizes her fixing attempts made both friends feel unheard. | The Myth Machine survives by changing its rules. | Lily appears, oblivious, with something red that belongs to Solani |
 | 8. **The Crimson Mystery** | Early Dec · home hallway / laundry / bathroom | Is the red stain evidence of an injury? | Prove Solani needs rescuing → “Periods mean danger and humiliation.” | Menstruation is normal uterine bleeding, not an injury; timing varies; privacy and respectful help matter. | Brenda + Solani | Mia chooses Solani's dignity over a public “case reveal.” | Episode 5 boundary lesson pays off. | Mia decides every backpack needs a plan |
-| 9. **Operation Period Power** | Mid Dec · kitchen table / school nurse / backpack | What belongs in an emergency period kit? | Build the Ultimate Kit → “If I'm not prepared for everything, disaster wins.” | Period products and routines vary; practical preparation reduces panic; periods do not require life to stop. | Nurse Nightingale + Brenda + Solani | Mia makes a useful kit without treating it like armor against growing up. | Kit goes into Mia's backpack for later payoff. | A pimple appears before Mia records a video |
+| 9. **Operation Period Power** | Mid Dec · kitchen table / school nurse / backpack | What belongs in an emergency period kit? | Build the Ultimate Kit → “If I'm not prepared for everything, disaster wins.” | Period products and routines vary; practical preparation reduces panic; periods do not require life to stop. | Nurse Nightingale + Brenda + Solani | Mia makes a useful kit without treating it like armor against growing up. | Kit placed in backpack as readiness symbol — use not required in S1. | A pimple appears before Mia records a video |
 | 10. **Pimple Patrol** | Mid Jan · mirror / vlog setup / pediatric office | Can Mia erase a pimple before anyone sees it? | Remove it immediately → “Visible change gives other people power over me.” | Acne is common and not proof of dirtiness; gentle evidence-based care and not picking matter; dark marks deserve careful care. | Dr. Smiles | Mia posts/keeps a funny imperfect moment instead of hiding her face. | Reader trust: facts require source and clinician review. | Mia decides what to do with what she now knows |
 | 11. **The Case Is Cracking (Rebuilt)** | Late Jan · home / Washington living room / Mia's room | Can Mia accept not knowing exactly when puberty will happen? | Keep investigating until she can predict/control → “If I can't control it, I'm not ready.” | Preparation means knowing what you can do and whom you can ask; every girl's timeline is her own; growing up does not erase who you are. | Brenda + Solani (supported by earlier trusted adults, not a new rescue) | Mia closes/redefines Operation Sisterwatch, repairs with Solani, and accepts uncertainty while still herself — informed and supported. | Solani leaves a note signed with a lyric; secret song remains hers. | Season 2: body-hair clue / Butterfly Files begin |
 
@@ -596,7 +596,7 @@ Mia attempts to build the Ultimate Emergency Kit and nearly packs her whole bedr
 
 ### Short synopsis
 
-Jada packs for drama, Emma organizes choices, and Mia treats every possible scenario as mandatory. Nurse Nightingale introduces practical school support, while Brenda and Solani explain that products, comfort needs, and routines vary. Mia builds a simple personal kit and a separate home supply space. The kit goes into her backpack without implying that preparation controls timing.
+Jada packs for drama, Emma organizes choices, and Mia treats every possible scenario as mandatory. Nurse Nightingale introduces practical school support, while Brenda and Solani explain that products, comfort needs, and routines vary. Mia builds a simple personal kit and a separate home supply space. The kit goes into her backpack as a readiness symbol — use not required in Season 1 — without implying that preparation controls timing.
 
 ### Mia's want
 
@@ -613,6 +613,10 @@ A practical period kit can reduce stress; product preferences vary; periods do n
 ### Reader transformation
 
 “I need every product or I will fail” → “A small plan and trusted help are enough to begin.”
+
+### Execution note — Kit payoff (E9 → E11)
+
+Kit payoff is not on-page use. In the E9 Book Factory packet, give Mia a small conscious beat of *choosing* preparedness without needing immediate use (e.g., noting who she would ask, where the kit lives) so Episode 9 does not read as an episode-long setup for an anticlimax. Simply letting the kit sit silently will undersell the episode.
 
 ### Myth Machine theories
 
@@ -781,7 +785,7 @@ A body-hair clue opens **The Butterfly Files** and Season 2.
 |---|---|---|
 | Mema Hazel | 1; callback in 6 | Names fear, myth-busts with humor |
 | Coach Armstrong | 2 | Notices physical discomfort without shame |
-| Nurse Nightingale | 2, 9, 11 | Practical school/health support and finale payoff |
+| Nurse Nightingale | 2, 9 | Practical school/health support; E11 downgraded to referenced support only (no on-page rescue) |
 | Brenda | 2, 4, 7, 8, 9, 11 | Family truth, preparation, accountability, care |
 | Ms. Harmony | 3, 5 | Feelings and boundaries language |
 | Marcus | 4 | Image/camera metaphor and dad presence |
