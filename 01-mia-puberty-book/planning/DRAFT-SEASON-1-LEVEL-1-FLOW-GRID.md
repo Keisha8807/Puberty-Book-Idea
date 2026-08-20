@@ -1,12 +1,12 @@
 # MIA'S PUBERTY PRIMER — SEASON 1 LEVEL 1 FLOW GRID
 
-> **Status:** APPROVED · **AQ-009A–E locked as amended by DEC-2026-08-20-038/039 (E11 rebuilt — Mia remains 10, no on-page first period in S1 or S2)** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
+> **Status:** APPROVED · **AQ-009A–E locked as amended by DEC-2026-08-20-038/039/040 (E11 rebuilt — Mia remains 10, no on-page first period in S1 or S2; rec center distinct)** · **Season:** Operation Sisterwatch · **Episodes:** 1–11 · **Timeline:** September–January
 >
 > **Feedback readiness:** READY. Internal outline audit incorporated; all pre-feedback decisions in Section 6 are locked as amended.
 >
 > **Planning level:** Approved compact architecture. These cards establish flow before detailed Book Factory work packets or prose.
 >
-> **Active Canon:** v1.22 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
+> **Active Canon:** v1.24 · **Retired:** La Bodega de Luz and BUFU · **Fresh manuscript baseline:** Operation Sisterwatch cold open, not the 2024 Canva draft.
 
 ---
 

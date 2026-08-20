@@ -1,8 +1,8 @@
 # CURRENT STATE
 
-> **As of:** August 20, 2026 · **Owner:** Keisha · **Active lane:** Mia's Puberty Primer · **Canon:** v1.23 (DEC-2026-08-20-039)
+> **As of:** August 20, 2026 · **Owner:** Keisha · **Active lane:** Mia's Puberty Primer · **Canon:** v1.24 (DEC-2026-08-20-040)
 
-> **Status update per binding authorial decisions 2026-08-20:** Mia remains 10 and does not experience her first period on-page in either season. Both seasons center preparedness, strengthened trust, and acceptance that every girl's timeline is her own. Season 1 is approved for continued drafting with E11 rebuilt (Acceptance of Uncertainty). Season 2 may be drafted as provisional working draft only — not validated/locked/advanced from Stage 2 gate until genuine human responses received. Human-reader, educator, cultural-dignity, and clinical validation remain pending.
+> **Status update per binding authorial decisions 2026-08-20:** Mia remains 10 and does not experience her first period on-page in either season (DEC-039) and community rec center as future CROWN home base is distinct from retired commercial business-access mechanism (DEC-040). Both seasons center preparedness, strengthened trust, and acceptance that every girl's timeline is her own. Season 1 is approved for continued drafting with E11 rebuilt (Acceptance of Uncertainty). Season 2 provisional draft respects this and inherits the payoff; human validation on revised architecture remains pending before S2 can be marked validated.
 
 ## North Star
 
@@ -33,7 +33,7 @@ The 2024 Canva draft and old chapters are **archive/reference only**. The new bo
 ### Writing
 
 - Two-season premise and legacy episode map: drafted
-- Season 1 Level 1 Flow Grid: approved at Level 1 (AQ-009A–E as amended by DEC-2026-08-20-038/039) — Mia remains 10, no on-page first period in S1 or S2; E11 rebuilt around Acceptance of Uncertainty; payoff chain now Boundaries→Understanding→Preparation→Acceptance of Uncertainty; no on-page period flexibility to hold open in Book Factory
+- Season 1 Level 1 Flow Grid: approved at Level 1 (AQ-009A–E as amended by DEC-2026-08-20-038/039/040) — Mia remains 10, no on-page first period in S1 or S2; E11 rebuilt around Acceptance of Uncertainty; payoff chain now Boundaries→Understanding→Preparation→Acceptance of Uncertainty; E17 lock clarified (community rec center distinct per DEC-040); no on-page period flexibility to hold open in Book Factory
 - Season 1 Stage 2 Outline Feedback Packet: approved (AQ-011, DEC-2026-08-19-037) — evidence record corrected 2026-08-20: simulated diagnostic only, zero human-weight; Named Review Collection excluded; human validation remains open
 - Season 2 Level 1 Flow Grid: **provisional draft created 2026-08-20** at `01-mia-puberty-book/planning/DRAFT-SEASON-2-LEVEL-1-FLOW-GRID.md` (7 episodes: Hair, Bra-vo, Crush, Shade Screen/Uplift, Stress Vortex, CROWN rebuild, Talent Show Handshake) — respects DEC-039 (no on-page period in either season), inherits E11 Acceptance-of-Uncertainty payoff; not validated/locked/advanced until genuine human responses received
 - Episode 1 cold open: drafted
@@ -50,7 +50,7 @@ A per-character GitHub visual library now lives at `01-mia-puberty-book/characte
 - Brenda: revised natural-hair mom-fashionista hero approved and synchronized
 - Marcus: uploaded ChatGPT hero approved exactly and synchronized
 - Mema Hazel: uploaded ChatGPT hero approved; floral house dress retained as alternate
-- Uncle Mo: role-neutral family hero approved; larger story role pending; no business association
+- Uncle Mo: rec center / youth sports program mentor, working toward counseling credential — role settled (DEC-040); community rec center as future CROWN home base distinct from retired commercial mechanism
 - Seraphina: uploaded identity/outfit approved; clean original bedroom hero produced without branded poster art
 - Lily and Max: uploaded ChatGPT heroes approved exactly; personality/story traits preserved
 - **Washington family visual identity gate: complete for all nine family members**
@@ -109,8 +109,8 @@ The Foundation's Active Canon controls workers until those detailed files receiv
 
 ## Current bottleneck
 
-S2 card order reviewed — Solani age/ Uncle Mo rec center role settled, E17 rec center distinction locked (DEC-040, Canon v1.24). Cross-season audit queued but not yet run — will verify S1→S2 inheritance (kit readiness, Acceptance-of-Uncertainty carry, E17 rebuild slot) once provisional S2 draft is confirmed. Human validation (Groups 1,2,4,5 + later child polished-sample) remains required before S2 can be marked validated.
+**Cross-season audit PASS** (2026-08-20, Canon v1.24): S1→S2 inheritance clean — no orphaned payoffs, Mia 10 / Solani 12 continuity held, kit remains readiness symbol (E9 execution note added so E9 does not read as anticlimax), E17 community rec center is distinct from retired commercial mechanism (DEC-040). No audit blockers. Next bottleneck remains genuine human validation (Groups 1,2,4,5 + later child polished-sample) before S2 can be marked validated/locked.
 
 ## Current single next action
 
-Queued: Run cross-season audit (`CROSS-SEASON-AUDIT-DRAFT.md`). Do not start Book Factory Episode 1 prose until audit checks pass. Lean 5–8 reviewer panel remains ready to plan (adults-only at Stage 2) — do not distribute/contact/collect until Keisha authorizes roster/sending.
+Human validation panel remains the only gate before S2 validation — plan lean 5–8 reviewer panel per approved packet (adults-only at Stage 2), but do not distribute/contact/collect until Keisha authorizes roster/sending. Book Factory Episode 1 packet may now proceed (audit passed); E17 mechanism packet remains to-be-proven.
