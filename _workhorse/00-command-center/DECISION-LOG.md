@@ -343,6 +343,19 @@
 
 ---
 
+## DEC-2026-08-20-043 — Graphic-novel format lock; spine remains text-only
+
+- **Decision:** Lock Mia’s Puberty Primer as a **full-color contemporary middle-grade graphic novel** with in-world visual inserts (case files, Myth Machine overlays, diagrams). Interior art is **expressive 2D digital**, animation-influenced — not Pixar-stills, not graphic memoir, not handbook-first. **3D renders** stay valid for promo, trailers, social, and character development only. Constraint Keisha named: the **9-episode spine stays text-only until human reviews.** Format lock does not start illustration, lettering, or page production.
+- **Reason:** The season is already built like sequential visual storytelling; MG graphic novel is the correct shelf. 3D cast art remains useful for marketing without dictating page production.
+- **Does not lock:** theme song, trailer production, GN page count, artist hire.
+- **Still in force:** DEC-039 (no on-page first period); DEC-041 (spine-first, 9 episodes, lean panel).
+- **Files affected:** `_workhorse/01-rules/ACTIVE-CANON.md` (v1.25), this log, CURRENT-STATE/CURRENT-SPRINT/APPROVAL-QUEUE, `01-mia-puberty-book/marketing/graphic-novel/`, `_workhorse/02-inbox/graphic-novel/`
+- **What this unlocks:** Active Canon v1.25; future Book Factory packets may be written as GN *scripts* (text), not illustrated pages.
+- **Approved by:** Keisha
+- **Status:** Locked
+
+---
+
 ## New decision template
 
 ```text

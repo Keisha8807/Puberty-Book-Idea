@@ -1,8 +1,8 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.24 · **Approved:** August 20, 2026 (amends v1.23 per DEC-2026-08-20-040)
+> **Owner and final authority:** Keisha · **Version:** 1.25 · **Approved:** August 20, 2026 (amends v1.24 per DEC-2026-08-20-043)
 
-> **Amends:** Solani 12, Uncle Mo rec center mentor role settled (v1.23 carry), plus clarification: community rec center as CROWN home base is distinct from retired commercial business-access mechanism and is not banned by E17 lock (DEC-040).
+> **Amends:** Interior format locked as full-color contemporary MG graphic novel (2D). 3D remains promo/trailer/development only. Spine stays text-only until human review. Prior v1.24 family/rec-center locks remain in force.
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -26,8 +26,10 @@ Do not dilute the Black-girl-centered mission to satisfy generic inclusivity lan
 ## 3. Naming locks
 
 - Universe: **Sunray Story Universe**
-- Primer: **Mia's Puberty Primer**
+- Primer (internal product name): **Mia's Puberty Primer**
+- Public/commercial category: **story-first middle-grade graphic fiction** — do not lead with “educational primer”
 - Flagship: **the CROWN Club series**
+- **Not allowed labels:** graphic memoir; hybrid graphic memoir; Pixar-stills book; illustrated handbook as the lead identity
 - Retired name: **Glow-Up Girls**—never use in new public or canon material
 - Club: **CROWN Club**, girls-only
 - Season 1 case: **Operation Sisterwatch**
@@ -118,9 +120,19 @@ The exact Ask Mema Hazel page treatment must be approved during the Episode 1 fo
 - Primary current placement: Season 2
 - Kayla and Sophie may be suspected, but the identity and framed-rival twist are not locked until an episode/arc approval gate
 
-## 9. Visual locks
+## 9. Visual and format locks
 
-- Style: modern 3D animation, expressive, warm, high detail, vibrant
+**Book format (DEC-043):** full-color contemporary middle-grade graphic novel with episodic chapters and integrated case-file/infographic elements.
+
+**Interior art:** expressive **2D digital** cartooning — animation-level facial acting, warm saturated color, readable silhouettes, dynamic panels, strong Black skin and textured hair. Not photorealism. Not superhero anatomy. Not manga imitation. Not 3D renders printed in boxes.
+
+**3D / cinematic “show” renders:** allowed for development art, trailers, social, promo, and animation concepts. They do **not** control interior pages.
+
+**Info design:** information belongs to Mia’s world (Myth Machine stamps, kit diagrams, Feelings Forecast, dossier pages). Do not auto-cut to a textbook infographic when an adult speaks.
+
+**Production gate:** spine stays **text-only until human review** (DEC-041). This format lock does **not** unlock illustration, lettering, or page production.
+
+- Character identity style notes below still apply in 2D or 3D:
 - Mia: warm brown skin with golden undertones; expressive brown eyes; freckles; bright even front teeth with no gap; two high fluffy puffs with neat braided/cornrow front sections and colorful star clips; small gold hoops; bright multicolor paint-splash shirt; hot-pink overalls with colorful flower pins; matching multicolor low-top sneakers; colorful bracelets
 - Solani: warm golden-brown skin with red undertones; youthful face and full cheeks; wide-set dark eyes; expressive brows; knowing closed-mouth smile; open grin has a small front gap, deep dimples, and silver braces with changeable colorful elastics (usually lavender/teal); two high fluffy braided puffs with neat cornrow fronts and butterfly clips; hero outfit = cropped lavender hoodie, black joggers with purple drawstring, purple-and-white high-tops; recurring pencil-charm necklace from Uncle Mo; alternate outfit = striped tank, patchwork jeans, mismatched rainbow socks, dusty sneakers
 - Solani must read as **12, 7th grade** — clearly middle-school, not older teen

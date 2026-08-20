@@ -1,6 +1,6 @@
 # CURRENT STATE
 
-> **As of:** August 20, 2026 · **Owner:** Keisha · **Active lane:** Mia's Puberty Primer · **Canon:** v1.24 (DEC-2026-08-20-040)
+> **As of:** August 20, 2026 · **Owner:** Keisha · **Active lane:** Mia's Puberty Primer · **Canon:** v1.25 (DEC-2026-08-20-043)
 
 > **Status update per binding authorial decisions 2026-08-20:** Mia remains 10 and does not experience her first period on-page in either season (DEC-039) and community rec center as future CROWN home base is distinct from retired commercial business-access mechanism (DEC-040). Both seasons center preparedness, strengthened trust, and acceptance that every girl's timeline is her own. Season 1 is approved for continued drafting with E11 rebuilt (Acceptance of Uncertainty). Season 2 provisional draft respects this and inherits the payoff; human validation on revised architecture remains pending before S2 can be marked validated.
 
@@ -21,7 +21,7 @@ The 2024 Canva draft and old chapters are **archive/reference only**. The new bo
 
 ## Locked product architecture
 
-- **On-ramp:** Mia's two-season, 18-episode primer for 5th-grade readers
+- **On-ramp:** Mia's two-season, 18-episode **full-color MG graphic novel** for 5th-grade readers (2D interiors; 3D promo-only)
 - **Bridge:** The Reader Handshake at the June talent show
 - **Flagship:** The 10-book CROWN Club series, split into two five-book cycles
 - **Audiences:** the girl · caregiver + girl · school
@@ -69,6 +69,9 @@ A per-character GitHub visual library now lives at `01-mia-puberty-book/characte
 
 ### Marketing and extensions
 
+- Songs, 10-trailer set, 15 capture mechanics, and 7–11s clips: **filed** at `01-mia-puberty-book/marketing/` (not producing yet)
+- Graphic-novel format lock: **approved** (DEC-043); packet at `01-mia-puberty-book/marketing/graphic-novel/`
+- Theme song: **not** locked
 - Waitlist/freebie system: planned, not built
 - Meet Mia teaser: planned, not built
 - Official book trailer: greenlit for later production

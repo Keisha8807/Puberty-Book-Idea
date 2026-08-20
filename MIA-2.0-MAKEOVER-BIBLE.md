@@ -1,6 +1,8 @@
 # 🎀 MIA 2.0 — THE MAKEOVER BIBLE
 
-> **The mission:** Mia's old manuscript was written in 2024, when she was an only-ish heroine. Now she's **Solani's little sister**, the narrator of a two-season animated-style primer — and the reader's best friend. This is the full facelift spec: who she is, how she talks, how she's funny, how the facts get delivered, and how she looks in 2026.
+> **CANON CONTROL:** Active Canon v1.25 wins. Solani is **12**. No on-page first period. Interiors are **2D graphic novel** (DEC-043).
+
+> **The mission:** Mia's old manuscript was written in 2024, when she was an only-ish heroine. Now she's **Solani's little sister**, the narrator of a two-season graphic-novel primer — and the reader's best friend. This is the full facelift spec: who she is, how she talks, how she's funny, how the facts get delivered, and how she looks in 2026.
 
 ---
 
@@ -12,7 +14,7 @@
 | Dad: Marcus | 👨🏾 **Marcus Washington** — the cool creative dad; coily tapered fade, neat beard, paint-splattered jacket, camera always ready |
 | Grandma: Mema Hazel | 👵🏾 **Mema Hazel** — Marcus's mom, Betty White energy, song-and-dance routines, talks to her plants (kept!) |
 | Older sister: Seraphina | 👩🏾🦱 **Seraphina, 15** — the dramatic OLDEST sister, high school, thinks she's a grown woman |
-| — | 🦋 **SOLANI, 11 (turns 12 in Sept)** — the middle sister. 7th grade. Roast Queen. Going through IT. Mia's subject of investigation |
+| — | 🦋 **SOLANI, 12, 7th grade** — the middle sister. Roast Queen. Going through IT. Mia's subject of investigation |
 | — | 🎀 **MIA, 10** — our narrator, 5th grade |
 | Younger sister: Lily | 🧸 **Lily, 8** — mischievous, steals Mia's stuff, idolizes Solani |
 | Little brother: Max | 👶🏾 **Max, 5** — adorable chaos, Mia's #1 vlog subscriber |
@@ -76,7 +78,7 @@
 
 - **Admiration + terror:** Solani is the coolest AND scariest preview of Mia's future
 - **The secret song:** Mia overhears Solani's headphones-only song through the door (Laughter Currency fragments) — Season 1 mystery seed
-- **Big-sister bits:** Solani roasts Mia at dinner, but leaves her a note the day she gets her period: *"You're gonna be fine, weirdo."*
+- **Big-sister bits:** Solani roasts Mia at dinner, but leaves her a note (E11 lyric fragment / still-herself payoff — **no on-page first period**): *"You're gonna be fine, weirdo."*
 - **"Ask My Sister" vlog segments:** Solani refuses to participate and answers anyway
 - **The Handshake:** Season 2 finale — Mia hands the READER to Solani at the talent show (*"Tell them!" / "Tell who?" / "Them."*)
 
@@ -84,7 +86,7 @@
 
 ## 6. THE LOOK — 2026 DESIGN DIRECTION
 
-- **Style:** modern 3D animation — Turning Red × The Proud Family × Moon Girl, but its own voice
+- **Style:** interiors = expressive 2D digital MG graphic novel (DEC-043). 3D / cinematic renders = promo, trailers, development art only. Think animated-series acting on the page, not Pixar stills in boxes.
 - **Mia's signature:** bright hot-pink overalls with colorful flower pins, a bright multicolor paint-splash tee, matching multicolor low-top sneakers, small gold hoops, colorful bracelets, **star-shaped clips** (her answer to Solani's butterflies — "stars are better anyway"), natural hair in two high fluffy puffs with braided/cornrow front sections, bright even-toothed grin with no gap, freckles
 - **Sister contrast:** Solani = butterfly-puff hair + cropped lavender hoodie + black joggers + purple high-tops. Mia = star-clipped fluffy puffs + hot-pink overalls + multicolor sneakers. Same family, different galaxies.
 - **Her room:** the vlog studio — evidence board, fairy lights, hot pink + yellow

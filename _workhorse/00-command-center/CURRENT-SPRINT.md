@@ -39,10 +39,12 @@ Complete the source-of-truth and visual foundations, lock Season 1 Level 1 archi
 - [x] Feedback-first post-approval sequence is approved
 - [x] Season 1 Stage 2 Outline Feedback Packet is drafted
 - [x] Keisha approves or revises the Stage 2 packet (AQ-011) — **APPROVED 2026-08-19 (DEC-2026-08-19-037, Active Canon v1.21)**: reconciled against restored Outline Feedback System; Group 2 reverted to adults-only at Stage 2; 5–8 ceiling restored
+- [x] Songs and trailer packets filed under `01-mia-puberty-book/marketing/`
+- [x] Graphic-novel format locked (DEC-043 / AQ-012); spine remains text-only until human review
 
 ## Current single next action
 
-Execute the approved Stage 2 packet's next human-controlled step: plan the lean 5–8 panel (one independent adult per lane) and prepare independent-review distribution. No reviewer contact, sending, or posting is authorized until Keisha separately approves the roster/distribution.
+**Draft the 9-episode spine in text only** (GN script language ok; no art). No reviewer contact, sending, posting, illustration, or trailer production this sprint.
 
 ## Sprint completion
 

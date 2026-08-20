@@ -4,9 +4,18 @@
 
 ## Waiting on Keisha
 
-*None — AQ-011 approved. Next approvals will be routed from synthesized Stage 2 findings.*
+*None — AQ-012 (graphic-novel format) approved. Theme song remains parked. Next story approvals wait on the 9-episode text spine.*
 
 ## Approved this sprint
+
+### AQ-012 — Graphic-novel format lock — APPROVED
+
+- **Decision:** Lock full-color contemporary MG graphic novel interiors (2D). 3D promo/trailer/development only. Spine stays text-only until human review.
+- **Approved by:** Keisha
+- **Date:** August 20, 2026
+- **Decision Log:** DEC-2026-08-20-043
+- **Unlocks:** Active Canon v1.25
+
 
 ### AQ-011 — Stage 2 Outline Feedback Packet — APPROVED
 

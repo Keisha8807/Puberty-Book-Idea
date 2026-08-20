@@ -1,7 +1,69 @@
-# 📥 KEISHA DROP BOX — intake only
+# ☀️ SUNRAY WORKHORSE v1
 
-Songs and trailers from the 2026-08-20 drop are in `songs/` and `trailers/`.
+> **Owner:** Keisha · **System:** Sunray Story Universe · **Foundation built:** August 18, 2026
+>
+> **Purpose:** Turn approved ideas into finished work while protecting canon, limiting context switching, and keeping Keisha in control of every consequential decision.
 
-A findable copy also lives at `01-mia-puberty-book/marketing/`.
+## Current scope
 
-Nothing here is Active Canon until approved. Format lock (GN interiors) is already approved separately as DEC-043. Theme song is **not** locked.
+The Workhorse currently serves **Mia's Puberty Primer**. The full CROWN Club series, album rollout, local initiatives, and advanced website features are protected but parked until Mia's two-season primer is complete or Keisha explicitly changes the priority. **BUFU and La Bodega de Luz are retired from active canon.**
+
+Version 1 is **manual-first**. It proves each workflow before any n8n automation is built.
+
+## Foundation map
+
+| Area | File | Job |
+|---|---|---|
+| Current truth | [`00-command-center/CURRENT-STATE.md`](00-command-center/CURRENT-STATE.md) | What is happening now |
+| One active sprint | [`00-command-center/CURRENT-SPRINT.md`](00-command-center/CURRENT-SPRINT.md) | The current goal and next action |
+| Decisions waiting | [`00-command-center/APPROVAL-QUEUE.md`](00-command-center/APPROVAL-QUEUE.md) | What only Keisha can approve |
+| Decision history | [`00-command-center/DECISION-LOG.md`](00-command-center/DECISION-LOG.md) | Why canon or strategy changed |
+| Canon gate | [`01-rules/ACTIVE-CANON.md`](01-rules/ACTIVE-CANON.md) | Compact rules every worker must obey |
+| Source authority | [`01-rules/SOURCE-HIERARCHY.md`](01-rules/SOURCE-HIERARCHY.md) | Which source wins when files conflict |
+| Archive firewall | [`01-rules/ARCHIVE-RULES.md`](01-rules/ARCHIVE-RULES.md) | How old ideas may—and may not—be used |
+| Safety gates | [`01-rules/SAFETY-AND-APPROVALS.md`](01-rules/SAFETY-AND-APPROVALS.md) | Green/yellow/red risk and approval rules |
+| Keisha drop box | [`02-inbox/README.md`](02-inbox/README.md) | Intake-only songs, trailers, graphic-novel — not canon until filed |
+| Job intake | [`03-templates/WORK-REQUEST.md`](03-templates/WORK-REQUEST.md) | Reusable packet for every future task |
+
+## The operating loop
+
+```text
+Keisha's request
+→ Work Request
+→ Source + Canon Gate
+→ One assigned workflow
+→ Review
+→ Approval Queue
+→ Approved output or focused revision
+→ Decision + work log
+```
+
+## Non-negotiable operating rules
+
+1. **One major creative item at a time.**
+2. **One clear next action.** No menu of unrelated work.
+3. **Current canon beats old chats and drafts.**
+4. **Archived material never enters an active draft silently.**
+5. **Workers report conflicts; they do not invent canon fixes.**
+6. **Health, child-facing, public, legal, financial, and outreach work has human approval gates.**
+7. **No public posting, sending, spending, publishing, or calendar commitment happens automatically.**
+8. **Every approved change is logged.**
+9. **The system must reduce mental load. If a step adds more work than it saves, simplify it.**
+
+## Current single next action
+
+**Draft the 9-episode spine in text only** (GN script language ok; no art). Format is locked as a 2D full-color MG graphic novel (DEC-043). Human review before illustration.
+
+## Later layers—not built yet
+
+- Book Factory workflow and pass-downs
+- Visual Factory workflow and asset registry
+- Research Desk source cards
+- Weekly Chief-of-Staff planner
+- Marketing/waitlist engine
+- Community and micro-influencer trackers
+- Website content engine
+- n8n node/prompt/JSON specifications
+- Job logs and dashboards
+
+Those layers are added only after this Foundation is approved.
