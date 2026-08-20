@@ -35,7 +35,7 @@ The 2024 Canva draft and old chapters are **archive/reference only**. The new bo
 - Two-season premise and legacy episode map: drafted
 - Season 1 Level 1 Flow Grid: approved at Level 1 (AQ-009A–E as amended by DEC-2026-08-20-038/039) — Mia remains 10, no on-page first period in S1 or S2; E11 rebuilt around Acceptance of Uncertainty; payoff chain now Boundaries→Understanding→Preparation→Acceptance of Uncertainty; no on-page period flexibility to hold open in Book Factory
 - Season 1 Stage 2 Outline Feedback Packet: approved (AQ-011, DEC-2026-08-19-037) — evidence record corrected 2026-08-20: simulated diagnostic only, zero human-weight; Named Review Collection excluded; human validation remains open
-- Season 2 Level 1 Flow Grid: provisional working draft may be developed; not validated/locked/advanced from Stage 2 gate until genuine human responses received
+- Season 2 Level 1 Flow Grid: **provisional draft created 2026-08-20** at `01-mia-puberty-book/planning/DRAFT-SEASON-2-LEVEL-1-FLOW-GRID.md` (7 episodes: Hair, Bra-vo, Crush, Shade Screen/Uplift, Stress Vortex, CROWN rebuild, Talent Show Handshake) — respects DEC-039 (no on-page period in either season), inherits E11 Acceptance-of-Uncertainty payoff; not validated/locked/advanced until genuine human responses received
 - Episode 1 cold open: drafted
 - Episode 1 full script: not yet drafted
 - Episodes 2–18 full scripts: not started
@@ -109,8 +109,8 @@ The Foundation's Active Canon controls workers until those detailed files receiv
 
 ## Current bottleneck
 
-No confirmed story-level RED blocker identified during internal review. Next bottleneck is obtaining genuine human validation (caregiver/buyer, Group 2 Black-girl dignity lens, educator/librarian, qualified clinician — and later child-reader evidence on polished sample) before Season 2 can be marked validated. Simulated observations carry zero weight toward consensus or approval.
+Season 1 rebuilt and Season 2 provisional draft complete (both respect no on-page period in either season). Next bottleneck is obtaining genuine human validation (caregiver/buyer, Group 2 Black-girl dignity lens, educator/librarian, qualified clinician — and later child-reader evidence on polished sample) before Season 2 can be marked validated. Simulated observations carry zero weight toward consensus or approval.
 
 ## Current single next action
 
-Correct evidence record (DONE — synthesis regenerated with four lanes) and implement binding authorial changes (Flow Grid E11 rebuild, Canon v1.22, claim-sheet/storage updates). Next human-controlled action remains planning the lean 5–8 reviewer panel per approved packet (adults-only at Stage 2) — do not distribute, contact, or collect until Keisha separately authorizes roster/sending; no simulated persona counts as human evidence.
+Review the provisional Season 2 Level 1 Flow Grid (7 episodes). If approved as provisional working draft, next human-controlled actions remain: (1) plan lean 5–8 reviewer panel per approved packet (adults-only at Stage 2) — do not distribute/contact/collect until Keisha authorizes roster/sending; (2) queue cross-season audit + E17 rebuild packet after genuine validation.
