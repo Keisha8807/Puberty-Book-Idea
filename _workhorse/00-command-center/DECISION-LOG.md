@@ -310,6 +310,16 @@
 
 ---
 
+## DEC-2026-08-20-040 — Clarify: Community rec center as future CROWN home base is distinct from retired commercial business-access mechanism
+
+- **Decision:** Per Keisha's explicit YES (distinct): the community rec center / youth sports program (public/nonprofit mentorship space, Uncle Mo mentoring + counseling-credential track) **is meaningfully different** from the retired La Bodega de Luz / BUFU / Uncle Mo business-access mechanism (commercial back-room). The E17 lock's ban is clarified to cover commercial/business-access only; the community rec center as eventual CROWN Club home base in Solani's series is **not** banned and may lean on Episode 17's eventual rebuild. E17 still requires its own packet to prove the specific replacement mechanism/location; this decision does not pre-approve any E17 design.
+- **Reason:** Retired mechanism used commercial business access as the way into the club; new mechanism uses public/nonprofit mentorship space and relational access, not commercial leverage — different access logic, consistent with Uncle Mo's settled mentoring role.
+- **Files affected:** `_workhorse/01-rules/ACTIVE-CANON.md` (v1.23→v1.24, E17 lock clarification), `01-mia-puberty-book/planning/DRAFT-SEASON-2-LEVEL-1-FLOW-GRID.md` (S2 header, E17 row)
+- **Approved by:** Keisha
+- **Status:** Locked
+
+---
+
 ## New decision template
 
 ```text

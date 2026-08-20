@@ -1,8 +1,8 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.23 · **Approved:** August 20, 2026 (amends v1.22 per DEC-2026-08-20-039)
+> **Owner and final authority:** Keisha · **Version:** 1.24 · **Approved:** August 20, 2026 (amends v1.23 per DEC-2026-08-20-040)
 
-> **Amends:** Mia remains 10 and does not experience her first period on-page in Season 1 or Season 2. Both seasons now end on Acceptance-of-Uncertainty / preparedness arc; kit remains readiness symbol with no on-page use required in either season.
+> **Amends:** Solani 12, Uncle Mo rec center mentor role settled (v1.23 carry), plus clarification: community rec center as CROWN home base is distinct from retired commercial business-access mechanism and is not banned by E17 lock (DEC-040).
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -79,7 +79,7 @@ Retired family names/details that must not return: Mia Luz, Solani Maris, Maritz
 - Season 1 uses exactly three restrained music clues: Episode 1 introduces a muffled private-song fragment, Episode 3 deepens the thread through a lyric-notebook glimpse Mia does not read, and Episode 11 pays it off through Solani's private note signed with a lyric fragment
 - The music pattern is **introduce → deepen → payoff**, not a plot-active breadcrumb trail; no full song, CROWN explanation, privacy violation, or early `Headlines` release is allowed
 - Episode 17 remains **[FLOW GRID REBUILD — CROWN CLUE]** until the Season 2 Flow Grid proves a replacement mechanism and location
-- Episode 17 cannot reuse La Bodega de Luz, a bodega back room, BUFU, or Uncle Mo as a business-access mechanism; this negative constraint does not pre-approve any replacement
+- Episode 17 cannot reuse La Bodega de Luz, a bodega back room, BUFU, or a commercial business-access mechanism; the community rec center / youth sports program (public/nonprofit mentorship space tied to Uncle Mo's settled role) is distinct from the retired commercial mechanism and is **not** banned by this lock — this negative constraint does not pre-approve any specific E17 replacement, which still requires its own packet
 - Stage 2 Outline Feedback System packet is **approved (DEC-2026-08-19-037 / AQ-011)** as reconciled against the restored standalone Outline Feedback System: five lanes (original four adult groups mapped to Groups 1/3/4/5 + added Group 2 Black-girl reader and dignity lens), 5–8 reviewer ceiling, adults-only at Stage 2 (child feedback deferred until a safer, more polished sample with parent/caregiver permission). Post-Stage-2 order: lean independent reviews → synthesis → Keisha reviews evidence before Season 2 architecture proceeds; feedback may recommend but cannot change canon automatically
 - Mia talks directly to the reader; the reader is her case partner
 - Mia uses lists, case files, text threads, invented words, dramatic logic, and stingers

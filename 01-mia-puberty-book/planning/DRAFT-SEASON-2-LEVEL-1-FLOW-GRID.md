@@ -1,10 +1,10 @@
 # MIA'S PUBERTY PRIMER — SEASON 2 LEVEL 1 FLOW GRID (PROVISIONAL DRAFT)
 
-> **Status:** PROVISIONAL WORKING DRAFT · **Built on:** Season 1 Level 1 Flow Grid as amended by DEC-2026-08-20-038/039 (Canon v1.23) · **Season:** The Butterfly Files · **Episodes:** 12–18 (7 episodes) · **Timeline:** February–June
+> **Status:** PROVISIONAL WORKING DRAFT · **Built on:** Season 1 Level 1 Flow Grid as amended by DEC-2026-08-20-038/039/040 (Canon v1.24) · **Season:** The Butterfly Files · **Episodes:** 12–18 (7 episodes) · **Timeline:** February–June
 >
 > **Planning level:** Level 1 compact architecture. Cards establish flow before detailed Book Factory packets, cross-season audit, or prose. **Not validated/locked** — provisional only until genuine Stage 2 human validation completes (see CURRENT-STATE).
 >
-> **Active Canon:** v1.23 · **Retired:** La Bodega de Luz, BUFU, Mia on-page first period in S1/S2 · **Fresh baseline:** Operation Sisterwatch cold open, Acceptance-of-Uncertainty payoff, kit as readiness symbol.
+> **Active Canon:** v1.24 · **Retired:** La Bodega de Luz, BUFU, Mia on-page first period in S1/S2 (DEC-039) · **Fresh baseline:** Operation Sisterwatch cold open, Acceptance-of-Uncertainty payoff, kit as readiness symbol; Uncle Mo rec center mentor role settled, community rec center not banned as CROWN home base per DEC-040.
 
 ---
 
@@ -50,10 +50,10 @@ At the June talent show, Mia watches Solani perform. Solani's lyric/note thread 
 
 ### Locked constraints for S2
 
-- **Mia remains 10 throughout S2; no on-page first period in S1 or S2 (DEC-039, Canon v1.23).** No Book Factory packet may assume, foreshadow, or require an on-page first-period scene for Mia as its payoff.
+- **Mia remains 10 throughout S2; no on-page first period in S1 or S2 (DEC-039, Canon v1.24).** No Book Factory packet may assume, foreshadow, or require an on-page first-period scene for Mia as its payoff.
 - **Kit payoff is not use.** Kit remains readiness symbol; S2 may reference it as available resource, not as required demonstration.
 - **Solani's privacy/music ownership remains protected.** Secret song thread stays introduce→deepen→payoff with restraint; no full song, no notebook reading, no CROWN origin reveal.
-- **Episode 17 is [FLOW GRID REBUILD — CROWN CLUE]** — no bodega, BUFU, or Uncle Mo business-access. Mema line holds: "some stories belong to the person living them."
+- **Episode 17 is [FLOW GRID REBUILD — CROWN CLUE]** — no bodega, BUFU, or commercial business-access; community rec center as CROWN home base in Solani's series is distinct per DEC-040 and **not** banned by this lock. Mema line holds: "some stories belong to the person living them."
 - **Adults provide context, not rescue of Mia's central emotional problem** — same guardrail as S1.
 
 ---
@@ -67,7 +67,7 @@ At the June talent show, Mia watches Solani perform. Solani's lyric/note thread 
 | 14. **Crush Confidential** | Early Mar · classroom / hallway / group chat | Is a crush a promise? Is Jada in LOVE forever now? | Decode crush as contract → "Feelings make me vulnerable or disloyal to friends." | Crushes are common, varied, and not contracts; boundaries and friendship endure alongside new feelings. | Mema Hazel + Brenda | Mia learns feelings can be named without acting on every inference. | Prepares Shade Screen's social-pressure turn. | A screenshot of a fake post appears — Shade Screen |
 | 15. **Selfies, Snaps & Shade** | Late Mar · school / home / library | Who's posting on the anonymous Shade Screen — and is the internet real life? | Unmask the poster at any cost → "If I don't control the story, it will control me." | Digital citizenship, privacy, upstanding/ally behavior; anonymous ≠ invisible; Uplift Project as counter-response. | Ms. Vitality + Brenda (digital + home) | Mia chooses reporting + allyship over detective revenge. | Shade Screen is fictional; Uplift is positive response. Kayla/Sophie may be *suspected*, identity not locked until approval gate. | Stress piles up — tests, growing, feelings |
 | 16. **The Stress Vortex** | Late Apr · home / school / Zen Zone | Everything at once — tests, growing, FEELINGS — am I weak for feeling stressed? | Push through alone → "Asking for help means failing." | Stress is not weakness; sleep, movement, help-seeking, and small coping tools matter; pencil-charm wisdom as coping symbol. | Uncle Mo + Ms. Harmony | Mia practices asking and using a small tool rather than powering through. | Pencil-charm callback; Zen Zone. | A clipboard unicorn-backpack stranger at Solani's school — CROWN clue tease |
-| 17. **[FLOW GRID REBUILD — CROWN CLUE]** | Early May · location/mechanism TBD | What is the "crown" really — actual royal headgear or something else? | Solve Solani's world once and for all → "If I don't solve her now, I'll never belong." | Some stories belong to the person living them; curiosity needs boundaries even with people you love. | Mema Hazel (boundary keeper) | Mia chooses to let Solani's story stay Solani's. | Rebuild slot — no bodega/BUFU/Uncle Mo business access. Proves replacement mechanism. | Talent show invitations go out |
+| 17. **[FLOW GRID REBUILD — CROWN CLUE]** | Early May · rec center vicinity (mechanism TBD, public/nonprofit) | What is the "crown" really — actual royal headgear or something else? | Solve Solani's world once and for all → "If I don't solve her now, I'll never belong." | Some stories belong to the person living them; curiosity needs boundaries even with people you love. | Mema Hazel (boundary keeper) + Uncle Mo as rec center mentor (not business-access) | Mia chooses to let Solani's story stay Solani's. | Rebuild slot — no bodega/BUFU/commercial business-access; rec center as future CROWN home base noted as distinct per DEC-040, proves replacement mechanism. | Talent show invitations go out |
 | 18. **The Talent Show (S2 FINALE — Handshake)** | Early June · school auditorium / backstage | How do you hand a story — and a reader — to your sister? | Stay the main character forever → "If I hand it off, I disappear." | Growing up includes making room for others' voices; you can hand off without losing yourself. | Brenda + Solani + Ensemble | Mia completes Acceptance of Uncertainty → Handshake: "That part? That's not my story to tell. She will." | Music bridge payoff: first chords of HEADLINES teased on stage; Reader Handshake to CROWN Club Book 1. | End card: CROWN Club teased |
 
 ---
