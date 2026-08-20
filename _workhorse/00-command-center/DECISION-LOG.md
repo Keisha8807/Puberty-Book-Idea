@@ -332,6 +332,17 @@
 
 ---
 
+## DEC-2026-08-20-042 — Backfill: Solani age correction to plain 12, 7th grade (no birthday transition)
+
+- **Decision:** Correct Solani's age phrasing from "11; turns 12 in September" / "11→12" to plain "12, 7th grade" throughout Canon, Flow Grids, and visual locks. Birthday remains end of September (so she is already 12 for the rest of S1 and all of S2), but no transition is implied in prose or art.
+- **Reason:** Age was already resolved per Keisha's review direction; the file edit was applied directly without a standalone DEC number. This backfill ensures the Decision Log remains a complete, auditable record alongside the forty-plus other logged changes — no silent edit left unlogged.
+- **Files affected:** `_workhorse/01-rules/ACTIVE-CANON.md` (§4 Washington family table, §9 Solani visual lock "12, 7th grade" + Uncle Mo settled role already logged in same commit), `01-mia-puberty-book/planning/DRAFT-SEASON-2-LEVEL-1-FLOW-GRID.md` (Who S2 helps)
+- **Approved by:** Keisha
+- **Status:** Locked
+- **Companion edits in same commit:** Uncle Mo role settled to rec center / youth sports program mentor, working toward counseling credential (also part of this age-sync commit; E17 rec-center distinction separately logged as DEC-040).
+
+---
+
 ## New decision template
 
 ```text
