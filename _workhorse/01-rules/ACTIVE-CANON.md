@@ -176,7 +176,7 @@ Read only the references needed for the assigned job:
 
 - `SUNRAY-UNIVERSE-SERIES-BIBLE.md`
 - `01-mia-puberty-book/MIA-PRIMER-SERIES-BIBLE-v2.md`
-- `MIA-2.0-MAKEOVER-BIBLE.md`
+- `01-mia-puberty-book/MIA-2.0-MAKEOVER-BIBLE.md`
 - `01-mia-puberty-book/characters/CHARACTER-PROMPTS-FOR-APPROVAL.md`
 - `MUSIC-BRIDGE-STRATEGY.md`
 - `READER-HANDSHAKE-BEAT.md`

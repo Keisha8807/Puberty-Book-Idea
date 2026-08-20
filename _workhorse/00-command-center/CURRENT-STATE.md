@@ -14,7 +14,7 @@ The new manuscript begins with:
 
 - `01-mia-puberty-book/chapters/DRAFT-v2-Chapter1-ColdOpen.md`
 - `01-mia-puberty-book/MIA-PRIMER-SERIES-BIBLE-v2.md`
-- `MIA-2.0-MAKEOVER-BIBLE.md`
+- `01-mia-puberty-book/MIA-2.0-MAKEOVER-BIBLE.md`
 - `SUNRAY-UNIVERSE-SERIES-BIBLE.md`
 
 The 2024 Canva draft and old chapters are **archive/reference only**. The new book is not an assembly or light revision of the Canva manuscript. No old prose, structure, design, or factual claim survives automatically.
