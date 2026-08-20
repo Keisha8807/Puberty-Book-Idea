@@ -12,7 +12,7 @@
 
 ### Who Season 2 helps
 
-Same reader, a few months later — still 5th grade, still 10 — with new questions: body hair, bra shopping, crushes, online life, stress. Solani (11→12, 7th grade) remains the slightly-ahead sister, not the teacher.
+Same reader, a few months later — still 5th grade, still 10 — with new questions: body hair, bra shopping, crushes, online life, stress. Solani (12, 7th grade) remains the slightly-ahead sister, not the teacher.
 
 ### How Season 2 helps
 

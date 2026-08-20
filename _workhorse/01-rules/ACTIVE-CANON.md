@@ -44,9 +44,9 @@ The Washingtons are an **African American Black family** living in Albany, New Y
 | Brenda | Mom; warm and perceptive |
 | Marcus | Dad; early 40s; short coily tapered fade; full neat beard; no glasses; paint-splattered denim jacket; camera; creative and playful |
 | Mema Hazel | Grandma; show tunes, cat-eye glasses, talks to plants, trusted myth-buster |
-| Uncle Mo | Brenda's brother; warm family member; larger story role pending; no current business role; never call him Tío Mo |
+| Uncle Mo | Brenda's brother; warm family member; rec center / youth sports program mentor, working toward counseling credential; late 30s; open welcoming role fixed — no business-association flag pending |
 | Seraphina | 15; dramatic oldest sister |
-| **Solani Maya Washington** | **11; turns 12 in September; 7th grade; witty big sister; butterfly clips; lyricist** |
+| **Solani Maya Washington** | **12, 7th grade; witty big sister; butterfly clips; lyricist** |
 | **Mia Zora Washington** | **10; 5th grade; investigator and narrator; star clips** |
 | Lily | 8; mischievous younger sister |
 | Max | 5; little brother; superhero cape; Mia's enthusiastic viewer |
@@ -123,10 +123,10 @@ The exact Ask Mema Hazel page treatment must be approved during the Episode 1 fo
 - Style: modern 3D animation, expressive, warm, high detail, vibrant
 - Mia: warm brown skin with golden undertones; expressive brown eyes; freckles; bright even front teeth with no gap; two high fluffy puffs with neat braided/cornrow front sections and colorful star clips; small gold hoops; bright multicolor paint-splash shirt; hot-pink overalls with colorful flower pins; matching multicolor low-top sneakers; colorful bracelets
 - Solani: warm golden-brown skin with red undertones; youthful face and full cheeks; wide-set dark eyes; expressive brows; knowing closed-mouth smile; open grin has a small front gap, deep dimples, and silver braces with changeable colorful elastics (usually lavender/teal); two high fluffy braided puffs with neat cornrow fronts and butterfly clips; hero outfit = cropped lavender hoodie, black joggers with purple drawstring, purple-and-white high-tops; recurring pencil-charm necklace from Uncle Mo; alternate outfit = striped tank, patchwork jeans, mismatched rainbow socks, dusty sneakers
-- Solani must read as **11, nearly 12**, not as an older teen
+- Solani must read as **12, 7th grade** — clearly middle-school, not older teen
 - Brenda: youthful late-30s mom; warm brown skin; huge joyful laugh; polished shoulder-length natural twist-out; gold hoops; terracotta wrap blouse with softly puffed sleeves and tied waist; high-waisted dark indigo tailored wide-leg jeans; slim cognac belt; stacked bracelets; cognac pointed-toe flats; wooden spoon family-call prop
 - Mema Hazel: clearly in her 70s; deep warm brown skin; teal-patterned headwrap; coral-pink cat-eye glasses worn on her face; flower earrings; chunky beads; floral cardigan with pink trim; coral top; olive pants; pink slip-ons; potted plant; alternate flowing floral house dress and dance pose
-- Uncle Mo: late 30s; warm brown skin; short coily taper; full neat beard and mustache; forest-green rolled-sleeve overshirt; cream henley; dark-brown chinos; tan-and-cream high-tops; brown-strap watch; open welcoming gesture; role remains pending and no business association is allowed
+- Uncle Mo: late 30s; warm brown skin; short coily taper; full neat beard and mustache; forest-green rolled-sleeve overshirt; cream henley; dark-brown chinos; tan-and-cream high-tops; brown-strap watch; open welcoming gesture; rec center / youth sports program mentor, working toward counseling credential
 - Seraphina: 15; deep warm brown skin; long gold-cuffed braids; winged eyeliner; gold hoops/layered jewelry; rust cropped `DRAMA` sweatshirt; distressed cuffed jeans; gold chain belt; black-and-white platform high-tops; smartphone; bedroom vanity/fairy-light setting without branded background art
 - Lily: 8; warm brown skin; rosy freckled cheeks; amber-brown eyes; shoulder-length beaded twists/braids with oversized colorful mismatched bows; rainbow-striped tee; denim shortalls; yellow socks; pink high-tops; hands-on-hips mischief; collecting "borrowed" items remains a story trait
 - Max: 5; warm brown skin; chubby cheeks; dark eyes; short tight curls; red-and-gold cape; cream `W` shirt over royal-blue sleeves; cuffed jeans; red-blue-white sneakers; superhero stance; love of filming Mia remains a story trait
