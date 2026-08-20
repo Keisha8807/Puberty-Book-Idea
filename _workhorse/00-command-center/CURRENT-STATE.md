@@ -1,6 +1,8 @@
 # CURRENT STATE
 
-> **As of:** August 19, 2026 · **Owner:** Keisha · **Active lane:** Mia's Puberty Primer
+> **As of:** August 20, 2026 · **Owner:** Keisha · **Active lane:** Mia's Puberty Primer · **Canon:** v1.22 (DEC-2026-08-20-038)
+
+> **Status update per binding authorial decisions 2026-08-20:** Season 1 is approved for continued drafting and internal architecture development with Mia's first-period event removed. Revised ending centers preparedness, strengthened trust, and acceptance that every girl's timeline is her own. Human-reader, educator, cultural-dignity, and clinical validation remain pending. Season 2 Level 1 may be developed as provisional working draft only — not validated/locked/advanced from Stage 2 gate until genuine responses received.
 
 ## North Star
 
@@ -31,13 +33,13 @@ The 2024 Canva draft and old chapters are **archive/reference only**. The new bo
 ### Writing
 
 - Two-season premise and legacy episode map: drafted
-- Season 1 Level 1 Flow Grid: fully approved (AQ-009A–E)
-- Season 2 Level 1 Flow Grid: waiting until Stage 2 findings are reviewed
-- Season 1 Stage 2 Outline Feedback Packet: drafted; awaiting AQ-011 approval before any distribution
+- Season 1 Level 1 Flow Grid: approved at Level 1 (AQ-009A–E as amended by DEC-2026-08-20-038) — Mia remains 10, no on-page first period in S1; E11 rebuilt around Acceptance of Uncertainty; payoff chain now Boundaries→Understanding→Preparation→Acceptance of Uncertainty
+- Season 1 Stage 2 Outline Feedback Packet: approved (AQ-011, DEC-2026-08-19-037) — evidence record corrected 2026-08-20: simulated diagnostic only, zero human-weight; Named Review Collection excluded; human validation remains open
+- Season 2 Level 1 Flow Grid: provisional working draft may be developed; not validated/locked/advanced from Stage 2 gate until genuine human responses received
 - Episode 1 cold open: drafted
 - Episode 1 full script: not yet drafted
 - Episodes 2–18 full scripts: not started
-- Ask Mema Hazel: approved direction for the franchise system; exact in-book implementation still requires a manuscript-format approval gate
+- Ask Mema Hazel: approved direction for franchise system; exact in-book implementation still requires manuscript-format approval gate
 
 ### Visuals
 
@@ -107,8 +109,8 @@ The Foundation's Active Canon controls workers until those detailed files receiv
 
 ## Current bottleneck
 
-The visual foundation, Season 1 Level 1 architecture, and Stage 2 Outline Feedback Packet are fully locked (AQ-011 approved, DEC-2026-08-19-037, Active Canon v1.21). Next bottleneck is executing the lean Stage 2 review itself: recruit 5–8 independent reviewers across five lanes, collect evidence-labeled findings, and synthesize without groupthink or majority-rule weighting.
+No confirmed story-level RED blocker identified during internal review. Next bottleneck is obtaining genuine human validation (caregiver/buyer, Group 2 Black-girl dignity lens, educator/librarian, qualified clinician — and later child-reader evidence on polished sample) before Season 2 can be marked validated. Simulated observations carry zero weight toward consensus or approval.
 
 ## Current single next action
 
-Plan the lean 5–8 reviewer panel per the approved packet (AQ-011) — select one independent adult per lane, preserve independent-review-before-synthesis order, and do not distribute until Keisha separately authorizes the reviewer roster and sending. Approval of the document alone does not authorize contact, sending, posting, child data collection, or a medical-review claim.
+Correct evidence record (DONE — synthesis regenerated with four lanes) and implement binding authorial changes (Flow Grid E11 rebuild, Canon v1.22, claim-sheet/storage updates). Next human-controlled action remains planning the lean 5–8 reviewer panel per approved packet (adults-only at Stage 2) — do not distribute, contact, or collect until Keisha separately authorizes roster/sending; no simulated persona counts as human evidence.

@@ -1,6 +1,8 @@
 # ACTIVE CANON — SUNRAY WORKHORSE GATE
 
-> **Owner and final authority:** Keisha · **Version:** 1.21 · **Approved:** August 19, 2026
+> **Owner and final authority:** Keisha · **Version:** 1.22 · **Approved:** August 20, 2026 (amends v1.21 per DEC-2026-08-20-038)
+
+> **Amends:** Season 1 payoff rebuilt — Mia remains 10, no on-page first period in S1; payoff is Boundaries→Understanding→Preparation→Acceptance of Uncertainty; kit as readiness symbol. Whether/when Mia's period occurs on-page to be decided separately, not auto-moved to S2.
 >
 > This is the compact rule set every worker reads before beginning. It does not replace the full bibles; it prevents archived or conflicting material from overriding them.
 
@@ -68,9 +70,9 @@ Retired family names/details that must not return: Mia Luz, Solani Maris, Maritz
 - Two seasons, 18 episodes total
 - Season 1: 11 episodes
 - Season 2: 7 episodes including the talent-show finale
-- Season 1 governing spine/order is approved at Level 1: Mia begins by investigating Solani, progresses through the 11 Episode Flow Cards, and experiences her own first period in Episode 11
-- Episode 11's milestone resolves Mia's fear that growing up will erase her; it does **not** imply that every 10-year-old or reader follows Mia's timing
-- Episode 8's privacy setup is approved: an innocent household mix-up puts Solani's red-stained pajama shorts among Lily's “borrowed” items, allowing Mia to apply the Episode 5 boundary lesson before the clue becomes public
+- Season 1 governing spine/order is approved at Level 1: Mia begins by investigating Solani and progresses through the 11 Episode Flow Cards. Per binding decision 2026-08-20 (DEC-2026-08-20-038), Mia remains ten throughout Season 1 and **does not experience her first period on-page in Season 1**; revised payoff chain is Boundaries → Understanding → Preparation → Acceptance of Uncertainty (E5 → E8 → E9 → E11).
+- Episode 11 resolves Mia's fear that growing up will erase her by accepting uncertainty: prepared and supported without needing to predict/control timing; kit remains as readiness symbol, use in S1 not required; does **not** imply any timeline for the reader.
+- Episode 8's privacy setup is approved with binding dignity safeguard (immediately privatized, Lily oblivious, stain never joke, no other children see/discuss, Solani controls disclosure, Mia chooses dignity over case): an innocent household mix-up puts Solani's red-stained pajama shorts among Lily's “borrowed” items, allowing Mia to apply the Episode 5 boundary lesson before the clue becomes public
 - Episode 8 staging must keep Solani blameless, Lily oblivious rather than gossiping, the stain non-graphic and non-disgusting, and Solani in control of disclosure; the exact household-mix-up mechanics belong in the Episode 8 Book Factory packet
 - Season 1 uses an approved support web rather than one all-purpose mentor: Brenda, Nurse Nightingale, and Solani are recurring relational anchors; Ms. Harmony recurs in her school social-emotional role; Mema opens/callbacks; Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles appear once where their relationships or expertise fit
 - Adults provide trustworthy context and care but do not solve Mia's central emotional problem; Brenda and Solani remain characters, one-episode adults must not feel like rotating guest lecturers, and any added Mema presence waits for the Ask Mema format gate

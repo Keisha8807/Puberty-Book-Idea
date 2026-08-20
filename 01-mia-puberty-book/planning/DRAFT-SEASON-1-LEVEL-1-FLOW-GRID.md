@@ -50,11 +50,13 @@ Mia learns that preparation is not permission to invade someone else's privacy. 
 
 ### Closing state
 
-Mia's preparation is tested when her own first period begins. She uses the support system built across the season and discovers that a body milestone does not instantly make her older, different, or less silly.
+Mia's preparation is tested when she must accept uncertainty. She closes or redefines Operation Sisterwatch, repairs trust with Solani, and discovers that knowing what she can do and whom she can ask matters more than predicting exactly when puberty will happen. She remains ten, informed, supported, and still herself.
 
-### Approved finale lock — AQ-009A
+### Approved finale lock — AQ-009A ( superseded in part by authorial decision 2026-08-20, DEC-2026-08-20-038 )
 
-Keisha approved the governing Season 1 spine and order: **Mia begins by investigating Solani, progresses through the 11 cards shown here, and gets her own first period in Episode 11.** This is a character-specific event and payoff—not a promise that every 10-year-old reader will begin at the same age.
+Season 1 spine and 11-episode order remain approved: **Mia begins by investigating Solani and progresses through the 11 cards shown here.** The element of **Mia getting her own first period in Episode 11 is removed by binding authorial decision.** Mia remains ten throughout Season 1; whether she ever begins her period on-page will be decided separately and is not automatically moved to Season 2. Period kit remains as symbol of practical readiness; use in Season 1 not required to complete the arc.
+
+The revised payoff chain is **Boundaries → Understanding → Preparation → Acceptance of Uncertainty** (E5 → E8 → E9 → E11). Payoff is not "kit gets used" but Mia moving from needing to control puberty through investigation to feeling prepared without demanding certainty. This does not create an orphaned setup.
 
 ---
 
@@ -71,8 +73,8 @@ Keisha approved the governing Season 1 spine and order: **Mia begins by investig
 | 7. **Friendship Fluctuations** | Late Nov · cafeteria / art table / Mia's room | If best friends fight, is the friendship over? | Force Jada and Emma to agree → “Change will take my people away.” | Healthy friendship can include conflict, repair, accountability, new interests, and boundaries. | Brenda | Mia realizes her fixing attempts made both friends feel unheard. | The Myth Machine survives by changing its rules. | Lily appears, oblivious, with something red that belongs to Solani |
 | 8. **The Crimson Mystery** | Early Dec · home hallway / laundry / bathroom | Is the red stain evidence of an injury? | Prove Solani needs rescuing → “Periods mean danger and humiliation.” | Menstruation is normal uterine bleeding, not an injury; timing varies; privacy and respectful help matter. | Brenda + Solani | Mia chooses Solani's dignity over a public “case reveal.” | Episode 5 boundary lesson pays off. | Mia decides every backpack needs a plan |
 | 9. **Operation Period Power** | Mid Dec · kitchen table / school nurse / backpack | What belongs in an emergency period kit? | Build the Ultimate Kit → “If I'm not prepared for everything, disaster wins.” | Period products and routines vary; practical preparation reduces panic; periods do not require life to stop. | Nurse Nightingale + Brenda + Solani | Mia makes a useful kit without treating it like armor against growing up. | Kit goes into Mia's backpack for later payoff. | A pimple appears before Mia records a video |
-| 10. **Pimple Patrol** | Mid Jan · mirror / vlog setup / pediatric office | Can Mia erase a pimple before anyone sees it? | Remove it immediately → “Visible change gives other people power over me.” | Acne is common and not proof of dirtiness; gentle evidence-based care and not picking matter; dark marks deserve careful care. | Dr. Smiles | Mia posts/keeps a funny imperfect moment instead of hiding her face. | Reader trust: facts require source and clinician review. | Mia discovers red in her own underwear at school |
-| 11. **The Case Is Cracking** | Late Jan · school restroom / nurse office / home | Is Mia's first period the moment she becomes a different person? | Get through unseen and unchanged → “A period promotes me into adulthood.” | A first period is one body milestone; preparation, trusted adults, privacy, and choice help; the reader's timing may differ. | Nurse Nightingale + Brenda + Solani | Mia uses the kit, asks for help, and realizes she is still Mia. | Solani leaves a note signed with a lyric; secret song remains hers. | Season 2: body-hair clue / Butterfly Files begin |
+| 10. **Pimple Patrol** | Mid Jan · mirror / vlog setup / pediatric office | Can Mia erase a pimple before anyone sees it? | Remove it immediately → “Visible change gives other people power over me.” | Acne is common and not proof of dirtiness; gentle evidence-based care and not picking matter; dark marks deserve careful care. | Dr. Smiles | Mia posts/keeps a funny imperfect moment instead of hiding her face. | Reader trust: facts require source and clinician review. | Mia decides what to do with what she now knows |
+| 11. **The Case Is Cracking (Rebuilt)** | Late Jan · home / Washington living room / Mia's room | Can Mia accept not knowing exactly when puberty will happen? | Keep investigating until she can predict/control → “If I can't control it, I'm not ready.” | Preparation means knowing what you can do and whom you can ask; every girl's timeline is her own; growing up does not erase who you are. | Brenda + Solani (supported by earlier trusted adults, not a new rescue) | Mia closes/redefines Operation Sisterwatch, repairs with Solani, and accepts uncertainty while still herself — informed and supported. | Solani leaves a note signed with a lyric; secret song remains hers. | Season 2: body-hair clue / Butterfly Files begin |
 
 ---
 
@@ -704,66 +706,66 @@ Strengthens child/clinician trust; no product endorsement.
 
 ### Stinger
 
-At school, Mia finds red in her own underwear.
+Mia starts to wonder whether Operation Sisterwatch was the wrong case all along.
 
 ---
 
-## EPISODE 11 — THE CASE IS CRACKING
+## EPISODE 11 — THE CASE IS CRACKING (REBUILT — 2026-08-20 Authorial Decision)
 
 ### Concept
 
-Everything Mia learned becomes useful when the case reaches her body—and she discovers that preparation is support, not control.
+Operation Sisterwatch ends not with a medical event but with Mia accepting uncertainty — prepared, supported, and still herself.
 
 ### Premise
 
-Mia's first period begins in a school restroom. She has the kit but still freezes because the event feels bigger than the facts.
+With the backpack kit ready and Solani's trust tentatively repaired, Mia realizes the question she has been investigating was never answerable: when will puberty happen to her, and can she control it by solving Solani?
 
 ### Short synopsis
 
-Mia initially tries to hide, fearing that telling someone will make the milestone “official.” She remembers the boundary, feelings, body, and period lessons built across the season. She uses her kit, asks Nurse Nightingale for help, and contacts Brenda. At home, Solani leaves a funny, tender note that does not steal Mia's privacy. Mia tells the reader that a first period did not promote her into adulthood; it made her a ten-year-old who had a first period. Solani's note includes a lyric fragment, preserving the music bridge.
+Mia prepares to present a final "Sisterwatch Report" and discovers she cannot predict or control timing. She recognizes Solani's privacy was never a mystery she was entitled to solve. She makes a meaningful repair with Solani, closes or redefines Operation Sisterwatch, and returns to an ordinary, funny, recognizably Mia activity (drawing, filming, case-file doodle) to show she is still herself. She holds the line: "I still didn't know when it would happen. But I knew who I could ask—and I didn't have to solve everything today." — directional voice, final phrasing to be tuned for natural Mia speech. Solani leaves a note signed with a lyric fragment, preserving the music bridge without reading her notebook.
 
 ### Mia's want
 
-Get through the first period unseen, unchanged, and completely in control.
+Keep investigating until she can predict and control exactly what puberty will do.
 
 ### Hidden fear
 
-A period instantly turns her into a teenager/adult and ends the version of herself she likes.
+If she cannot control timing, she is not ready, not safe, or not herself after the change.
 
 ### Educational promise
 
-A first period is one milestone; timing differs; practical steps and trusted adults help; privacy and emotions are valid; urgent or concerning symptoms require adult/clinical support.
+Preparation means knowing what you can do and whom you can ask; every girl's timeline is her own; growing up does not erase who you are. (No on-page first period in Season 1; kit remains as symbol of readiness — use not required.)
 
 ### Reader transformation
 
-“My first period will change who I am” → “My body can reach a milestone while I remain myself.”
+“I need to solve/control puberty to be safe” → “I can be prepared and supported even while the timing stays uncertain, and I'm still me.”
 
-### Myth Machine theories
+### Myth Machine theories (revised to match uncertainty arc)
 
-- A first period means instant adulthood.
-- A prepared person should not feel scared.
-- The only successful response is handling it alone.
-- Every first period experience follows the same script.
+- If I learn enough, I can predict exactly when puberty will happen.
+- A prepared person shouldn't still feel uncertain or scared.
+- A case is only closed when you have a certain answer.
+- Growing up will instantly change who you are.
 
 ### Trusted truth-givers
 
-Nurse Nightingale for immediate support, Brenda for home care, Solani for sister reassurance without exposition.
+Brenda and Solani for sister repair and home care; earlier trusted adults (Mema, Nurse Nightingale, Ms. Harmony) remain as referenced support, not a new rescue scene in E11.
 
 ### Ask Mema question
 
-“What do I do first if my period starts—and does it mean I am grown now?”
+“Does not knowing exactly when puberty will happen mean I'm not ready?”
 
 ### Five plot beats
 
-1. Mia notices the period at school and freezes.
-2. She tries to hide despite having her kit.
-3. Season lessons help her identify the next safe action.
-4. Nurse/Brenda support her; Mia controls what is shared.
-5. Solani's note confirms Mia is still herself; season case closes provisionally.
+1. Mia prepares a final case report and realizes the timing question has no investigable answer.
+2. She names that Solani's privacy was never her case to solve.
+3. She makes a repair with Solani that Solani controls.
+4. She redefines Operation Sisterwatch as knowing what to do and whom to ask, not predicting when.
+5. She returns to ordinary funny Mia activity; Solani's lyric-signed note closes the season warmly.
 
 ### Season thread
 
-Solani signs the note with a lyric. No CROWN origin, bodega, or BUFU clue.
+Solani signs the note with a lyric (introduce → deepen → payoff). No CROWN origin, bodega, or BUFU clue.
 
 ### Stinger
 
@@ -830,15 +832,15 @@ Detailed packets should vary cold-open staging and avoid beginning every home ep
 6. Hygiene
 7. Friendship change
 8. Period biology + dignity
-9. Period preparation
+9. Period preparation (kit as readiness symbol — use not required in S1)
 10. Skin/acne
-11. First-period application/payoff
+11. Acceptance of uncertainty — preparedness without needing certainty (replaces first-period application payoff per 2026-08-20 decision)
 
 ## Myth repetition controls
 
 - Episode 1 uses “armpit perfume” only as the first Myth Machine demonstration.
 - Episode 6 does not reteach the same joke; it expands to routines, products, sweat, shame, and irritation.
-- Episodes 8, 9, and 11 form a period arc: **understand and protect dignity → prepare → experience and use support**.
+- Episodes 8, 9, and 11 form a period arc (revised 2026-08-20): **understand and protect dignity (E8) → prepare as readiness (E9) → accept uncertainty and trust preparedness (E11)**. Kit does not need on-page use to pay off.
 - Episodes 3, 5, and 7 separate feelings, boundaries, and friendship repair rather than blending them into one SEL lesson.
 
 ## Episode-shape and rhythm decision
@@ -852,7 +854,7 @@ It is a **rhythm, not a mandatory adult-correction formula**. Mia must act; adul
 Two emotional high points deliberately bend the pattern:
 
 - **Episode 8:** Mia remembers the Episode 5 boundary lesson and interrupts her own public reveal **before** Brenda explains menstruation. Her ethical choice creates the safe conditions for truth; the adult does not stop a completed humiliation.
-- **Episode 11:** The episode opens at the season's bodily payoff, skips a fresh comic theory spiral, and lets Mia use accumulated knowledge to choose her next safe action before Nurse Nightingale, Brenda, and Solani support her. The ending resolves identity fear rather than simply closing a case.
+- **Episode 11 (rebuilt):** The episode does not open with a bodily payoff or new comic theory spiral. Mia uses accumulated knowledge to redefine the case, repair with Solani, and accept uncertainty. The ending resolves identity fear ("still herself, prepared without certainty") rather than demonstrating period-product use.
 
 Detailed packets should also vary who initiates the disruption, where the truth enters, whether a theory is spoken or acted out, and whether the final beat is comic, tender, or unresolved. Do not force every episode into **mystery → wrong theories → adult lecture → feeling → tidy resolution**.
 
@@ -892,13 +894,13 @@ These locations—not unused franchise geography—should form the Season 1 port
 
 All major architecture choices were locked sequentially so reviewers can now test age fit, cultural specificity, story energy, emotional safety, educational clarity, and buyer trust against a fixed target instead of deciding canon.
 
-## Locked — AQ-009A–E
+## Locked — AQ-009A–E (as amended 2026-08-20 by DEC-2026-08-20-038)
 
-- **AQ-009A:** Keisha approved the governing Season 1 spine, 11-episode progression, and Episode 11 first-period payoff as written.
-- **AQ-009B:** Keisha approved the Episode 8 accidental privacy setup with dignity locks. A blameless household mix-up places the item in Lily's pile; Lily is oblivious, Solani is not careless or blamed, and exact mechanics belong in the Episode 8 Book Factory packet.
-- **AQ-009C:** Keisha approved the support-web distribution. Brenda, Nurse Nightingale, and Solani are the primary recurring relational anchors; Ms. Harmony recurs as school social-emotional support; Mema opens/callbacks; Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles each appear once where naturally suited.
-- **AQ-009D:** Keisha approved exactly three restrained music clues using the **introduce → deepen → payoff** pattern in Episodes 1, 3, and 11.
-- **AQ-009E:** Keisha approved Episode 17 remaining **[FLOW GRID REBUILD — CROWN CLUE]** until Season 2 proves a new mechanism and location. No bodega, BUFU, or Uncle Mo business-access mechanism may return; no replacement was pre-approved.
+- **AQ-009A (amended):** Season 1 11-episode order and governing spine remain approved. **Episode 11 first-period element removed by binding authorial decision (DEC-2026-08-20-038);** Mia remains ten throughout S1; revised payoff is Boundaries→Understanding→Preparation→Acceptance of Uncertainty.
+- **AQ-009B:** Episode 8 accidental privacy setup with dignity locks remains approved — amended to binding safeguard: Lily oblivious, clothing privatized immediately, stain never joke, no other children see/discuss, Solani controls disclosure, Mia chooses dignity over case. Exact household mechanics in E8 Book Factory packet.
+- **AQ-009C:** Support-web distribution remains approved. Brenda, Nurse Nightingale, and Solani are primary recurring anchors; Ms. Harmony recurs as school social-emotional support; Mema opens/callbacks; Coach Armstrong, Marcus, Ms. Vitality, and Dr. Smiles each appear once where naturally suited.
+- **AQ-009D:** Exactly three restrained music clues using **introduce → deepen → payoff** in Episodes 1, 3, and 11 remain approved.
+- **AQ-009E:** Episode 17 remains **[FLOW GRID REBUILD — CROWN CLUE]** until Season 2 proves mechanism/location. No bodega/BUFU/Uncle Mo business access may return.
 
 ## Full Season 1 approval unlocks
 

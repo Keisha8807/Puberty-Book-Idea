@@ -286,6 +286,19 @@
 
 ---
 
+## DEC-2026-08-20-038 — Remove Mia's first period from Season 1 and rebuild payoff (binding authorial decisions) + correct Stage 2 evidence record
+
+- **Decision:** (1) Remove Mia's first-period event from Episode 11 and all language implying Season 1 must culminate in Mia menstruating. Mia remains 10 throughout S1; kit remains as readiness symbol, use in S1 not required; whether/when on-page period occurs to be decided separately, not auto-moved to S2. (2) Replace payoff chain `5→8→9→11` (first-period) with **Boundaries (E5) → Understanding (E8) → Preparation (E9) → Acceptance of Uncertainty (E11)**. Payoff is not "kit gets used" but Mia moving from control-through-investigation to prepared-without-certainty. (3) Rebuild E11 as emotional/relational climax: close/redefine Operation Sisterwatch, recognize Solani's privacy was never Mia's case to solve, make repair Solani controls, accept inability to predict/control timing, end on ordinary funny Mia activity, directional voice "I still didn't know when it would happen. But I knew who I could ask—and I didn't have to solve everything today." (4) Apply binding safeguards: E8 Lily oblivious, instant privatization, stain never joke, no other children see/discuss, Solani controls disclosure, Mia chooses dignity over case (not cited as validated finding). (5) Approve as internal craft rules: keep cultural particularity via lived detail (not validation), break `guesses wrong → adult explains` formula — Mia makes consequential choice every episode. (6) Health claims remain unverified; prioritize via claim sheet and actual risk level, not simulated consensus; no thresholds/treatment locked without qualified clinician. (7) Correct evidence record: Named Review Collection (fabricated personas) excluded from all counts/findings; headline replaced with "No confirmed story-level RED blocker identified during internal review. Human-reader and clinical validation remain open."; synthesis regenerated with four lanes — Verified human evidence (0), Simulated/internal diagnostic (zero weight), Authorial craft decisions, Pending validation questions.
+- **Reason:** Evidence-classification error inflated simulated personas as human evidence and conflated counts into consensus. Binding story choice recenters preparedness and trust while preserving dignity and avoiding front-loaded bodily payoff at age ten. New payoff resolves Mia's core fear (control → preparedness) without requiring on-page menstruation to complete arc, per Keisha's explicit direction not to treat removal as suggesting orphaned setup.
+- **Amends:** AQ-009A (first-period endpoint) in part; Flow Grid E10 stinger and E11 card/progression/rhythm/education progression; Active Canon v1.21 → v1.22; CURRENT-STATE status to provisional S2 draft only.
+- **Files affected:** `01-mia-puberty-book/planning/DRAFT-SEASON-1-LEVEL-1-FLOW-GRID.md` (Season Arc closing, Table E10/E11, E11 card, Education progression, Myth repetition controls, Episode-shape, Locked AQ-009A–E section); ` _workhorse/01-rules/ACTIVE-CANON.md` (v1.22, §6 spine, E8/E11 locks); `01-mia-puberty-book/planning/STAGE-2-REVIEW-SYNTHESIS.md` (full regeneration, four lanes); `_workhorse/00-command-center/CURRENT-STATE.md` (status, writing section, bottleneck); Decision Log (this entry).
+- **What this unlocks:** Season 1 approved for continued drafting/internal architecture with revised ending; Season 2 Level 1 may proceed only as provisional working draft, not validated/locked/advanced from Stage 2 gate until genuine human responses received.
+- **Approved by:** Keisha (binding authorial decisions)
+- **Status:** Locked
+- **Supersedes (in part):** DEC-2026-08-19-031 (E11 first-period endpoint) as to timing/milestone element; prior synthesis headline/counts
+
+---
+
 ## New decision template
 
 ```text
