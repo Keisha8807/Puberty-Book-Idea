@@ -109,8 +109,8 @@ The Foundation's Active Canon controls workers until those detailed files receiv
 
 ## Current bottleneck
 
-Season 1 rebuilt and Season 2 provisional draft complete (both respect no on-page period in either season). Next bottleneck is obtaining genuine human validation (caregiver/buyer, Group 2 Black-girl dignity lens, educator/librarian, qualified clinician — and later child-reader evidence on polished sample) before Season 2 can be marked validated. Simulated observations carry zero weight toward consensus or approval.
+S2 card order reviewed — Solani age/ Uncle Mo rec center role settled, E17 rec center distinction locked (DEC-040, Canon v1.24). Cross-season audit queued but not yet run — will verify S1→S2 inheritance (kit readiness, Acceptance-of-Uncertainty carry, E17 rebuild slot) once provisional S2 draft is confirmed. Human validation (Groups 1,2,4,5 + later child polished-sample) remains required before S2 can be marked validated.
 
 ## Current single next action
 
-Review the provisional Season 2 Level 1 Flow Grid (7 episodes). If approved as provisional working draft, next human-controlled actions remain: (1) plan lean 5–8 reviewer panel per approved packet (adults-only at Stage 2) — do not distribute/contact/collect until Keisha authorizes roster/sending; (2) queue cross-season audit + E17 rebuild packet after genuine validation.
+Queued: Run cross-season audit (`CROSS-SEASON-AUDIT-DRAFT.md`). Do not start Book Factory Episode 1 prose until audit checks pass. Lean 5–8 reviewer panel remains ready to plan (adults-only at Stage 2) — do not distribute/contact/collect until Keisha authorizes roster/sending.
