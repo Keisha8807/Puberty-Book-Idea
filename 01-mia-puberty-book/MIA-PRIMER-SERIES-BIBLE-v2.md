@@ -1,7 +1,11 @@
 # 🎀 MIA'S PUBERTY PRIMER — SERIES BIBLE v2.0
 
+> **CANON CONTROL (2026-08-20):** `_workhorse/01-rules/ACTIVE-CANON.md` v1.25 wins if this file conflicts.
+> Do not use from this draft: Solani as 11; on-page first period; 3D/Pixar interiors as the book; “graphic memoir”; leading with handbook/primer commercially.
+> Locked instead: Solani is **12**; **no on-page first period**; interiors = **2D full-color MG graphic novel**; spine stays **text-only until human review**.
+
 > The fresh foundation, built from every locked decision. Replaces all 2024 planning docs.
-> *Written for: the girl (5th grade) · her grown-up · future animation. Same universe as the CROWN Club series — parallel school year, one family.*
+> *Written for: the girl (5th grade) · her grown-up · graphic novel + later animation. Same universe as the CROWN Club series — parallel school year, one family.*
 
 ---
 
@@ -15,7 +19,7 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 
 ## 3. CONCEPT (the formula)
 
-- **Format:** an animated series on paper — two "seasons" (Season 1 = 11 episodes, Season 2 = 7 episodes + finale)
+- **Format:** full-color contemporary MG graphic novel (2D interiors; 3D for promo/trailers only) — two "seasons" on paper (Season 1 = 11 episodes, Season 2 = 7 episodes including finale)
 - **The narrator talks to the reader.** Always. The reader is Mia's new partner.
 - **The engine:** Mia investigates, invents the **Myth Machine**, gets hilariously busted, and the reader learns by watching her get it right
 - **The heart:** the Washington sisters — Mia (10, 5th grade) watching Solani (11, 7th grade) grow up two steps ahead of her
@@ -31,7 +35,7 @@ A ten-year-old girl turns her big sister's puberty into a full-blown spy mission
 - **Mema Hazel** (grandma) — Betty White energy, show tunes, coral-pink cat-eye glasses, talks to her plants. The trusted adult.
 - **Uncle Mo** (uncle) — Brenda's brother, the pencil-charm necklace giver, wisdom at the kitchen table
 - **Seraphina (15)** — the dramatic oldest sister
-- **SOLANI "Maya" (11, turns 12 in Sept)** — the middle sister, 7th grade, Roast Queen, butterfly clips, going through IT. Mia's subject of investigation.
+- **SOLANI "Maya" (12, 7th grade)** — the middle sister, Roast Queen, butterfly clips, going through IT. Mia's subject of investigation.
 - **MIA "Zora" (10)** — our narrator, 5th grade, star clips, Operation Sisterwatch
 - **Lily (8)** — mischievous little sister
 - **Max (5)** — adorable chaos, Mia's #1 vlog subscriber
@@ -56,7 +60,7 @@ Mia's own changes begin — body hair, bra shopping, crushes, the chaos of socia
 | **The lessons** | The basics tour | The advanced courses |
 | **The mystery seed** | The secret song (through the door) | The club (behind the door) |
 | **The turn** | It's not a takeover — it's a renovation | She can't control it, but she can ride it |
-| **The finale** | Mia gets her first period, survives, is 10/10 brave | The talent show → The Reader Handshake → to the series |
+| **The finale** | Mia accepts uncertainty: prepared, supported, still fully herself (no on-page first period) | The talent show → The Reader Handshake → to the series |
 
 **Theme (both seasons):** Growing up happens at YOUR pace, YOUR way — and you get to bring your whole silly self.
 

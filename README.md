@@ -22,7 +22,7 @@
 
 | Folder | What's inside |
 |---|---|
-| `01-mia-puberty-book/` | The original single book: 15+ chapter drafts, full manuscript copies (From Girl to Teen, Complete Girls Guide), outlines, Mia character cast, quizzes, competitor research |
+| `01-mia-puberty-book/` | The Mia lane: 15+ chapter drafts, full manuscript copies (From Girl to Teen, Complete Girls Guide), outlines, Mia character cast + art-v2 model boards, quizzes, competitor research, the Mia 2.0 makeover bible, primer framing/TOC & series bible v2, and `marketing/` (25 songs in `set-10`/`set-15`, trailer concepts, graphic-novel format lock) |
 | `02-ten-book-series-secret-sisters/` | The Mia-era 10-book series: Secret Sisters Society bible, secret clover society, thematic adventures (14 topics), syllabi, scenario drafts |
 | `03-crown-club-series/` | The current series with the all-new cast: 10-book blueprint, character docs, series bible, structure spreadsheets, Sunray Story Press studio ops |
 | `04-crown-club/` | CROWN™ Club framework & products: CROWN + Ten to Me™, study sheet, Crowned & Confident song, Glow Queen video script |
@@ -31,6 +31,7 @@
 | `07-business-marketing/` | Business books (100M Offers, Click, One Million Followers) |
 | `08-courses-other/` | AI coursework, Python notes, resume, personal files |
 | `_archive-pocket-fm-project/` | 🛑 The Pocket FM romance (Keisha Sinclair time-slip) — parked so it can't confuse us |
+| `_workhorse/` | ☀️ Sunray Workhorse: `00-command-center/` (current state, sprint, approval queue, decision log), `01-rules/` (active canon, source hierarchy, safety & approvals), `02-inbox/` (new drafts awaiting approval: songs, trailers, graphic-novel proposal), `03-templates/` |
 | `_duplicates-removed/` | Exact duplicate copies (nothing unique was lost) |
 
 ---

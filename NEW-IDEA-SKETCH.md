@@ -102,7 +102,7 @@
 - ⏳ Canon flag for B10: is the club still secret at the talent show, already public, or does the show = their public debut?
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
-- ✅ **MIA 2.0 MAKEOVER STARTED** — the old manuscript is the foundation, NOT the final: Mia redefined as **Solani's little sister** (merged Washington family), narrator of the 2-season primer. Full spec: `MIA-2.0-MAKEOVER-BIBLE.md`
+- ✅ **MIA 2.0 MAKEOVER STARTED** — the old manuscript is the foundation, NOT the final: Mia redefined as **Solani's little sister** (merged Washington family), narrator of the 2-season primer. Full spec: `01-mia-puberty-book/MIA-2.0-MAKEOVER-BIBLE.md`
 - ✅ **The Myth Machine** — the stiffest part of the old book (fact sections) becomes the funniest: Mia/Jada/Emma generate hilariously wrong theories, Mema/Solani bust them. Education = punchline delivery system
 - ✅ **Family merge LOCKED:** Brenda (mom) + Marcus (dad) + Seraphina (15) + Solani Maya (11, turns 12 in Sept; for Maya Angelou) + Mia Zora (10, for Zora Neale Hurston) + Lily (8) + Max (5) + Mema Hazel + Uncle Mo, one family in Albany. **Updated Aug 18:** Uncle Mo is not currently tied to the bodega; his larger role is pending.
 - ✅ **Sample scene written** (`DRAFT-v2-Chapter1-ColdOpen.md`) — Operation Sisterwatch cold open with fourth wall, text thread, and Mema busting Myth #1
@@ -118,7 +118,7 @@
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
 - ✅ **Primer framing: OPTION D** — story + woven "Fact Check" callouts + "Mema Hazel Explains" spread per chapter; quizzes/activities → separate Glow Workbook
-- ✅ **The primer is ALSO an animation series** — vibe anchors: The Proud Family, Georgia Nicolson voice, Turning Red, Inside Out; design language = every chapter is an episode (cold opens, fourth-wall breaks, margin doodles, stingers). See `MIA-PRIMER-TOC-AND-VIBE.md`
+- ✅ **The primer is ALSO an animation series** — vibe anchors: The Proud Family, Georgia Nicolson voice, Turning Red, Inside Out; design language = every chapter is an episode (cold opens, fourth-wall breaks, margin doodles, stingers). See `01-mia-puberty-book/MIA-PRIMER-TOC-AND-VIBE.md`
 - ✅ **Chapter map:** Canva draft has 11 chapters; Oct 2024 plan had 14. 4 gaps: Bra, Crushes, Social Media, Stress
 
 ## ✅ NEW RESOLUTIONS (Aug 16)
